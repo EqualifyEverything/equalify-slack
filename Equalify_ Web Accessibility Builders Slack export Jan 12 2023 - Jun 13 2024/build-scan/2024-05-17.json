@@ -1,0 +1,212 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U073V4UBNHK",
+        "text": "<@U073V4UBNHK> has joined the channel",
+        "type": "message",
+        "ts": "1715945143.873389"
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715975193.489869",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 2 new commits pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/f855b67b389a1e15ca461302071d179eb6bde8b4|f855b67b>` - Updated main results route to use singleton DB connection\n`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/9d1635b2640e6184417e3f3b3b5a3aaddc023256|9d1635b2>` - Added axe results endpoint",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/df3a3d750ce1...9d1635b2640e|2 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715975603.119349",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/5c842bd5bb7b4863ff91a68dc06b1ba2c475d5a4|5c842bd5>` - Fixed typo",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/9d1635b2640e...5c842bd5bb7b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1715635765.812189",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1715635765.812189",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1715975823.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1715635765.812189",
+            "reply_count": 4,
+            "reply_users_count": 3,
+            "latest_reply": "1715975818.346129",
+            "reply_users": [
+                "U04J7TVCQGP",
+                "U06PB2BPADB",
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1715795612.496669"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1715796874.632699"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1715801558.792549"
+                },
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1715975818.346129"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1715975818.346129",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1715635763,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/32|#32 Add endpoint to request results in axe-core format>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/azdak|@azdak>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "1",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:32,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/32&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Add endpoint to request results in axe-core format&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:32,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/32&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Add endpoint to request results in axe-core format&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:32,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/32&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Add endpoint to request results in axe-core format&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1715975818.346129",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715635763,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue closed as completed by azdak",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/azdak|azdak>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/32|#32 Add endpoint to request results in axe-core format>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>"
+            }
+        ]
+    }
+]

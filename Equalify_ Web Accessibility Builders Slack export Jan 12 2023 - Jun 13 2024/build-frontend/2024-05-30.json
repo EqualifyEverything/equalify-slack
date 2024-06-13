@@ -1,0 +1,346 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717101439.531159",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1717097081,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by joelhsmith",
+                "text": "*What problem is the feature trying to solve?*\n\nFilters are only additive. You choose an option and it only shows that, rather than filtering out what you choose.\n\n*Desired Solution*\n\nWhen I choose something to filter out, it filters it out instead. For example, I would like to see a report without `best-practices`.\n\n*How does this feature help fix accessibility issues?*\n\nFocusing on clear violations is helpful for prioritization.\n\n*Technical Details (Optional)*\n\nCan we make the Filter an opt-in to a Tag or opt-out of a Tag?",
+                "pretext": "Issue created by <https:\/\/github.com\/joelhsmith|joelhsmith>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/13|#13 Filter choice of including or excluding>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:13,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/13&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Filter choice of including or excluding&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:13,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/13&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Filter choice of including or excluding&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:13,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/13&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Filter choice of including or excluding&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717106587.544759",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/e981c3b7e484701851556abb7b88224189bd9aa5|e981c3b7>` - Create LICENSE.md",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/ad23f0fd4c45...e981c3b7e484|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717107565.798739",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1707412807,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by bbertucc",
+                "text": "Help cut down on users frivolously ignoring alerts by requiring an explanation with ignore.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/14|#14 Add Ignore Button w\/ Explanation>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "5",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:14,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/14&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Add Ignore Button w\/ Explanation&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:14,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/14&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Add Ignore Button w\/ Explanation&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:14,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/14&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Add Ignore Button w\/ Explanation&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717107615.190179",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1707414076,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by bbertucc",
+                "text": "We'll need to cache data after filters are saved to minimize the processing a DB has to do when reports are published.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/15|#15 Option to Publish Reports>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "2",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:15,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/15&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Option to Publish Reports&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:15,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/15&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Option to Publish Reports&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:15,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/15&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Option to Publish Reports&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717107969.665639",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1707428891,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by bbertucc",
+                "text": "First reported by <https:\/\/github.com\/joelhsmith|@joelhsmith>  \n<https:\/\/duke.box.com\/s\/h2zvgz2bv4hasfbgw12z7p1vfjbkgwro|https:\/\/duke.box.com\/s\/h2zvgz2bv4hasfbgw12z7p1vfjbkgwro>",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/16|#16 Show Daily \/ Weekly Changes Instead of Just Monthly>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "2",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:16,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/16&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Show Daily \/ Weekly Changes Instead of Just Monthly&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:16,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/16&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Show Daily \/ Weekly Changes Instead of Just Monthly&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:16,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/16&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Show Daily \/ Weekly Changes Instead of Just Monthly&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    }
+]

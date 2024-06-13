@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717091142.247479",
+        "client_msg_id": "d42e23f4-3022-4aac-9fa1-b12b253b9711",
+        "text": "<@U06TJNUDNLA> <@U06P7AP2R38> Just checking in on any of the a11y items. I'm gonna be off the grid backpacking this weekend tomorrow afternoon through late Sunday. If there's anything I can do beforehand I'm all in. Would also love to discuss the AI stuff if\/when you have more info available. Thank you in advance and really appreciate your work! :muscle:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQOIw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Just checking in on any of the a11y items. I'm gonna be off the grid backpacking this weekend tomorrow afternoon through late Sunday. If there's anything I can do beforehand I'm all in. Would also love to discuss the AI stuff if\/when you have more info available. Thank you in advance and really appreciate your work! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

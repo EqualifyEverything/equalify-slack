@@ -1,0 +1,179 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1718199161.653269"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718199220.837899",
+        "text": "\/github subscribe equalifyEverything\/handbook",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c4o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github subscribe equalifyEverything\/handbook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/handbook|EqualifyEverything\/handbook>. This channel will receive notifications for `issues`, `pulls`, `commits`, `releases`, `deployments`",
+        "type": "message",
+        "ts": "1718199220.869249",
+        "bot_id": "B04LZN1SH0X",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "lCmNk",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/handbook|EqualifyEverything\/handbook>. This channel will receive notifications for\n`issues`, `pulls`, `commits`, `releases`, `deployments`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "vVa1C",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "<https:\/\/github.com\/integrations\/slack#configuration | Learn More>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718199856.377559",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1718199856.377559",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718200006.402369",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718200006.402369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718200006.402369",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/handbook] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/handbook\/commit\/92a0482624b8479ecf0179f46f535d704735999f|92a04826>` - Clarify use of funds and ownership",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/handbook\/compare\/140b4f34e453...92a0482624b8|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/handbook\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/handbook|EqualifyEverything\/handbook>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718200006.402369",
+        "client_msg_id": "54d6a4b4-5b17-4ad2-98da-61e77e113e85",
+        "text": "<@U06PB2BPADB> does this offer enough info for you to sign the CLA? Your doing that will allow me to stop thinking about this management stuff. LOL",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718199856.377559",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7R83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " does this offer enough info for you to sign the CLA? Your doing that will allow me to stop thinking about this management stuff. LOL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PB2BPADB",
+        "text": "<@U06PB2BPADB> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718200009.190919"
+    }
+]

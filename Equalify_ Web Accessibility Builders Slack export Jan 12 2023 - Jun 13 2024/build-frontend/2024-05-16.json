@@ -1,0 +1,179 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715915352.629839",
+        "client_msg_id": "3dfaed8c-f485-4edf-bb76-607b402957ad",
+        "text": "Here's an overview of the Properties section (here called \"Discovery\"). Note there are tons of properties: <https:\/\/www.loom.com\/share\/5bead053b0a7482d8974fd5d34f9eae0?sid=517e0daf-455d-435e-a17c-a0c3fc6cf803>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.loom.com\/share\/5bead053b0a7482d8974fd5d34f9eae0?sid=517e0daf-455d-435e-a17c-a0c3fc6cf803",
+                "video_html": "<iframe src=\"https:\/\/www.loom.com\/embed\/5bead053b0a7482d8974fd5d34f9eae0?autoplay=1\" frameborder=\"0\" width=\"1662\" height=\"1246\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe>",
+                "video_html_width": 1662,
+                "video_html_height": 1246,
+                "thumb_url": "https:\/\/cdn.loom.com\/sessions\/thumbnails\/5bead053b0a7482d8974fd5d34f9eae0-4x3.jpg",
+                "thumb_width": 1280,
+                "thumb_height": 960,
+                "id": 1,
+                "original_url": "https:\/\/www.loom.com\/share\/5bead053b0a7482d8974fd5d34f9eae0?sid=517e0daf-455d-435e-a17c-a0c3fc6cf803",
+                "fallback": "Loom Video: Overview of Discovery Feature",
+                "text": "In this video, I provide an overview of the discovery feature in the latest version of our website accessibility tool. I explain how it differs from the previous version and highlight the key functionality, such as adding properties and uploading CSV files. I also mention the need for better formatting and suggest possible solutions. No specific action is requested from the viewers, but I encourage them to explore the current version on GitHub if interested.",
+                "title": "Overview of Discovery Feature",
+                "title_link": "https:\/\/www.loom.com\/share\/5bead053b0a7482d8974fd5d34f9eae0?sid=517e0daf-455d-435e-a17c-a0c3fc6cf803",
+                "service_name": "Loom",
+                "service_url": "https:\/\/www.loom.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFvUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's an overview of the Properties section (here called \"Discovery\"). Note there are tons of properties: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.loom.com\/share\/5bead053b0a7482d8974fd5d34f9eae0?sid=517e0daf-455d-435e-a17c-a0c3fc6cf803"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06P7AP2R38",
+                    "U06TJNUDNLA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06TJNUDNLA",
+        "text": "<@U06TJNUDNLA> has joined the channel",
+        "type": "message",
+        "ts": "1715924035.705899"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715926026.277219",
+        "text": "Added an overview of what we're thinking for the onboarding here.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1715925940.443829",
+                "author_id": "U04J7TVCQGP",
+                "channel_id": "C06TPFKV21Y",
+                "channel_team": "T04JQU0GB2Q",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04JQU0GB2Q",
+                        "channel": "C06TPFKV21Y",
+                        "ts": "1715925940.443829",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "xjo1M",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Refined our marketing approach. Here is a demo of what we think that marketing flow should be: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.loom.com\/share\/b1bec385cd5742539280cce3c3d0112a?sid=d98ca7b0-7d66-4e25-afd0-eab5bbf96125"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/equalifyapp.slack.com\/archives\/C06TPFKV21Y\/p1715925940443829?thread_ts=1715925940.443829&cid=C06TPFKV21Y",
+                "is_share": true,
+                "fallback": "[May 17th, 2024 1:05 AM] blakebertuccelli: Refined our marketing approach. Here is a demo of what we think that marketing flow should be: <https:\/\/www.loom.com\/share\/b1bec385cd5742539280cce3c3d0112a?sid=d98ca7b0-7d66-4e25-afd0-eab5bbf96125>",
+                "text": "Refined our marketing approach. Here is a demo of what we think that marketing flow should be: <https:\/\/www.loom.com\/share\/b1bec385cd5742539280cce3c3d0112a?sid=d98ca7b0-7d66-4e25-afd0-eab5bbf96125>",
+                "author_name": "Blake Bertuccelli-Booth",
+                "author_link": "https:\/\/equalifyapp.slack.com\/team\/U04J7TVCQGP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_48.jpg",
+                "author_subname": "Blake Bertuccelli-Booth",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ed8n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added an overview of what we're thinking for the onboarding here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

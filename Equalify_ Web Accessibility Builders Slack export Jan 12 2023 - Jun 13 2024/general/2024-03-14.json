@@ -1,0 +1,1356 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710431336.907849",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1710432086.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710431331,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify] Issue opened by bbertucc",
+                "text": "*What problem is the feature trying to solve?*\n\nEqualify has no way of inputting user-test data.\n\n*Desired Solution*\n\nI think this would involve building a chrome extension for my web accessibility platform, Equalify. Equalify creates reports of issues and accessibility pros can use it for free to visualize trends in issues they find.\n\nEverything is always open for discussion, but from my experience with Equalify, the Chrome extension would probably need to do two things:\n\n1. Add an “Add to Equalify” left click menu option when using inspector that will send the selected code, website url, tag(s), “status”, and message to Equalify.\n2. Add a quick key for screen reader users to do the same. Screen reader users won’t be using inspector. The code of the active element would be sent to Equalify, in addition to the other info (tags, message, website url, status).\n\n*Alternatives*\n\nThere are no alternatives.\n\n*Technical Details*\n\n• We have an existing list of messages, tags, and statuses. Users will often select from existing info via an autocomplete, but they can also create their own messages or tags (status options are fixed).\n• We have API endpoints in Eqalify that you can use to post material. A user would have to log in to the extension to use it (authentication is handled by oAUth).\n• We’ll also need to send the page’s source code to Equalify, so we can eventually train ML to find patterns and build rules to perform better automated tests. …I’m still trying to figure out how we’re storing this data and handling it when the source code changes..\n• Users who rely on assistive devices should be incorporated into every aspect of the development process (planning + coding + launch)",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/297|#297 Support Manual User Testing>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "fields": [
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:297,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/297&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Support Manual User Testing&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:297,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/297&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Support Manual User Testing&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:297,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/297&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Support Manual User Testing&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710432537.869659",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1710432892.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710432534,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify] Issue opened by bbertucc",
+                "text": "*Summary:*\n\n<https:\/\/github.com\/eekbk|@eekbk> will modernize the <http:\/\/Equalify.app|Equalify.app> frontend, transitioning from PHP-rendered views to a React application, aiming to enhance the both the developer and user experience, app performance, and future scalability.\n\n*Proposed Solution:*\n\n<https:\/\/github.com\/eekbk|@eekbk> will develop a SPA (Single-Page Application) using React. This will involve creating reusable React components corresponding to the current PHP views and components, implementing client-side routing, and ensuring seamless state management. The backend will be interacted with through HTTP requests.\n\n*Implementation Plan:*\n\n1. *Set up React Development environment*: Use Create React app for ease of development \/ auto configuration.\n2. *Component Development*: Refactor each PHP view\/component into corresponding React components.\n3. *API Integration*: Convert frontend API requests to JavaScript using either the native fetch() API or the Axios library. Ensure that backend endpoints are compatible.\n4. *State Management*: Employ React's state hooks and the Context API for managing state, providing simplicity and reducing complexity.\n5. *Routing*: Use React Router to handle client-side routing, matching the current URL structure as closely as possible to preserve SEO and user bookmarks\n6. *Authentication and Session Management*: Integrate existing Auth0 authentication into the React application, utilizing tokens for session management and securing private routes.\n7. *Accessibility Compliance*: Ensure comprehensive adherence to WCAG 2.1 AA standards throughout the React application development, ensuring an inclusive user experience. Implement this by:\n\n• Extensive use of semantic HTML5 and ARIA attributes.\n• Utilization of Bootstrap’s accessible features, optimizing development speed while adhering to high accessibility standards.\n• Thorough accessibility testing to identify and rectify any barriers, ensuring universal usability.\n\n8. *UI\/UX Consistency*: Maintain a cohesive interface that aligns with established styles, leveraging existing assets and libraries and updating them as needed to complement React’s architecture.\n9. *Testing*: Incorporate robust testing methodologies:\n\n• Utilize Jest or Vitest for unit and API integration testing.\n• Implement end-to-end testing frameworks like Cypress or Playwright.\n\n10. *Documentation*: Update project README and other documentation to reflect the new technology stack and ensure a smooth transition for devs currently working on project.\n11. *Deployment \/ Rollout*: A Blue\/Green deployment strategy is recommended, deploying the new React frontend alongside the current PHP one. Once the new version is fully tested and ready, switch traffic from the old to the new. This will allow for quick rollbacks and minimal downtime.\n\n*Consideration: Using Next.js for the Project*\n\nWhile the current plan favors a standalone React SPA, considering Next.js would offer the following advantages:\n\n• Enhanced SEO and performance via SSR.\n• SSG capabilities for optimal load times and hosting flexibility.\n• Simplified routing and potential for integrated API routes.\n\nHowever, potential trade-offs include a steeper learning curve and additional server requirements, possibly complicating the development landscape.\n\n*Conclusion:*\n\nMaintaining Equalify's developer-friendly ethos, the preference is towards a standalone React application. Yet, openness to adopting Next.js exists, contingent on community consensus and aligned project objectives.\n\n*Budget Proposal*\n\nThis proposal was approved for $1,000 to support the transition of <http:\/\/Equalify.app|Equalify.app> from PHP-rendered views to a React-based frontend, encompassing development, testing, documentation, and deployment.\n\n*Additional Notes*\n\n• <https:\/\/github.com\/eekbk|@eekbk> will use placeholder functions for events that haven't been built out in our Equalify backend. These placeholders will simulate the expected interactions and can be easily swapped out with the actual API calls once this issue is completed.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/298|#298 Equalify React Frontend>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/eekbk|@eekbk>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:298,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/298&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Equalify React Frontend&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:298,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/298&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Equalify React Frontend&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:298,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/298&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Equalify React Frontend&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710432616.422359",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1710432617.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1710432616.422359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710432617.028369",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1710432617.028369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1709683848,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify] Issue opened by bbertucc",
+                "text": "*What problem is the feature trying to solve?*\n\nOur frontend development moves as fast as PHP, which isn't that fast.\n\n*Desired Solution*\n\nReact will make us faster and get to play with the cool kids.\n\n*Alternatives*\n\nI would be open to other frontend frameworks.\n\n*Technical Details (Optional)*\n\n• I could probably just supply a dev with our data schema. They would go off and create the frontend, mimicking what Equalify is doing now. Then we can figure out how to integrate the frontend into the repo.\n• As I <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-1995639047|noted>, we'll probably need to know how to deal with our currently incomplete API. If not, this issue is blocked by <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/283|#283>\n• Many components currently have JS that demonstrates how we're dealing with our API. Example:\n    \n    <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/dae3be0b02338f36ca9bba0154cbea3dc6437870\/components\/message_list.php#L36|equalify\/components\/message_list.php>\n    \n    Line 36 in &lt;\/EqualifyEverything\/equalify\/commit\/dae3be0b02338f36ca9bba0154cbea3dc6437870|dae3be0&gt;",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280|#280 React-based Fronted for Equalify>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "fields": [
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "8",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:280,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;React-based Fronted for Equalify&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:280,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;React-based Fronted for Equalify&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:280,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;React-based Fronted for Equalify&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1710432616.422359",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1710432616.422359",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1710432617.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1710432616.422359",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1710432617.028369",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1710432617.028369"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1709683848,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/equalify] Issue opened by bbertucc",
+                    "text": "*What problem is the feature trying to solve?*\n\nOur frontend development moves as fast as PHP, which isn't that fast.\n\n*Desired Solution*\n\nReact will make us faster and get to play with the cool kids.\n\n*Alternatives*\n\nI would be open to other frontend frameworks.\n\n*Technical Details (Optional)*\n\n• I could probably just supply a dev with our data schema. They would go off and create the frontend, mimicking what Equalify is doing now. Then we can figure out how to integrate the frontend into the repo.\n• As I <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-1995639047|noted>, we'll probably need to know how to deal with our currently incomplete API. If not, this issue is blocked by <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/283|#283>\n• Many components currently have JS that demonstrates how we're dealing with our API. Example:\n    \n    <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/dae3be0b02338f36ca9bba0154cbea3dc6437870\/components\/message_list.php#L36|equalify\/components\/message_list.php>\n    \n    Line 36 in &lt;\/EqualifyEverything\/equalify\/commit\/dae3be0b02338f36ca9bba0154cbea3dc6437870|dae3be0&gt;",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280|#280 React-based Fronted for Equalify>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                    "fields": [
+                        {
+                            "value": "enhancement",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "8",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:280,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;React-based Fronted for Equalify&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:280,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;React-based Fronted for Equalify&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:280,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;React-based Fronted for Equalify&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1710432617.028369",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1709683848,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/280|#280 React-based Fronted for Equalify>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710433977.118579",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710433971,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify] Issue opened by bbertucc",
+                "text": "*What problem is the feature trying to solve?*\n\nWe have a few projects (<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/297|#297> and <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/298|#298>) that impact UX. We need to make sure to incorporate users who rely on assistive technology into our development.\n\n*Desired Solution*\n\nA system that allows us to tag a user who relies on assistive technology on a Pull Request, so they can quickly add comments.\n\n*Alternatives*\n\nThere is no alternative. We need users who rely on assistive technology to test our work.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/299|#299 Incoperate More User Testing in Dev Process>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "fields": [
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:299,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/299&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Incoperate More User Testing in Dev Process&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:299,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/299&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Incoperate More User Testing in Dev Process&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:468896890,&amp;amp;quot;issueNumber&amp;amp;quot;:299,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/299&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Incoperate More User Testing in Dev Process&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710442433.771749",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-formatter] 2 new commits pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-formatter\/commit\/7b3e50904a492137f0b1a206d622bcb986162a5d|7b3e5090>` - Remove DS Store\n`<https:\/\/github.com\/EqualifyEverything\/equalify-formatter\/commit\/1fa5a44191e73d03912a09d51877e6b372a6f0e5|1fa5a441>` - Update for STREAM",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-formatter\/compare\/378b4cee4c83...1fa5a44191e7|2 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-formatter\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-formatter|EqualifyEverything\/equalify-formatter>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710442832.796699",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/d98d28be2063f9a223c67f00e51977acddaf3092|d98d28be>` - Clarify process",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/1fa5a44191e7...d98d28be2063|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710446433.458299",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/3504420541db3bf5dd14b25651866b148b6f0a48|35044205>` - Revamp Everything",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/d98d28be2063...3504420541db|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PKP46SMR",
+        "text": "<@U06PKP46SMR> has joined the channel",
+        "type": "message",
+        "ts": "1710446844.214459",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710447147.308949",
+        "client_msg_id": "8145c8e2-ff2c-437f-9ecd-bef7bb9a56f7",
+        "text": "This is kind of a big deal: <https:\/\/github.com\/EqualifyEverything\/STREAM>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/STREAM",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/STREAM",
+                "text": "Streamline web accessibility testing results with STREAM.",
+                "title": "EqualifyEverything\/STREAM",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "JavaScript",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLLsH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is kind of a big deal: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/STREAM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710447181.640569",
+        "client_msg_id": "b997db54-71cc-44e8-ab78-ec8a93e7453b",
+        "text": "Because without it all we have is EARL: <https:\/\/www.w3.org\/TR\/EARL10-Schema\/> (read it and weep)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ryDyS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because without it all we have is EARL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3.org\/TR\/EARL10-Schema\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (read it and weep)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710447448.242309",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/51d92d286fb39df31291ca99fadf60b0e9db1e4e|51d92d28>` - clarify Equalify",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/3504420541db...51d92d286fb3|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710448504.135729",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/684ba8e7663632978c9931ddf4ace679950ee2cc|684ba8e7>` - Hackers rule!",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/51d92d286fb3...684ba8e76636|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710449143.324049",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/abbb282910bd91462da5e5732c959af1c57babb1|abbb2829>` - Add Radicalization",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/684ba8e76636...abbb282910bd|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710449329.558289",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/fe344e637e4746441deff9805737d855f63874a0|fe344e63>` - Does a revolution require proper spelling?",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/abbb282910bd...fe344e637e47|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710451523.554509",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/dce730ab2cd9820c4fd4bbbf1dad637cd324483d|dce730ab>` - Switched from URL API to url-join, to handle subfolders in submitted urls",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/4f4036097246...dce730ab2cd9|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710451872.841309",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/54bfe3c1987cffd2da15414edb28a9da370e5f45|54bfe3c1>` - Cleaned up\/clarified log messages",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/dce730ab2cd9...54bfe3c1987c|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710452672.708109",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/b40eddaff1cad0f423e87deb2089398ae35e9b14|b40eddaf>` - Updated dependencies",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/54bfe3c1987c...b40eddaff1ca|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710453102.283149",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/08d5dd50dc1148be5b2015ec73a1437f94622586|08d5dd50>` - Switched to ts-friendly fork of url-join",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/b40eddaff1ca...08d5dd50dc11|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710453119.084469",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 3 new commits pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/8cbbbf3112486810cd17cfa78a6480688ee4a335|8cbbbf31>` - streamline axe message reporting\n`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/a2fb8980c8ddb363af8cd7dba1bc9599489ab0f2|a2fb8980>` - Add \"Statuses\"\n`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/25cde06bbd75527042ebd0bf820eb6f90d1c8914|25cde06b>` - Express related tags, pages, and snippets as intigers",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/fe344e637e47...25cde06bbd75|3 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710453427.786589",
+        "client_msg_id": "a496262d-d69c-4fed-8fae-271dd5b88a12",
+        "text": "<!channel> do you have any best practices for where we should point repo updates? <@U06PB2BPADB> suggests we should have different channels related to different repos. That might be tough because we have lots of repos. Maybe we can have different team-focused channels, like #scan \/ #platform? Or just a big #dev channel for now? Curious what y'all think.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710453427.786589",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710454111.077839",
+        "reply_users": [
+            "U06P7AP2R38",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1710453733.765099"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710454111.077839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1710454111.077839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2G\/no",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have any best practices for where we should point repo updates? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggests we should have different channels related to different repos. That might be tough because we have lots of repos. Maybe we can have different team-focused channels, like #scan \/ #platform? Or just a big #dev channel for now? Curious what y'all think."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710453632.982639",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/bf729db8d50e1bf233f57ee813ec74a6eeef288e|bf729db8>` - Removed parsing libraries for now, due to build issues",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/08d5dd50dc11...bf729db8d50e|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710453717.125589",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/d264f42e2393feac76f52981d6ebc5cae3de54fe|d264f42e>` - Cleaned libraries from package.json",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/bf729db8d50e...d264f42e2393|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1710453733.765099",
+        "client_msg_id": "937a6380-63f1-4963-890a-831e0a927d3a",
+        "text": "Might be nice to just have one dedicated channel called #dev or #github, leave <#C04JFS3F98E|general> open for general discussion",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710453427.786589",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R0dom",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Might be nice to just have one dedicated channel called #dev or #github, leave "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04JFS3F98E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " open for general discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710453914.571889",
+        "text": "\/github unsubscribe EqualifyEverything",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nfnC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github unsubscribe EqualifyEverything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "Unsubscribed from <https:\/\/github.com\/EqualifyEverything|EqualifyEverything>",
+        "type": "message",
+        "ts": "1710453914.600459",
+        "bot_id": "B04LZN1SH0X",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "DUATe",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Unsubscribed from <https:\/\/github.com\/EqualifyEverything|EqualifyEverything>",
+                    "verbatim": false
+                }
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04J7TVCQGP",
+        "thread_ts": "1710453427.786589",
+        "root": {
+            "user": "U04J7TVCQGP",
+            "type": "message",
+            "ts": "1710453427.786589",
+            "client_msg_id": "a496262d-d69c-4fed-8fae-271dd5b88a12",
+            "text": "<!channel> do you have any best practices for where we should point repo updates? <@U06PB2BPADB> suggests we should have different channels related to different repos. That might be tough because we have lots of repos. Maybe we can have different team-focused channels, like #scan \/ #platform? Or just a big #dev channel for now? Curious what y'all think.",
+            "team": "T04JQU0GB2Q",
+            "thread_ts": "1710453427.786589",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1710454111.077839",
+            "reply_users": [
+                "U06P7AP2R38",
+                "U04J7TVCQGP"
+            ],
+            "replies": [
+                {
+                    "user": "U06P7AP2R38",
+                    "ts": "1710453733.765099"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710454111.077839"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1710454111.077839",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2G\/no",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " do you have any best practices for where we should point repo updates? "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U06PB2BPADB"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " suggests we should have different channels related to different repos. That might be tough because we have lots of repos. Maybe we can have different team-focused channels, like #scan \/ #platform? Or just a big #dev channel for now? Curious what y'all think."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1710454111.077839",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1710454116.000000"
+        },
+        "client_msg_id": "92658791-93b9-43e9-8345-7185e54a3f7e",
+        "text": "I created <#C06Q0TB3CAV|dev> with Github Info",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5a9jZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I created "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06Q0TB3CAV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with Github Info"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,285 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716579935.606729",
+        "client_msg_id": "d402a167-86ba-4588-a082-9501ca9cff1f",
+        "text": "Posted a ticket with my own job details. You all will approve\/deny on our next contributor meeting. Monday, 5\/27, at 11:11 AM. Feel free to add questions\/comments to the GitHub issue here: <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716579935.606729",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1716822446.296129",
+        "reply_users": [
+            "U06PB2BPADB",
+            "U04J7TVCQGP",
+            "U06Q2P392AU"
+        ],
+        "replies": [
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1716582431.446299"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716584133.403619"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716584215.908449"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1716752676.465779"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716822446.296129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716822446.296129",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710791219,
+                "color": "36a64f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#304 Launch Version 1!",
+                "text": "*Overview*\n\nWe're ready to go! Or will be very soon.\n\nThis ticket details what I will do to launch Equalify Version 1.\n\nThe process can be broken down into four parts:\n\n1. *Final Buildout Push*. We're in the last weeks of buildout! Our <https:\/\/github.com\/orgs\/EqualifyEverything\/projects\/2|project board> details that push. I will be responsible for pushing the develop to our glorious launch.\n2. *Sales and Marketing*. We'll need to sell Equalify in order to prove our sustainability. \"Selling\" Equalify doesn't mean paywalling everything. Equalify is Open Source Software. We have to sell Equalify as a movement to promote fixing accessibility issues. A large part of this will be our work with WordPress (see <https:\/\/github.com\/equalifyEverything\/eudaimonia-wp|Project Eudaimonia WP>). I'm also looking forward to supporting <https:\/\/github.com\/kevinandrews1|@kevinandrews1> Higher Ed outreach initiatives. Our initial users are from Higher Ed orgs.\n3. *Support*. With Version 1, we start to get customers. They'll all know that they can reach me 24\/7 to address any issues and anyone can <https:\/\/join.slack.com\/t\/equalifyapp\/shared_invite\/zt-1sfbgf0fa-CzIHlbFOs0Ww1iSTK4LQ2w|Join our Slack> or add a GitHub issue for community support.\n4. *The Future*. Good tech evolves. We got to keep an eye on the future, as we deliver this version 1. Super pumped to get in the trenches with <https:\/\/github.com\/azdak|@azdak> <https:\/\/github.com\/heythisischris|@heythisischris> <https:\/\/github.com\/wilsuriel03|@wilsuriel03> <https:\/\/github.com\/azdak|@azdak> <https:\/\/github.com\/jwgoedert|@jwgoedert> <https:\/\/github.com\/kevinandrews1|@kevinandrews1> and everyone else who contributes. We'll learn from early users and build better. For More: Visit the <https:\/\/equalifyapp.slack.com\/archives\/C075ESQDPS5|#future channel in Slack>.\n\n*Tasks*\n\nI can break down my work into discrete tasks:\n\n• *Meeting Management*: Managing a weekly contributor meeting, WordPress accessibility-testing meeting, and any other meetings that keep things moving.\n• *Budgeting*: I've been collecting budgets for each project. I'm the one to make sure we're on track to deliver with cash in the bank.\n• *Making a Fool of Myself on tXtter*. Someone's got to do it, right? Many of the biggest connections I've made have been on Social Media.\n• *Responding to Clients*: Like I said, I'm the one on the hook when clients call.\n• *Responding to Contributors*: As with clients, I'm here 24\/7 for contributor needs. Slack. Call. DM. Whatever. I'm here for you!\n• *Random Outreach*: There is a need for random outreach. This would include participating in accessibility meetings that pop-up, chasing leads, and maybe even making a fool of myself on Twitter. Random outreach has led to incredible opportunities and ideas, but I'll work to engage in random outreach only when all other tasks are done.\n\n*Outcomes*\n\nFor my tasks to be successful, I hope to see:\n\n1. 100k Equalified Issues by 9\/1: Equalifying an issue is fixing an issue. I’ve set a personal goal of logging 11M fixes by February. I will be happy with 100k logged fixes by September. This will largely come with our work with WordPress.\n2. Three Customers by 9\/1: To sustain our work, we need customers. I’m not super experienced at Sales, so this is mostly a stretch goal to see what works and what doesn’t.\n\nClearly defined success goals help push a project forward and understand areas for improvement. I’ll make a note to check in on our success goals at the first contributor meeting of every month, then we can iterate as we need.\n\n*Hours and Cost*\n\nEqualify's \"Founder\" role is a 24\/7, 365 position. Except for the time my family needs and a philosophy meeting on Sundays at 11:11, my whole world is Equalify. For that work, I propose a salary of $3,333\/mo for three months (June, July, August). September 1, we'll revisit t\n\nI'm here to make this project a success! And success means we fix 100,000,000 accessibility issues by 2028.\n\n*Let's do it?*\n\nI’m opening this up to Equalify contributors for approval. Feel free to add any comments. Anyone can comment async on this issue. Comments will be brought to our Contributor Meeting on May 27 at 11:11 CST where contributors will add any amendments then accept or reject this proposal. Contributor Meeting URL: <https:\/\/lu.ma\/tomato|https:\/\/lu.ma\/tomato>",
+                "title": "#304 Launch Version 1!",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/bbertucc|@bbertucc>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mq6tQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Posted a ticket with my own job details. You all will approve\/deny on our next contributor meeting. Monday, 5\/27, at 11:11 AM. Feel free to add questions\/comments to the GitHub issue here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1716582431.446299",
+        "client_msg_id": "16811a31-4b49-4982-a827-5251a681c281",
+        "text": "Do we maybe want to move to Tuesday this week? Monday is memorial day, not sure how great turnout is going to be :joy:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716579935.606729",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8AeYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we maybe want to move to Tuesday this week? Monday is memorial day, not sure how great turnout is going to be "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716584133.403619",
+        "client_msg_id": "f3f9cd2c-f32d-4fdd-bc73-e8953c267ec2",
+        "text": "o! tuesday is going to be tough for me. maybe we can still hold the meeting and if anyone wants to chime in async afterward, we can do that? i'm going to update the issue so it notes that we will allow 24 hours for async comments",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716579935.606729",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IEfuI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "o! tuesday is going to be tough for me. maybe we can still hold the meeting and if anyone wants to chime in async afterward, we can do that? i'm going to update the issue so it notes that we will allow 24 hours for async comments"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716584215.908449",
+        "client_msg_id": "e190019b-0b90-43d1-a073-bd8d1dbcf293",
+        "text": "&gt; Comments will be brought to our Contributor Meeting on May 27 at 11:11 CST where contributors will add any amendments. We'll keep comments open for 24 hours. If the proposal isn't rejected by contributors by May 28 at 11:11 CST, I'll consider this good to go. Contributor Meeting URL: <https:\/\/lu.ma\/tomato>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716579935.606729",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YkTTj",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comments will be brought to our Contributor Meeting on May 27 at 11:11 CST where contributors will add any amendments. We'll keep comments open for 24 hours. If the proposal isn't rejected by contributors by May 28 at 11:11 CST, I'll consider this good to go. Contributor Meeting URL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lu.ma\/tomato"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716593983.598229",
+        "client_msg_id": "5222d0c1-e860-4716-a536-62fce9ea73d1",
+        "text": "Started <#C075ESQDPS5|future> to log crazy ideas that might never be made, but I can't get off my mind for some reason. Added a little Red Pill update there.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUmr6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Started "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C075ESQDPS5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to log crazy ideas that might never be made, but I can't get off my mind for some reason. Added a little Red Pill update there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

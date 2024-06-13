@@ -1,0 +1,371 @@
+[
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1712337318.110749",
+        "client_msg_id": "0df4ab9b-4cda-4e86-9265-caf657945407",
+        "text": "<@U06PKP46SMR> Hey there, any updates this week?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PzXf\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey there, any updates this week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1712355046.471629",
+        "client_msg_id": "16fe9dce-8eda-4c07-939a-8e08c667f580",
+        "text": "hey jessica, yes! i meet with kevin and raga + team (sabya and saurabh) to get take notes on their process. i’ve started working on the initial crack at the chrome-extension. i will push that code up shortly",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712355046.471629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712543940.045109",
+        "reply_users": [
+            "U06S042E347"
+        ],
+        "replies": [
+            {
+                "user": "U06S042E347",
+                "ts": "1712543940.045109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KyDWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey jessica, yes! i meet with kevin and raga + team (sabya and saurabh) to get take notes on their process. i’ve started working on the initial crack at the chrome-extension. i will push that code up shortly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1712357056.183669",
+        "client_msg_id": "34bb25fb-076c-4944-bd06-0fd60c320923",
+        "text": "just pushed my current code to: <https:\/\/github.com\/EqualifyEverything\/equalify-raga>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-raga",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/equalify-raga",
+                "text": "A chrome extension to submit manual tests to Equalify.",
+                "title": "EqualifyEverything\/equalify-raga",
+                "fields": [
+                    {
+                        "value": "JavaScript",
+                        "title": "Language",
+                        "short": true
+                    },
+                    {
+                        "value": "a few seconds ago",
+                        "title": "Last updated",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "otJX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just pushed my current code to: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-raga"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "which is showing this",
+        "files": [
+            {
+                "id": "F06SWC67QES",
+                "created": 1712357081,
+                "timestamp": 1712357081,
+                "name": "Screenshot 2024-04-05 at 17.44.39.png",
+                "title": "screenshot equalify chrome extension",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06PKP46SMR",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 155496,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06SWC67QES\/screenshot_2024-04-05_at_17.44.39.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06SWC67QES\/download\/screenshot_2024-04-05_at_17.44.39.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06SWC67QES-bbe587012a\/screenshot_2024-04-05_at_17.44.39_64.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06SWC67QES-bbe587012a\/screenshot_2024-04-05_at_17.44.39_80.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06SWC67QES-bbe587012a\/screenshot_2024-04-05_at_17.44.39_360.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360_w": 360,
+                "thumb_360_h": 320,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06SWC67QES-bbe587012a\/screenshot_2024-04-05_at_17.44.39_480.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_480_w": 480,
+                "thumb_480_h": 426,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06SWC67QES-bbe587012a\/screenshot_2024-04-05_at_17.44.39_160.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06SWC67QES-bbe587012a\/screenshot_2024-04-05_at_17.44.39_720.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720_w": 720,
+                "thumb_720_h": 639,
+                "original_w": 766,
+                "original_h": 680,
+                "thumb_tiny": "AwAqADCsEJOApJ9hTvJk\/wCeb\/ka1VmLOFK4980\/cf8AZ\/OquTYyFgYtgo4HrtNL5DY+4\/X+6a1gfUr+Bpcj1FHMFjI+zn5vkfjp8p5okhVGx83TPIrVYnPylfzqC5ujAygKGyPWjmCxY2KCCAKpvdOHYBI8AkcnmrOGLxsD8uOR0pDHCSSVjz3zUsorfa5P7kX50hvXBx5aVa8uD+7H+lHlwf3Y\/wBKQip9uf8A55pUt4itGHK8hffj8v61N5cH92P9KragQHQEHp2PagZZW4DSqm05bJzVZ7SQux2IcsSCTSRf66P6GreT6mgGU\/scn\/PNP++qb9hm9F\/Or2T6mjJ9TRYVij9hm9F\/On3wUNGHJBC9hVvJ9TVG\/OZEz6U7DP\/Z",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U06PKP46SMR\/F06SWC67QES\/screenshot_2024-04-05_at_17.44.39.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F06SWC67QES-3aa10f631a",
+                "alt_txt": "header of popup shows a faked logged in user and equalify logo button and the body has two big buttons, \"Meta Page Issue\" and \"Specific Issue\"",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06PKP46SMR",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cOUr7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which is showing this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712357091.468169",
+        "client_msg_id": "e30e6471-c609-4da9-ae08-45d2149c6787",
+        "thread_ts": "1712357091.468169",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1714410600.341009",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06PKP46SMR"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712520244.794619"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1714397613.367459"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1714410600.341009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1714410600.341009",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "and has a blank settings page. the boiler plate i pulled from seems like a pretty great starter",
+        "files": [
+            {
+                "id": "F06T2TCTKEF",
+                "created": 1712357107,
+                "timestamp": 1712357107,
+                "name": "Screenshot 2024-04-05 at 17.45.04.png",
+                "title": "screenshot of \"Settings page\"",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06PKP46SMR",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 558441,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06T2TCTKEF\/screenshot_2024-04-05_at_17.45.04.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06T2TCTKEF\/download\/screenshot_2024-04-05_at_17.45.04.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_64.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_80.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_360.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360_w": 360,
+                "thumb_360_h": 346,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_480.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_480_w": 480,
+                "thumb_480_h": 461,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_160.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_720.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720_w": 720,
+                "thumb_720_h": 692,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_800.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_800_w": 800,
+                "thumb_800_h": 768,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_960.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_960_w": 960,
+                "thumb_960_h": 922,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06T2TCTKEF-910ae8d170\/screenshot_2024-04-05_at_17.45.04_1024.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 984,
+                "original_w": 1980,
+                "original_h": 1902,
+                "thumb_tiny": "AwAuADCtb2jzR7lTIzjOal\/s+T\/nn+tWtK\/49P8AgRq7TuKxj\/2fL\/zz\/WlGnyDrHn8a1iwHUgUBgehBouFjJOnyf88\/1qG4tHhj3MmBnGc1u1S1X\/j0\/wCBCi4WDSv+PT\/gRq7VLSv+PT\/gRq7SGGKMUUUAFUtV\/wCPT\/gQq7VLVf8Aj0\/4EKADSv8Aj0\/4Eau1gQXk0CbIyAM55FSf2lc\/3l\/75oA26KxP7Suf7y\/980f2lc\/3l\/75oA26par\/AMen\/AhVH+0rn+8v\/fNRz3k06bJCCM54FAH\/2Q==",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U06PKP46SMR\/F06T2TCTKEF\/screenshot_2024-04-05_at_17.45.04.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F06T2TCTKEF-df0dc4c732",
+                "alt_txt": "currently blank other than the words \"Settings\"",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06PKP46SMR",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSwqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and has a blank settings page. the boiler plate i pulled from seems like a pretty great starter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712357127.636439",
+        "client_msg_id": "2f976b48-2deb-4562-a197-5ba96b5c23f1",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

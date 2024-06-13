@@ -1,0 +1,146 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06Q6N3N6TT",
+        "text": "<@U06Q6N3N6TT> has joined the channel",
+        "type": "message",
+        "ts": "1716808437.312739"
+    },
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1716808532.012009",
+        "client_msg_id": "d5ac6702-bf5b-4c81-9983-401f2d6a4b00",
+        "text": "I think it’s a great approach..  Might want to roll these out slowly, starting with government. Or maybe starting with accessibility oriented organizations?  How many accessibility errors can you find on Section 508 Office pages?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716593926.762719",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CNqan",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it’s a great approach..  Might want to roll these out slowly, starting with government. Or maybe starting with accessibility oriented organizations?  How many accessibility errors can you find on Section 508 Office pages?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716821422.008529",
+        "client_msg_id": "084658ad-a526-4f22-83df-47ecfdf4b5ac",
+        "text": "That's a great idea <@U06Q6N3N6TT>!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716593926.762719",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2CqIb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's a great idea "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q6N3N6TT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1716821506.321779",
+        "client_msg_id": "3621f643-595f-4e40-b584-56d69cf84848",
+        "text": "There are governments who are keen about accessibility right now. Give them the tools that they need to see what actual barriers their citizens face.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716593926.762719",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYF1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are governments who are keen about accessibility right now. Give them the tools that they need to see what actual barriers their citizens face."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

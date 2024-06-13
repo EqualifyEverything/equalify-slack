@@ -1,0 +1,3258 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712681769.107559",
+        "client_msg_id": "578a916c-bd6f-4674-92ca-3232b3757d73",
+        "text": "my mistake <@U06RZ1EJGER> - most of <@U06PB2BPADB>’s april work is in <#C06S292NL0H|build-monitor>. you might need to ping him there for updates.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712337292.923439",
+        "parent_user_id": "U06RZ1EJGER",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mc08K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my mistake "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06RZ1EJGER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - most of "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s april work is in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06S292NL0H"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". you might need to ping him there for updates."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712681892.503479",
+        "client_msg_id": "c5a5ab31-9ee2-49d4-ab25-714927480762",
+        "text": "I have some free time today that I'm going to spend on testing the scan and hopefully getting the WP scan project running. I'll add notes to this thread so that folks can know wassup.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "reply_count": 25,
+        "reply_users_count": 1,
+        "latest_reply": "1713297815.900859",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712685201.821889"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712685211.024649"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712685212.091769"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712686351.722649"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712686449.583119"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712691619.106399"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712691740.845249"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712698523.463869"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712698711.397009"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712699479.018019"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712700308.149749"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712888727.740709"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712890550.476159"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712912703.887269"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712912958.979759"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712913640.300159"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712914166.236099"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712934092.342479"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712934180.110229"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712945786.488959"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712945816.963319"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1713094763.833759"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1713296464.235389"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1713296480.502939"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1713297815.900859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1713297815.900859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWY4X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have some free time today that I'm going to spend on testing the scan and hopefully getting the WP scan project running. I'll add notes to this thread so that folks can know wassup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1712685064.508909",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1712696769.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1712685064.508909",
+        "reply_count": 29,
+        "reply_users_count": 3,
+        "latest_reply": "1712696763.988169",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06PB2BPADB",
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712685139.799979"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712685534.641779"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712685933.582229"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712686263.909339"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712686285.192179"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712686564.056769"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712687250.935799"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712688412.411269"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712690916.271859"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712691383.902349"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712691645.132919"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712691713.480439"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712691865.152789"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712691896.368579"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712691909.691029"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712691918.010249"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712692059.155159"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712692115.089879"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712694490.937009"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712694629.766859"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712696224.868349"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712696355.905219"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712696419.623729"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712696426.415679"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712696427.353919"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712696659.799899"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712696671.073919"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712696723.193139"
+            },
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1712696763.988169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1712696763.988169",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1712685060,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                "text": "When I send a sitemap to the scan on `dev` and process the scans, I'm getting these results:\n\n```\nScan 165791 successfully processed.\nScan 165792 successfully processed.\nScan 165793 successfully processed.\nScan 165794 records were deleted from scan. Scan deleted.\nScan 165795 successfully processed.\nScan 165796 successfully processed.\nScan 165797 successfully processed.\nScan 165798 successfully processed.\nScan 165799 successfully processed.\nScan 165800 successfully processed.\nScan 165801 successfully processed.\nScan 165802 successfully processed.\nScan 165803 records were deleted from scan. Scan deleted.\nScan 165804 successfully processed.\nScan 165805 successfully processed.\nScan 165806 successfully processed.\nScan 165807 successfully processed.\nScan 165808 successfully processed.\nScan 165809 successfully processed.\nScan 165810 successfully processed.\n``\n```",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31|#31 Every tenth scan record is prematurely removed.>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/azdak|@azdak>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "3",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:31,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Every tenth scan record is prematurely removed.&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:31,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Every tenth scan record is prematurely removed.&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:31,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Every tenth scan record is prematurely removed.&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U06PB2BPADB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712685139.799979",
+        "client_msg_id": "81a56b48-fe5a-4450-b1fe-dee62c6e41e9",
+        "text": "<@U06PB2BPADB> this was a weird one i discovered. would appreciate any insight into it so i can resume the scan.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q17wc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this was a weird one i discovered. would appreciate any insight into it so i can resume the scan."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712685201.821889",
+        "client_msg_id": "4a63c4ab-f9db-4088-8221-adae3bfb5de2",
+        "text": "Upgraded `scan-db-mogodb` on Digital Ocean from 1GB -&gt; 2GB",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V2Tb4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Upgraded "
+                            },
+                            {
+                                "type": "text",
+                                "text": "scan-db-mogodb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on Digital Ocean from 1GB -> 2GB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712685211.024649",
+        "client_msg_id": "b075a18c-483a-4486-8830-a18e2312deee",
+        "text": "created `<http:\/\/scan.dev-worker-02.equalify.app|scan.dev-worker-02.equalify.app>` as another test worker droplet (did not update the deploy settings)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9TfqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "created "
+                            },
+                            {
+                                "type": "text",
+                                "text": "scan.dev-worker-02.equalify.app",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " as another test worker droplet (did not update the deploy settings)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712685212.091769",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1712686377.000000"
+        },
+        "client_msg_id": "0c1e3179-73bc-498c-a5c8-1131f7372b16",
+        "text": "Getting about 8 sec for new scan to be marked complete. Creating `scan.dev-worker-03.equalify.ap`",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2eG83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Getting about 8 sec for new scan to be marked complete. Creating "
+                            },
+                            {
+                                "type": "text",
+                                "text": "scan.dev-worker-03.equalify.ap",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712685534.641779",
+        "client_msg_id": "15ff48a0-9976-43d8-9275-ae03ff673714",
+        "text": "Wait where is this log coming from? It doesn't look like the scan.equalify or scan-worker logging",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ATSFK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait where is this log coming from? It doesn't look like the scan.equalify or scan-worker logging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712685933.582229",
+        "client_msg_id": "870996eb-16dc-402b-ab36-aa3531c2a1d3",
+        "text": "no this is the equalify processor log",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V07my",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no this is the equalify processor log"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712686263.909339",
+        "client_msg_id": "5ba279f6-6d9c-43dd-bb3f-a9c0b00fcb36",
+        "text": "like checkout `{jobID: \"166066\"}`. the two items before and after it work perfect, but it's returning:\n```{\n    \"status\": \"completed\",\n    \"result\": \"Record not found. Records are deleted after 7 days!\"\n}```",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0lHr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like checkout "
+                            },
+                            {
+                                "type": "text",
+                                "text": "{jobID: \"166066\"}",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". the two items before and after it work perfect, but it's returning:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{\n    \"status\": \"completed\",\n    \"result\": \"Record not found. Records are deleted after 7 days!\"\n}"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712686285.192179",
+        "client_msg_id": "bd6d2293-b0be-477c-ab91-30332b7111d4",
+        "text": ".. probably have to update that error message too.. lol",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u5Y8+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".. probably have to update that error message too.. lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712686351.722649",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1712686422.000000"
+        },
+        "client_msg_id": "89fe6f83-5d02-4c45-8aa4-7c4029447944",
+        "text": "Getting about the same scan completion rate with 3 workers",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TcXOC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Getting about the same scan completion rate with 3 workers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712686449.583119",
+        "client_msg_id": "1aa96dae-3e2b-4ca5-9446-62d34b99c800",
+        "text": "After this process, I'm going to benchmark the same sitemap instead of two different sitemaps.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aR+4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "After this process, I'm going to benchmark the same sitemap instead of two different sitemaps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712686564.056769",
+        "client_msg_id": "118b3969-6ffe-4103-aba5-9d8c710c414f",
+        "text": "maybe there's another reason things are failing? and it's just giving that message because it's the default message when an entry can't be found in the db?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cchex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe there's another reason things are failing? and it's just giving that message because it's the default message when an entry can't be found in the db?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712687250.935799",
+        "edited": {
+            "user": "U06PB2BPADB",
+            "ts": "1712687321.000000"
+        },
+        "client_msg_id": "1c52cf72-65cb-4fb8-818e-d3835adfe542",
+        "text": "hmmmm think there might be an issue with changing the ttl index, since the index with 7 days already was there- lmk when you're done doing whatever you're doing and I can flush the ttl index, should at least fix _that_, tho this might be something else",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p1JIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmmmm think there might be an issue with changing the ttl index, since the index with 7 days already was there- lmk when you're done doing whatever you're doing and I can flush the ttl index, should at least fix "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tho this might be something else"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712688412.411269",
+        "client_msg_id": "c509a7fd-88c1-4f07-a86b-21a1bc8118c3",
+        "text": "actually nm I did it without messing up _too_ much, lmk if the issue appears after job 166513 or so",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/QLP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "actually nm I did it without messing up "
+                            },
+                            {
+                                "type": "text",
+                                "text": "too",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " much, lmk if the issue appears after job 166513 or so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712690916.271859",
+        "client_msg_id": "bdc43704-e68c-4845-886f-4f495b086a2e",
+        "text": "looks like we're still getting scans dropped.. `166638` and `166639`on dev",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wOWPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks like we're still getting scans dropped.. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "166638",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "166639",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "on dev"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712691383.902349",
+        "client_msg_id": "0860768f-13cd-479d-9cc2-c47af18e9bd6",
+        "text": "The process is complete <@U06PB2BPADB> - so feel free to do whatever you want now. I'll take a little break.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VzY2C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The process is complete "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - so feel free to do whatever you want now. I'll take a little break."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712691619.106399",
+        "client_msg_id": "11306d99-b355-40d4-b21a-3c03caf26f0e",
+        "text": "`<http:\/\/scan.dev-worker-01.equalify.app|scan.dev-worker-01.equalify.app>` is averaging 90-100% CPU use, 70-80% memory. Other workers are averaging 25% CPU use, 38% memory. curious.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/v4n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "scan.dev-worker-01.equalify.app",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is averaging 90-100% CPU use, 70-80% memory. Other workers are averaging 25% CPU use, 38% memory. curious."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712691645.132919",
+        "client_msg_id": "a44eb5a5-25c4-4201-b77c-7b8013c0464d",
+        "text": "Hm did it give any messages when you sent them to sitemapbyurl? Bc what's weird is that they're not failing , they just don't appear in the queue",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xy2Nj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hm did it give any messages when you sent them to sitemapbyurl? Bc what's weird is that they're not failing , they just don't appear in the queue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712691713.480439",
+        "client_msg_id": "158d8427-e1a1-4c24-b3c2-6975c142e9a7",
+        "text": "nope. i'll try again.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sCIk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nope. i'll try again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712691740.845249",
+        "client_msg_id": "eebd40ba-dd85-46f1-b7ae-ca0686f3bb57",
+        "text": "`<http:\/\/scan.worker-02.equalify.app|scan.worker-02.equalify.app>`  is hitting 100% CPU even though it's not being used.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "enMAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "scan.worker-02.equalify.app",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  is hitting 100% CPU even though it's not being used."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712691865.152789",
+        "client_msg_id": "d4077042-9bc4-457f-b201-4dcb05f21e3f",
+        "text": "nothing weird when i submit a sitemap:\n```    \"messages\": [\n        \"Fetched <https:\/\/decubing.com>, 0 pages found.\",\n        \"No pages found at URL. Looking at <https:\/\/decubing.com\/sitemap.xml>...\",\n        \"Fetched <https:\/\/decubing.com\/sitemap.xml>, 63 pages found.\"\n    ]```",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aanOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nothing weird when i submit a sitemap:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "    \"messages\": [\n        \"Fetched "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/decubing.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 0 pages found.\",\n        \"No pages found at URL. Looking at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/decubing.com\/sitemap.xml"
+                            },
+                            {
+                                "type": "text",
+                                "text": "...\",\n        \"Fetched "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/decubing.com\/sitemap.xml"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 63 pages found.\"\n    ]"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712691896.368579",
+        "client_msg_id": "3d5982f0-004a-44ab-9b73-86322a1dd24e",
+        "text": "but it's still deleting some. example: `167070`",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hiYLQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but it's still deleting some. example: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "167070",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712691909.691029",
+        "client_msg_id": "42ca0e19-d65a-43d0-8013-1b2e484110d7",
+        "text": "`<http:\/\/scan.worker-02.equalify.app|scan.worker-02.equalify.app>`  is hitting 100% CPU even though it's not being used.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "enMAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "scan.worker-02.equalify.app",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  is hitting 100% CPU even though it's not being used."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "exclamation",
+                "users": [
+                    "U06PB2BPADB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712691918.010249",
+        "client_msg_id": "c5b6c048-b4b2-4fc2-859b-154ab50b97b8",
+        "text": "`<http:\/\/scan.dev-worker-01.equalify.app|scan.dev-worker-01.equalify.app>` is averaging 90-100% CPU use, 70-80% memory. Other workers are averaging 25% CPU use, 38% memory. curious.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/v4n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "scan.dev-worker-01.equalify.app",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is averaging 90-100% CPU use, 70-80% memory. Other workers are averaging 25% CPU use, 38% memory. curious."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712692059.155159",
+        "client_msg_id": "4b305da7-522d-4ef7-9c2e-f5be90f609e6",
+        "text": "Ooookay this might be related to the wrong IP in deployment still, let me take a look",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VgY8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ooookay this might be related to the wrong IP in deployment still, let me take a look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712692115.089879",
+        "client_msg_id": "f31323d5-8228-482b-97d7-9be59400471b",
+        "text": "kk",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AxtM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1712692913.567829",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan-worker.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/6ceb819ee4c566e30054fa381ffa734ffb905968|6ceb819e>` - Trigger redeploy of prod workers",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/compare\/1f7620432d93...6ceb819ee4c5|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app|EqualifyEverything\/scan-worker.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712694490.937009",
+        "client_msg_id": "3f472f15-5f33-4a56-9e89-4cecc3d6f0e9",
+        "text": "you didn't add the new dev workers to the mongo trusted sources",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7IJJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you didn't add the new dev workers to the mongo trusted sources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712694629.766859",
+        "client_msg_id": "d89df9a1-8d66-4abe-b27c-05ae30d0b497",
+        "text": "&gt; Ooookay this might be related to the wrong IP in deployment still, let me take a look\nthis actually was messed up also, tho not the source of the dropped scans. `worker-2` got overwritten in the deploy IP mixup and never redeployed, so fixed that",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjBe1",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ooookay this might be related to the wrong IP in deployment still, let me take a look"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this actually was messed up also, tho not the source of the dropped scans. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "worker-2",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " got overwritten in the deploy IP mixup and never redeployed, so fixed that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712696224.868349",
+        "client_msg_id": "b9956536-8f8a-454a-bc2f-8c8ad5e2b3b0",
+        "text": "sweet.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XU5zr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sweet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712696355.905219",
+        "client_msg_id": "61f05816-6ca2-4240-8c11-fa246240b7bd",
+        "text": "Actually did you add them to the whitelist when you had like 10 going? If not, that would explain the lost data",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4GzBn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually did you add them to the whitelist when you had like 10 going? If not, that would explain the lost data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712696419.623729",
+        "client_msg_id": "d54c9d70-93b4-452b-8b1d-d1cc8a318dac",
+        "text": "no",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6wa6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712696426.415679",
+        "client_msg_id": "ce45c594-7aac-4b59-8dd6-be99a9f153fd",
+        "text": "wait yes",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hfx4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712696427.353919",
+        "client_msg_id": "3f35a6b5-ffc2-4a02-8654-c703404cb577",
+        "text": "i did",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksg7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i did"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712696659.799899",
+        "client_msg_id": "46e23fd6-fe30-4dbc-a9ec-e7e93c2d6583",
+        "text": ":thinking_face: lol",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXgYF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712696671.073919",
+        "client_msg_id": "bc290056-20d9-4755-bfa1-1b47eb0440dd",
+        "text": "now it's working! so it was just white listing.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pDjw4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now it's working! so it was just white listing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712696723.193139",
+        "client_msg_id": "3e37cc5f-c240-4e48-a115-f40c789b45c8",
+        "text": "Yeah they were processing but no place to put the data",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712685064.508909",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDlZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah they were processing but no place to put the data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1712685064.508909",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1712685064.508909",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1712696769.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1712685064.508909",
+            "reply_count": 29,
+            "reply_users_count": 3,
+            "latest_reply": "1712696763.988169",
+            "reply_users": [
+                "U04J7TVCQGP",
+                "U06PB2BPADB",
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712685139.799979"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712685534.641779"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712685933.582229"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712686263.909339"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712686285.192179"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712686564.056769"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712687250.935799"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712688412.411269"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712690916.271859"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712691383.902349"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712691645.132919"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712691713.480439"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712691865.152789"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712691896.368579"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712691909.691029"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712691918.010249"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712692059.155159"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712692115.089879"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712694490.937009"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712694629.766859"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712696224.868349"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712696355.905219"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712696419.623729"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712696426.415679"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712696427.353919"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712696659.799899"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712696671.073919"
+                },
+                {
+                    "user": "U06PB2BPADB",
+                    "ts": "1712696723.193139"
+                },
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1712696763.988169"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1712696763.988169",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1712685060,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                    "text": "When I send a sitemap to the scan on `dev` and process the scans, I'm getting these results:\n\n```\nScan 165791 successfully processed.\nScan 165792 successfully processed.\nScan 165793 successfully processed.\nScan 165794 records were deleted from scan. Scan deleted.\nScan 165795 successfully processed.\nScan 165796 successfully processed.\nScan 165797 successfully processed.\nScan 165798 successfully processed.\nScan 165799 successfully processed.\nScan 165800 successfully processed.\nScan 165801 successfully processed.\nScan 165802 successfully processed.\nScan 165803 records were deleted from scan. Scan deleted.\nScan 165804 successfully processed.\nScan 165805 successfully processed.\nScan 165806 successfully processed.\nScan 165807 successfully processed.\nScan 165808 successfully processed.\nScan 165809 successfully processed.\nScan 165810 successfully processed.\n``\n```",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31|#31 Every tenth scan record is prematurely removed.>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/azdak|@azdak>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "3",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:31,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Every tenth scan record is prematurely removed.&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:31,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Every tenth scan record is prematurely removed.&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:31,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Every tenth scan record is prematurely removed.&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1712696763.988169",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1712685060,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/31|#31 Every tenth scan record is prematurely removed.>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>"
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712698523.463869",
+        "client_msg_id": "aef19898-cfab-4927-8107-4f394bdb879f",
+        "text": "added `<http:\/\/scan.worker-04.equalify.app|scan.worker-04.equalify.app>`",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eLs6E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "added "
+                            },
+                            {
+                                "type": "text",
+                                "text": "scan.worker-04.equalify.app",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712698711.397009",
+        "client_msg_id": "f7ce8ae6-e46b-487c-beb1-836350bd3aab",
+        "text": "2\/3 scans marked completed every 6 seconds with 4 workers",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g3FyL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2\/3 scans marked completed every 6 seconds with 4 workers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712699479.018019",
+        "client_msg_id": "063d24d2-00c2-4924-ad49-d6c543933f1a",
+        "text": "added `<http:\/\/scan.worker-05.equalify.app|scan.worker-05.equalify.app>`",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+DR\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "added "
+                            },
+                            {
+                                "type": "text",
+                                "text": "scan.worker-05.equalify.app",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712699676.573249",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1712699683.000000"
+        },
+        "client_msg_id": "be940e97-568d-4f5b-8c73-c5101fc530fb",
+        "text": "<@U06PB2BPADB> the only weird thing i'm noticing when i add more works is that getting results takes a longer time. IE- try <http:\/\/198.211.98.156\/dev\/results\/168306> .. no scan is running now but i have 5 workers. the cpu and memory of the db looks fine. not sure what's up. any ideas?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "reply_count": 18,
+        "reply_users_count": 2,
+        "latest_reply": "1712758103.276709",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06PB2BPADB"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712700328.795439"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712700356.832939"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712702118.874479"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712709123.510709"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712709834.253869"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712710985.059479"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712711386.036539"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712711585.391069"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712711662.368529"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712711962.857259"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712712485.175829"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712712529.275249"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712757300.065639"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712757542.309919"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712757624.469669"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712757835.538869"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1712758072.187419"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712758103.276709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1712758103.276709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "snoTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the only weird thing i'm noticing when i add more works is that getting results takes a longer time. IE- try "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/198.211.98.156\/dev\/results\/168306"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .. no scan is running now but i have 5 workers. the cpu and memory of the db looks fine. not sure what's up. any ideas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712700308.149749",
+        "client_msg_id": "985bfb90-86b1-4b62-a204-e5e77fd26cc7",
+        "text": "going to process 10k pages with 4 workers over night and see what madness it brings.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ySVuo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "going to process 10k pages with 4 workers over night and see what madness it brings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712700328.795439",
+        "client_msg_id": "78e41505-fa32-499a-aaec-6c606a2c8adc",
+        "text": "i destroyed a few workers, but it didn't speed anything up",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VILjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i destroyed a few workers, but it didn't speed anything up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712700356.832939",
+        "client_msg_id": "b1f3886b-1f17-4cdd-9d00-3c1f65064307",
+        "text": "going to run 10k pages over night. curious if you see anything funky that could be causing slow results",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KGFDh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "going to run 10k pages over night. curious if you see anything funky that could be causing slow results"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1712701775.860549",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/2a6134d0c13888a95738278ba55e09f89e446fec|2a6134d0>` - Fixed module error in STREAM convertor, added error catching on conversion",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/3b6d747a662e...2a6134d0c138|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1712702014.599499",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/17d4336702b73927567edd537822f20f37bf77f1|17d43367>` - Switched to type check for missing\/incomplete record",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/2a6134d0c138...17d4336702b7|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712702118.874479",
+        "client_msg_id": "24696528-a8dc-453f-953a-d2b939059aa6",
+        "text": "it's not a performance thing I don't think, think it's the stream convertor crashing out. I went ahead and added error catching on the convertor and cleaned up the way it checks for completed scans",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JD25r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's not a performance thing I don't think, think it's the stream convertor crashing out. I went ahead and added error catching on the convertor and cleaned up the way it checks for completed scans"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712709123.510709",
+        "client_msg_id": "6b1248dc-c12b-44d2-9afd-6256935ff17e",
+        "text": "cool. just ran through 100 result requests. any issues?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+ldc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool. just ran through 100 result requests. any issues?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712709834.253869",
+        "client_msg_id": "ce552e74-6e4a-4df6-806f-93eae8157128",
+        "text": "doesn't look like it",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkcmW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "doesn't look like it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712710985.059479",
+        "client_msg_id": "d98c7668-e3e1-4992-9137-cb6a4e0f4fd4",
+        "text": "hmph",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DtATF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmph"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712711386.036539",
+        "client_msg_id": "a3d675a3-dfdd-42e4-adbe-8e9a1759bb9b",
+        "text": "it just crapped out when getting <http:\/\/198.211.98.156\/dev\/results\/168632>'",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oPq4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it just crapped out when getting "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/198.211.98.156\/dev\/results\/168632"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712711585.391069",
+        "client_msg_id": "89a33771-b325-4f81-bd00-a5470b565876",
+        "text": "I bet it has something to do with the db. Seeing lots of weird logs...\n```Slow query: {\"$clusterTime\":{\"clusterTime\":{\"$timestamp\":{\"i\":1,\"t\":1712711470}},\"signature\":{\"hash\":{\"$binary\":{\"base64\":\"Gw8oYfZz5diu9igBbzdTQQuDzys=\",\"subType\":\"0\"}},\"keyId\":7293634653712286000}},\"$db\":\"admin\",\"ismaster\":1}```\nand..\n```Unclean full-time diagnostic data capture shutdown detected, found interim file, some metrics may have been lost```",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O99+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I bet it has something to do with the db. Seeing lots of weird logs...\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slow query: {\"$clusterTime\":{\"clusterTime\":{\"$timestamp\":{\"i\":1,\"t\":1712711470}},\"signature\":{\"hash\":{\"$binary\":{\"base64\":\"Gw8oYfZz5diu9igBbzdTQQuDzys=\",\"subType\":\"0\"}},\"keyId\":7293634653712286000}},\"$db\":\"admin\",\"ismaster\":1}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and..\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unclean full-time diagnostic data capture shutdown detected, found interim file, some metrics may have been lost"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712711662.368529",
+        "client_msg_id": "ec12101a-522f-414e-a39a-a5aa6f601330",
+        "text": "it seems like there's a lot of connections too",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "frQf9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it seems like there's a lot of connections too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712711962.857259",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1712757242.000000"
+        },
+        "client_msg_id": "6e0d9823-abf5-4b79-8810-9fa0379807b1",
+        "text": "here's another weird log:\n```Slow query: {\"documents\":[{\"createdDate\":{\"$date\":\"2024-04-10T01:18:46.894Z\"},\"results\":{ ...```",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3zTJg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here's another weird log:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slow query: {\"documents\":[{\"createdDate\":{\"$date\":\"2024-04-10T01:18:46.894Z\"},\"results\":{ ..."
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712712485.175829",
+        "client_msg_id": "f74b5449-51b8-49d2-b307-ffec879f8a98",
+        "text": "&gt;  it just crapped out when getting <http:\/\/198.211.98.156\/dev\/results\/168632>'\ndid it throw an error message or anything? it works for me",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v7l52",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " it just crapped out when getting "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/198.211.98.156\/dev\/results\/168632"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did it throw an error message or anything? it works for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712712529.275249",
+        "client_msg_id": "a1b7a677-c217-42bb-abaa-6b58140fa08a",
+        "text": "like how are you trying to fetch the data, just manually?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712699676.573249",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L1A9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like how are you trying to fetch the data, just manually?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

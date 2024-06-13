@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717175853.357439",
+        "client_msg_id": "382ab4cc-334a-416d-b254-4b0950fd8298",
+        "text": "killing this channel in favor of <#C074N9VQJSE|outreach>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBuQ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "killing this channel in favor of "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074N9VQJSE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

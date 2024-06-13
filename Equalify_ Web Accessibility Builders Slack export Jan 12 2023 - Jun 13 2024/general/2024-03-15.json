@@ -1,0 +1,839 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710519743.390239",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1710519949.000000"
+        },
+        "client_msg_id": "b2af277b-3a03-4bbf-8ca3-de1fb477492c",
+        "text": "<!channel> - The Good News This Week:\n• *We're taking customers!* (\"Contact Sales\" button now on <https:\/\/equalify.app>)\n• *LLMs are coming to Equalify via <@U06P7AP2R38>!* (<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/296|link>)\n• *React is coming to Equalify* via <@U06PSPPSTLZ>! (<https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/298|link>)\n• Our scan has better error reporting via <@U06PB2BPADB>!\n• *Equalify is making WordPress Accessible!* We finished domain discovery, finding 445 websites. Next step: scanning w\/ Equalify! (<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/tree\/main|link>)\n• *New Standard for Accessibility Reporting?* (<https:\/\/github.com\/EqualifyEverything\/stream|link>)\nPlus, a <https:\/\/github.com\/EqualifyEverything\/equalify\/compare\/main...v1-rc5|ton of updates> as we work to Version 1 - Release Candidate 5.\n\nFeel free to share anything else.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0M8ED",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - The Good News This Week:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We're taking customers! ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(\"Contact Sales\" button now on "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/equalify.app"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "LLMs are coming to Equalify via ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/296",
+                                        "text": "link"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "React is coming to Equalify",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " via "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PSPPSTLZ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "! ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/298",
+                                        "text": "link",
+                                        "style": {
+                                            "unlink": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Our scan has better error reporting via "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PB2BPADB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Equalify is making WordPress Accessible!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " We finished domain discovery, finding 445 websites. Next step: scanning w\/ Equalify! ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/tree\/main",
+                                        "text": "link"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "New Standard for Accessibility Reporting?",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/stream",
+                                        "text": "link"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPlus, a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/compare\/main...v1-rc5",
+                                "text": "ton of updates"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as we work to Version 1 - Release Candidate 5.\n\nFeel free to share anything else."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "i_love_you_hand_sign",
+                "users": [
+                    "U04J7TVCQGP",
+                    "U06P7APCV9U",
+                    "U06PMSNHF0A",
+                    "U06P7AP2R38",
+                    "U06PSPPSTLZ",
+                    "U06PJUYHT29"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1710531186.142309",
+        "client_msg_id": "5fd4a5ee-2431-4024-ac33-c6c39e2700f0",
+        "text": "I made it..  Looking forward to learning where things are with the project now.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710531186.142309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710531311.568129",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710531311.568129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1710531311.568129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "viguM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I made it..  Looking forward to learning where things are with the project now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710531311.568129",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1710531317.000000"
+        },
+        "client_msg_id": "ae39ac76-e588-4714-afbf-16423ac6b8f3",
+        "text": "Great to see you Mike!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710531186.142309",
+        "parent_user_id": "U06Q6N3N6TT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B8nVG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great to see you Mike!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06Q6N3N6TT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710531404.021179",
+        "client_msg_id": "ee15e8c4-54c6-429d-8664-fe8d81ccbf8f",
+        "text": "Does anyone here know any pro user testers who rely on assistive technology? We need to hire folks who are experienced with evaluating websites. <@U06PKP46SMR> will meet with them to design and build our Manual Testing interface.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJcKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone here know any pro user testers who rely on assistive technology? We need to hire folks who are experienced with evaluating websites. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will meet with them to design and build our Manual Testing interface."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PJUXLN5B",
+        "type": "message",
+        "ts": "1710533049.452009",
+        "client_msg_id": "87eeb197-519b-4374-95c3-269a0141778b",
+        "text": "<@U04J7TVCQGP> I know a tester who does some freelance corporate work where he does manual testing. Very low vision, mix of some screen reader with some inverted colors very high magnification. Is that what you’re looking for?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "gd8fdef73464",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8fdef734644ec220731d574dc75375a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Gen",
+            "real_name": "Gen Herres",
+            "display_name": "Gen Herres",
+            "team": "T04JQU0GB2Q",
+            "name": "gen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710533049.452009",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710602604.627889",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06PJUXLN5B"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710537187.865579"
+            },
+            {
+                "user": "U06PJUXLN5B",
+                "ts": "1710602604.627889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1710602604.627889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hugWk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I know a tester who does some freelance corporate work where he does manual testing. Very low vision, mix of some screen reader with some inverted colors very high magnification. Is that what you’re looking for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710537187.865579",
+        "client_msg_id": "360BF2A9-6DF7-45D8-86AF-A05D420608D5",
+        "text": "Yes! That would be much appreciated it you can put us in contact",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710533049.452009",
+        "parent_user_id": "U06PJUXLN5B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sL9Qb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! That would be much appreciated it you can put us in contact"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1710541994.336959",
+        "client_msg_id": "4b8587ed-7844-4f6d-b9fd-731ed6bdc3d3",
+        "text": "Hiya <@U04J7TVCQGP> I found the Slack email. Thanks for the invite! Happy to join the party here! :grinning:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KikHE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hiya "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I found the Slack email. Thanks for the invite! Happy to join the party here! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06PKJHF1FC",
+        "type": "message",
+        "ts": "1710544150.573339",
+        "client_msg_id": "ef4af671-33c1-4510-8755-a34d74035488",
+        "text": "Always happy to help test <@U04J7TVCQGP>. Hopefully we can find others too.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g220fe8025ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/220fe8025ea2d8179e1643df03fc9883.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Stine",
+            "display_name": "Alex Stine",
+            "team": "T04JQU0GB2Q",
+            "name": "alex.stine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710544150.573339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710544221.138259",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710544221.138259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1710544221.138259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/TNSf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Always happy to help test "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Hopefully we can find others too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710544221.138259",
+        "client_msg_id": "1e50ead1-1c5b-4b70-bc90-71c84bff0db2",
+        "text": "thanks!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710544150.573339",
+        "parent_user_id": "U06PKJHF1FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJlya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710544792.382629",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1710544811.000000"
+        },
+        "client_msg_id": "fb91efe0-3808-4453-af39-62f6e8d284fc",
+        "text": "I created a new channel for the <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/297|manual testing >project we're working on, <#C06PUUQD4AX|build-x>. Feel free to join to follow that work and contribute to development. <@U06PKP46SMR> is leading dev. <@U06PKJHF1FC> and <@U06Q2P392AU> will be providing expert user testing experience. would love to have any others.\n\n... o and we also have to change the name. \"X\" has problems. But I can't think of a good name for the project",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iRa\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I created a new channel for the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/297",
+                                "text": "manual testing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "project we're working on, "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06PUUQD4AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Feel free to join to follow that work and contribute to development. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is leading dev. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKJHF1FC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will be providing expert user testing experience. would love to have any others.\n\n... o and we also have to change the name. \"X\" has problems. But I can't think of a good name for the project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7A34VPH",
+        "type": "message",
+        "ts": "1710545397.143149",
+        "client_msg_id": "47c90ad2-994f-4150-ad1f-a9bff3d0be88",
+        "text": "Hey every one, i am here finally. nice connecting with all of you.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6fea0c4976b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fea0c4976b6a0ff2dfda99f1937465e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Raghavendra",
+            "real_name": "Raghavendra Satish Peri",
+            "display_name": "Raghavendra Satish Peri",
+            "team": "T04JQU0GB2Q",
+            "name": "raghava111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uCq6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey every one, i am here finally. nice connecting with all of you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710557798.913359",
+        "client_msg_id": "DF4D25DF-1149-40D8-9ACC-39A44B2D814C",
+        "text": "So happy to have you <@U06P7A34VPH> ",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jd248",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So happy to have you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7A34VPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

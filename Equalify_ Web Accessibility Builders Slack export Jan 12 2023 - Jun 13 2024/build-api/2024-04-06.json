@@ -1,0 +1,305 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712403378.253929",
+        "client_msg_id": "7f6089f0-5757-4b5f-ab10-b52ab35664ea",
+        "text": "when you do get into it, the api is going to be the priority since pretty much everything else depends on it",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712338237.396409",
+        "parent_user_id": "U06P7AP2R38",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vutKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when you do get into it, the api is going to be the priority since pretty much everything else depends on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1712404274.216959",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1712404274.216959",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1712436219.390799",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06P7AP2R38"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712404422.548109"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1712436219.390799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1712436219.390799",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-api] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-api\/commit\/d9623b534f53214aeeff0d417aae6840ff46aba6|d9623b53>` - Add a sample DB",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/compare\/86ca0ed09f6d...d9623b534f53|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-api\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712404422.548109",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1712404436.000000"
+        },
+        "client_msg_id": "accd61f6-166d-43bb-aef0-e206e7898b1d",
+        "text": "<@U06P7AP2R38> here's a sample db you can use. also added a note on db naming conventions: <https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/3#issuecomment-2041061325>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712404274.216959",
+        "parent_user_id": "U04N3UUQBJL",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1712404361,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/3#issuecomment-2041061325",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Comment on #3 Create Request Endpoints",
+                "text": "Added a sample DB that you can use: <https:\/\/github.com\/EqualifyEverything\/equalify-api\/blob\/main\/db_2024-04-06.sql.gz|db_2024-04-06.sql.gz>\n\nEvery DB follows the naming convention: `account_[id]`",
+                "title": "Comment on #3 Create Request Endpoints",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/3#issuecomment-2041061325",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VODu3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here's a sample db you can use. also added a note on db naming conventions: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/3#issuecomment-2041061325"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1712436179.330989",
+        "client_msg_id": "4E4B6CC7-898B-4925-AFEE-A6789494B7EB",
+        "text": "Got it, I'll focus on the API first!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712338237.396409",
+        "parent_user_id": "U06P7AP2R38",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9q9Zp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it, I'll focus on the API first!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1712436219.390799",
+        "client_msg_id": "EC60D617-1701-4077-9A6E-30A6274194FA",
+        "text": "Thank you for this- will get started today.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712404274.216959",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38pz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for this- will get started today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1712467524.191869",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-api] 1 new commit pushed to _main_ by heythisischris",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-api\/commit\/ff9d4fd9632dfd112c1b8fb60b91b9ed1b5c5771|ff9d4fd9>` - Scaffolded basic Lambda API using Fastify, added CI\/CD w\/ GitHub Actions",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/compare\/d9623b534f53...ff9d4fd9632d|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-api\/tree\/main|main>` by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

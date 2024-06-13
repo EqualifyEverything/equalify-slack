@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717004837.443239",
+        "client_msg_id": "4bbadc57-c359-4d43-b196-2279aa442bc6",
+        "text": "That sounds right. My only question is on \"Economical\". Every sales person I've ever met tells me not to sell on price. I don't really know why. Because that's why people have bought us so far. But that's what I heard.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WiQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds right. My only question is on \"Economical\". Every sales person I've ever met tells me not to sell on price. I don't really know why. Because that's why people have bought us so far. But that's what I heard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717005369.277409",
+        "client_msg_id": "3AD2013F-2A85-488E-882B-25AB8C0F642A",
+        "text": "Idk <@U04J7TVCQGP> i'm happy to be convinced otherwise but I would love to know why these sales people say not to do that. Because that's probably going to be the first question or very close to top of mind for these people who are ultimately writing the checks.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoA7Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idk "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i'm happy to be convinced otherwise but I would love to know why these sales people say not to do that. Because that's probably going to be the first question or very close to top of mind for these people who are ultimately writing the checks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717005517.114579",
+        "client_msg_id": "ab64d637-21e5-4f4b-95e6-433ad0bf80c3",
+        "text": "<@U06Q6N3N6TT> do you know why sales people say to avoid talking about how inexpensive we are compared to others? Could that hurt us?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nDAmK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q6N3N6TT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you know why sales people say to avoid talking about how inexpensive we are compared to others? Could that hurt us?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711576168.507069",
+        "text": "\/github subscribe <https:\/\/github.com\/EqualifyEverything\/equalify-raga>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DuQBZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github subscribe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-raga"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/equalify-raga|EqualifyEverything\/equalify-raga>. This channel will receive notifications for `issues`, `pulls`, `commits`, `releases`, `deployments`",
+        "type": "message",
+        "ts": "1711576168.535389",
+        "bot_id": "B04LZN1SH0X",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "YpPDi",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/equalify-raga|EqualifyEverything\/equalify-raga>. This channel will receive notifications for\n`issues`, `pulls`, `commits`, `releases`, `deployments`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "+\/dho",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "<https:\/\/github.com\/integrations\/slack#configuration | Learn More>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P7A34VPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7A34VPH",
+        "type": "message",
+        "ts": "1711608798.832139",
+        "client_msg_id": "fb982b5e-87d9-4fb5-8620-5af2a72efea3",
+        "text": "sure, checking and booking a meeting.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6fea0c4976b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fea0c4976b6a0ff2dfda99f1937465e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Raghavendra",
+            "real_name": "Raghavendra Satish Peri",
+            "display_name": "Raghavendra Satish Peri",
+            "team": "T04JQU0GB2Q",
+            "name": "raghava111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710953417.855149",
+        "parent_user_id": "U06P7A34VPH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+xLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure, checking and booking a meeting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7A34VPH",
+        "type": "message",
+        "ts": "1711609126.454359",
+        "client_msg_id": "1f8824d3-3eeb-4ebd-9f7f-79488ca267c8",
+        "text": "booked a meeting for next week.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6fea0c4976b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fea0c4976b6a0ff2dfda99f1937465e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Raghavendra",
+            "real_name": "Raghavendra Satish Peri",
+            "display_name": "Raghavendra Satish Peri",
+            "team": "T04JQU0GB2Q",
+            "name": "raghava111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710953417.855149",
+        "parent_user_id": "U06P7A34VPH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K\/\/bj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "booked a meeting for next week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U06PKP46SMR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

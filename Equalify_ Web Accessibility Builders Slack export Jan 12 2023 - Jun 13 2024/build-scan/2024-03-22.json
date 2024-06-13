@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711118503.059189",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/60bd3a0d51e2146e73ea8e688d60ef2b9104d922|60bd3a0d>` - Clarifications",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/28118c0a25ae...60bd3a0d51e2|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711144958.972569",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1711144960.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711144956,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by azdak",
+                "text": "We've added telemetry tracking, next step will be replacing internal console logging with a shared logger class\/object to centralize across servers, allow log access without having to ssh in, etc.",
+                "pretext": "Issue created by <https:\/\/github.com\/azdak|azdak>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/27|#27 Refactor out console.log to utilize centralized logging via logz.io>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/azdak|@azdak>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:27,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/27&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Refactor out console.log to utilize centralized logging via logz.io&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:27,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/27&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Refactor out console.log to utilize centralized logging via logz.io&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:27,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/27&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Refactor out console.log to utilize centralized logging via logz.io&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    }
+]

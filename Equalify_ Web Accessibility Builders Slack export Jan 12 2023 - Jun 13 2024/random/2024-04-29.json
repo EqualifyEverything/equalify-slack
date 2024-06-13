@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1714393566.319069",
+        "client_msg_id": "48c465c9-b24a-465b-b580-25523e8b8337",
+        "text": "What Cinco De Mayo Piñata should I buy for Saturday? Options: <https:\/\/www.amazon.com\/s?k=pinata&amp;crid=15F8R6DB0VACU&amp;sprefix=pinata%2Caps%2C175&amp;ref=nb_sb_noss_1>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E8Uh1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What Cinco De Mayo Piñata should I buy for Saturday? Options: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/s?k=pinata&crid=15F8R6DB0VACU&sprefix=pinata%2Caps%2C175&ref=nb_sb_noss_1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1714395032.057249",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1714395070.000000"
+        },
+        "client_msg_id": "09042219-d1a7-4161-9572-eaae48d0ce04",
+        "text": "I just ordered a Starlink Roam device. If it arrives on time, people in NOLA can meet in a park or something with traditional Cinco De Mayo flavor. If Starlink doesn't arraive, I'll probably be at Petite Clouet as I am usually on Sunday. I'll have a cooler of beers - non-alcoholic and alcoholic. If you're not in NOLA or want to attend virtually, send me your address and I'll try to get a mini piñata to you in time.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9f7de",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just ordered a Starlink Roam device. If it arrives on time, people in NOLA can meet in a park or something with traditional Cinco De Mayo flavor. If Starlink doesn't arraive, I'll probably be at Petite Clouet as I am usually on Sunday. I'll have a cooler of beers - non-alcoholic and alcoholic. If you're not in NOLA or want to attend virtually, send me your address and I'll try to get a mini piñata to you in time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

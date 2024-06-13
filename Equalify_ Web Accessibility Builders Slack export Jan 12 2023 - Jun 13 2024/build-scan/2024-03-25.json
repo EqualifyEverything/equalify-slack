@@ -1,0 +1,1980 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711405291.311189",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/6880286448e6235515318744a0d283d05839e4e6|68802864>` - Add related urls and Equalifed attribute",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/60bd3a0d51e2...6880286448e6|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711405366.938079",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1711405367.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1711405366.938079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711405367.213499",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1711405367.213499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710520336,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                "text": "We are standardizing our data architecture with <https:\/\/github.com\/EqualifyEverything\/STREAM|https:\/\/github.com\/EqualifyEverything\/STREAM>\n\nI think <http:\/\/scan.equalify.app|scan.equalify.app> is the best place to handle converting results from axe-core's default output to STREAM. Is that right?\n\nI've already built the conversion logic: <https:\/\/github.com\/EqualifyEverything\/STREAM\/blob\/main\/stream-app\/converters\/axe-core.js|https:\/\/github.com\/EqualifyEverything\/STREAM\/blob\/main\/stream-app\/converters\/axe-core.js>\n\n<https:\/\/github.com\/azdak|@azdak> - if you don't have any objections to handling the conversion in `scan.equalify`, go ahead and update `\/dev` to handle it. I am refactoring the data architecture for STREAM now: <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/300|EqualifyEverything\/equalify#300>",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25|#25 Return Results in STREAM?>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/azdak|@azdak>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "2",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:25,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Return Results in STREAM?&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:25,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Return Results in STREAM?&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:25,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Return Results in STREAM?&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1711405366.938079",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1711405366.938079",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1711405367.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1711405366.938079",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1711405367.213499",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1711405367.213499"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1710520336,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                    "text": "We are standardizing our data architecture with <https:\/\/github.com\/EqualifyEverything\/STREAM|https:\/\/github.com\/EqualifyEverything\/STREAM>\n\nI think <http:\/\/scan.equalify.app|scan.equalify.app> is the best place to handle converting results from axe-core's default output to STREAM. Is that right?\n\nI've already built the conversion logic: <https:\/\/github.com\/EqualifyEverything\/STREAM\/blob\/main\/stream-app\/converters\/axe-core.js|https:\/\/github.com\/EqualifyEverything\/STREAM\/blob\/main\/stream-app\/converters\/axe-core.js>\n\n<https:\/\/github.com\/azdak|@azdak> - if you don't have any objections to handling the conversion in `scan.equalify`, go ahead and update `\/dev` to handle it. I am refactoring the data architecture for STREAM now: <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/300|EqualifyEverything\/equalify#300>",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25|#25 Return Results in STREAM?>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/azdak|@azdak>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "2",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:25,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Return Results in STREAM?&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:25,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Return Results in STREAM?&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:25,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Return Results in STREAM?&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1711405367.213499",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710520336,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/25|#25 Return Results in STREAM?>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711405412.399029",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1711405413.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1711405412.399029",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711405412.613399",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1711405412.613399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710367535,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                "text": "`<http:\/\/198.211.98.156\/dev\/generate\/url>` will process a job, even if the URL is crazy, like:\n\n```\n{\n\t\"url\" : \"<https:\/\/af.wordpress.dfdorg>\"\n}\n```\n\nThat returns this:\n\n```\n{\n    \"jobID\": \"480\"\n}\n```\n\nIdeally, it would return a message in the format of `\/generate\/sitemap\/`. Something like this:\n\n```\n{\n    \"jobs\": [],\n    \"messages\": [\n        \"No single page found, looking at <https:\/\/af.wordpress.dfdorg>\",\n    ]\n}\n```\n\nNote: `\"jobs\"` and `\"messages\"` are also presented here as an array. Even though only one job could be returned from `\/generate\/url`, it would make integrating various endpoints easier if we made the output uniform across endpoints.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24|#24 Unreachable URL and Better Single Page Failure Reporting>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/azdak|@azdak>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:24,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Unreachable URL and Better Single Page Failure Reporting&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:24,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Unreachable URL and Better Single Page Failure Reporting&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:24,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Unreachable URL and Better Single Page Failure Reporting&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1711405412.399029",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1711405412.399029",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1711405413.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1711405412.399029",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1711405412.613399",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1711405412.613399"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1710367535,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                    "text": "`<http:\/\/198.211.98.156\/dev\/generate\/url>` will process a job, even if the URL is crazy, like:\n\n```\n{\n\t\"url\" : \"<https:\/\/af.wordpress.dfdorg>\"\n}\n```\n\nThat returns this:\n\n```\n{\n    \"jobID\": \"480\"\n}\n```\n\nIdeally, it would return a message in the format of `\/generate\/sitemap\/`. Something like this:\n\n```\n{\n    \"jobs\": [],\n    \"messages\": [\n        \"No single page found, looking at <https:\/\/af.wordpress.dfdorg>\",\n    ]\n}\n```\n\nNote: `\"jobs\"` and `\"messages\"` are also presented here as an array. Even though only one job could be returned from `\/generate\/url`, it would make integrating various endpoints easier if we made the output uniform across endpoints.",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24|#24 Unreachable URL and Better Single Page Failure Reporting>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/azdak|@azdak>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "1",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:24,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Unreachable URL and Better Single Page Failure Reporting&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:24,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Unreachable URL and Better Single Page Failure Reporting&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:24,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Unreachable URL and Better Single Page Failure Reporting&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1711405412.613399",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710367535,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/24|#24 Unreachable URL and Better Single Page Failure Reporting>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711405430.801459",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1711405431.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1711405430.801459",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711405431.049179",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1711405431.049179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710189646,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                "text": "To give folks the ability to just add their website URL, we would look for a sitemap if it wasn’t supplied with the url.\n\nHere are three things before processing a sitemap:\n\n1. look to see if the url is a sitemap or sitemap index. If yes, skip the next two steps and just process the site map.\n2. If no, see if a sitemap is available at “\/sitemap.xml”. If yes, process the sitemap.\n3. If still no, look at \"\/wp-sitemap.xml\". If no, you return the error as you already do.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21|#21 Find Sitemap from Website URL>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/azdak|@azdak>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:21,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Find Sitemap from Website URL&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:21,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Find Sitemap from Website URL&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:21,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Find Sitemap from Website URL&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1711405430.801459",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1711405430.801459",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1711405431.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1711405430.801459",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1711405431.049179",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1711405431.049179"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1710189646,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                    "text": "To give folks the ability to just add their website URL, we would look for a sitemap if it wasn’t supplied with the url.\n\nHere are three things before processing a sitemap:\n\n1. look to see if the url is a sitemap or sitemap index. If yes, skip the next two steps and just process the site map.\n2. If no, see if a sitemap is available at “\/sitemap.xml”. If yes, process the sitemap.\n3. If still no, look at \"\/wp-sitemap.xml\". If no, you return the error as you already do.",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21|#21 Find Sitemap from Website URL>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/azdak|@azdak>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "enhancement",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:21,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Find Sitemap from Website URL&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:21,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Find Sitemap from Website URL&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:21,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Find Sitemap from Website URL&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1711405431.049179",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710189646,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/21|#21 Find Sitemap from Website URL>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711405456.155419",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1711405456.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1711405456.155419",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711405456.390229",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1711405456.390229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1708987703,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                "text": "*Usecase*\n\nWe want to offer quick scan results or do a rough scan of lots of pages. For instance, if we expose a test to website visitors to wow them with our scan, we don't necessarily need \"deep\" scanning using a headless browser.\n\nThis issue is meant to look into ways to provide a basic scan, similar to what axe provides with their listing service.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17|#17 Research Basic, Parser-Based Scanning for Quick Results>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/azdak|@azdak>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "7",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:17,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Research Basic, Parser-Based Scanning for Quick Results&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:17,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Research Basic, Parser-Based Scanning for Quick Results&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:17,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Research Basic, Parser-Based Scanning for Quick Results&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1711405456.155419",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1711405456.155419",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1711405456.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1711405456.155419",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1711405456.390229",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1711405456.390229"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1708987703,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/scan.equalify.app] Issue opened by bbertucc",
+                    "text": "*Usecase*\n\nWe want to offer quick scan results or do a rough scan of lots of pages. For instance, if we expose a test to website visitors to wow them with our scan, we don't necessarily need \"deep\" scanning using a headless browser.\n\nThis issue is meant to look into ways to provide a basic scan, similar to what axe provides with their listing service.",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17|#17 Research Basic, Parser-Based Scanning for Quick Results>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/azdak|@azdak>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "7",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:17,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Research Basic, Parser-Based Scanning for Quick Results&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:17,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Research Basic, Parser-Based Scanning for Quick Results&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;scan.equalify.app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:702721511,&amp;amp;quot;issueNumber&amp;amp;quot;:17,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Research Basic, Parser-Based Scanning for Quick Results&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1711405456.390229",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1708987703,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/issues\/17|#17 Research Basic, Parser-Based Scanning for Quick Results>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711405577.380579",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/134402e514d00e5ad6256ea970270e5f4812763a|134402e5>` - Add support for multiple URLs, relatedUrls, and Equalified Parameters",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/aed269df8a99...134402e514d0|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711406067.928209",
+        "client_msg_id": "0559f7ae-7e74-4d51-81ff-4c41a3fe9e5b",
+        "text": "<@U06PB2BPADB> I'm trying to figure out why the hell that last commit screwed `dev\/resultsd`",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NuTxI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm trying to figure out why the hell that last commit screwed "
+                            },
+                            {
+                                "type": "text",
+                                "text": "dev\/resultsd",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711406108.180589",
+        "client_msg_id": "ac6f3ff4-d86d-416f-9f32-ea90771753ae",
+        "text": "Any ideas? I added two minor updates to the schema and converter.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406108.180589",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1711406668.757369",
+        "reply_users": [
+            "U06PB2BPADB",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711406364.318119"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711406431.207609"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711406462.022999"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711406655.535739"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711406668.757369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711406668.757369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YbD9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any ideas? I added two minor updates to the schema and converter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711406364.318119",
+        "client_msg_id": "7a100555-ee0b-47b3-b65e-d6b5df4fa830",
+        "text": "Well, on line 11 you've reverted to the object naming issue I was talking about",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406108.180589",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56Zfd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, on line 11 you've reverted to the object naming issue I was talking about"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711406431.207609",
+        "client_msg_id": "f275ccd0-2e69-452b-bf8e-dd3807d4bb29",
+        "text": "url: axeResults.result.results.url should be axeResults.results.url",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406108.180589",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3ZZn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "url: axeResults.result.results.url should be axeResults.results.url"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711406462.022999",
+        "client_msg_id": "77b038b2-66d9-433e-a734-2fa476cd2619",
+        "text": "the `result` object is just part of the API results, not what axe spits out",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406108.180589",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "16LJJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "result",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " object is just part of the API results, not what axe spits out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711406655.535739",
+        "client_msg_id": "9e0fe832-f9e1-40b5-9013-c8b84f97fe5e",
+        "text": "Ie this function should really be taking the `result` object as an input (which contains the raw axe data), not the whole api response, which is just particular to the scan api",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406108.180589",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DWO5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ie this function should really be taking the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "result",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " object as an input (which contains the raw axe data), not the whole api response, which is just particular to the scan api"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711406668.757369",
+        "client_msg_id": "fcef0e38-9a15-48ec-b4d2-dc183c00983e",
+        "text": "ah got it",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406108.180589",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WW\/Ox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah got it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711406708.420189",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1711406708.420189",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1711408720.864889",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06PB2BPADB"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711407319.526229"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711407543.734299"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711407602.210969"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711407619.449019"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711407853.630379"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711407865.776119"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711407961.336069"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711408455.126799"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711408481.082989"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711408720.864889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711408720.864889",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/ef1173fcc352cb3fb459aea4ba74385a1783ae80|ef1173fc>` - Update axe-core.ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/134402e514d0...ef1173fcc352|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711407319.526229",
+        "client_msg_id": "d334ea60-9f4d-4381-8db9-9ddb40c127d1",
+        "text": "hmm.. still getting a 504 <@U06PB2BPADB>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oDzhj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm.. still getting a 504 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711407543.734299",
+        "client_msg_id": "b8da2f58-7fe6-46b3-8e98-b0c8aeac98cb",
+        "text": "Working on my end",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DcSH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working on my end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06QUR627PZ",
+                "created": 1711407596,
+                "timestamp": 1711407596,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06PB2BPADB",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 67772,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06QUR627PZ\/image.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06QUR627PZ\/download\/image.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_64.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_80.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_360.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360_w": 360,
+                "thumb_360_h": 195,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_480.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_480_w": 480,
+                "thumb_480_h": 260,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_160.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_720.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720_w": 720,
+                "thumb_720_h": 390,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_800.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_800_w": 800,
+                "thumb_800_h": 433,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_960.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_960_w": 960,
+                "thumb_960_h": 520,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06QUR627PZ-d5c841f51f\/image_1024.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 554,
+                "original_w": 1160,
+                "original_h": 628,
+                "thumb_tiny": "AwAZADDSoo5o\/CgBaKKKACmMrEja+0emKfRQAlH+elB6UooATP8AnFGf84paKADNFFFAH\/\/Z",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U06PB2BPADB\/F06QUR627PZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F06QUR627PZ-f17fd6788e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06PB2BPADB",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1711407602.210969",
+        "client_msg_id": "2fba56dd-dbfa-4bb0-bc46-51cb151259b9",
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL"
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711407619.449019",
+        "edited": {
+            "user": "U06PB2BPADB",
+            "ts": "1711407624.000000"
+        },
+        "client_msg_id": "8a78a63f-0163-445b-9618-98a995224288",
+        "text": "oh wait this is the results, sorry lol",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AjlDL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh wait this is the results, sorry lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711407853.630379",
+        "client_msg_id": "a45d996f-f1d7-4a34-9b42-84692076d91c",
+        "text": "'ah, it's the same issue, just also on lines 101-104:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2H5y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "'ah, it's the same issue, just also on lines 101-104:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711407865.776119",
+        "edited": {
+            "user": "U06PB2BPADB",
+            "ts": "1711407888.000000"
+        },
+        "client_msg_id": "f8623f7b-dbbc-487b-bde4-8eea4e2f2d3a",
+        "text": "```processIssues(axeResults.result.results.violations, 'violation');\n    processIssues(axeResults.result.results.incomplete, 'error');\n    if (axeResults.result.results.passes) {\n        processIssues(axeResults.result.results.passes, 'pass');```",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nOgQN",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "processIssues(axeResults.result.results.violations, 'violation');\n    processIssues(axeResults.result.results.incomplete, 'error');\n    if (axeResults.result.results.passes) {\n        processIssues(axeResults.result.results.passes, 'pass');"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711407961.336069",
+        "edited": {
+            "user": "U06PB2BPADB",
+            "ts": "1711407970.000000"
+        },
+        "client_msg_id": "545c99bd-a7ad-4aec-8f76-329e5b335b83",
+        "text": "all those calls should be `axeResults.results.whatever`, not `axeResults.result.results.whatever`",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G1yoI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "all those calls should be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "axeResults.results.whatever",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "axeResults.result.results.whatever",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711408455.126799",
+        "client_msg_id": "2468577a-2228-4bd7-a0c7-56a8c418946a",
+        "text": "btw you can ssh in as `queue-app` (normal password) and run `pm2 log` to see the realtime logs- I'll add that to the docs",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAuBu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw you can ssh in as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "queue-app",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (normal password) and run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pm2 log",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to see the realtime logs- I'll add that to the docs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711408481.082989",
+        "client_msg_id": "b31d0a68-e041-4dfd-9b63-4f52d752f8ff",
+        "text": "(also eventually going to point all the logs to <http:\/\/logz.io|logz.io>, it's on the list)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X5qWf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(also eventually going to point all the logs to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/logz.io",
+                                "text": "logz.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", it's on the list)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711408720.864889",
+        "client_msg_id": "44217b54-4d84-45f7-9d0f-a466a120f915",
+        "text": "amazing",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711406708.420189",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6rQIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "amazing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711408752.530549",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/6fb5838783b170d5c163ad05555e33d88eb7f6d4|6fb58387>` - Update axe-core.ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/ef1173fcc352...6fb5838783b1|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711408966.294229",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/c2a54165d54101d3c8f60510ebcb4b10ede44dd6|c2a54165>` - Move relatedUrlIds to node objects",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/6880286448e6...c2a54165d541|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711411394.977359",
+        "text": "\/github unsubscribe <https:\/\/github.com\/EqualifyEverything\/STREAM>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0fCI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github unsubscribe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/STREAM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "Unsubscribed from <https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+        "type": "message",
+        "ts": "1711411395.004569",
+        "bot_id": "B04LZN1SH0X",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "JPtO1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Unsubscribed from <https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                    "verbatim": false
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1712337292.923439",
+        "client_msg_id": "e40e9d39-6b05-4c6d-88f2-51652ef76792",
+        "text": "<@U06PB2BPADB> Any updates for this week?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712337292.923439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712681769.107559",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712681769.107559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1712684773.409989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KShSx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Any updates for this week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

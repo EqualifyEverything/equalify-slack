@@ -1,0 +1,48 @@
+[
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1713561228.758609",
+        "client_msg_id": "41b59d32-0127-4262-add3-913e6d031655",
+        "text": "Hi all! <@U06PKP46SMR> any updates to share for the end of this week? Thanks!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PeDIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any updates to share for the end of this week? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

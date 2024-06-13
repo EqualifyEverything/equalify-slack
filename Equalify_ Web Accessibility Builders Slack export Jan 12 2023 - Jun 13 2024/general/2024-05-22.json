@@ -1,0 +1,257 @@
+[
+    {
+        "user": "U073V4UBNHK",
+        "type": "message",
+        "ts": "1716384829.203339",
+        "client_msg_id": "e1c571ad-b0f8-45c3-884c-3e83577c030f",
+        "text": "i am using location version  and update SCAN_URL=<https:\/\/equalify.app\/post-sitemap.xml>\n\nin .env file.\n\nbut still same issue like 2024-05-22 15:31:52: Property results are not formatted correctly",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "5ce10434e8c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7136545587588_5ce10434e8c8c4cde09b_72.png",
+            "first_name": "enabled",
+            "real_name": "enabled accessibility",
+            "display_name": "enabled accessibility",
+            "team": "T04JQU0GB2Q",
+            "name": "enableda11y",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715952843.438329",
+        "parent_user_id": "U073V4UBNHK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2BIyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am using location version  and update SCAN_URL="
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/equalify.app\/post-sitemap.xml"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nin .env file.\n\nbut still same issue like 2024-05-22 15:31:52: Property results are not formatted correctly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U073V4UBNHK",
+        "type": "message",
+        "ts": "1716384895.140769",
+        "client_msg_id": "f568f809-36a9-47f5-ad7b-45a50ad25e1b",
+        "text": "and also i got a error\n\n`sudo php actions\/install.php` \n[sudo] password for dev125:\nPHP Notice:  Undefined variable: pdo in \/opt\/lampp\/htdocs\/equalify\/actions\/install.php on line 96\nPHP Fatal error:  Uncaught Error: Call to a member function query() on null in \/opt\/lampp\/htdocs\/equalify\/actions\/install.php:88\nStack trace:\n#0 \/opt\/lampp\/htdocs\/equalify\/actions\/install.php(96): checkAndCreateTable()\n#1 {main}\n  thrown in \/opt\/lampp\/htdocs\/equalify\/actions\/install.php on line 88",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "5ce10434e8c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7136545587588_5ce10434e8c8c4cde09b_72.png",
+            "first_name": "enabled",
+            "real_name": "enabled accessibility",
+            "display_name": "enabled accessibility",
+            "team": "T04JQU0GB2Q",
+            "name": "enableda11y",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715952843.438329",
+        "parent_user_id": "U073V4UBNHK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4rG8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and also i got a error\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "sudo php actions\/install.php ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n[sudo] password for dev125:\nPHP Notice:  Undefined variable: pdo in \/opt\/lampp\/htdocs\/equalify\/actions\/install.php on line 96\nPHP Fatal error:  Uncaught Error: Call to a member function query() on null in \/opt\/lampp\/htdocs\/equalify\/actions\/install.php:88\nStack trace:\n#0 \/opt\/lampp\/htdocs\/equalify\/actions\/install.php(96): checkAndCreateTable()\n#1 {main}\n  thrown in \/opt\/lampp\/htdocs\/equalify\/actions\/install.php on line 88"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716390385.819709",
+        "client_msg_id": "ba265747-7f9b-46ad-80ce-1b6bf774649e",
+        "text": "Let's hop on a call sometime <@U073V4UBNHK>. Here's my calendar link: <https:\/\/cal.com\/equalify> - not too sure what's going on.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715952843.438329",
+        "parent_user_id": "U073V4UBNHK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9SMN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's hop on a call sometime "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U073V4UBNHK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Here's my calendar link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cal.com\/equalify"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - not too sure what's going on."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716394348.963219",
+        "client_msg_id": "62e77620-581e-42d5-bcae-b6972febe7b2",
+        "text": "Created <#C074N9VQJSE|outreach> and added you <@U04J7TVCQGP>. Working on a proposal for outreach based on Monday's contributors call and plan to have this to you for feedback and critique by the end of the week.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPAtd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Created "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074N9VQJSE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and added you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Working on a proposal for outreach based on Monday's contributors call and plan to have this to you for feedback and critique by the end of the week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716395213.358789",
+        "client_msg_id": "b44ac46b-8ff4-4565-a173-f239cb91a7a5",
+        "text": "Amazing. Thank you <@U06Q2P392AU>!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lMyqy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing. Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

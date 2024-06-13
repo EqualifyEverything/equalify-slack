@@ -1,0 +1,197 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715831495.284299",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1715831629.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715831492,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue opened by heythisischris",
+                "text": "*Overview of tasks*\n\nAt the beginning of April, I was assigned a bounty to refactor &amp; migrate the Equalify API from PHP\/MySQL over to Node.js\/PostgreSQL.\n\nAlthough most of the heavy lifting has been completed, there are a few crucial endpoints that still need to be built. These include some of the most important and foundational endpoints for Equalify. I talked with <@U04J7TVCQGP> for an hour on May 13th, 2024 to better understand the remaining work (here's a Zoom recording of the talk, password is `a6HZ^mSu`: <https:\/\/us06web.zoom.us\/rec\/share\/7GJqcZDsj3w4_o_-_WRIheKpgF_4F_jDmw5ctLMeH7YEBMDIVPmXJoSyjKiZd0s.0M28uVYFATi_khH-?startTime=1715625788000|https:\/\/us06web.zoom.us\/rec\/share\/7GJqcZDsj3w4_o_-_WRIheKpgF_4F_jDmw5ctLMeH7YEBMDIVPmXJoSyjKiZd0s.0M28uVYFATi_khH-?startTime=1715625788000>). After digesting the conversation and sleeping on it a bit, I wrote out this set of requirements to complete a minimum-viable API for our v1 launch.\n\n*Add\/get scans*\n\nWe'd like to be able to kick-off a scan for a given website or sitemap. This requires initiating a scan with the `equalify-scan`, synchronously returning a `queued_scan` ID, and asynchronously waiting for a response from `equalify-scan`.\n\nOnce the scan completes, we can delete the `queued_scan` and create a result!\n\nWe'd also like to be able to return all queued scans (simple enough).\n\n*Add\/get results*\n\nWe'd like to be able to add results by digesting the output from a fulfilled `queued_scan` in our database. We'll have to digest the Equalify Schema output, replace integer IDs w\/ UUIDs, and map existing resources to their corresponding ID. This will take a small amount of brain damage.\n\nWe'd also like to be able to return results _in the Equalify Schema_! This might be difficult for extremely large datasets without some form of pagination or compression (i.e. WordPress's 0.5 GB dataset). It's crucial that we follow the schema, however, because we'd be able to integrate the API across many services and improve developer experience ten-fold.\n\nFurthermore, we want to allow developers to pass \"filters\" into the `\/get\/results` API request which narrow down results based on `propertyIds`, `urlIds`, `nodeIds`, `nodeUpdateIds`, `messageIds`, and `tagIds`. We will leverage Postgraphile to handle filtering SQL logic for us.\n\n*Tracking scans over time*\n\nWe'd like for users to be able to re-scan a website and see what issues have been \"equalified\" or \"unequalified\" over time. We'll make sure to only reference results that have their source set to `scan`, because other sources could cause conflicts (i.e. the Chrome extension or a manual audit).\n\nIf an issue that was previously \"unequalified\" no longer appears in the scan results, we will equalify it!  \nHowever, if an issue that was previous \"equalified\" suddenly appears in the scan results again, we will unequalify it.\n\nThis will be a manual process at first- eventually, we might automate this to run daily via some user-defined CRON job.\n\n*Full-featured LLM integration*\n\nThe current LLM integration is a very barebones proof-of-concept. It'll be much easier to refine\/expand once the rest of the API is built out. I intend of developing a full featured \"assistant\" which suggests code fixes to developers for a given website and set of flagged issues according to accessibility standards defined by Deque University. We'll likely want to support streamed responses. I'm even toying with the idea of fine-tuning our own OpenAI GPT-3.5-Turbo model... this could be enough of a distinct value add to encourage developers to flock over to our framework rather than copy\/pasting questions into ChatGPT themselves. We'll see.\n\n*Integrate API w\/ frontend!*\n\nI already began the process of assisting <https:\/\/github.com\/wilsuriel03|@wilsuriel03> with connecting endpoints to the new frontend. There will be quite a few new endpoints to integrate, so I'll be available and potentially contribute some code myself to assist in the process.\n\n*Checklist*\n\nRemaining tasks:\n\n☐ Complete `\/add\/results`\n☐ Complete `\/get\/results`\n☐ Complete `\/add\/scans`\n☐ Complete `\/get\/scans`\n☐ Complete `\/help`\n☐ Integrate w\/ frontend\n\n*Cost &amp; maintenance*\n\nThe requested bounty is $4,500 for the second (and final) phase of the minimum-viable API build-out.\n\nThe requested maintenance cost is $750 per month. I'll be immediately available for any issues that might arise or technical support that becomes necessary. I'll also regularly engage with the open source community and help onboard all newcomers!\n\n*Timeline*\n\nI intend to have this completed and ready for v1 usage by June 1st, 2024. I'm also earmarking a few weeks into June for inevitable debugging\/technical support during our v1 production rollout.",
+                "pretext": "Issue created by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4|#4 Complete minimum-viable API for v1 launch>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "feature",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Complete minimum-viable API for v1 launch&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Complete minimum-viable API for v1 launch&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Complete minimum-viable API for v1 launch&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1715831978.966629",
+        "client_msg_id": "df2a35e4-5a67-4aa3-bd22-1e9e849d22b5",
+        "text": "<@U04J7TVCQGP> I created a new issue in `equalify-api` with the remaining requirements for completing a v1 build of the API: <https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4>\n\nHappy to talk through or provide extra details on anything. If all looks good, I'll continue chugging along!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715831978.966629",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1715968797.188679",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06P7AP2R38"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715968152.791199"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1715968797.188679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715968797.188679",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715831492,
+                "color": "36a64f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#4 Complete minimum-viable API for v1 launch",
+                "text": "*Overview of tasks*\n\nAt the beginning of April, I was assigned a bounty to refactor & migrate the Equalify API from PHP\/MySQL over to Node.js\/PostgreSQL.\n\nAlthough most of the heavy lifting has been completed, there are a few crucial endpoints that still need to be built. These include some of the most important and foundational endpoints for Equalify. I talked with <https:\/\/github.com\/bbertucc|@bbertucc> for an hour on May 13th, 2024 to better understand the remaining work (here's a Zoom recording of the talk, password is `a6HZ^mSu`: <https:\/\/us06web.zoom.us\/rec\/share\/7GJqcZDsj3w4_o_-_WRIheKpgF_4F_jDmw5ctLMeH7YEBMDIVPmXJoSyjKiZd0s.0M28uVYFATi_khH-?startTime=1715625788000|https:\/\/us06web.zoom.us\/rec\/share\/7GJqcZDsj3w4_o_-_WRIheKpgF_4F_jDmw5ctLMeH7YEBMDIVPmXJoSyjKiZd0s.0M28uVYFATi_khH-?startTime=1715625788000>). After digesting the conversation and sleeping on it a bit, I wrote out this set of requirements to complete a minimum-viable API for our v1 launch.\n\n*Add\/get scans*\n\nWe'd like to be able to kick-off a scan for a given website or sitemap. This requires initiating a scan with the `equalify-scan`, synchronously returning a `queued_scan` ID, and asynchronously waiting for a response from `equalify-scan`.\n\nOnce the scan completes, we can delete the `queued_scan` and create a result!\n\nWe'd also like to be able to return all queued scans (simple enough).\n\n*Add\/get results*\n\nWe'd like to be able to add results by digesting the output from a fulfilled `queued_scan` in our database. We'll have to digest the Equalify Schema output, replace integer IDs w\/ UUIDs, and map existing resources to their corresponding ID. This will take a small amount of brain damage.\n\nWe'd also like to be able to return results _in the Equalify Schema_! This might be difficult for extremely large datasets without some form of pagination or compression (i.e. WordPress's 0.5 GB dataset). It's crucial that we follow the schema, however, because we'd be able to integrate the API across many services and improve developer experience ten-fold.\n\nFurthermore, we want to allow developers to pass \"filters\" into the `\/get\/results` API request which narrow down results based on `propertyIds`, `urlIds`, `nodeIds`, `nodeUpdateIds`, `messageIds`, and `tagIds`. We will leverage Postgraphile to handle filtering SQL logic for us.\n\n*Tracking scans over time*\n\nWe'd like for users to be able to re-scan a website and see what issues have been \"equalified\" or \"unequalified\" over time. We'll make sure to only reference results that have their source set to `scan`, because other sources could cause conflicts (i.e. the Chrome extension or a manual audit).\n\nIf an issue that was previously \"unequalified\" no longer appears in the scan results, we will equalify it!  \nHowever, if an issue that was previous \"equalified\" suddenly appears in the scan results again, we will unequalify it.\n\nThis will be a manual process at first- eventually, we might automate this to run daily via some user-defined CRON job.\n\n*Full-featured LLM integration*\n\nThe current LLM integration is a very barebones proof-of-concept. It'll be much easier to refine\/expand once the rest of the API is built out. I intend of developing a full featured \"assistant\" which suggests code fixes to developers for a given website and set of flagged issues according to accessibility standards defined by Deque University. We'll likely want to support streamed responses. I'm even toying with the idea of fine-tuning our own OpenAI GPT-3.5-Turbo model... this could be enough of a distinct value add to encourage developers to flock over to our framework rather than copy\/pasting questions into ChatGPT themselves. We'll see.\n\n*Integrate API w\/ frontend!*\n\nI already began the process of assisting <https:\/\/github.com\/wilsuriel03|@wilsuriel03> with connecting endpoints to the new frontend. There will be quite a few new endpoints to integrate, so I'll be available and potentially contribute some code myself to assist in the process.\n\n*Checklist*\n\nRemaining tasks:\n\n☐ Complete `\/add\/results`\n☐ Complete `\/get\/results`\n☐ Complete `\/add\/scans`\n☐ Complete `\/get\/scans`\n☐ Complete `\/help`\n☐ Integrate w\/ frontend\n\n*Cost & maintenance*\n\nThe requested bounty is $4,500 for the second (and final) phase of the minimum-viable API build-out.\n\nThe requested maintenance cost is $750 per month. I'll be immediately available for any issues that might arise or technical support that becomes necessary. I'll also regularly engage with the open source community and help onboard all newcomers!\n\n*Timeline*\n\nI intend to have this completed and ready for v1 usage by June 1st, 2024. I'm also earmarking a few weeks into June for inevitable debugging\/technical support during our v1 production rollout.",
+                "title": "#4 Complete minimum-viable API for v1 launch",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "feature",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IHGfr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I created a new issue in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "equalify-api",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the remaining requirements for completing a v1 build of the API: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHappy to talk through or provide extra details on anything. If all looks good, I'll continue chugging along!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

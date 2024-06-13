@@ -1,0 +1,624 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718199286.971199",
+        "client_msg_id": "03c4c0f8-ba2a-4a8b-b2a3-9c3d0134d0a1",
+        "text": "Created the <#C077S8PRKEF|management> channel, mostly to link the handbook repo to Slack. There should be as little management of this project as possible in my mind, so I take any activity there as a personal failure.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9V7rO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Created the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C077S8PRKEF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel, mostly to link the handbook repo to Slack. There should be as little management of this project as possible in my mind, so I take any activity there as a personal failure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718201707.899009",
+        "client_msg_id": "7d5dd4ae-a1b1-4ea0-80bb-727aa0409e61",
+        "text": "Thanks <@U04J7TVCQGP>--this is super helpful! Understood re testing and awaiting <@U06TJNUDNLA>'s fixes. For today's meeting, wanna review the initial outreach to the braintrust\/our contacts. Maybe those are different\/maybe not braintrust vs individuals? I think they need to be tailored to th eperson--copy and paste with tweeks? Discuss the meeting with Adrian: what are our goals; what do we wanna get out of that call; and then I will work on the agenda. I like the idea of the idea of using the GitHub repo. I think there's a way to post an issue with tasks that can be unchecked until they're completed and then mark them checked. I've seen this with some of our past tickets. Sorry if not making sense, just a braindump here but will have more later.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718107948.143249",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Om7A6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "--this is super helpful! Understood re testing and awaiting "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s fixes. For today's meeting, wanna review the initial outreach to the braintrust\/our contacts. Maybe those are different\/maybe not braintrust vs individuals? I think they need to be tailored to th eperson--copy and paste with tweeks? Discuss the meeting with Adrian: what are our goals; what do we wanna get out of that call; and then I will work on the agenda. I like the idea of the idea of using the GitHub repo. I think there's a way to post an issue with tasks that can be unchecked until they're completed and then mark them checked. I've seen this with some of our past tickets. Sorry if not making sense, just a braindump here but will have more later."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718208075.463369",
+        "client_msg_id": "57ce4f8c-125c-4d3c-a362-e2562e5739d0",
+        "text": "Here's a <https:\/\/drive.google.com\/drive\/folders\/1oHDq_NnA2JN2LwtLSy4PF4VJw-fHEmWN?usp=sharing|Google Drive folder> I created this morning that will be used for collaboration and other things that folks may or may not find useful and will contain brain dumps, meeting notes, recordings, etc in the coming weeks and months. I'm very accustomed to the Google ecosystem for better or worse. Will also make use of GitHub and continue to post links here on an ongoing basis.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiPmu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1oHDq_NnA2JN2LwtLSy4PF4VJw-fHEmWN?usp=sharing",
+                                "text": "Google Drive folder"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I created this morning that will be used for collaboration and other things that folks may or may not find useful and will contain brain dumps, meeting notes, recordings, etc in the coming weeks and months. I'm very accustomed to the Google ecosystem for better or worse. Will also make use of GitHub and continue to post links here on an ongoing basis."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718209960.556549",
+        "client_msg_id": "f0804f0d-d518-4208-90f0-4c768cb64040",
+        "text": "Love it all <@U06Q2P392AU>. Let's do everything you menioned!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718107948.143249",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mvd8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love it all "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Let's do everything you menioned!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718211973.617019",
+        "client_msg_id": "6c7b56fd-4725-4820-8b2c-7895265af332",
+        "text": "Thanks <@U06Q2P392AU>! I bookmarked that in <#C074N9VQJSE|outreach> and added a link for it to our Outreach repo here: <https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/README.md>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gcZLs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I bookmarked that in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074N9VQJSE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and added a link for it to our Outreach repo here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/README.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718221085.914909",
+        "client_msg_id": "f5d66152-3824-4831-bdd3-f0735a666a1e",
+        "text": "*Agenda for 6\/17 Contributor Meeting:* There's a lot of updates this week, so I want to start this thread for the next contributor meeting. We'll go through each project, as we always do, but we'll also discuss any topics added to this thread from now until the meeting.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718221085.914909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718221190.720649",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718221190.720649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718221190.720649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zrT3k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agenda for 6\/17 Contributor Meeting: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "There's a lot of updates this week, so I want to start this thread for the next contributor meeting. We'll go through each project, as we always do, but we'll also discuss any topics added to this thread from now until the meeting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718221190.720649",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1718248950.000000"
+        },
+        "client_msg_id": "94617a5c-e696-4b7c-a506-5cfc6da497fe",
+        "text": "A few items from me:\n• Budget Update: Forgot to introduce you all to the budget. I did a lot of work on highly speculative numbers that I would love to share you on.\n• <https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/TARGETS.md|Outreach Targets>\n• Handbook Update - Added a few things to address <@U06PB2BPADB> questions that hopefully wrap up CLAs for everyone.\n• Scheduling update: To streamline development, I want to make sure we have a schedule.\n• Outreach update: Lots of stuff here! We'll walk through our projects page.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718221085.914909",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h0gaD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A few items from me:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Budget Update: Forgot to introduce you all to the budget. I did a lot of work on highly speculative numbers that I would love to share you on."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/TARGETS.md",
+                                        "text": "Outreach Targets"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Handbook Update - Added a few things to address "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PB2BPADB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " questions that hopefully wrap up CLAs for everyone."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Scheduling update: To streamline development, I want to make sure we have a schedule."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Outreach update: Lots of stuff here! We'll walk through our projects page."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718234067.830319",
+        "client_msg_id": "bcee51c2-1a89-4af0-9a93-eaa4a7ec0d12",
+        "text": "Here are the <https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2#issuecomment-2164040064|notes> from the call with <@U04J7TVCQGP>, Jesse Sookne, and I earlier this afternoon about the LinkedIn push we're doing. TL;DR: Engage with LinkedIn posts immediately after publishing, focusing on comments, dwell time, and profile views to boost algorithm favorability. Though not required, Buffer can help ensure consistent scheduling. Also, share engagement data, and ensure team members adhere to their designated engagement days.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718234067.830319",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1718242235.733169",
+        "reply_users": [
+            "U06Q2P392AU",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1718234278.831109"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718242235.733169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718242235.733169",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1718233764,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2#issuecomment-2164040064",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Comment on #2 LinkedIn Outreach",
+                "text": "Jesse, <https:\/\/github.com\/bbertucc|@bbertucc>, and I met this afternoon. Very good discussion. Here's what happened:\n\n• Engage immediately after a post is published to emphasize its importance.\n• Encourage comments on new posts; LinkedIn's algorithm favors comments.\n• Monitor dwell time (how long the post remains on screen) to gauge reading interest.\n• Track profile views generated by posts; LinkedIn prefers posts that drive profile visits.\n• Establish a consistent posting time.\n• Use Buffer, if you want, to help automate post scheduling at specific times.\n• Share insights and data about LinkedIn’s engagement strategies with the team as we proceed in the ocming weeks.\n• Engagement responsibilities:\n    • Kevin: Engage Monday and Wednesday, at least twice a week, at noon Eastern\/11 Central.\n    • Blake: Same.\n    • Jesse: Engage five days a week.\n• Blake will seek feedback on the a11y-marketing channel without requiring responses.",
+                "title": "Comment on #2 LinkedIn Outreach",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2#issuecomment-2164040064",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach|EqualifyEverything\/equalify-outreach>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtLm6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2#issuecomment-2164040064",
+                                "text": "notes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from the call with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Jesse Sookne, and I earlier this afternoon about the LinkedIn push we're doing. TL;DR: Engage with LinkedIn posts immediately after publishing, focusing on comments, dwell time, and profile views to boost algorithm favorability. Though not required, Buffer can help ensure consistent scheduling. Also, share engagement data, and ensure team members adhere to their designated engagement days."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718234278.831109",
+        "client_msg_id": "5f7595a7-8936-48d8-8d0e-d3d43f6f9f77",
+        "text": "Also if this should actually be in <#C074N9VQJSE|outreach>, apologies, <@U04J7TVCQGP>..",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718234067.830319",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VtAnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also if this should actually be in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074N9VQJSE"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", apologies, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718242235.733169",
+        "client_msg_id": "68712BA3-C67D-4D1B-8C0A-6D8CF1B9C8CD",
+        "text": "Thanks Kevin! I do think stuff like this should be in <#C074N9VQJSE|outreach> but it’s great to have it anywhere!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718234067.830319",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s9rMc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Kevin! I do think stuff like this should be in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074N9VQJSE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but it’s great to have it anywhere!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

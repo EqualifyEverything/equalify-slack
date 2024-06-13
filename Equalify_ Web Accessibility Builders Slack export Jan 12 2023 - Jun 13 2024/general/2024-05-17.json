@@ -1,0 +1,437 @@
+[
+    {
+        "user": "U073V4UBNHK",
+        "type": "message",
+        "ts": "1715945382.288579",
+        "client_msg_id": "63762d07-78f2-4ef9-a7b2-5bcee7c79044",
+        "text": "How to install in xampp in Ubuntu",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "5ce10434e8c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7136545587588_5ce10434e8c8c4cde09b_72.png",
+            "first_name": "enabled",
+            "real_name": "enabled accessibility",
+            "display_name": "enabled accessibility",
+            "team": "T04JQU0GB2Q",
+            "name": "enableda11y",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715945382.288579",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1715952962.868239",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U073V4UBNHK"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715949158.016889"
+            },
+            {
+                "user": "U073V4UBNHK",
+                "ts": "1715952962.868239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715952962.868239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "od3Z4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How to install in xampp in Ubuntu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715949158.016889",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1715949169.000000"
+        },
+        "client_msg_id": "3D6F34EA-B58A-41AA-AB73-CA1C02551079",
+        "text": "I’ve never done that before. Highly suggest ddev as an alternative. The guy who created it is also friendly to giving support on the ddev GitHub when any support requests pop up. Here is the link to ddev: <https:\/\/ddev.readthedocs.io\/en\/stable\/|https:\/\/ddev.readthedocs.io\/en\/stable\/>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715945382.288579",
+        "parent_user_id": "U073V4UBNHK",
+        "attachments": [
+            {
+                "from_url": "https:\/\/ddev.readthedocs.io\/en\/stable\/",
+                "service_icon": "https:\/\/ddev.readthedocs.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/ddev.readthedocs.io\/en\/stable\/",
+                "fallback": "Get Started with DDEV - DDEV Docs",
+                "text": "Do local website development on your computer or in the cloud with DDEV.",
+                "title": "Get Started with DDEV - DDEV Docs",
+                "title_link": "https:\/\/ddev.readthedocs.io\/en\/stable\/",
+                "service_name": "ddev.readthedocs.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCxWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve never done that before. Highly suggest ddev as an alternative. The guy who created it is also friendly to giving support on the ddev GitHub when any support requests pop up. Here is the link to ddev: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ddev.readthedocs.io\/en\/stable\/",
+                                "text": "https:\/\/ddev.readthedocs.io\/en\/stable\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U073V4UBNHK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1715949674.067649",
+        "text": "\n<https:\/\/news.ycombinator.com\/item?id=40379599>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4zG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.ycombinator.com\/item?id=40379599"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U073V4UBNHK",
+        "type": "message",
+        "ts": "1715952843.438329",
+        "client_msg_id": "5e61cd56-cdc2-42ef-8405-c295863ce102",
+        "text": "Property results are not formatted correctly - XML  sitemap. How to resolve",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "5ce10434e8c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7136545587588_5ce10434e8c8c4cde09b_72.png",
+            "first_name": "enabled",
+            "real_name": "enabled accessibility",
+            "display_name": "enabled accessibility",
+            "team": "T04JQU0GB2Q",
+            "name": "enableda11y",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715952843.438329",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1716390385.819709",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U073V4UBNHK"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715956195.294759"
+            },
+            {
+                "user": "U073V4UBNHK",
+                "ts": "1716296647.805279"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716307977.423259"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716308003.857069"
+            },
+            {
+                "user": "U073V4UBNHK",
+                "ts": "1716384829.203339"
+            },
+            {
+                "user": "U073V4UBNHK",
+                "ts": "1716384895.140769"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716390385.819709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716390385.819709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKMad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Property results are not formatted correctly - XML  sitemap. How to resolve"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U073V4UBNHK",
+        "type": "message",
+        "ts": "1715952962.868239",
+        "client_msg_id": "7348a7d4-9ad6-42e8-8075-0c659550dc35",
+        "text": "Thank you. Installed successfully in XAMPP Ubuntu.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "5ce10434e8c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7136545587588_5ce10434e8c8c4cde09b_72.png",
+            "first_name": "enabled",
+            "real_name": "enabled accessibility",
+            "display_name": "enabled accessibility",
+            "team": "T04JQU0GB2Q",
+            "name": "enableda11y",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715945382.288579",
+        "parent_user_id": "U073V4UBNHK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VMnOw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you. Installed successfully in XAMPP Ubuntu."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U073V4UBNHK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715956195.294759",
+        "client_msg_id": "9EC7BBE1-6501-4D64-9515-73DC7F611795",
+        "text": "What’s the URL of the site map you’re using?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715952843.438329",
+        "parent_user_id": "U073V4UBNHK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85F2q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the URL of the site map "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " using?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715969485.766429",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1716115062.000000"
+        },
+        "client_msg_id": "5afd8361-6904-44ac-bd8e-31e7d85f72cb",
+        "text": "<!channel> We're going to start a weekly contributor meeting. This meeting is for current contributors and people who want to contribute. Every meeting, we'll look at our project board and set goals to reach by next week. All are welcome to join. Mondays at 11:11 AM.\n\nFeel free to register for events on our Luma calendar: <https:\/\/lu.ma\/equalify>. Our Zoom link will be this: <https:\/\/us06web.zoom.us\/j\/84549758489?pwd=THoSX0e1aedZkx559TKfn5vpo5aXin.1>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715969485.766429",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1716177713.060309",
+        "reply_users": [
+            "U06Q2P392AU",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1716164229.850729"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716177713.060309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716177713.060309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ciMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We're going to start a weekly contributor meeting. This meeting is for current contributors and people who want to contribute. Every meeting, we'll look at our project board and set goals to reach by next week. All are welcome to join. Mondays at 11:11 AM.\n\nFeel free to register for events on our Luma calendar: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lu.ma\/equalify"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Our Zoom link will be this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/84549758489?pwd=THoSX0e1aedZkx559TKfn5vpo5aXin.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

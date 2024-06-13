@@ -1,0 +1,17 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1711996570.884569"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06P7AP2R38",
+        "text": "<@U06P7AP2R38> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711996575.109689"
+    }
+]

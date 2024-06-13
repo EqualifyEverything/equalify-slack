@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1716582218.014199",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/monitor.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/2b556c0f0ac840f9403c6f29a8a902122e91d48f|2b556c0f>` - Cleanup up add\/ response JSON, added documentation",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/compare\/97317f203a17...2b556c0f0ac8|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app|EqualifyEverything\/monitor.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1716595397.271549",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/monitor.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/0eb942f1c321b1c8ca153cd04d6ed8920a6f94b8|0eb942f1>` - Finished alpha of check\/, added to docs",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/compare\/2b556c0f0ac8...0eb942f1c321|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app|EqualifyEverything\/monitor.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

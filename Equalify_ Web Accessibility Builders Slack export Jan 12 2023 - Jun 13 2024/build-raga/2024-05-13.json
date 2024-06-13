@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715635841.812139",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-raga] 5 new commits pushed to _master_ by hcwiley",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/cb52f8f5174aecb44e84ac39885cf3bdf97e3bfb|cb52f8f5>` - fix: ensure public dir exists\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/9e61454867c9f1fd6e8a4f03ccecd2d7c8f14393|9e614548>` - fix: support images from import in tsx\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/1398039c7489c9854e416c22d11acd5a45c9b178|1398039c>` - feat: add storage permissions\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/bf109d162a364517274e9fd4e9abdb7472a84510|bf109d16>` - feat: add AuthProvider and user object\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/a4405a7d9b074b2d124a5c12a5aa2334857dbf48|a4405a7d>` - feat: add hot key to clear storage",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/compare\/e9d1f527bbff...a4405a7d9b07|5 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/tree\/master|master>` by <https:\/\/github.com\/hcwiley|hcwiley>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga|EqualifyEverything\/equalify-raga>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

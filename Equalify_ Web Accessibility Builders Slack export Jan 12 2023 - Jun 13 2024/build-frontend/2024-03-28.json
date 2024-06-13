@@ -1,0 +1,142 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06Q2P392AU",
+        "text": "<@U06Q2P392AU> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711635799.093759"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711635899.285189",
+        "client_msg_id": "7d0c308f-098c-4c41-a6fd-e23021814f4b",
+        "text": "<@U06PSPPSTLZ> - I'm adding <@U06Q2P392AU> here. He can perform user testing once you have a working version up.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2dEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PSPPSTLZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I'm adding "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here. He can perform user testing once you have a working version up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711635909.904699",
+        "client_msg_id": "2b90a539-3db4-469b-9409-db9ee0b5e5d2",
+        "text": "<@U06Q2P392AU> feel free to  directly communicate any issues with <@U06PSPPSTLZ> while I'm away. I just added you to the repo that's related to this project where issues can be logged. <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/equalify-frontend",
+                "text": "The Equalify Frontend",
+                "title": "EqualifyEverything\/equalify-frontend",
+                "fields": [
+                    {
+                        "value": "17 hours ago",
+                        "title": "Last updated",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HasQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " feel free to  directly communicate any issues with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PSPPSTLZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " while I'm away. I just added you to the repo that's related to this project where issues can be logged. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PDVC4P7C",
+        "text": "<@U06PDVC4P7C> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711651433.210039"
+    }
+]

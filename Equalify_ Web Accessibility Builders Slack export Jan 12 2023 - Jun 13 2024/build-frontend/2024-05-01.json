@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Adding a PDF with awesome usability testing from <@U06RHR4JVA8>. He did a wonderful job reviewing our existing system. I know things are a bit scattered since I've been away. I fully intend to review this doc and come up with actionable steps once I get through the 300+ emails that are waiting for me.",
+        "files": [
+            {
+                "id": "F071JGVCGFM",
+                "created": 1714582090,
+                "timestamp": 1714582090,
+                "name": "Equalify - Blake Discussion Copy - April 16 2024 - indicative Initial Example - NOT FOR PUBLIC DISTRIBUTION.pdf",
+                "title": "Equalify - Blake Discussion Copy - April 16 2024 - indicative Initial Example - NOT FOR PUBLIC DISTRIBUTION.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 85507,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F071JGVCGFM\/equalify_-_blake_discussion_copy_-_april_16_2024_-_indicative_initial_example_-_not_for_public_distribution.pdf?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F071JGVCGFM\/download\/equalify_-_blake_discussion_copy_-_april_16_2024_-_indicative_initial_example_-_not_for_public_distribution.pdf?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F071JGVCGFM-54edc442fc\/equalify_-_blake_discussion_copy_-_april_16_2024_-_indicative_initial_example_-_not_for_public_distribution_thumb_pdf.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F071JGVCGFM\/equalify_-_blake_discussion_copy_-_april_16_2024_-_indicative_initial_example_-_not_for_public_distribution.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F071JGVCGFM-e208087f40",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Va1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding a PDF with awesome usability testing from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06RHR4JVA8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". He did a wonderful job reviewing our existing system. I know things are a bit scattered since I've been away. I fully intend to review this doc and come up with actionable steps once I get through the 300+ emails that are waiting for me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714582333.454839",
+        "client_msg_id": "ce6ac033-03f0-4462-b71c-e85134c03290",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06T3BYNLCV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

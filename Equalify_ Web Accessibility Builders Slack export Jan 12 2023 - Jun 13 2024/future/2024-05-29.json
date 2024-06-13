@@ -1,0 +1,153 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06PDVC4P7C",
+        "text": "<@U06PDVC4P7C> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717001950.314899"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717002010.299199",
+        "client_msg_id": "27214578-799f-4449-b776-7956005b2d07",
+        "text": "<@U06PDVC4P7C> has been doing some cool work analyzing WordPress issues that Equalify finds. Check it out: <https:\/\/jwgoedert.notion.site\/Equalify-Data-Visualization-and-Overview-79a06284e38d46c9a50c0c7929d0f71e>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717002010.299199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717002057.650589",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717002057.650589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1717002057.650589",
+        "attachments": [
+            {
+                "from_url": "https:\/\/jwgoedert.notion.site\/Equalify-Data-Visualization-and-Overview-79a06284e38d46c9a50c0c7929d0f71e",
+                "image_url": "https:\/\/jwgoedert.notion.site\/image\/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fcb803544-2d83-4a7a-bef1-cb7462dabd5a%2F40e347f1-28ec-48f9-8833-7e3132b7235e%2FEqualifyHeatmap.png?table=block&id=79a06284-e38d-46c9-a50c-0c7929d0f71e&spaceId=cb803544-2d83-4a7a-bef1-cb7462dabd5a&width=2000&userId=&cache=v2",
+                "image_width": 2000,
+                "image_height": 1181,
+                "image_bytes": 518664,
+                "service_icon": "https:\/\/jwgoedert.notion.site\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/jwgoedert.notion.site\/Equalify-Data-Visualization-and-Overview-79a06284e38d46c9a50c0c7929d0f71e",
+                "fallback": "James Wesley Goedert on Notion: Equalify: Data Visualization and Overview  | Notion",
+                "text": "Table of Contents",
+                "title": "Equalify: Data Visualization and Overview  | Notion",
+                "title_link": "https:\/\/jwgoedert.notion.site\/Equalify-Data-Visualization-and-Overview-79a06284e38d46c9a50c0c7929d0f71e",
+                "service_name": "James Wesley Goedert on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gssOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PDVC4P7C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has been doing some cool work analyzing WordPress issues that Equalify finds. Check it out: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jwgoedert.notion.site\/Equalify-Data-Visualization-and-Overview-79a06284e38d46c9a50c0c7929d0f71e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717002057.650589",
+        "client_msg_id": "bc46d484-ecd1-4b10-bf45-c308157d90a3",
+        "text": "Maybe <@U06PDVC4P7C> can talk a bit more about what he is doing? <@U06TJNUDNLA> this might be good data for you to look at, as we think about future designs after we get Version 1 up.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717002010.299199",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+2vSR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PDVC4P7C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can talk a bit more about what he is doing? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this might be good data for you to look at, as we think about future designs after we get Version 1 up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06TJNUDNLA",
+        "text": "<@U06TJNUDNLA> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717002085.226769"
+    }
+]

@@ -1,0 +1,795 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718110488.484179",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1718114654.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1718110488.484179",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1718114648.733349",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06TJNUDNLA",
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718110556.173029"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1718112332.987459"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1718112361.679489"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1718112379.220989"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718112390.473669"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718112781.146569"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1718113061.731019"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1718113245.658149"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718113391.424429"
+            },
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1718114648.733349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718114648.733349",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1718110486,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by bbertucc",
+                "text": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03> Kevin and I are putting together a demo of Equalify. Looking through things, I noticed the following:\n\n☐ Clicking report \"Accessibility Audit 1\", then clicking any tag (except tag 1) leads to different reports not tags.\n☐ Clicking any URL in a report leads to an undefined page.\n☐ The report settings is not found\n☐ Can't update sitemap URL after adding a property\n☐ Clicking \"Create Report\" after creating a report and selecting filters leads to a 404 page.\n☐ Active should be a red line on the chart. It's helpful to tell people we're reducing the red line and increasing the green line.\n\n*Also, one question:* Where can I update the sample data? I want to add some real problems and code snippets.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23|#23 Prepare Frontend For Demo>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:23,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Prepare Frontend For Demo&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:23,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Prepare Frontend For Demo&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:23,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Prepare Frontend For Demo&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718110556.173029",
+        "client_msg_id": "b8daa7e8-e719-44c3-8fb6-e3cd093b7ced",
+        "text": "Hey <@U06TJNUDNLA> - Kevin and I are planning on recording a preview demo. What do you think you can address these little issues? We'll schedule our demo around your work.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ANIT\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Kevin and I are planning on recording a preview demo. What do you think you can address these little issues? We'll schedule our demo around your work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1718112332.987459",
+        "client_msg_id": "07A2C559-EF4F-45DE-B77C-D265EA0C992C",
+        "text": "Hey <@U04J7TVCQGP> as you know this issues requires the api to be done",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jtIUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as you know this issues requires the api to be done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1718112361.679489",
+        "client_msg_id": "7D04F0BB-017C-46A7-A77B-E119E432909E",
+        "text": "What u tested seems to be the routes with mocked data",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxRDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What u tested seems to be the routes with mocked data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1718112379.220989",
+        "client_msg_id": "E71A4DF1-0D82-4439-B66F-BCDE5B1C2BB2",
+        "text": "Also what environment are you testing on?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nw+Hq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also what environment are you testing on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718112390.473669",
+        "client_msg_id": "c3065b8f-cfde-4806-9cdf-8ef2054adb77",
+        "text": "<https:\/\/staging.equalify.dev\/reports>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YE3aa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/staging.equalify.dev\/reports"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718112781.146569",
+        "client_msg_id": "05939d4f-1354-4bbd-bfa8-136735809abf",
+        "text": "Is there anything on that list that isn't blocked by the API being completed? I don't want to create busy work for you, but maybe there's stuff that doesn't need the API?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "doIay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there anything on that list that isn't blocked by the API being completed? I don't want to create busy work for you, but maybe there's stuff that doesn't need the API?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1718113061.731019",
+        "client_msg_id": "E74BCA1A-13B7-4AA5-A1EE-FD017840A4CE",
+        "text": "Everything related to the reports, report details, including the messages page, the tags page etc is part of what Chris is working on . As far as I know Chris have not communicated to me that they are done. And as for the update he gave yesterday on the contributors call he said it’s work in progress.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKhEK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everything related to the reports, report details, including the messages page, the tags page etc is part of what Chris is working on . As far as I know Chris have not communicated to me that they are done. And as for the update he gave yesterday on the contributors call he said "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " work in progress"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1718113245.658149",
+        "client_msg_id": "8E40D778-F893-4BEC-A56D-47E3841CB107",
+        "text": "As for “can’t update sitemapurl after adding a property” seems like there were some changes to the front end not from me. So I will have to fix and merge.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWXaP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As for “"
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " update sitemapurl after adding a property” seems like "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there"
+                            },
+                            {
+                                "type": "text",
+                                "text": " were some changes to the front end not from me. So I will have to fix and merge."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718113391.424429",
+        "client_msg_id": "cc11e985-15d7-4489-a120-cea57c5df613",
+        "text": "Appreciate that <@U06TJNUDNLA>! I will close that issue and hold off on doing the demo until the frontend is hooked into the API. <@U06P7AP2R38> said the results should be done this week.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718110488.484179",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "35IaE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Appreciate that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I will close that issue and hold off on doing the demo until the frontend is hooked into the API. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said the results should be done this week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718114205.621009",
+        "client_msg_id": "f355832c-41f6-4a32-b8a9-6272c21b2336",
+        "text": "So we can avoid adding lots of issues before the frontend is done, *could we set a date when we review the frontend?*\n\nThis will help us plan things like our demo video. We will have to work from the API, so <@U06P7AP2R38> would you be able to have a date for when we have the endpoints <@U06TJNUDNLA> needs? Then <@U06TJNUDNLA>, can you give me a date after Chris for when we can review? Then I'll schedule a bit of time for fixes.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0+t1u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So we can avoid adding lots of issues before the frontend is done, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "could we set a date when we review the frontend?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis will help us plan things like our demo video. We will have to work from the API, so "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would you be able to have a date for when we have the endpoints "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " needs? Then "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", can you give me a date after Chris for when we can review? Then I'll schedule a bit of time for fixes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1718110488.484179",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1718110488.484179",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1718114654.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1718110488.484179",
+            "reply_count": 10,
+            "reply_users_count": 3,
+            "latest_reply": "1718114648.733349",
+            "reply_users": [
+                "U04J7TVCQGP",
+                "U06TJNUDNLA",
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1718110556.173029"
+                },
+                {
+                    "user": "U06TJNUDNLA",
+                    "ts": "1718112332.987459"
+                },
+                {
+                    "user": "U06TJNUDNLA",
+                    "ts": "1718112361.679489"
+                },
+                {
+                    "user": "U06TJNUDNLA",
+                    "ts": "1718112379.220989"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1718112390.473669"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1718112781.146569"
+                },
+                {
+                    "user": "U06TJNUDNLA",
+                    "ts": "1718113061.731019"
+                },
+                {
+                    "user": "U06TJNUDNLA",
+                    "ts": "1718113245.658149"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1718113391.424429"
+                },
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1718114648.733349"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1718114648.733349",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1718110486,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by bbertucc",
+                    "text": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03> Kevin and I are putting together a demo of Equalify. Looking through things, I noticed the following:\n\n☐ Clicking report \"Accessibility Audit 1\", then clicking any tag (except tag 1) leads to different reports not tags.\n☐ Clicking any URL in a report leads to an undefined page.\n☐ The report settings is not found\n☐ Can't update sitemap URL after adding a property\n☐ Clicking \"Create Report\" after creating a report and selecting filters leads to a 404 page.\n☐ Active should be a red line on the chart. It's helpful to tell people we're reducing the red line and increasing the green line.\n\n*Also, one question:* Where can I update the sample data? I want to add some real problems and code snippets.",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23|#23 Prepare Frontend For Demo>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "1",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:23,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Prepare Frontend For Demo&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:23,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Prepare Frontend For Demo&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:23,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Prepare Frontend For Demo&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1718114648.733349",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1718110486,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23|#23 Prepare Frontend For Demo>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    }
+]

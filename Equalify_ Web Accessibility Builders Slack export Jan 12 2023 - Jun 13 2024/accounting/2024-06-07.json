@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717774866.467819",
+        "client_msg_id": "81b19f3a-d88e-4bc8-bbf7-31b61ab25b93",
+        "text": "<@U04J7TVCQGP> Hey, just an FYI, still nothing hit my account re the June <#C074N9VQJSE|outreach> payment.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "16YRm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey, just an FYI, still nothing hit my account re the June "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074N9VQJSE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " payment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717781567.312449",
+        "client_msg_id": "326aa35a-89e9-45b3-80f1-00e80dafc72a",
+        "text": "Thanks <@U06Q2P392AU>. Looks like I missed a step. Just re-initiated it! Gusto says it should arrive by June 11.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717781567.312449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718111603.815099",
+        "reply_users": [
+            "U06Q2P392AU"
+        ],
+        "replies": [
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1718111603.815099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718111603.815099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFt5+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Looks like I missed a step. Just re-initiated it! Gusto says it should arrive by June 11."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717784448.343709",
+        "client_msg_id": "A3C425F4-AC30-4D95-991A-5084A5220209",
+        "text": "<@U04J7TVCQGP> no problem thank you!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZLOty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no problem thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

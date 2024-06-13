@@ -1,0 +1,338 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06Q2P392AU",
+        "text": "<@U06Q2P392AU> has joined the channel",
+        "type": "message",
+        "ts": "1716394253.638689"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "inviter": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716394270.814629"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716395230.755429",
+        "client_msg_id": "42a6c7b4-6fd7-4ae5-9560-267338ab1b80",
+        "text": "So happy to be here!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ofhs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So happy to be here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716400184.794339",
+        "client_msg_id": "8e7d22a6-16cd-4f79-b1eb-c26eb1a54ce8",
+        "text": "So <@U04J7TVCQGP> I got a bit lost in the <#C06RS373V6G|build-frontend> messages last night. Right now I'm thinking this through forward and backward, starting with a three-month outreach program. More to come. I'm looking at both qualitative and quantifiable outcomes for the outreach initiative. I also have a list of KPIs to assess the effectiveness of the initiative in order to make data-driven decisions moving forward. What I'm wondering and remains a bit unclear to me at this point is who's our target audience and our customers? It's been kinda muddy to me from the beginning and I think we do need to nail that down not just for me but also all of us so we have a vision and sense in what direction Equalify's ultimately headed.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8KFSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I got a bit lost in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06RS373V6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " messages last night. Right now I'm thinking this through forward and backward, starting with a three-month outreach program. More to come. I'm looking at both qualitative and quantifiable outcomes for the outreach initiative. I also have a list of KPIs to assess the effectiveness of the initiative in order to make data-driven decisions moving forward. What I'm wondering and remains a bit unclear to me at this point is who's our target audience and our customers? It's been kinda muddy to me from the beginning and I think we do need to nail that down not just for me but also all of us so we have a vision and sense in what direction Equalify's ultimately headed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716400455.225399",
+        "client_msg_id": "7b4cd713-c853-419a-a3b0-cfd2e4cbbf41",
+        "text": "I'm thinking about accessibility developers and program managers who want scalability but don't want the stupid price tag of more expensive offerings and it might be the deciding factor whether they invest in accessibility and we can say hey, here's a viable alternative that isn't buggy and costs $100k or whatever.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PNsfe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm thinking about accessibility developers and program managers who want scalability but don't want the stupid price tag of more expensive offerings and it might be the deciding factor whether they invest in accessibility and we can say hey, here's a viable alternative that isn't buggy and costs $100k or whatever."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716404915.755889",
+        "client_msg_id": "0b4bec27-6bd3-4e45-b524-e36c8d3dd6ae",
+        "text": "Awesome <@U06Q2P392AU>! Yes. I think you got it.\n\nWe're going after the Higher Ed stakeholders you know well. They manage accessibility for their university. They are passionate about web accessibility and appreciate good, inclusive experiences. Most of them will know the general basis of website accessibility.\n\nHere's the website of an ideal stakeholder who I really want to impress (wink wink <@U072C2M1NBU>): <https:\/\/joelcrawfordsmith.com>\n\nWe need to be able to secure contracts with those stakeholders, so we can prove the sustainability of Equalify.\n\nA win is getting a contract.\n\nContracts would be $5720 per 10,000 pages per year.\n\nDoes that make sense?\n\n(Pinging <@U072C2M1NBU> here because you both should know each other and maybe <@U072C2M1NBU> has some more feedback on the target audience that he represents.)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716404915.755889",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1716467337.965219",
+        "reply_users": [
+            "U06Q2P392AU",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1716426403.217319"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1716426472.258069"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716467337.965219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716467337.965219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W83mk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Yes. I think you got it.\n\nWe're going after the Higher Ed stakeholders you know well. They manage accessibility for their university. They are passionate about web accessibility and appreciate good, inclusive experiences. Most of them will know the general basis of website accessibility.\n\nHere's the website of an ideal stakeholder who I really want to impress (wink wink "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U072C2M1NBU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/joelcrawfordsmith.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe need to be able to secure contracts with those stakeholders, so we can prove the sustainability of Equalify.\n\nA win is getting a contract.\n\nContracts would be $5720 per 10,000 pages per year.\n\nDoes that make sense?\n\n(Pinging "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U072C2M1NBU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here because you both should know each other and maybe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U072C2M1NBU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has some more feedback on the target audience that he represents.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716426403.217319",
+        "client_msg_id": "B2D6E068-6504-427E-B6E5-D3C1042FCED2",
+        "text": "Thanks. Yup, sounds good <@U04J7TVCQGP> and makes sense to me. I'll start fleshing something out.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716404915.755889",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqWb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks. Yup, sounds good "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and makes sense to me. I'll start fleshing something out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716426472.258069",
+        "client_msg_id": "BB58C174-4F91-4AD2-994D-C4EF4EDA468A",
+        "text": "Also, is Joel a member of the channel? I don't know if he'll see your ping otherwise.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716404915.755889",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lSmPt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, is Joel a member of the channel? I don't know if he'll see your ping otherwise."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1713561265.040589",
+        "client_msg_id": "8166380c-3010-48df-8734-4addef769fb8",
+        "text": "<@U06P7AP2R38> howdy Chris! Any updates to report for the end of this week?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "booQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " howdy Chris! Any updates to report for the end of this week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1713561606.566809",
+        "client_msg_id": "C079EC26-DFE8-43A7-B7FC-4CD34A57E8C3",
+        "text": "Yes!\n• Fastify serverless\/local API is setup w\/ basic packages, now it's smooth sailing for development\n• Picked Postgraphile as our handy GraphQL CRUD middleware (w\/ enforced permissions based on JWT auth)\n• We've finally got the beginning of a PostgreSQL schema based on the original MySQL schema\n• Met briefly w\/ Blake to discuss the new API, potential migration headaches, and overall infrastructure decisions",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "187g4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fastify serverless\/local API is setup w\/ basic packages, now it's smooth sailing for development"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Picked Postgraphile as our handy GraphQL CRUD middleware (w\/ enforced permissions based on JWT auth)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We've finally got the beginning of a PostgreSQL schema based on the original MySQL schema"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Met briefly w\/ Blake to discuss the new API, potential migration headaches, and overall infrastructure decisions"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06RZ1EJGER"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1713581559.698329",
+        "client_msg_id": "bce9df5a-5bc1-4c41-966b-11b3ca13d982",
+        "text": "Woo! Sounds incredible! Thanks!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DLhbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woo! Sounds incredible! Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710692637.495249",
+        "client_msg_id": "9d89751c-736c-432c-b900-df93090d9e2d",
+        "text": "Discounting is cool, but I’m more into finding very deserving folks and just give the service for free. I would look for organizations that have a) need b) impact. Need, meaning that they just don’t have the resources for accessibility. Impact, meaning that by making their content accessible lots of people would benefit. WordPress is an example. Then maybe an educational institution that has a ton of amazing research? My goal is to make 11-million pages accessible by 2024, so the more pages the org has the better.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710606204.923509",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LhIbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Discounting is cool, but I’m more into finding very deserving folks and just give the service for free. I would look for organizations that have a) need b) impact. Need, meaning that they just don’t have the resources for accessibility. Impact, meaning that by making their content accessible lots of people would benefit. WordPress is an example. Then maybe an educational institution that has a ton of amazing research? My goal is to make 11-million pages accessible by 2024, so the more pages the org has the better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKJHF1FC",
+        "type": "message",
+        "ts": "1710730550.095149",
+        "client_msg_id": "67006286-57ba-4e60-9e17-a9a720d8d98c",
+        "text": "WordPress really is the best example. If you wanted to send a shock wave, reach out to Drupal.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g220fe8025ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/220fe8025ea2d8179e1643df03fc9883.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Stine",
+            "display_name": "Alex Stine",
+            "team": "T04JQU0GB2Q",
+            "name": "alex.stine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710606204.923509",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dLboQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WordPress really is the best example. If you wanted to send a shock wave, reach out to Drupal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710741959.557199",
+        "client_msg_id": "08FB7CD0-5A4C-44C1-90FF-F00D715A0641",
+        "text": "Cool yeah. <@U06Q6N3N6TT> does a lot on Drupal accessibility. Curious if Mike think there’s a need for automated scanning like we’re doing for WP?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710606204.923509",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "88wy6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool yeah"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q6N3N6TT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " does a lot on Drupal accessibility"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Curious if Mike think "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a need for automated scanning like "
+                            },
+                            {
+                                "type": "text",
+                                "text": "we’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " doing for WP?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04J7TVCQGP",
+        "thread_ts": "1710606204.923509",
+        "root": {
+            "user": "U04J7TVCQGP",
+            "type": "message",
+            "ts": "1710606204.923509",
+            "client_msg_id": "34E00B58-503D-4376-B3C7-658CB5051E81",
+            "text": "Meeting with Sal Kahn who created Kahn Academy. He seems pretty great. Should Equalify donate our services to Kahn to make his site accessible? Seeing a few gnarly issues now",
+            "team": "T04JQU0GB2Q",
+            "thread_ts": "1710606204.923509",
+            "reply_count": 23,
+            "reply_users_count": 4,
+            "latest_reply": "1710784370.060879",
+            "reply_users": [
+                "U06PKJHF1FC",
+                "U06P7AP2R38",
+                "U04J7TVCQGP",
+                "U06Q6N3N6TT"
+            ],
+            "replies": [
+                {
+                    "user": "U06PKJHF1FC",
+                    "ts": "1710607954.261429"
+                },
+                {
+                    "user": "U06P7AP2R38",
+                    "ts": "1710618492.670929"
+                },
+                {
+                    "user": "U06PKJHF1FC",
+                    "ts": "1710620611.521739"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710692637.495249"
+                },
+                {
+                    "user": "U06PKJHF1FC",
+                    "ts": "1710730550.095149"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710741959.557199"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710741998.592939"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710764805.942869"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710764857.382459"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710764918.997889"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710765006.796629"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710778702.620359"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710783483.623819"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710784029.193239"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710784086.006079"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710784150.823659"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710784177.886119"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710784200.264339"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710784201.695009"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710784209.058379"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710784245.530859"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1710784278.467199"
+                },
+                {
+                    "user": "U06Q6N3N6TT",
+                    "ts": "1710784370.060879"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1710784370.060879",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tFye1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Meeting with Sal Kahn who created Kahn Academy"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " He seems pretty great"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Should Equalify donate our services to Kahn to make his site accessible? Seeing a few gnarly issues now"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1710741998.592939",
+        "client_msg_id": "2455689C-6406-44A8-939A-B3871AFCA78D",
+        "text": "Maybe there are some other major open source projects we can donate Equalify to? <http:\/\/Archive.org|Archive.org>? The bigger the better. ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NcM23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe there are some other major open source projects we can donate Equalify to? Archive.org? The bigger the better"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

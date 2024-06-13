@@ -1,0 +1,312 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717383995.513649",
+        "text": "Posted a budget. Still need <@U06PB2BPADB> and <@U06PKP46SMR> forecasts.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1717383228.095789",
+                "author_id": "U04J7TVCQGP",
+                "channel_id": "C076E9DUT09",
+                "channel_team": "T04JQU0GB2Q",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04JQU0GB2Q",
+                        "channel": "C076E9DUT09",
+                        "ts": "1717383228.095789",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "tMMHF",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Current June 1 - September 1 Expected Cash Flow:\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Currently in the bank:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n$76,489.39\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Approved Upcoming Budgets",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$677.20: "
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/decubing.harvestapp.com\/client\/invoices\/f19f8eb701737d1fe04637947c768a49b462174a",
+                                                            "text": "Decubing Bill"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " + $50 uninvoiced"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$150*3: Digital Ocean"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$150*3: AWS"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$50*3: OpenAI"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$3333*3: "
+                                                        },
+                                                        {
+                                                            "type": "user",
+                                                            "user_id": "U04J7TVCQGP"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " "
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304",
+                                                            "text": "V1 Launch "
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$2222*3: "
+                                                        },
+                                                        {
+                                                            "type": "user",
+                                                            "user_id": "U06Q2P392AU"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " "
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12",
+                                                            "text": "V1 Outreach"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$3000+($650*2): "
+                                                        },
+                                                        {
+                                                            "type": "user",
+                                                            "user_id": "U06TJNUDNLA"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " "
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11",
+                                                            "text": "V1 Frontend and Maintenance "
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$4500+($500*2): "
+                                                        },
+                                                        {
+                                                            "type": "user",
+                                                            "user_id": "U06P7AP2R38"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " "
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4",
+                                                            "text": "V1 API and Maintenance"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "???: "
+                                                        },
+                                                        {
+                                                            "type": "user",
+                                                            "user_id": "U06PB2BPADB"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " Monitor buildout finish and Scan + Monitor Maintenance"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "???: Chrome Extension Finalization Maintenance"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "= -$28,192.20 + additional payments\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Budget Goals",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nReach 11M Equalified issues by February 2025 and $200,000 in revenue by August 2025."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/equalifyapp.slack.com\/archives\/C076E9DUT09\/p1717383228095789",
+                "is_share": true,
+                "fallback": "[June 2nd, 2024 9:53 PM] blakebertuccelli: Current June 1 - September 1 Expected Cash Flow:\n\n*Currently in the bank:*\n$76,489.39\n\n*Approved Upcoming Budgets*\n• $677.20: <https:\/\/decubing.harvestapp.com\/client\/invoices\/f19f8eb701737d1fe04637947c768a49b462174a|Decubing Bill> + $50 uninvoiced\n• $150*3: Digital Ocean\n• $150*3: AWS\n• $50*3: OpenAI\n• $3333*3: <@U04J7TVCQGP> <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304|V1 Launch >\n• $2222*3: <@U06Q2P392AU> <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12|V1 Outreach>\n• $3000+($650*2): <@U06TJNUDNLA> <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11|V1 Frontend and Maintenance >\n• $4500+($500*2): <@U06P7AP2R38> <https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4|V1 API and Maintenance>\n• ???: <@U06PB2BPADB> Monitor buildout finish and Scan + Monitor Maintenance\n• ???: Chrome Extension Finalization Maintenance\n= -$28,192.20 + additional payments\n\n*Budget Goals*\nReach 11M Equalified issues by February 2025 and $200,000 in revenue by August 2025.",
+                "text": "Current June 1 - September 1 Expected Cash Flow:\n\n*Currently in the bank:*\n$76,489.39\n\n*Approved Upcoming Budgets*\n• $677.20: <https:\/\/decubing.harvestapp.com\/client\/invoices\/f19f8eb701737d1fe04637947c768a49b462174a|Decubing Bill> + $50 uninvoiced\n• $150*3: Digital Ocean\n• $150*3: AWS\n• $50*3: OpenAI\n• $3333*3: <@U04J7TVCQGP> <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304|V1 Launch >\n• $2222*3: <@U06Q2P392AU> <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12|V1 Outreach>\n• $3000+($650*2): <@U06TJNUDNLA> <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11|V1 Frontend and Maintenance >\n• $4500+($500*2): <@U06P7AP2R38> <https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4|V1 API and Maintenance>\n• ???: <@U06PB2BPADB> Monitor buildout finish and Scan + Monitor Maintenance\n• ???: Chrome Extension Finalization Maintenance\n= -$28,192.20 + additional payments\n\n*Budget Goals*\nReach 11M Equalified issues by February 2025 and $200,000 in revenue by August 2025.",
+                "author_name": "Blake Bertuccelli-Booth",
+                "author_link": "https:\/\/equalifyapp.slack.com\/team\/U04J7TVCQGP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_48.jpg",
+                "author_subname": "Blake Bertuccelli-Booth",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4TSiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Posted a budget. Still need "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " forecasts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

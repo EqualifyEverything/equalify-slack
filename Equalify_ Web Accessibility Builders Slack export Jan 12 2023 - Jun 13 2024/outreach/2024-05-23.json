@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716467337.965219",
+        "client_msg_id": "fc3cdb27-f2a2-49d1-b590-36edad145aa4",
+        "text": "<@U06Q2P392AU> - when I put in his name, Slack asked me if it should ping him or not. I said \"yes.\" So I assume he got it? I leave it to him if he wants to join the channel or not.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716404915.755889",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ykYV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - when I put in his name, Slack asked me if it should ping him or not. I said \"yes.\" So I assume he got it? I leave it to him if he wants to join the channel or not."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

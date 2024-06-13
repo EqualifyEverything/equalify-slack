@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717786273.303869",
+        "client_msg_id": "edaadea5-26e4-4502-ab3b-4ff0b945bb63",
+        "text": "I create a little GPT tool that analyzes Equalify issues and suggests fixes. Here's the convo: <https:\/\/chatgpt.com\/share\/9ec1da59-5295-4ec0-a147-89ac33ae7613>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "owIpq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I create a little GPT tool that analyzes Equalify issues and suggests fixes. Here's the convo: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chatgpt.com\/share\/9ec1da59-5295-4ec0-a147-89ac33ae7613"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717786292.593429",
+        "client_msg_id": "7f650c94-9310-471b-87ee-3c6fea02760c",
+        "text": "Here's the tool: <https:\/\/chatgpt.com\/g\/g-nq8NGXebN-equalify-web-accessibility-helper>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "knj+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's the tool: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chatgpt.com\/g\/g-nq8NGXebN-equalify-web-accessibility-helper"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717790862.797579",
+        "client_msg_id": "11240376-0682-4291-b8b4-2265cbc4df13",
+        "text": "now I'm putting it in terms of a github ticket which makes the details a bit more explicit: <https:\/\/chatgpt.com\/share\/174d5f0b-0feb-46da-a850-9dc5cb7eb97b>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chatgpt.com\/share\/174d5f0b-0feb-46da-a850-9dc5cb7eb97b",
+                "image_url": "https:\/\/cdn.oaistatic.com\/_next\/static\/media\/chatgpt-share-og.49cbbffe.png",
+                "image_width": 1600,
+                "image_height": 900,
+                "image_bytes": 15336,
+                "service_icon": "https:\/\/cdn.oaistatic.com\/_next\/static\/media\/apple-touch-icon.82af6fe1.png",
+                "id": 1,
+                "original_url": "https:\/\/chatgpt.com\/share\/174d5f0b-0feb-46da-a850-9dc5cb7eb97b",
+                "fallback": "ChatGPT",
+                "text": "A conversational AI system that listens, learns, and challenges",
+                "title": "ChatGPT",
+                "title_link": "https:\/\/chatgpt.com\/share\/174d5f0b-0feb-46da-a850-9dc5cb7eb97b",
+                "service_name": "chatgpt.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNhmG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now I'm putting it in terms of a github ticket which makes the details a bit more explicit: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chatgpt.com\/share\/174d5f0b-0feb-46da-a850-9dc5cb7eb97b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

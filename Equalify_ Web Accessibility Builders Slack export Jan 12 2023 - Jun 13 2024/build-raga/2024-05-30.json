@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717106568.915179",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-raga] 1 new commit pushed to _master_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/37a9420ef25bc95b8090e62719c31e8cdbb39ecf|37a9420e>` - Update LICENSE",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/compare\/a4405a7d9b07...37a9420ef25b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/tree\/master|master>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga|EqualifyEverything\/equalify-raga>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

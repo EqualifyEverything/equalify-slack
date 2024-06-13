@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1717690203.963929",
+        "edited": {
+            "user": "U06P7AP2R38",
+            "ts": "1717690219.000000"
+        },
+        "client_msg_id": "cc351f29-9fdd-4886-a3a2-4ef292cce951",
+        "text": "Thought you guys might get a kick out of this- 37signals (Basecamp) launched \"Campfire\", a self-hosted Slack alternative that comes with a one-time price tag of $399. You get access to the source code once you pay. Interesting change up of the conventional SaaS business model. <https:\/\/once.com\/campfire>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/once.com\/assets\/images\/opengraph-campfire.png",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 91870,
+                "from_url": "https:\/\/once.com\/campfire",
+                "service_icon": "https:\/\/once.com\/assets\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/once.com\/campfire",
+                "fallback": "ONCE: Campfire",
+                "text": "Super simple group chat, without a subscription. And you get the code, too.",
+                "title": "Campfire",
+                "title_link": "https:\/\/once.com\/campfire",
+                "service_name": "ONCE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xdFw4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thought you guys might get a kick out of this- 37signals (Basecamp) launched \"Campfire\", a self-hosted Slack alternative that comes with a one-time price tag of $399. You get access to the source code once you pay. Interesting change up of the conventional SaaS business model. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/once.com\/campfire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717723973.698589",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1717723978.000000"
+        },
+        "client_msg_id": "f10bc8f8-6b9c-4ee6-b6a9-718c6d5d0846",
+        "text": "ooo. i actually really like that",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6nap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ooo. i actually really like that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,773 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718201436.917669",
+        "client_msg_id": "603a193f-9726-450b-ba6c-9fc7ecfbe343",
+        "text": "<@U04J7TVCQGP> Ya, absolutely! Gonna work on the outreach email today that we can send to them\/the braintrust and then we can review on our call later today. Sound good?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XBH1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ya, absolutely! Gonna work on the outreach email today that we can send to them\/the braintrust and then we can review on our call later today. Sound good?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718201477.539289",
+        "client_msg_id": "fa140bc7-e72e-4efa-ba84-c38ee0b6491d",
+        "text": "One of the reasons I took this on was to get out of my comfort zone and I really appreciate feedback and being able to adjust iterately--agile, if you will",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJNpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of the reasons I took this on was to get out of my comfort zone and I really appreciate feedback and being able to adjust iterately--agile, if you will"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718209986.814869",
+        "client_msg_id": "b9823a1f-735f-4e93-85a2-d82e5edc713b",
+        "text": "Amazing <@U06Q2P392AU>. Let's do it!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZz78",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Let's do it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718210612.835219",
+        "client_msg_id": "4ac7e7b5-873f-4e75-900f-8587b0a31087",
+        "text": "<!channel> I added our Calendly link as a \"Bookmark\" in this channel. The link is connected to both Kevin and I's calendars. Having a face-to-face meeting is better for accessibility than Slack (Imagine having to navigate all these messages!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3tRfx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I added our Calendly link as a \"Bookmark\" in this channel. The link is connected to both Kevin and I's calendars. Having a face-to-face meeting is better for accessibility than Slack (Imagine having to navigate all these messages!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718210613.160609",
+        "client_msg_id": "d07c06cc-215f-45c6-98cb-8fc88ec47ad3",
+        "text": "Here is a draft of the initial push email. <@U04J7TVCQGP> and I are meeting later to discuss. Comments and suggestions suck for a11y so feel free to tear it apart and reply here and we'll capture any input. Thank you! <https:\/\/docs.google.com\/document\/d\/1s54kuHfEFFKbge0mqJTBFwSSYWIZP73eLb4KYfFY6lg\/edit?usp=sharing>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MShrO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a draft of the initial push email. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are meeting later to discuss. Comments and suggestions suck for a11y so feel free to tear it apart and reply here and we'll capture any input. Thank you! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1s54kuHfEFFKbge0mqJTBFwSSYWIZP73eLb4KYfFY6lg\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718210619.335829",
+        "client_msg_id": "5b431a7a-5ce3-484a-b755-da4d95bce7dc",
+        "text": "Thanks Kevin!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkS\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Kevin!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718211882.897319",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-outreach] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/commit\/0fd398d2fb3f8011de089f36373de387c70706e3|0fd398d2>` - Add Key Links and Tasks Note",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/compare\/c1d37b2650d3...0fd398d2fb3f|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach|EqualifyEverything\/equalify-outreach>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718221877.368899",
+        "client_msg_id": "06e2dde6-6a7b-4ab5-8f11-a4e6692989c3",
+        "text": "<@U06Q2P392AU> - it looks like we'll have the revised frontend by 6\/21, so we can schedule our demo video after that. Want to go ahead and grab a time from my calendar to do that? I created a Calendly link instead of the other service. Here is my link where you can grab time: <https:\/\/calendly.com\/b3b>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gD1f4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - it looks like we'll have the revised frontend by 6\/21, so we can schedule our demo video after that. Want to go ahead and grab a time from my calendar to do that? I created a Calendly link instead of the other service. Here is my link where you can grab time: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendly.com\/b3b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718228521.165449",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1718228522.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1718228517,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-outreach] Issue opened by kevinandrews1",
+                "text": "*Goals and Objectives*\n\n• This needs to get people to sign up to be notified of the V1 launch.\n\n*To-do list for video pitch*\n\n☐ Confirm with <https:\/\/github.com\/wilsuriel03|@wilsuriel03> and <https:\/\/github.com\/heythisischris|@heythisischris> front-end issues are addressed on June 21.\n☐ Regression testing a11y <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10|EqualifyEverything\/equalify-frontend#10> and <@U04J7TVCQGP> will test by June 24.\n☐ Record pitch video on June 26 in the afternoon.\n☐ Post the pitch on the Equalify website. with sign-up form\n☐ Post on social media including LinkedIn, X, and my Fb.\n☐ Email it to the Braintrust and contacts.",
+                "pretext": "Issue created by <https:\/\/github.com\/kevinandrews1|kevinandrews1>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/3|#3 Video Pitch>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach|EqualifyEverything\/equalify-outreach>",
+                "fields": [
+                    {
+                        "value": "<@U04J7TVCQGP>, <https:\/\/github.com\/kevinandrews1|@kevinandrews1>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:3,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/3&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Video Pitch&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:3,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/3&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Video Pitch&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:3,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/3&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Video Pitch&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718241513.977639",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1718241514.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1718241511,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-outreach] Issue opened by kevinandrews1",
+                "text": "*What is it?*\n\nSome of this is based off my meeting with <@U04J7TVCQGP> earlier today. Some of it is my own gigantic braindump and since I'm a foodie through and through. C'mon don't always need to be professional, do we? The human element transcends our outreach work and I think we should be this way internally, too.\n\nImagine you want to share a delicious pie:\n\n• Awareness: Tell people about your pie.\n• Interest: Some people get curious.\n• Consideration: They ask more questions.\n• Intent: They decide they want a slice.\n• Purchase: They get a slice.\n• Loyalty: They love it and come back for more.\n\n*Todo (fluid)*\n\n☐ Meet with Blake and Kevin Francis from Salesforce on June 13. Ask lots of great questions and then shut up and listen.\n☐ <@U04J7TVCQGP> to post a link to the video about the numbers, conversions, etc in the next few days, if possible.\n☐ Follow up with Mark Jamison at Khan Academy one more time by Friday this week. Send him my Calendly link.\n☐ Take some time to do research over the next several days about what an effective sales funnel looks like. Aim to have something written up even if just some solid notes for my meeting with Blake on June 19 to be able to articulate strategy and walk through the workflow.\n\n*Other Notes from Our Meeting*\n\n• 1:1 with Blake:\n    \n    • Discuss sales funnel strategy.\n    • Review email outreach plan.\n    • Analyze the list of contacts and their titles.\n    • Develop approach to convert different types of contacts into purchasers.\n    • Plan tailored emails for buyers and introducers.\n    • Outline content for each stage of the sales process.\n    • Discuss budget and lead conversion rates.\n• *Email Outreach Strategy:*\n    \n    • Identify Target Contacts: Review titles and roles.\n    • Tailor Messages:\n        • Email 1: Target potential buyers.\n        • Email 2: Reach out to contacts who can introduce you",
+                "pretext": "Issue created by <https:\/\/github.com\/kevinandrews1|kevinandrews1>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/4|#4 Sales Funnel>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach|EqualifyEverything\/equalify-outreach>",
+                "fields": [
+                    {
+                        "value": "<@U04J7TVCQGP>, <https:\/\/github.com\/kevinandrews1|@kevinandrews1>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Sales Funnel&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Sales Funnel&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Sales Funnel&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718243064.115659",
+        "client_msg_id": "24a94582-884a-4293-b68d-44466498dea0",
+        "text": "Crossposting from <#C04JFS3F98E|general> cauz it actually should be in here--apologies if I've made things more confusing. Should've had more coffee today! :laughing: <https:\/\/equalifyapp.slack.com\/archives\/C04JFS3F98E\/p1718234067830319>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718243064.115659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718246334.644739",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718246334.644739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718246334.644739",
+        "attachments": [
+            {
+                "from_url": "https:\/\/equalifyapp.slack.com\/archives\/C04JFS3F98E\/p1718234067830319",
+                "ts": "1718234067.830319",
+                "author_id": "U06Q2P392AU",
+                "channel_id": "C04JFS3F98E",
+                "channel_team": "T04JQU0GB2Q",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04JQU0GB2Q",
+                        "channel": "C04JFS3F98E",
+                        "ts": "1718234067.830319",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "HtLm6",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Here are the "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2#issuecomment-2164040064",
+                                                    "text": "notes"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " from the call with "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04J7TVCQGP"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ", Jesse Sookne, and I earlier this afternoon about the LinkedIn push we're doing. TL;DR: Engage with LinkedIn posts immediately after publishing, focusing on comments, dwell time, and profile views to boost algorithm favorability. Though not required, Buffer can help ensure consistent scheduling. Also, share engagement data, and ensure team members adhere to their designated engagement days."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/equalifyapp.slack.com\/archives\/C04JFS3F98E\/p1718234067830319",
+                "fallback": "[June 12th, 2024 4:14 PM] kevin.andrews94: Here are the <https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2#issuecomment-2164040064|notes> from the call with <@U04J7TVCQGP>, Jesse Sookne, and I earlier this afternoon about the LinkedIn push we're doing. TL;DR: Engage with LinkedIn posts immediately after publishing, focusing on comments, dwell time, and profile views to boost algorithm favorability. Though not required, Buffer can help ensure consistent scheduling. Also, share engagement data, and ensure team members adhere to their designated engagement days.",
+                "text": "Here are the <https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2#issuecomment-2164040064|notes> from the call with <@U04J7TVCQGP>, Jesse Sookne, and I earlier this afternoon about the LinkedIn push we're doing. TL;DR: Engage with LinkedIn posts immediately after publishing, focusing on comments, dwell time, and profile views to boost algorithm favorability. Though not required, Buffer can help ensure consistent scheduling. Also, share engagement data, and ensure team members adhere to their designated engagement days.",
+                "author_name": "Kevin Andrews",
+                "author_link": "https:\/\/equalifyapp.slack.com\/team\/U06Q2P392AU",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-48.png",
+                "author_subname": "Kevin Andrews",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZfjbC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Crossposting from "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04JFS3F98E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cauz it actually should be in here--apologies if I've made things more confusing. Should've had more coffee today! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/equalifyapp.slack.com\/archives\/C04JFS3F98E\/p1718234067830319"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718246334.644739",
+        "client_msg_id": "d3a70770-9c4d-4272-b0dc-fc26505e7697",
+        "text": "Thanks Kevin!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718243064.115659",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkS\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Kevin!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718248628.436029",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-outreach] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/commit\/51e5d7afd8acd076c7176f55a28e44e63f242fe0|51e5d7af>` - Publish Outreach Targets",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/compare\/0fd398d2fb3f...51e5d7afd8ac|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach|EqualifyEverything\/equalify-outreach>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718248919.430599",
+        "client_msg_id": "13f8c13d-7a7a-4359-8262-67885cde9a69",
+        "text": "<@U06Q2P392AU>, as you can tell from the automated GitHub message above, I published the targets in a format that is actually readable on screen readers. Please ask any questions. Everything is rough, but this can give us a general ballpark to shoot for. Here is the link to that document: <https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/TARGETS.md>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/TARGETS.md",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/TARGETS.md | TARGETS.md>",
+                "text": "*Outreach Targets - Rough*\n\nThis document outlines outreach targets. Our targets are rough. We have not validated assumptions yet, and they are not guarantees of future performance.\n\n*Product*\n\nEqualify tests and records accessibility compliance for large institutions and supports those services. That is what we're selling.\n\n*Key Performance Indicators (KPIs)*\n\nEqualify is a double bottom line company. We're focused on two KPIs:\n\n• *Equalified Issues Per Customer (EICs)*: The number of accessibility fixes we log per customer. We're aiming to log 1 billion by Year 5.\n• *Annual Reoccurring Revenue (ARR)*: Sales yields ARR. We aim to reach $50,000,000 in ARR by Year 5.\n\n*Other Definitions*\n\nIn addition to our KPIs, you will need to know some key terms to understand this document:\n\n• *Lead*: A lead is someone we have a conversation with that expresses interest in leading us to a sale. Leads are not speculative. They must clearly say that they are interested in buying or have a direct connection with someone interested in buying.\n• *Conversion Rate*: The conversion rate is the percentage of leads that turn into sales.\n• *Churn*: The number of users that leave Equalify each year. We're estimated\n\n*Customer Categories*\n\nWe group customers into four categories. Each category is defined by how much they spend, the number of pages we manage for them, and the percentage of leads we convert into that category. Here are our four customer categories:\n\n• *Lead*: Spends $0 and manages 0 pages.\n• *First 100*: Spends $5720\/year and manages up to 150,000 pages. 2% of these customers are converted from leads.\n• *Bronze*: Spends $25000\/year and manages up to 150,000 pages. 1.25% of these customers are converted from leads.\n• *Silver*: Spends $75000\/year and manages up to 275,000 pages. .50% of these customers are converted from leads.\n• *Gold*: Spends $115000\/year and manages up to 500,000 pages. .25% of these customers are converted from leads.\n\n*Assumptions*\n\nThe following assumptions were made to arrive at our targets:\n\n• *Issues per Web Page:* We assumed there are 50 accessibility issues on average per page.\n• *Market Size:* We're going after 15,744 world Higher Ed institutions. We aim to capture 7.32% of that market by Year 5.\n• *EIC Rate Per User*: Users solve 10% of their accessibility issues.\n• *Churn*: 5% of users will quit Equalify year after year.\n\n*Targets*\n\nTo reach a goal, we've established these year-after-year targets:\n\n*Year One*\n\n• Leads: 454\n• First 100 Customers: 9\n• Other Customers: 0\n• ARR: $51,5480\n• EICs: 6,750,000\n\n*Year Two*\n\n• Leads: 4540\n• First 100 Customers: 100\n• Bronze Customers: 57\n• Other Customers: 0\n• ARR: $1,997,000\n• EICs: 117,750,000\n\n*Year Three*\n\n• Leads: 11,350\n• First 100 Customers: 95\n• Bronze Customers: 196\n• Silver Customers: 57\n• Gold Customers: 0\n• ARR: $9,718,400\n• EICs: 296,625,000\n\n*Year Four*\n\n• Leads: 20,430\n• First 100 Customers: 90\n• Bronze Customers: 441\n• Silver Customers: 156\n• Gold Customers: 0\n• ARR: $23,239,800\n• EICs: 612,750,000\n\n*Year Five*\n\n• Leads: 28,602\n• First 100 Customers: 85\n• Bronze Customers: 777\n• Silver Customers: 291\n• Gold Customers: 72\n• ARR: $50,016,200\n• EICs: 1,226,625,000",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/TARGETS.md | TARGETS.md>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach|EqualifyEverything\/equalify-outreach>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6jFGd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", as you can tell from the automated GitHub message above, I published the targets in a format that is actually readable on screen readers. Please ask any questions. Everything is rough, but this can give us a general ballpark to shoot for. Here is the link to that document: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/blob\/main\/TARGETS.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

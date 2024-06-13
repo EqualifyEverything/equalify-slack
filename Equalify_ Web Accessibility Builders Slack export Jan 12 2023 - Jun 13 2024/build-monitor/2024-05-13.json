@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715635576.687809",
+        "client_msg_id": "cbfdc5a7-246c-480c-bf78-7472839ba427",
+        "text": "So <@U06PB2BPADB> and I spoke. We're going to hold the monitor feature for version 1.5 next month. In the meantime, <@U06PB2BPADB> is going to buildout a prototype we can wrap our heads around.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RapX1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I spoke. We're going to hold the monitor feature for version 1.5 next month. In the meantime, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is going to buildout a prototype we can wrap our heads around."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,985 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711499361.327709",
+        "text": "\/github subscribe <https:\/\/github.com\/EqualifyEverything\/equalify-api>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github subscribe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-api"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>. This channel will receive notifications for `issues`, `pulls`, `commits`, `releases`, `deployments`",
+        "type": "message",
+        "ts": "1711499361.355409",
+        "bot_id": "B04LZN1SH0X",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "VE7z6",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>. This channel will receive notifications for\n`issues`, `pulls`, `commits`, `releases`, `deployments`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "bcZd\/",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "<https:\/\/github.com\/integrations\/slack#configuration | Learn More>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711499558.323689",
+        "client_msg_id": "93d4c0bc-01d8-4676-b291-2a26a23a3c0e",
+        "text": "<!channel> I might regret this, but i started down the path of an official API. Checkout <https:\/\/github.com\/EqualifyEverything\/equalify-api\/blob\/main\/README.md|our documentation> and let me know if you have any questions.\n\nMy current plan is to fire up my cappuccino maker and get this API done before the baby is here, unless someone else wants to jump on this project (we do have some cash left in the $11k April coffer).\n\nI would appreciate any feedback on that documentation now so the API can be built to support the work you are doing.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "reply_count": 11,
+        "reply_users_count": 2,
+        "latest_reply": "1711502159.079989",
+        "reply_users": [
+            "U06P7AP2R38",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1711500511.741739"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711500991.999289"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711501055.978349"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711501104.013909"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1711501241.058529"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711501319.519149"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711501353.380759"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711501375.722469"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711501407.654159"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1711501428.288339"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1711502159.079989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711502159.079989",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/blob\/main\/README.md",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/blob\/main\/README.md | README.md>",
+                "text": "*Equalify API*\n\nAPI to interact with the <https:\/\/github.com\/EqualifyEverything\/equalify|Equalify Platform>.\n\n*Authentication*\n\nYou must have a valid authentication token to use the API.\n\nHere is an example request with a token:\n\n```\ncurl -X GET '<https:\/\/api.equalify.com\/get\/scan_results>' \\\n-H 'Authorization: Bearer YOUR_API_TOKEN_HERE'\n```\n\n*Get Scan Results*\n\nThe `\/get\/scan_results` endpoint returns scan results.\n\nWhenever you get content, the API will return a result and \"success\" or \"fail\" `status`. Failures look like this:\n\n```\n{\n  \"status\": \"fail\",\n  \"result\": \"Filter property ids \\\"1,3, and 4\\\" are invalid\"\n}\n```\n\nSuccesses output results from that database in JSON that conforms to the <https:\/\/github.com\/EqualifyEverything\/equalify-schema\/blob\/main\/equalify-schema-app\/equalify-schema.json|Equalify Schema>.\n\n*Filtering Scan Results*\n\nAll content can be filtered via a mix of filters. You can filter by `propertyIds`, `urlIds`, `nodeIds`, `messageIds`, `tagIds`, `nodeUpdatePeriod`.\n\nFilters are passed via the JSON body in a POST request, like this:\n\n```\n{\n    \"propertyIds\": [2,3],\n    \"urlIds\": [4,1],\n    \"nodeIds\": [5],\n    \"messageIds\": [6],\n    \"tagIds\": [7,8],\n    \"nodeUpdatePeriod\": {\n        \"startDate\": 2023-11-11,\n        \"endDate\": 2024-11-11,\n    }\n}\n```\n\nThat example would only show results related to tag id 7 AND 8 AND message id 6 AND node id 5 AND URL id 4 AND 1 AND property id 2 AND 3 AND node updates from November 11, 2023 - November 11, 2024.\n\n*Please Note:*\n\n• `nodeUpdatePeriod` is an object with `startDate` and `endDate`. Dates must be formatted `yyyy-mm-dd`.\n\n*Get Queued Scans*\n\nUse `\/get\/queued_scans` to get a list of all the queued scans.\n\nThe endpoint will return JSON like this:\n\n```\n{\n  \"scans\": [\n    \"queuedScanJobID\": 123,\n    \"queuedScanPropertyId\": 4,\n    \"queuedScanUrlId\": NULL,\n    \"queuedScanProcessing\": NULL,\n    \"queuedScanPrioritized\": NULL\n  ]\n} \n```\n\n*Add Content*\n\nYou can add content to the database using the `\/add\/[content_type]` endpoint.\n\nWhenever you add content, the API will return a message and \"success\" or \"fail\" `status`, like this:\n\n```\n{\n  \"status\": \"success\",\n  \"result\": \"Example property successfully added!\"\n}\n```\n\n*Add Properties*\n\nProperties are added via `\/add\/properties`. That endpoint requires the valid body, like this:\n\n```\n{\n    \"properties\": [\n      {\n        \"propertyName\": \"Example Property\",\n        \"propertyUrl\": \"<https:\/\/example.com>\",\n        \"propertyDiscovery\": \"single_page_import\"\n      }\n    ]\n}\n```\n\n*Please Note:*\n\n• `propertyDiscovery` valid strings include `sitemap_import` or `single_page_import`.\n\n*Add Reports*\n\nReports are added via `\/add\/reports`. That endpoint requires the following body:\n\n```\n{\n    \"reports\": [\n      {\n        \"reportTitle\": \"\",\n        \"reportFilters\": []\n      }\n    ]\n}\n```\n\n*Please Note:*  \n`report_filters` must include valid filters. Here is a valid `report_filters` array:\n\n```\n{\n    \"propertyIds\": [2,3],\n    \"urlIds\": [4,1],\n    \"nodeIds\": [5],\n    \"messageIds\": [6],\n    \"tagIds\": [7,8],\n    \"nodeUpdatePeriod\": {\n        \"startDate\": 2023-11-11,\n        \"endDate\": 2024-11-11,\n    }\n}\n```\n\n*Start Scans*\n\nA scan is started with the endpoint `\/start_scan\/[type]`. Valid types include [properties] or [URLs].\n\nWhenever you start scans, the API will return a `result` and \"success\" or \"fail\" `status`. Example:\n\n```\n{\n  \"status\": \"success\",\n  \"result\": \"Property scan initiated.\"\n}\n```\n\n*Scan Property*\n\nTo scan properties, you can use `\/start_scan\/properties`. In the body of the JSON, you will specify the property ids, like this:\n\n```\n{\n    \"propertyIds\": [3,4]\n}\n```\n\n*Scan URLs*\n\nTo scan urls, you can use `\/start_scan\/url`. In the body of the JSON, you will specify the url ids, like this:\n\n```\n{\n    \"urlIds\": [3,4]\n}\n```\n\n*Additional Notes*\n\n• Equalify's database structure can be understood via <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/install.php|install.php><https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/install.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/install.php>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/blob\/main\/README.md | README.md>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O51z+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I might regret this, but i started down the path of an official API. Checkout "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/blob\/main\/README.md",
+                                "text": "our documentation"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and let me know if you have any questions.\n\nMy current plan is to fire up my cappuccino maker and get this API done before the baby is here, unless someone else wants to jump on this project (we do have some cash left in the $11k April coffer).\n\nI would appreciate any feedback on that documentation now so the API can be built to support the work you are doing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_monocle",
+                "users": [
+                    "U06PB2BPADB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1711499598.277269",
+        "client_msg_id": "C5BBFABE-BDC7-40B7-9C4E-090A81E15416",
+        "text": "I’m looking at it right now. I also want to point it at a specific academic site just to see what pops up but I don’t know how it’s gonna play with the Tulane proxy.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499598.277269",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1711499753.881189",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06P7APCV9U"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711499706.856939"
+            },
+            {
+                "user": "U06P7APCV9U",
+                "ts": "1711499748.978109"
+            },
+            {
+                "user": "U06P7APCV9U",
+                "ts": "1711499753.881189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711499753.881189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+A9D+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m looking at it right now. I also want to point it at a specific academic site just to see what pops up but I don’t know how it’s gonna play with the Tulane proxy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1711499613.302959",
+        "client_msg_id": "49A273C1-F06D-4AF1-9076-91E81DD95DD6",
+        "text": "Because I noticed the accessibility JS loading and I’m curious",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHRov",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because I noticed the accessibility JS loading and I’m curious"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1711499649.546099",
+        "client_msg_id": "2E69387C-8633-49CC-AC42-B8C9CF74A641",
+        "text": "FTR it’s <https:\/\/ieeexplore.ieee.org\/document\/1237138|https:\/\/ieeexplore.ieee.org\/document\/1237138>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHLv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FTR it’s "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ieeexplore.ieee.org\/document\/1237138",
+                                "text": "https:\/\/ieeexplore.ieee.org\/document\/1237138"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711499706.856939",
+        "client_msg_id": "96d8d254-e7e5-4e0d-aa0b-f79ae7e83f9d",
+        "text": "Well, considering that the api doesn't exist yet. You'll probably see a whole lot of nothing. But you could run the Equalify platform and scan locally then run against the proxy or ping me for credentials for the managed version.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499598.277269",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MyVqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, considering that the api doesn't exist yet. You'll probably see a whole lot of nothing. But you could run the Equalify platform and scan locally then run against the proxy or ping me for credentials for the managed version."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1711499748.978109",
+        "client_msg_id": "47C797CD-8052-454E-B92A-C617C758F84A",
+        "text": " Yes ‘it’ was being used loosely here lol",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499598.277269",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lhgyf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " Yes ‘it’ was being used loosely here lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1711499753.881189",
+        "client_msg_id": "0DB44130-6B9D-488F-840F-20A69FFE4D3D",
+        "text": "OK let me try to set it up locally first",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499598.277269",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ng7Zf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK let me try to set it up locally first"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1711500511.741739",
+        "client_msg_id": "55fd5633-3b7d-4c90-9724-811c2ec13142",
+        "text": "Hahaha, I love documentation-before-coding.\n\nEverything looks pretty clear to me- I might recommend adding the appropriate HTTP codes based on success\/failure\/unauthorized, and examples of what each possible response would look like.\n\nIf no one else claims ownership over API refactor, I might put together a scope\/proposal. I’d probably use Node.js w\/ Fastify or Express, however.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9NtI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahaha, I love documentation-before-coding.\n\nEverything looks pretty clear to me- I might recommend adding the appropriate HTTP codes based on success\/failure\/unauthorized, and examples of what each possible response would look like.\n\nIf no one else claims ownership over API refactor, I might put together a scope\/proposal. I’d probably use Node.js w\/ Fastify or Express, however."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711500991.999289",
+        "client_msg_id": "07d11da9-5ed6-4866-8862-a7653616f8c7",
+        "text": "If you have the bandwidth I would LOVE you to jump on the API refactor <@U06P7AP2R38>. Node.js is great. I spent a lot of time on the data schema so the queries shouldn't be that hard (I got ChatGPT-4 to put together a rough version after adding the db schema, the scan result schema and documentation to the knowledge base.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOdHE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have the bandwidth I would LOVE you to jump on the API refactor "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Node.js is great. I spent a lot of time on the data schema so the queries shouldn't be that hard (I got ChatGPT-4 to put together a rough version after adding the db schema, the scan result schema and documentation to the knowledge base."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711501055.978349",
+        "client_msg_id": "961dd5bb-a1f1-45c8-b30e-f51911f6fcc5",
+        "text": "It's by no means set in stone btw. I just tend to work from a vision then correct as needed when building an app.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0sa0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's by no means set in stone btw. I just tend to work from a vision then correct as needed when building an app."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711501104.013909",
+        "client_msg_id": "9b328160-3e11-4f0b-9ceb-a67506164437",
+        "text": "We could probably also integrate LLM results via another endpoint.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/mOA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could probably also integrate LLM results via another endpoint."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1711501241.058529",
+        "client_msg_id": "808f6af3-023c-4809-96f7-9d313fabd06f",
+        "text": "You’ve convinced me- I’m going to put something together. To be honest, the biggest deterrent for me was developing an API in a local-first environment (I generally deploy directly to cloud resources like AWS Lambda and then iteratively test\/develop using their endpoint), but this would be a great exercise in spinning up a local Node.js server\/framework. And I could move the LLM inside too.\n\nThink I’ll go with Fastify- they have a nice wrapper for AWS Lambda, so, we could develop\/test locally, and then deploy to Lambda to serve our API on-the-fly in production. Win-win!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ahQ5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You’ve convinced me- I’m going to put something together. To be honest, the biggest deterrent for me was developing an API in a local-first environment (I generally deploy directly to cloud resources like AWS Lambda and then iteratively test\/develop using their endpoint), but this would be a great exercise in spinning up a local Node.js server\/framework. And I could move the LLM inside too.\n\nThink I’ll go with Fastify- they have a nice wrapper for AWS Lambda, so, we could develop\/test locally, and then deploy to Lambda to serve our API on-the-fly in production. Win-win!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711501319.519149",
+        "client_msg_id": "bb276128-38f4-4f11-ad66-5dc4a7da2b57",
+        "text": "Sounds great!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q4pGN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711501353.380759",
+        "client_msg_id": "cc3c88e4-8373-4cc9-982d-29fb291f82bc",
+        "text": "Post any budget to <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJ+sR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Post any budget to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711501375.722469",
+        "client_msg_id": "946982c3-664b-419b-a49e-6a29f74af513",
+        "text": "My wife and unborn baby will be very happy I get to sleep tonight.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ADH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My wife and unborn baby will be very happy I get to sleep tonight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711501407.654159",
+        "client_msg_id": "ae2410f4-dbd3-4f9d-98ff-50362fcb0c8f",
+        "text": "(There is no rush btw. You'll just be the point man on this. <@U06P7AP2R38> and <@U06PKP46SMR> will probably need access to get their stuff done.)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AUzc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(There is no rush btw. You'll just be the point man on this. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will probably need access to get their stuff done.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1711501428.288339",
+        "client_msg_id": "d74e08d9-e418-46c1-baed-1857a405847b",
+        "text": "Hahaha, you deserve it man, I see you’ve been contributing to this project non-stop",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZ3Ub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahaha, you deserve it man, I see you’ve been contributing to this project non-stop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1711502159.079989",
+        "client_msg_id": "b102362d-0456-460a-aea8-b3273bf06180",
+        "text": "<@U04J7TVCQGP> Posted a quick scope\/budget: <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-2021746829>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711499558.323689",
+        "parent_user_id": "U04J7TVCQGP",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711502130,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-2021746829",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Comment on #278 Put $11,000 Toward Equalify Fixes\/Enhancements",
+                "text": "*Equalify API Refactor Proposal*\n*Summary:*\n\nI will refactor the current PHP-based API into a standards compliant REST API using Node.js (leveraging Fastify as our lightweight HTTP framework).\n\n*Implementation Plan:*\n\n1. Set up a Node.js Fastify repository which properly communicates with a local build of Equalify.\n2. Set up an AWS Lambda function which Equalify can deploy directly to for staging\/production usage (using the Fastify AWS Lambda wrapper: <https:\/\/github.com\/fastify\/aws-lambda-fastify|https:\/\/github.com\/fastify\/aws-lambda-fastify>).\n3. Make sure all CI\/CD pipes are working\n4. Begin mapping out the latest schema provided by <https:\/\/github.com\/bbertucc|@bbertucc> into Fastify routes.\n5. Validate all endpoints, ensure that we're returning the correct HTTP header response codes.\n6. Consider migrating the existing LLM API effort into this effort.\n7. Once finished, begin asking the community for help with testing\/validating the new API.\n8. Begin formal documentation (ideally Readme, GitHub Wiki, Notion, or a full featured self-hosted documentation solution w\/ search).\n9. Deploy to staging\/production once everything looks good, deprecate the PHP API, and provide continued support\/maintenance!\n\n*Budget*\n\nThe proposed budget for this issue is $2,222. It should take no longer than 1 month to fully develop, deploy, test, and release.",
+                "title": "Comment on #278 Put $11,000 Toward Equalify Fixes\/Enhancements",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-2021746829",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SOMFm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Posted a quick scope\/budget: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-2021746829"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

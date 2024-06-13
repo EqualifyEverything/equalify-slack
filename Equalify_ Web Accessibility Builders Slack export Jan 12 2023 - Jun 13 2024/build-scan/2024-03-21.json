@@ -1,0 +1,1003 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711055012.805339",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/0881f0c7abcc841535671455e3d468ff110484e5|0881f0c7>` - Thanks A11y for feedback updates!",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/d43201e4faa8...0881f0c7abcc|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711055530.674589",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/28118c0a25ae3fae070aaf1a4983c9c5d0c561bd|28118c0a>` - Add areas of interest",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/0881f0c7abcc...28118c0a25ae|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711056523.627159",
+        "client_msg_id": "ba139522-3a9f-41b7-82df-6cdf06719a09",
+        "text": "<@U06PB2BPADB> Any way we can get the dev scan to output stream results? I'm pretty much ready for it now.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XmGWh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Any way we can get the dev scan to output stream results? I'm pretty much ready for it now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711062318.065789",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1711062318.065789",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1711066651.271669",
+        "reply_users": [
+            "U06PB2BPADB",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711062517.852509"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711062714.786999"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711062898.345409"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711064887.909549"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711065686.376729"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1711065797.008889"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711066651.271669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711066651.271669",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/a6388f7c208cca1004be1987e3a22c83ebd39a66|a6388f7c>` - Added STREAM results to dev results endpoint",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/d264f42e2393...a6388f7c208c|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711062517.852509",
+        "client_msg_id": "b8a2e7e1-d450-478d-b932-54029ef77439",
+        "text": "cc: <@U04J7TVCQGP>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711062318.065789",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6JF6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711062714.786999",
+        "client_msg_id": "d79186e4-776d-48df-8ea9-5cc8d77dfc20",
+        "text": "Thanks!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711062318.065789",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSYv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711062898.345409",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1711062909.000000"
+        },
+        "client_msg_id": "f76d99f5-bc85-42db-9097-12d77a0adfbf",
+        "text": "seeing a 502 error when i send a request to dev <@U06PB2BPADB>\n```<html>\n<head><title>502 Bad Gateway<\/title><\/head>\n<body>\n<center><h1>502 Bad Gateway<\/h1><\/center>\n<hr><center>nginx\/1.22.0 (Ubuntu)<\/center>\n<\/body>\n<\/html>```",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711062318.065789",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "llEkt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "seeing a 502 error when i send a request to dev "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<html>\n<head><title>502 Bad Gateway<\/title><\/head>\n<body>\n<center><h1>502 Bad Gateway<\/h1><\/center>\n<hr><center>nginx\/1.22.0 (Ubuntu)<\/center>\n<\/body>\n<\/html>"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711063155.119809",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/58a6d996941e2e4ec366f71fe708e1d9baed3566|58a6d996>` - Update jobID.ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/a6388f7c208c...58a6d996941e|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711063358.451969",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/d581e906fd0bd2efb12e9a488613a193ef8efe73|d581e906>` - Update axe-core.js",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/58a6d996941e...d581e906fd0b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711063487.422849",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/9ae71c60261cda25de02ac5b10e63f44373b2037|9ae71c60>` - Update jobID.ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/d581e906fd0b...9ae71c60261c|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711063585.991589",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/702483ec6e66a1e5ff5d12f64be35b52895bd0c5|702483ec>` - Update tsconfig.json",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/9ae71c60261c...702483ec6e66|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711063699.160439",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/888a05ef379ec16c633125c41d64f2a916f016dd|888a05ef>` - Update axe-core.js",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/702483ec6e66...888a05ef379e|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711063933.229919",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/50d76022d0bc9cd2f201170ad0417fca4b4d64a1|50d76022>` - Update jobID.ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/888a05ef379e...50d76022d0bc|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711064223.385469",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/d1847583e22bca8778df273b3f3f12adb6b4b10d|d1847583>` - Updates tsconfig",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/50d76022d0bc...d1847583e22b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711064374.145589",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/25c365bab824c97dcac98b47a634981f5b778264|25c365ba>` - Converted axe-convertor to ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/d1847583e22b...25c365bab824|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711064606.016889",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/93d4f714e7ee975de70c2ad11668b0d685a6a049|93d4f714>` - Added catch for null results",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/25c365bab824...93d4f714e7ee|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711064723.865219",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/0c7dd0127f5b6a9759789d4481e9521a8a1e2cbb|0c7dd012>` - Update jobID.ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/93d4f714e7ee...0c7dd0127f5b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711064815.858679",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/66d7b1e9c117648a647c22d8445a23a9c08fc507|66d7b1e9>` - Disabled stream results",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/0c7dd0127f5b...66d7b1e9c117|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711064887.909549",
+        "client_msg_id": "62d61307-20e4-4033-95c9-844c48e848c6",
+        "text": "OK, yeah, so there's no safety checks in that function, so like it's just crashing out, when for instance, there's a field that doesn't doesn't exist",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711062318.065789",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vu1bC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK, yeah, so there's no safety checks in that function, so like it's just crashing out, when for instance, there's a field that doesn't doesn't exist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711065491.280679",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/a4842b3bcf6db9c0f69981cce7517243390dda0e|a4842b3b>` - Re-enabled STREAM, with additional checks",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/66d7b1e9c117...a4842b3bcf6d|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711065566.935129",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/ab4c2e0aebdd8d38f5a1f4971a22f0f1a18538fa|ab4c2e0a>` - Update axe-core.ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/a4842b3bcf6d...ab4c2e0aebdd|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711065661.452009",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan.equalify.app] 1 new commit pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/commit\/aed269df8a99eb7b8b59e562a0a49c87332ac3f9|aed269df>` - Update axe-core.ts",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/compare\/ab4c2e0aebdd...aed269df8a99|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711065686.376729",
+        "client_msg_id": "f0068610-81ea-4800-a02d-5e98c017a499",
+        "text": "also it's hardcoded to the API's output format, not axe's results, fwiw",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711062318.065789",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P2LXh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also it's hardcoded to the API's output format, not axe's results, fwiw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1711065797.008889",
+        "client_msg_id": "b3384f60-ac82-45a7-b767-e43dfd7f6855",
+        "text": "anyways had to modify some stuff in the original script but should be working now",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711062318.065789",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HbFxc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anyways had to modify some stuff in the original script but should be working now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711066651.271669",
+        "client_msg_id": "2188637d-bfa7-4cc9-8de0-09256a1a62d7",
+        "text": "sweet. thanks",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711062318.065789",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fkiqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sweet. thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

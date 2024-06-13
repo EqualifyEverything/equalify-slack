@@ -1,0 +1,408 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717383688.450499",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1717383688.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1717383688.450499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717383688.589509",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1717383688.589509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711570110,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue opened by bbertucc",
+                "text": "Domain hosted on porkbun.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1|#1 Deploy to api.equalify.app>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1717383688.450499",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1717383688.450499",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1717383688.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1717383688.450499",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1717383688.589509",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1717383688.589509"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1711570110,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/equalify-api] Issue opened by bbertucc",
+                    "text": "Domain hosted on porkbun.",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1|#1 Deploy to api.equalify.app>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                            "title": "Assignees",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1717383688.589509",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711570110,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1|#1 Deploy to api.equalify.app>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717383697.645959",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1717383698.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1717383697.645959",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717383697.803999",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1717383697.803999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711570359,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue opened by bbertucc",
+                "text": "Authentication tied with user accounts, stored in <http:\/\/auth0.com|auth0>.\n\nUser accounts also tell which DB the user has access to in auth0 App Meta Data:\n\n```\n{\n  \"equalify_databases\": [\n    \"equalify_account_36\",\n    \"equalify_account_35\"\n  ]\n}\n```",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2|#2 Integrate Authentication>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1717383697.645959",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1717383697.645959",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1717383698.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1717383697.645959",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1717383697.803999",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1717383697.803999"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1711570359,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/equalify-api] Issue opened by bbertucc",
+                    "text": "Authentication tied with user accounts, stored in <http:\/\/auth0.com|auth0>.\n\nUser accounts also tell which DB the user has access to in auth0 App Meta Data:\n\n```\n{\n  \"equalify_databases\": [\n    \"equalify_account_36\",\n    \"equalify_account_35\"\n  ]\n}\n```",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2|#2 Integrate Authentication>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                            "title": "Assignees",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1717383697.803999",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711570359,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2|#2 Integrate Authentication>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>"
+            }
+        ]
+    }
+]

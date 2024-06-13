@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716910857.820249",
+        "client_msg_id": "8d69a0c3-30ef-42ae-a36d-a662bad07445",
+        "text": "So <@U04J7TVCQGP> and anyone else here's the angle I'm going for just over 100 words we can use to help sell the thing especially for those less technically inclined and have little to no a11y knowledge\/background. Let me know your thoughts. Introducing Equalify, the perfect, economical solution for higher education institutions committed to digital accessibility in the 21st century. Equalify makes it easy to ensure your university's websites are accessible to all students, faculty, and visitors. With its fast, robust, and scalable platform, Equalify scans your entire site using just a sitemap, delivering detailed reports on accessibility issues. No need for advanced technical skills! The included Chrome extension allows you to check and enhance accessibility directly from your browser. Ensure conformance with today's accessibility standards, enhance user experience, and support an inclusive campus environment effortlessly with Equalify. Embrace digital inclusion with Equalify today!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ENpN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and anyone else here's the angle I'm going for just over 100 words we can use to help sell the thing especially for those less technically inclined and have little to no a11y knowledge\/background. Let me know your thoughts. Introducing Equalify, the perfect, economical solution for higher education institutions committed to digital accessibility in the 21st century. Equalify makes it easy to ensure your university's websites are accessible to all students, faculty, and visitors. With its fast, robust, and scalable platform, Equalify scans your entire site using just a sitemap, delivering detailed reports on accessibility issues. No need for advanced technical skills! The included Chrome extension allows you to check and enhance accessibility directly from your browser. Ensure conformance with today's accessibility standards, enhance user experience, and support an inclusive campus environment effortlessly with Equalify. Embrace digital inclusion with Equalify today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716910910.940369",
+        "client_msg_id": "c6cc5fe9-13e2-4df9-88bf-a77d503d3a9f",
+        "text": "Idk I'm trying to minimize buzz words.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dPocg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idk I'm trying to minimize buzz words."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

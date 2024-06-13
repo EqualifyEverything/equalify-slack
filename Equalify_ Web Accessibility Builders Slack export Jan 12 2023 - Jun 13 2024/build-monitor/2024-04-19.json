@@ -1,0 +1,247 @@
+[
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1713561201.835929",
+        "client_msg_id": "9f055c04-145b-4d99-8cfd-0d7693e34099",
+        "text": "Hello again <@U06PB2BPADB>! Any updates for monitor or scan this week?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713561201.835929",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1713581589.618819",
+        "reply_users": [
+            "U06PB2BPADB",
+            "U06RZ1EJGER"
+        ],
+        "replies": [
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1713562536.852539"
+            },
+            {
+                "user": "U06RZ1EJGER",
+                "ts": "1713581581.291519"
+            },
+            {
+                "user": "U06RZ1EJGER",
+                "ts": "1713581589.618819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eBmCl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello again "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Any updates for monitor or scan this week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1713562536.852539",
+        "client_msg_id": "8a21fc90-cedc-438d-ae47-0f23d9d60983",
+        "text": "Hey Jessica! Yes! Scan updates this week:\n• The scanner API endpoints and dashboard now live at <http:\/\/scan.equalify.app|scan.equalify.app>\n• We now use a managed database connection when retrieving results, which should fix problems we were having with the DB getting overloaded\n• As a test of the above we ran and processed around ~120k scans last week, and nothing caught on fire! :smiley:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713561201.835929",
+        "parent_user_id": "U06RZ1EJGER",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3zp5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Jessica! Yes! Scan updates this week:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The scanner API endpoints and dashboard now live at "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/scan.equalify.app",
+                                        "text": "scan.equalify.app"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We now use a managed database connection when retrieving results, which should fix problems we were having with the DB getting overloaded"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "As a test of the above we ran and processed around ~120k scans last week, and nothing caught on fire! "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "smiley",
+                                        "unicode": "1f603"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06RZ1EJGER"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1713581581.291519",
+        "client_msg_id": "6b6c6a01-b1a8-48f7-9abd-c598e70b6bb4",
+        "text": "Sounds incredible!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713561201.835929",
+        "parent_user_id": "U06RZ1EJGER",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCIqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds incredible!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1713581589.618819",
+        "client_msg_id": "a238fa99-2d08-4947-bcd2-c92ae3dcb8cb",
+        "text": "Thanks!!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713561201.835929",
+        "parent_user_id": "U06RZ1EJGER",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PH1mh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

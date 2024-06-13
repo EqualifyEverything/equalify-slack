@@ -1,0 +1,236 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717398270.413019",
+        "edited": {
+            "user": "U06Q2P392AU",
+            "ts": "1717398325.000000"
+        },
+        "client_msg_id": "dfb889c5-d18b-4bb8-9f46-65b9dc7ed087",
+        "text": "Awesome. Love the breakdown and transparency in this entire process. <@U04J7TVCQGP>, I just invoiced you for April and May totaling $450. As we discussed April was very light and it seemed silly to bill for an hour, and with my schedule, this made more sense. Apologies didn't get it to you at the end of the month last week, but hope that's ok. Let me know if you have any questions.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717383228.095789",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iiYRv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome. Love the breakdown and transparency in this entire process. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I just invoiced you for April and May totaling $450. As we discussed April was very light and it seemed silly to bill for an hour, and with my schedule, this made more sense. Apologies didn't get it to you at the end of the month last week, but hope that's ok. Let me know if you have any questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717425646.873679",
+        "client_msg_id": "9E541716-ECDA-42F0-8609-E08FF891C406",
+        "text": "Great <@U06Q2P392AU>, I added that bill to the list. Do you have a general idea of how much we should budget for manual testing through September? I would like to add that to the budget.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717383228.095789",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5aHV3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I added that bill to the list. Do you have a general idea of how much we should budget for manual testing through September? I would like to add that to the budget."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717427568.496259",
+        "client_msg_id": "f93bbcfa-cedd-4062-a35a-3818566ba9c8",
+        "text": "Absolutely <@U04J7TVCQGP>! I estimate $900 for June (I still need to do regression testing on these <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10|issues> and test the extension), and assuming we're on target for July's release, July and August I estimate $500\/mo (basically in case there are random things that crop up or we need to do some additional testing if it runs over from June). Tldr, $1,900 for a11y for the next three months. Beyond that or if I somehow burn through that, we can discuss prioritization\/whether it can wait till September or later.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717383228.095789",
+        "parent_user_id": "U04J7TVCQGP",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1716253623,
+                "color": "cb2431",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#10 Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)",
+                "text": "This stems from the recent chat on the a11y channel of our Slack (cc <https:\/\/github.com\/wilsuriel03|@wilsuriel03> & <https:\/\/github.com\/heythisischris|@heythisischris>.\n\n*Stats*\n\n• Windows 11,\n• Google Chrome Version 125.0.6422.61\n• JAWS 2024.2312.53.400,\n• NVDA 2024.1\n• Equalify.dev 0.3.0 Developer Preview\n\nIf any of the issues are particular to a browser, I make that clear, though that wasn't the case here.\n\n*Results*\n*Signup\/signin*\n\n• Signin page uses placeholder for the email. you shouldn't use placeholder text here --that really goes for any input field. These tend to introduce color contrast issues. Also the placeholder will disappear as soon as text is entered, so you should consider wrapping it in a p tag and associate it with the input using aria-describedby.\n• On the signup page, <https:\/\/equalify.dev\/signup|https:\/\/equalify.dev\/signup>, the first field is read as \"email first name\". Next field appears to read helper text as the label for the first name only rather than explicitly saying \"first name\".\n• When attempting to sign up, after pressing Continue, my focus jumped back to the confirm password field but there was no context around the issue. It needs to communicate to the user that the passwords don't match, in this case. In other UIs it might be that the password wasn't strong enough, didn't contain the required character types, etc. Communicating the issue eliminates any of the ambiguity. You could consider comparing the two password fields before the user presses Continue if then once they've entered into the confirm field, wait a beat and confirm whether or not the passwords match so they don't have to go backward through the DOM and guess what the issue was, creating additional work for them and disrupting the workflow.\n• After pressing Continue, I did receive the verification code, but there seemed to be stale content from earlier when I tried signing in with my email. If it confused me, it will most certainly confuse other users.\n\n*Main screen after logging in\/Reports*\n\n• Navigation in the main navigation landmark label which is redundant. It reads as \"main navigation navigation\".\n• View Report link is redundant, especially if the user navigates via the tab key or pulls up a links list, which is a common feature of most modern screen readers. It lacks context pertaining to which report is being viewed. E.g. change the link text to \"View Accessibility 1 Report\". Make sure the accessible name and visible label match if at all possible. This is important for two reasons:\n    • Speech-input users can directly activate controls on a page with fewer surprising changes of focus, and\n    • text-to-speech users will have a better experience because the labels that they hear match the visible text labels that they see on the screen.\n• Viewing a report, in this case Accessibility Audit 1, there are a variety of graphics before the message table with generic-sounding alt text whose purpose is unclear: \"2021\/01\", \"2021\/02\", \"2021\/03\", \"2021\/04\", \"2021\/05\", \"0\", \"8\", \"16\", \"24\", and \"32\"\".\n• Report\/edit\/danger zone: When closing\/cancelling deletion, screen reader focus is unclear and focus should return to the button that initiated the dialog in this case being the delete button.\n• Searching any of the selected filter types does not announce the search result even if no items are found.\n• When creating a report, the report name text field is unavailable.\n\nThis random one I didn't know how to categorize: When going to Properties I receive the messsage \"Error loading properties\".",
+                "title": "#10 Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "bug",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+goKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I estimate $900 for June (I still need to do regression testing on these "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10",
+                                "text": "issues"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and test the extension), and assuming we're on target for July's release, July and August I estimate $500\/mo (basically in case there are random things that crop up or we need to do some additional testing if it runs over from June). Tldr, $1,900 for a11y for the next three months. Beyond that or if I somehow burn through that, we can discuss prioritization\/whether it can wait till September or later."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717453404.306679",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-accounting] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/commit\/4f8a194c4a4bd97674f980d9765af8fd582ea286|4f8a194c>` - Add files via upload",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/compare\/edf00d73e0c7...4f8a194c4a4b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting|EqualifyEverything\/equalify-accounting>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

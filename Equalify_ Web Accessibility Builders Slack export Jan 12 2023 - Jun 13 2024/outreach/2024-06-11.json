@@ -1,0 +1,313 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718107375.814659",
+        "client_msg_id": "d6548731-4327-480a-a7ca-6b6435d3fbd8",
+        "text": "As we get into promoting on the A11y channel, we probably should remember their solicitation policy. Link here: <https:\/\/accessibility.github.io\/a11yslack\/code-of-conduct.html#solicitations>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oWN7p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As we get into promoting on the A11y channel, we probably should remember their solicitation policy. Link here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/accessibility.github.io\/a11yslack\/code-of-conduct.html#solicitations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718124326.541509",
+        "client_msg_id": "ec02a2fc-60e2-4f11-9fdc-addd375537b6",
+        "text": "<@U06Q2P392AU> - big news! Andrian Roselli is into meeting with us for 30 minutes. I sent him our calendly link. He wants us to prepare an agenda for the call, with key questions he can help us address. Do you mind jumping on that?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718124326.541509",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1718129812.508819",
+        "reply_users": [
+            "U06Q2P392AU",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1718129802.485099"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718129812.508819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718129812.508819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "veEBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - big news! Andrian Roselli is into meeting with us for 30 minutes. I sent him our calendly link. He wants us to prepare an agenda for the call, with key questions he can help us address. Do you mind jumping on that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718129802.485099",
+        "client_msg_id": "f700fd3e-dff0-4326-92c2-77e4dc4784b9",
+        "text": "<@U04J7TVCQGP> Epic! Adding it to my todo list. I will do that and send it to you in a Google doc for your input.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718124326.541509",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EI55s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Epic! Adding it to my todo list. I will do that and send it to you in a Google doc for your input."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718129812.508819",
+        "client_msg_id": "3ec3d62e-cd72-4b48-bdff-8ee1ff089ab9",
+        "text": "Thanks!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718124326.541509",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSYv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718151081.799049",
+        "client_msg_id": "7d08bb3e-bc85-4f71-b4b1-961e9fe88ae5",
+        "text": "Hey <@U06Q2P392AU> - I invited you to the \"Equalify Leads\" google spreadsheet. I didn't share it publicly because it includes contact info that people didn't give me expressed permission to share. We can work from there to start to establish a \"Sales Funnel.\"",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJj7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I invited you to the \"Equalify Leads\" google spreadsheet. I didn't share it publicly because it includes contact info that people didn't give me expressed permission to share. We can work from there to start to establish a \"Sales Funnel.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718151165.582519",
+        "client_msg_id": "7e5c7258-b315-418d-95ae-3c641a1de9fc",
+        "text": "Also, would you be able to add any folks you have from your own connections?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Fj+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, would you be able to add any folks you have from your own connections?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718156659.904679",
+        "client_msg_id": "63c7d321-6393-46f0-884e-aee98f006c23",
+        "text": "Added all the users of Equalify too. Some I didn't have data from, but we can go over it all on our call. That spreadsheet might be a good source of truth for who and how we contact people.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yW+kZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added all the users of Equalify too. Some I didn't have data from, but we can go over it all on our call. That spreadsheet might be a good source of truth for who and how we contact people."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

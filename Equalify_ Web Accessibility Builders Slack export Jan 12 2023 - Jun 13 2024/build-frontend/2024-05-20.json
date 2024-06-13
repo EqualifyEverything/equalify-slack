@@ -1,0 +1,1047 @@
+[
+    {
+        "text": "Wireframes attached, as requested <@U06TJNUDNLA>.",
+        "files": [
+            {
+                "id": "F074N8R9DS5",
+                "created": 1716227984,
+                "timestamp": 1716227984,
+                "name": "Equalify Onboarding Wireframes.pdf",
+                "title": "Equalify Onboarding Wireframes.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 159141,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F074N8R9DS5\/equalify_onboarding_wireframes.pdf?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F074N8R9DS5\/download\/equalify_onboarding_wireframes.pdf?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F074N8R9DS5-f4e03ee059\/equalify_onboarding_wireframes_thumb_pdf.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_pdf_w": 9013,
+                "thumb_pdf_h": 3980,
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F074N8R9DS5\/equalify_onboarding_wireframes.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F074N8R9DS5-c591d3361b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9pu4g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wireframes attached, as requested "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1716227994.073589",
+        "client_msg_id": "6a983144-e25f-4d50-9b1c-7ba2efe5a7c4",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716235940.105349",
+        "client_msg_id": "249a1be2-7c5b-405b-ae13-eaedd8f62b05",
+        "text": "Thank you, <@U04J7TVCQGP>. Please inform me of the decision we reach regarding the specific model so that I can focus on that direction and conduct more thorough research for the UI\/UX.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xid64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Please inform me of the decision we reach regarding the specific model so that I can focus on that direction and conduct more thorough research for the UI\/UX."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716235986.378699",
+        "client_msg_id": "73c78fdd-6298-4976-a9d1-2dad337ab6e3",
+        "text": "Totally. I'm speaking to various users now <@U06TJNUDNLA>. If any strong feelings pop with you, let me know. I should have good answers to you by tomorrow.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVQM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Totally. I'm speaking to various users now "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If any strong feelings pop with you, let me know. I should have good answers to you by tomorrow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716236178.398489",
+        "client_msg_id": "47896AB1-5F83-48BF-8E72-F654B250CB5F",
+        "text": "Perfect",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FZf7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716237385.755159",
+        "client_msg_id": "9e60c45f-6324-4726-a03d-d803be939184",
+        "text": "I'm going to post some responses here <@U06TJNUDNLA> to the idea of publishing public accessibility results. I'll just publish them as they come.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fqMjK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to post some responses here "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to the idea of publishing public accessibility results. I'll just publish them as they come."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716237398.178049",
+        "client_msg_id": "b8517533-4ab3-46bf-9c44-3f9aa4e60279",
+        "text": "&gt; If you provided aggregated stats and people could ask “how do I fare?” it could be acceptable.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YzNKa",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you provided aggregated stats and people could ask “how do I fare?” it could be acceptable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716237439.071089",
+        "client_msg_id": "19a93c24-e403-42db-8e88-465d9420bfcc",
+        "text": "&gt; If it was truly comprehensive, that could work, but you’d need a benchmark like top X sites based on Alexa ranking.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716237439.071089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716237502.331669",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716237502.331669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716237502.331669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04PYv",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it was truly comprehensive, that could work, but you’d need a benchmark like top X sites based on Alexa ranking."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716237502.331669",
+        "client_msg_id": "a645ca87-cc02-4e50-beb9-1e01eb62f4e4",
+        "text": "I agree with this and if we went with the more public approach, we would probably need to scan the million sites in the web aim million to start <https:\/\/webaim.org\/projects\/million\/>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716237439.071089",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jRe3+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with this and if we went with the more public approach, we would probably need to scan the million sites in the web aim million to start "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/webaim.org\/projects\/million\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716238383.547329",
+        "client_msg_id": "de7ec27e-9dd0-4561-95d9-11f459cb1132",
+        "text": "&gt; It really could go either way, right? Some companies may be inspired to act, some may be annoyed because they’re working on it and the results don’t show their efforts (yet)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KFmz+",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It really could go either way, right? Some companies may be inspired to act, some may be annoyed because they’re working on it and the results don’t show their efforts (yet)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716238587.780229",
+        "client_msg_id": "e872063a-c8ae-45f4-9e8b-e7615e361b11",
+        "text": "&gt; Personally, as a company selling a product, I wouldn’t do it. Like, the DOJ can get away with creating a “hall of shame” for Fed agency sites, but the DOJ is entitled to do that",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WtU5y",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personally, as a company selling a product, I wouldn’t do it. Like, the DOJ can get away with creating a “hall of shame” for Fed agency sites, but the DOJ is entitled to do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716238596.742869",
+        "client_msg_id": "f2a1c753-2627-45a7-b7e1-01425fb9450b",
+        "text": "&gt; A few months ago someone left a comment on a CivicActions LinkedIn post about one of our web pages failing a quick automated test, and it just came across as condescending.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716238596.742869",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716238677.030439",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716238677.030439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716238677.030439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Tqh+",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A few months ago someone left a comment on a CivicActions LinkedIn post about one of our web pages failing a quick automated test, and it just came across as condescending."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716238677.030439",
+        "client_msg_id": "05444a58-ae91-4c3f-a469-eb3252cb03be",
+        "text": "This actually points at a very real opportunity to reframe automated web accessibility results. We could cast a positive light on it. We're not creating the hall of shame, but \"Site XYZ is very close to full conformance.\"",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716238596.742869",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8HjL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This actually points at a very real opportunity to reframe automated web accessibility results. We could cast a positive light on it. We're not creating the hall of shame, but \"Site XYZ is very close to full conformance.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716241403.281369",
+        "client_msg_id": "f4ba97b4-57e4-4ffe-9b82-855cd27520bd",
+        "text": "&gt; Theoretically, benchmarking could be useful for teams to justify their value — this is done frequently in UX research metrics, where you can buy different metric scores for lots of companies to compare yours (e.g., our site is in the 90th percentile of similar companies).\n&gt; \n&gt; Doing something like that might be useful, and you could anonymize the data. No need to name a company (which avoids your concern in the other thread). People could simply look up “apparel retailers” or “quick service restaurants and see how their site compares to the peer group.\n&gt; \n&gt; The question is — is that worth your time and effort? Personally, I’d love to punch in our site and maybe take it back to our product managers to help inform our conversations…but I wouldn’t pay for it.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716241403.281369",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716241462.122939",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716241462.122939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716241462.122939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RGjPE",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Theoretically, benchmarking could be useful for teams to justify their value — this is done frequently in UX research metrics, where you can buy different metric scores for lots of companies to compare yours (e.g., our site is in the 90th percentile of similar companies).\n\nDoing something like that might be useful, and you could anonymize the data. No need to name a company (which avoids your concern in the other thread). People could simply look up “apparel retailers” or “quick service restaurants and see how their site compares to the peer group.\n\nThe question is — is that worth your time and effort? Personally, I’d love to punch in our site and maybe take it back to our product managers to help inform our conversations…but I wouldn’t pay for it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716241462.122939",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1716241473.000000"
+        },
+        "client_msg_id": "475a4704-ef27-4894-b2b7-439d28f8bf5e",
+        "text": "When I asked this person if they would buy on-demand scanning, support, and personalized fix suggestions they wrote:\n>  If our organization prioritized accessibility, maybe. It would all depend on team size relative to product \/ site size. If i were running a dedicated but small team, this could be a way for me to stay in budget and remediate issues faster. If my team were bigger (or there was a more general requirement for accessibility skills in devs and designers), I would expect our teams to be capable of a robust QA and audit process themselves.\n> \n> Where I’m at now, I’m still trying to get people to buy in that it’s important at all. You know, the good fight.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716241403.281369",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1CgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I asked this person if they would buy on-demand scanning, support, and personalized fix suggestions they wrote:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " If our organization prioritized accessibility, maybe. It would all depend on team size relative to product \/ site size. If i were running a dedicated but small team, this could be a way for me to stay in budget and remediate issues faster. If my team were bigger (or there was a more general requirement for accessibility skills in devs and designers), I would expect our teams to be capable of a robust QA and audit process themselves.\n\nWhere I’m at now, I’m still trying to get people to buy in that it’s important at all. You know, the good fight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716241495.422159",
+        "client_msg_id": "3d7977e3-c39b-4111-8333-3baa0e7cacc6",
+        "text": "&gt; Transparency is critical to success. You might loose some but you will gain others",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fuwzp",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Transparency is critical to success. You might loose some but you will gain others"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716242232.335909",
+        "client_msg_id": "a1e651b7-4021-4a68-9f9c-5659a22d8315",
+        "text": "&gt; Ostensibly, your report could have saved me 2 years in my advocacy journey…but even with the quant data, it can still be hard to get people interested.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716242232.335909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716242272.088539",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716242272.088539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716242272.088539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aTP1L",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ostensibly, your report could have saved me 2 years in my advocacy journey…but even with the quant data, it can still be hard to get people interested."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716242272.088539",
+        "client_msg_id": "be69e4dc-98d2-4789-8ce4-21c0920696bd",
+        "text": "this is from a dev and it's really convincing me that we should go with Crazy Option 2",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716242232.335909",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UB7Nh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is from a dev and it's really convincing me that we should go with Crazy Option 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716242585.400769",
+        "client_msg_id": "dfa8fdd4-d55b-4f1b-b317-34cdce0fe074",
+        "text": "&gt; you should write down every step that the user must do before they start to get value from the product (in other words, doing what they came there for).\n&gt; \n&gt; Then mark each step as Red, Yellow, or green.\n&gt; \n&gt; Red are things that are absolutely not related to delivering value.\n&gt; \n&gt; Yellow are things that can conditionally add value\n&gt; \n&gt; Green are things that are required for adding value.\n&gt; \n&gt; Then go through the list and remove every one of the red things (or shift them elsewhere)\n&gt; \n&gt; Then go through and see if the Yellow ones can be moved, or made better.\n&gt; \n&gt; Green ones should be kept and made easier if possible",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CDuVy",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you should write down every step that the user must do before they start to get value from the product (in other words, doing what they came there for).\n\nThen mark each step as Red, Yellow, or green.\n\nRed are things that are absolutely not related to delivering value.\n\nYellow are things that can conditionally add value\n\nGreen are things that are required for adding value.\n\nThen go through the list and remove every one of the red things (or shift them elsewhere)\n\nThen go through and see if the Yellow ones can be moved, or made better.\n\nGreen ones should be kept and made easier if possible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716242649.622939",
+        "client_msg_id": "a7ee617f-5109-438b-b22a-c4c4e43e9145",
+        "text": "What are you thinking from the data I provided <@U06TJNUDNLA>? Are you confident in the blue pill (the safe route that hides data) or the red pill (exposing all data)?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DOoV\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are you thinking from the data I provided "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Are you confident in the blue pill (the safe route that hides data) or the red pill (exposing all data)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716243994.333779",
+        "client_msg_id": "63f8c672-f1c5-4378-9e2d-dc817844b547",
+        "text": "<@U04J7TVCQGP> Tbh before I decide on whether to go with the blue pill (hiding data) or the red pill (exposing data), could you give me a quick summary of the models we talked about today?\nI’m still not completely clear, and our meeting felt more visual than conceptual. Could you break it down in detail, kind of like you’re pitching this new direction for Equalify? That’ll help me figure out the best approach.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716243994.333779",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716307270.911919",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716307270.911919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716307270.911919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyvNp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tbh before I decide on whether to go with the blue pill (hiding data) or the red pill (exposing data), could you give me a quick summary of the models we talked about today?\nI’m still not completely clear, and our meeting felt more visual than conceptual. Could you break it down in detail, kind of like you’re pitching this new direction for Equalify? That’ll help me figure out the best approach."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1716253625.136549",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1717304201.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1716253625.136549",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717304195.960119",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1717304195.960119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1716253623,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by kevinandrews1",
+                "text": "This stems from the recent chat on the a11y channel of our Slack (cc <https:\/\/github.com\/wilsuriel03|@wilsuriel03> &amp; <https:\/\/github.com\/heythisischris|@heythisischris>.\n\n*Stats*\n\n• Windows 11,\n• Google Chrome Version 125.0.6422.61\n• JAWS 2024.2312.53.400,\n• NVDA 2024.1\n• Equalify.dev 0.3.0 Developer Preview\n\nIf any of the issues are particular to a browser, I make that clear, though that wasn't the case here.\n\n*Results*\n*Signup\/signin*\n\n• Signin page uses placeholder for the email. you shouldn't use placeholder text here --that really goes for any input field. These tend to introduce color contrast issues. Also the placeholder will disappear as soon as text is entered, so you should consider wrapping it in a p tag and associate it with the input using aria-describedby.\n• On the signup page, <https:\/\/equalify.dev\/signup|https:\/\/equalify.dev\/signup>, the first field is read as \"email first name\". Next field appears to read helper text as the label for the first name only rather than explicitly saying \"first name\".\n• When attempting to sign up, after pressing Continue, my focus jumped back to the confirm password field but there was no context around the issue. It needs to communicate to the user that the passwords don't match, in this case. In other UIs it might be that the password wasn't strong enough, didn't contain the required character types, etc. Communicating the issue eliminates any of the ambiguity. You could consider comparing the two password fields before the user presses Continue if then once they've entered into the confirm field, wait a beat and confirm whether or not the passwords match so they don't have to go backward through the DOM and guess what the issue was, creating additional work for them and disrupting the workflow.\n• After pressing Continue, I did receive the verification code, but there seemed to be stale content from earlier when I tried signing in with my email. If it confused me, it will most certainly confuse other users.\n\n*Main screen after logging in\/Reports*\n\n• Navigation in the main navigation landmark label which is redundant. It reads as \"main navigation navigation\".\n• View Report link is redundant, especially if the user navigates via the tab key or pulls up a links list, which is a common feature of most modern screen readers. It lacks context pertaining to which report is being viewed. E.g. change the link text to \"View Accessibility 1 Report\". Make sure the accessible name and visible label match if at all possible. This is important for two reasons:\n    • Speech-input users can directly activate controls on a page with fewer surprising changes of focus, and\n    • text-to-speech users will have a better experience because the labels that they hear match the visible text labels that they see on the screen.\n• Viewing a report, in this case Accessibility Audit 1, there are a variety of graphics before the message table with generic-sounding alt text whose purpose is unclear: \"2021\/01\", \"2021\/02\", \"2021\/03\", \"2021\/04\", \"2021\/05\", \"0\", \"8\", \"16\", \"24\", and \"32\"\".\n• Report\/edit\/danger zone: When closing\/cancelling deletion, screen reader focus is unclear and focus should return to the button that initiated the dialog in this case being the delete button.\n• Searching any of the selected filter types does not announce the search result even if no items are found.\n• When creating a report, the report name text field is unavailable.\n\nThis random one I didn't know how to categorize: When going to Properties I receive the messsage \"Error loading properties\".",
+                "pretext": "Issue created by <https:\/\/github.com\/kevinandrews1|kevinandrews1>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10|#10 Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "bug",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:10,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:10,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:10,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

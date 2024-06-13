@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715272582.272009",
+        "client_msg_id": "0d0fa5a3-133c-472c-a6b5-4bf5ed415420",
+        "text": "Videos are great<@U06P7AP2R38>! They demonstrate all the points in your <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-2021746829|API Refactor proposal> and most of the <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-1995910134|LLM API proposal> (I think you are just missing \"Begin testing with Equalify Frontend\"). I will initiate the payment of the other 50% payment for the bounty.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715272582.272009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715274201.182239",
+        "reply_users": [
+            "U06P7AP2R38"
+        ],
+        "replies": [
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1715274201.182239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715274201.182239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vwxop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Videos are great"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! They demonstrate all the points in your "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-2021746829",
+                                "text": "API Refactor proposal"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and most of the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278#issuecomment-1995910134",
+                                "text": "LLM API proposal"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (I think you are just missing \"Begin testing with Equalify Frontend\"). I will initiate the payment of the other 50% payment for the bounty."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1715274201.182239",
+        "client_msg_id": "c6504bb3-4795-4ea7-8403-fa843167d8cb",
+        "text": "Thank you!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715272582.272009",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ye0AT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717106534.981409",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-api] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-api\/commit\/b53bbe1b7765559512febcef5553a52147530a41|b53bbe1b>` - Create LICENSE.md",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/compare\/816713dac4ce...b53bbe1b7765|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-api\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717107753.318439",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1717383713.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1673279954,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue opened by joelhsmith",
+                "text": "Idea for a paid version of the app. Show images of offending elements. The data for the bounding rectangle exists.\n\n```\n\"duplicate-id-active\": {\n    \"details\": {\n        \"items\": [\n          {\n            \"node\": {\n                boundingRect {\n                \"top\": 102,\n                \"bottom\": 127,\n                \"left\": 175,\n                \"right\": 282,\n                \"width\": 107,\n                \"height\": 25\n             }\n          ]\n       }\n    }\n}\n```\n\nFrom <https:\/\/github.com\/dequelabs\/axe-core\/blob\/ac7b2b5ec402e9de91c50ef39aefd5843f0d62bb\/lib\/commons\/dom\/visually-contains.js|visually contains>.\n\nI think this would only work for the Axe based version of the API. Maybe its available in WAVE. I have not looked.",
+                "pretext": "Issue created by <https:\/\/github.com\/joelhsmith|joelhsmith>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/5|#5 Show Axe images of offending elements>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "fields": [
+                    {
+                        "value": "feature",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "13",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:5,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/5&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Show Axe images of offending elements&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:5,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/5&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Show Axe images of offending elements&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:5,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/5&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Show Axe images of offending elements&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    }
+]

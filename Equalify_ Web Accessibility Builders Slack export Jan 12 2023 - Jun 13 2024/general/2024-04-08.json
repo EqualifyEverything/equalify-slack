@@ -1,0 +1,201 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712581173.081019",
+        "client_msg_id": "E477D1DA-2F8E-4E7D-B33C-81723A303699",
+        "text": "I was dubious about AI helping blind users until <@U06Q2P392AU> showed me how he uses Be My AI.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712548046.889039",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9JZhc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was dubious about AI helping blind users until "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " showed me how he uses Be My AI."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U06P7APCV9U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1712593001.160429",
+        "client_msg_id": "36D17738-4932-4CB7-AC41-3317F7493324",
+        "text": "It will be interesting to see how Equalify evaluates the FT website - <https:\/\/www.ft.com\/content\/3c877c55-b698-43da-a222-8ae183f53078?commentID=743b5ec6-be00-4438-a1fb-cddbce884f68|https:\/\/www.ft.com\/content\/3c877c55-b698-43da-a222-8ae183f53078?commentID=743b5ec6-be00-4438-a1fb-cddbce884f68>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712548046.889039",
+        "parent_user_id": "U06P7APCV9U",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.ft.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F7e212379-f7ea-4ceb-aa20-f2a7b2fdedc3.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+                "image_width": 700,
+                "image_height": 394,
+                "image_bytes": 13525,
+                "from_url": "https:\/\/www.ft.com\/content\/3c877c55-b698-43da-a222-8ae183f53078?commentID=743b5ec6-be00-4438-a1fb-cddbce884f68",
+                "ts": 1712462413,
+                "id": 1,
+                "original_url": "https:\/\/www.ft.com\/content\/3c877c55-b698-43da-a222-8ae183f53078?commentID=743b5ec6-be00-4438-a1fb-cddbce884f68",
+                "fallback": "Blind internet users struggle with error-prone AI aids",
+                "text": "Unreliable software installed to comply with rules to help disabled people navigate online has prompted thousands of lawsuits",
+                "title": "Blind internet users struggle with error-prone AI aids",
+                "title_link": "https:\/\/www.ft.com\/content\/3c877c55-b698-43da-a222-8ae183f53078?commentID=743b5ec6-be00-4438-a1fb-cddbce884f68",
+                "service_name": "ft.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PFpYh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It will be interesting to see how Equalify evaluates the FT website - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ft.com\/content\/3c877c55-b698-43da-a222-8ae183f53078?commentID=743b5ec6-be00-4438-a1fb-cddbce884f68",
+                                "text": "https:\/\/www.ft.com\/content\/3c877c55-b698-43da-a222-8ae183f53078?commentID=743b5ec6-be00-4438-a1fb-cddbce884f68"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1712593240.142279",
+        "client_msg_id": "9CAE1054-5441-4013-9C17-A886CB392446",
+        "text": "I had no clue the volunteer base was that big for Be my eyes",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712548046.889039",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NsQJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had no clue the volunteer base was that big for Be my eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1712594818.360319",
+        "client_msg_id": "9a830b81-92dd-4a26-b4b1-bfa10c5f570e",
+        "text": "Ya, but Be My Eyes is definitely an exceptional company. Most folks are just looking for an easy way to cut some corners and use AI to “solve” the problem in the sense of decision makers not wanting to spend $$ on it.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712548046.889039",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCKnJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya, but Be My Eyes is definitely an exceptional company. Most folks are just looking for an easy way to cut some corners and use AI to “solve” the problem in the sense of decision makers not wanting to spend $$ on it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

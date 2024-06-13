@@ -1,0 +1,213 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1715107886.205459"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U072732NLAJ",
+        "text": "<@U072732NLAJ> has joined the channel",
+        "type": "message",
+        "ts": "1715108129.296249"
+    },
+    {
+        "text": "Bidding on a job with <@U024Y5N5S> for Smithsonian. Andrew found a bunch of domains and I ran them through our <https:\/\/github.com\/EqualifyEverything\/equalify-csv-formatter|CSV formatter>. Attached results. Next step would be to process these via Equalify.",
+        "files": [
+            {
+                "id": "F072DK1K8EP",
+                "created": 1715108188,
+                "timestamp": 1715108188,
+                "name": "results.csv",
+                "title": "results.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": true,
+                "size": 34979,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F072DK1K8EP\/results.csv?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F072DK1K8EP\/download\/results.csv?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F072DK1K8EP\/results.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F072DK1K8EP-c88ef105df",
+                "edit_link": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F072DK1K8EP\/results.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQuIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bidding on a job with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U024Y5N5S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for Smithsonian. Andrew found a bunch of domains and I ran them through our "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-csv-formatter",
+                                "text": "CSV formatter"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Attached results. Next step would be to process these via Equalify."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715108204.149649",
+        "client_msg_id": "087ab915-0909-4259-a10e-06374eb13ab7",
+        "thread_ts": "1715108204.149649",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1715290820.062519",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715118932.422729"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715131457.953209"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715290820.062519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715290820.062519"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715118932.422729",
+        "client_msg_id": "e0e25b4d-d1c3-4630-94fc-d7450874a3e0",
+        "text": "when processing these, their server blocks our scans from a few sites. most noteably National Portrait Gallery",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715108204.149649",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TocD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when processing these, their server blocks our scans from a few sites. most noteably National Portrait Gallery"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "updated list attached. Many of the sites blocked crawling and scans. we'll need to whitelist our IPs if we scan them.",
+        "files": [
+            {
+                "id": "F0728LSCJP8",
+                "created": 1715131357,
+                "timestamp": 1715131357,
+                "name": "results.csv",
+                "title": "results.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": true,
+                "size": 34979,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F0728LSCJP8\/results.csv?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F0728LSCJP8\/download\/results.csv?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F0728LSCJP8\/results.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F0728LSCJP8-3e3277f016",
+                "edit_link": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F0728LSCJP8\/results.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8LG3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "updated list attached. Many of the sites blocked crawling and scans. we'll need to whitelist our IPs if we scan them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715131457.953209",
+        "client_msg_id": "2edd063b-b563-4062-8d1e-b984dc8b130b",
+        "thread_ts": "1715108204.149649",
+        "parent_user_id": "U04J7TVCQGP"
+    }
+]

@@ -1,0 +1,473 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710860656.502329",
+        "client_msg_id": "60a8071a-6868-40f4-bb40-a0c01eda9dd7",
+        "text": "I just created <#C06Q9HZRHLK|build-scan> to centralize the discussion related to our scanner. Feel free to join if you want to participate or follow along.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWNhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just created "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06Q9HZRHLK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to centralize the discussion related to our scanner. Feel free to join if you want to participate or follow along."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710863298.977689",
+        "client_msg_id": "b38c874f-d8d0-4693-b66e-193319bcc34c",
+        "text": "Also creating, <#C06QYRA0VSL|build-stream> to focus the conversation around our universal schema. This is key for anyone who is dealing with accessibility data. With STREAM, we've been able to reduce axe-core results by 50% and I assume we'll reduce other results quite a bit.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjxHF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also creating, "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06QYRA0VSL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to focus the conversation around our universal schema. This is key for anyone who is dealing with accessibility data. With STREAM, we've been able to reduce axe-core results by 50% and I assume we'll reduce other results quite a bit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710866139.780839",
+        "client_msg_id": "eeacd9d6-521e-49f5-802b-a87981caa23b",
+        "text": "Our manual testing tool buildout is now official called “<#C06PUUQD4AX|build-ragha> “. Love it because it references a rockstar in digital accessibility, <@U06P7A34VPH>, and it means music. (Maybe this leads to the AI version of Ragha??). Super excited about this project. It’s criminal that there isn’t a good manual assessment tool for folks who rely on screen readers. With Project Ragha, we’ll dance our way to accessibility bliss!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lMkqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our manual testing tool buildout is now official called “"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06PUUQD4AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " “. Love it because it references a rockstar in digital accessibility, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7A34VPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and it means music. (Maybe this leads to the AI version of Ragha??). Super excited about this project. It’s criminal that there isn’t a good manual assessment tool for folks who rely on screen readers. With Project Ragha, we’ll dance our way to accessibility bliss!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710871162.815739",
+        "client_msg_id": "147f3f37-9e0f-492f-af9c-095b0e01660e",
+        "text": "Excited to see <@U06Q82JGBRT> here. He is focused on speed and efficiency in the accessibility space more than any other developer I know. It'll be good to have his opinionated focus. I def. think Equalify and web accessibility will thrive with more focus on efficiency.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jG4By",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excited to see "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q82JGBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here. He is focused on speed and efficiency in the accessibility space more than any other developer I know. It'll be good to have his opinionated focus. I def. think Equalify and web accessibility will thrive with more focus on efficiency."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06Q82JGBRT",
+                    "U06P7AP2R38",
+                    "U06P7A34VPH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06Q6N3N6TT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06Q82JGBRT",
+        "type": "message",
+        "ts": "1710871659.703889",
+        "client_msg_id": "ccbd1579-cfc9-45bb-ba78-dc3ce235bb0a",
+        "text": "Hello everyone, Thanks for the invite!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "2dfe508552f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-19\/6826918297347_2dfe508552f94fdc0220_72.png",
+            "first_name": "Jeff",
+            "real_name": "Jeff Mendez",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jeff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pRlsw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, Thanks for the invite!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U06P7AP2R38",
+                    "U06PB2BPADB",
+                    "U06Q6N3N6TT",
+                    "U04J7TVCQGP"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1710879580.085499",
+        "client_msg_id": "2f6a963d-e740-4f22-9239-bb40fe21963f",
+        "text": "I don’t think there’s anyone who knows how to scan faster than <@U06Q82JGBRT> - glad to see you here.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710879580.085499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710888144.604179",
+        "reply_users": [
+            "U06Q82JGBRT"
+        ],
+        "replies": [
+            {
+                "user": "U06Q82JGBRT",
+                "ts": "1710888144.604179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Tik4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t think there’s anyone who knows how to scan faster than "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q82JGBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - glad to see you here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04J7TVCQGP",
+                    "U06P7A34VPH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U06Q82JGBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710886498.120849",
+        "client_msg_id": "6F2D8AED-EA09-465D-972A-6244DF235E38",
+        "text": "Speaking of speed, our processor build is almost done. This is the main way we see if issues are fixed or not. It not relies on STREAM instead of axe-core, which speeds things up like crazy. You can try it out (some basic PHP experience is helpful): <https:\/\/github.com\/EqualifyEverything\/equalify-processor|https:\/\/github.com\/EqualifyEverything\/equalify-processor>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-processor",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/equalify-processor",
+                "text": "The brain of Equalify",
+                "title": "EqualifyEverything\/equalify-processor",
+                "fields": [
+                    {
+                        "value": "PHP",
+                        "title": "Language",
+                        "short": true
+                    },
+                    {
+                        "value": "21 hours ago",
+                        "title": "Last updated",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+XE+i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Speaking of speed, our processor build is almost done. This is the main way we see if issues are fixed or not. It not relies on STREAM instead of axe-core, which speeds things up like crazy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " You can try it out (some basic PHP experience is helpful): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-processor",
+                                "text": "https:\/\/github.com\/EqualifyEverything\/equalify-processor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q82JGBRT",
+        "type": "message",
+        "ts": "1710888144.604179",
+        "client_msg_id": "ABDD2263-BD97-4C1D-9B65-CF0CCB7323CF",
+        "text": "Hi <@U06Q6N3N6TT> longtime, good to hear from you!! :)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "2dfe508552f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-19\/6826918297347_2dfe508552f94fdc0220_72.png",
+            "first_name": "Jeff",
+            "real_name": "Jeff Mendez",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jeff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710879580.085499",
+        "parent_user_id": "U06Q6N3N6TT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ov81J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q6N3N6TT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " longtime, good to hear from you!! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06Q6N3N6TT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

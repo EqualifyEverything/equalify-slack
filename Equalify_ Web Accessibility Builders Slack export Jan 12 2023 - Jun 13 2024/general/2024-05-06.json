@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715028989.874789",
+        "client_msg_id": "e1132550-8725-4cf5-93fc-64457227e5de",
+        "text": "Welcome <@U072VSKLKR6>- One of the most badass blind cyber security specialists I know.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V+61Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U072VSKLKR6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "- One of the most badass blind cyber security specialists I know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U06P7AP2R38",
+                    "U06PKJHF1FC",
+                    "U06P7APCV9U"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

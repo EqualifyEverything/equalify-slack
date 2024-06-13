@@ -1,0 +1,343 @@
+[
+    {
+        "user": "U06P7A34VPH",
+        "type": "message",
+        "ts": "1710937623.765019",
+        "client_msg_id": "f293d2ac-7d3f-4976-9488-95fca5e064b7",
+        "text": "<@U04J7TVCQGP> spoke to the people i was working on this. they are yet to get  back.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6fea0c4976b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fea0c4976b6a0ff2dfda99f1937465e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Raghavendra",
+            "real_name": "Raghavendra Satish Peri",
+            "display_name": "Raghavendra Satish Peri",
+            "team": "T04JQU0GB2Q",
+            "name": "raghava111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWJ1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " spoke to the people i was working on this. they are yet to get  back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7A34VPH",
+        "type": "message",
+        "ts": "1710937691.737429",
+        "client_msg_id": "7e1a5310-a998-4909-a662-b60695e90171",
+        "text": "but there is another chrome extension\/reporting tool i worked on. i helped with the idea and workflow: <https:\/\/chromewebstore.google.com\/detail\/lera\/neninfnjnhknniefcpognoooalfdaofc>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6fea0c4976b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fea0c4976b6a0ff2dfda99f1937465e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Raghavendra",
+            "real_name": "Raghavendra Satish Peri",
+            "display_name": "Raghavendra Satish Peri",
+            "team": "T04JQU0GB2Q",
+            "name": "raghava111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chromewebstore.google.com\/detail\/lera\/neninfnjnhknniefcpognoooalfdaofc",
+                "service_icon": "https:\/\/ssl.gstatic.com\/chrome\/webstore\/images\/icon_48px.png",
+                "thumb_url": "https:\/\/lh3.googleusercontent.com\/BKWkRrW1zzj11RtpZqmrJtrxX_MITiDO15KpbvRP6A3WljNJkI3fPPjUBxLytCxmzW1uBlqn0U9am7_Ohv3ykWLb",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "id": 1,
+                "original_url": "https:\/\/chromewebstore.google.com\/detail\/lera\/neninfnjnhknniefcpognoooalfdaofc",
+                "fallback": "LERA",
+                "text": "LERA - Automated Accessibility Testing &amp; Reporting Tool",
+                "title": "LERA",
+                "title_link": "https:\/\/chromewebstore.google.com\/detail\/lera\/neninfnjnhknniefcpognoooalfdaofc",
+                "service_name": "chromewebstore.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efEor",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but there is another chrome extension\/reporting tool i worked on. i helped with the idea and workflow: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chromewebstore.google.com\/detail\/lera\/neninfnjnhknniefcpognoooalfdaofc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7A34VPH",
+        "type": "message",
+        "ts": "1710937726.612309",
+        "client_msg_id": "80a2c855-b5ba-4650-82f3-b7ccea853787",
+        "text": "you can run axe automation, have a visual dashboard, save project and dowwnload excel.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6fea0c4976b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fea0c4976b6a0ff2dfda99f1937465e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Raghavendra",
+            "real_name": "Raghavendra Satish Peri",
+            "display_name": "Raghavendra Satish Peri",
+            "team": "T04JQU0GB2Q",
+            "name": "raghava111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BGfQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can run axe automation, have a visual dashboard, save project and dowwnload excel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710943666.707909",
+        "client_msg_id": "5BBA6454-D421-4503-BCBC-303A010C1A39",
+        "text": "Wow. Amazing. That’s definitely a model. Checking it out. ",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AfXxp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow. Amazing. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " definitely a model"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Checking it out"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P7A34VPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7A34VPH",
+        "type": "message",
+        "ts": "1710953417.855149",
+        "client_msg_id": "6ff53762-c8f0-450d-ad5a-68ec86b587b2",
+        "text": "<@U06PKP46SMR> Let me know when we can connect.. I live in india, i prefer teams or zoom to share screen reader.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6fea0c4976b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fea0c4976b6a0ff2dfda99f1937465e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Raghavendra",
+            "real_name": "Raghavendra Satish Peri",
+            "display_name": "Raghavendra Satish Peri",
+            "team": "T04JQU0GB2Q",
+            "name": "raghava111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710953417.855149",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1712071605.667429",
+        "reply_users": [
+            "U06P7A34VPH",
+            "U06PKP46SMR"
+        ],
+        "replies": [
+            {
+                "user": "U06P7A34VPH",
+                "ts": "1711086811.124619"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1711391619.975219"
+            },
+            {
+                "user": "U06P7A34VPH",
+                "ts": "1711608798.832139"
+            },
+            {
+                "user": "U06P7A34VPH",
+                "ts": "1711609126.454359"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1712071597.103369"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1712071605.667429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "muDj9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Let me know when we can connect.. I live in india, i prefer teams or zoom to share screen reader."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710956537.967899",
+        "client_msg_id": "be413d16-738e-48da-ac0a-b31e043b8442",
+        "text": "I'll try to jump on your call whenever you schedule <@U06P7A34VPH> and <@U06PKP46SMR>.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTFrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll try to jump on your call whenever you schedule "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7A34VPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

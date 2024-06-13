@@ -1,0 +1,230 @@
+[
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1712498401.007309",
+        "client_msg_id": "0c7d8138-c4ef-4e02-87cd-e197b1e6c912",
+        "text": "Hey <@U06PSPPSTLZ>, I'm working on the Equalify API project and wanted to see how the frontend initiative was coming along.\n\nI'm a huge fan of developing React SPA apps with <https:\/\/vitejs.dev\/guide\/|Vite>- this might be a solid replacement for CRA that is still supported by the community.\nWe'd get to deploy a static application to a CDN like S3 via Cloudfront on AWS.\nNext.js might add a fair amount of complexity that we don't need to introduce to a mostly dashboard based app (not sure SEO is necessary for authenticated content).\n\nSimply suggesting- if you've already broken ground with Next.js, or simply believe it's a better options, I'm on board.\nOtherwise, I could provide a basic template you can build off of with a few basic packages like AWS Amplify, React Query, Tailwind CSS, &amp; Radix UI components (for accessibility out-of-the-box).",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/vitejs.dev\/guide\/",
+                "image_url": "https:\/\/vitejs.dev\/og-image.png",
+                "image_width": 2600,
+                "image_height": 1302,
+                "image_bytes": 641358,
+                "id": 1,
+                "original_url": "https:\/\/vitejs.dev\/guide\/",
+                "fallback": "Vite",
+                "text": "Next Generation Frontend Tooling",
+                "title": "Vite",
+                "title_link": "https:\/\/vitejs.dev\/guide\/",
+                "service_name": "vitejs.dev"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T0AOL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PSPPSTLZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I'm working on the Equalify API project and wanted to see how the frontend initiative was coming along.\n\nI'm a huge fan of developing React SPA apps with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vitejs.dev\/guide\/",
+                                "text": "Vite"
+                            },
+                            {
+                                "type": "text",
+                                "text": "- this might be a solid replacement for CRA that is still supported by the community.\nWe'd get to deploy a static application to a CDN like S3 via Cloudfront on AWS.\nNext.js might add a fair amount of complexity that we don't need to introduce to a mostly dashboard based app (not sure SEO is necessary for authenticated content).\n\nSimply suggesting- if you've already broken ground with Next.js, or simply believe it's a better options, I'm on board.\nOtherwise, I could provide a basic template you can build off of with a few basic packages like AWS Amplify, React Query, Tailwind CSS, & Radix UI components (for accessibility out-of-the-box)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PSPPSTLZ",
+        "type": "message",
+        "ts": "1712514933.063339",
+        "client_msg_id": "1d214411-996f-4e82-85c2-a2e06e0b49f0",
+        "text": "Hey <@U06P7AP2R38>\n\nI’ve actually been experimenting with a couple different options of tech to use. I was choosing between few different options. I ended up going with Next.js and React Bootstrap (since the original app uses Bootstrap). There are some drawbacks to how Next and Bootstrap play together, so if Vite is going to be easier to develop with in the long term (there’ll be an initial learning curve, bc I haven’t used it before), then I’m down to look into your template.\n\nThanks!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "2fe15484aac7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6781590439287_2fe15484aac717fca2f1_72.png",
+            "first_name": "Eric",
+            "real_name": "Eric Kuehnemann",
+            "display_name": "Eric Kuehnemann",
+            "team": "T04JQU0GB2Q",
+            "name": "eekeric",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b35UJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI’ve actually been experimenting with a couple different options of tech to use. I was choosing between few different options. I ended up going with Next.js and React Bootstrap (since the original app uses Bootstrap). There are some drawbacks to how Next and Bootstrap play together, so if Vite is going to be easier to develop with in the long term (there’ll be an initial learning curve, bc I haven’t used it before), then I’m down to look into your template.\n\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06PSPPSTLZ",
+        "type": "message",
+        "ts": "1712515425.955289",
+        "client_msg_id": "ccdde583-203b-41d8-8dbc-c8514e079999",
+        "text": "Hey <@U06RZ1EJGER>. Sorry for the late update. I’ve been experimenting with different tech to use, and implemented a basic environment with routing and a navbar. Although <@U06P7AP2R38> suggests using another tech stack I’m not really familiar with, so I’ll look into that and might start the whole thing over again. Maybe.\n\nI also had a  good meeting with <@U06Q2P392AU> and came up with a gameplan for user testing.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "2fe15484aac7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6781590439287_2fe15484aac717fca2f1_72.png",
+            "first_name": "Eric",
+            "real_name": "Eric Kuehnemann",
+            "display_name": "Eric Kuehnemann",
+            "team": "T04JQU0GB2Q",
+            "name": "eekeric",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712337400.551699",
+        "parent_user_id": "U06RZ1EJGER",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "liD6Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06RZ1EJGER"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Sorry for the late update. I’ve been experimenting with different tech to use, and implemented a basic environment with routing and a navbar. Although "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggests using another tech stack I’m not really familiar with, so I’ll look into that and might start the whole thing over again. Maybe.\n\nI also had a  good meeting with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and came up with a gameplan for user testing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1712516358.366849",
+        "client_msg_id": "b1b6b834-4366-43b6-8a75-55547895df59",
+        "text": "Sweet!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gSQ3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

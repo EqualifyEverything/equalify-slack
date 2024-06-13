@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1714394947.319599",
+        "client_msg_id": "da820225-47a5-455a-81d9-2deba7513dee",
+        "text": "Cinco De Mayo is coming. FYI- It's gonna be a really chill event. Just a chance for us to share screens and show what we've worked on. I'll be doing some <#C04JQU0JX28|random> party planning this week. Feel free to participate - or not.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bl\/GC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cinco De Mayo is coming. FYI- It's gonna be a really chill event. Just a chance for us to share screens and show what we've worked on. I'll be doing some "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04JQU0JX28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " party planning this week. Feel free to participate - or not."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cactus",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,587 @@
+[
+    {
+        "text": "any updates on the old scan? i see the huge dropoff in activity at 18:56",
+        "files": [
+            {
+                "id": "F06TUL0LBU5",
+                "created": 1712860008,
+                "timestamp": 1712860008,
+                "name": "Screenshot 2024-04-11 at 1.26.34 PM.png",
+                "title": "Screenshot 2024-04-11 at 1.26.34 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 36373,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06TUL0LBU5\/screenshot_2024-04-11_at_1.26.34___pm.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06TUL0LBU5\/download\/screenshot_2024-04-11_at_1.26.34___pm.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TUL0LBU5-97991bc254\/screenshot_2024-04-11_at_1.26.34___pm_64.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TUL0LBU5-97991bc254\/screenshot_2024-04-11_at_1.26.34___pm_80.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TUL0LBU5-97991bc254\/screenshot_2024-04-11_at_1.26.34___pm_360.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360_w": 360,
+                "thumb_360_h": 336,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TUL0LBU5-97991bc254\/screenshot_2024-04-11_at_1.26.34___pm_480.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_480_w": 480,
+                "thumb_480_h": 448,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TUL0LBU5-97991bc254\/screenshot_2024-04-11_at_1.26.34___pm_160.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "original_w": 516,
+                "original_h": 482,
+                "thumb_tiny": "AwAsADDTyKMimHnNA45pXAfkUUwU+hAFFFFMBlFFFIkKfTKfQNBRRRTGNAz6igrx606igBoX8KCCPU06igBMe5pDkepp1FAH\/9k=",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F06TUL0LBU5\/screenshot_2024-04-11_at_1.26.34___pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F06TUL0LBU5-427dd6fb93",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dK7Em",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any updates on the old scan? i see the huge dropoff in activity at 18:56"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712860030.106169",
+        "client_msg_id": "812989fc-4bf4-48bb-90b8-3c0e7dfcfd6b",
+        "thread_ts": "1712791982.005889",
+        "parent_user_id": "U04N3UUQBJL"
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712860096.768629",
+        "client_msg_id": "8d3786fb-078e-4db0-951a-04e8c011480e",
+        "text": "Workers are turned off atm, I'm refactoring the way they handle the mongo connection",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712791982.005889",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YPsp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Workers are turned off atm, I'm refactoring the way they handle the mongo connection"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1712871839.346839",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/scan-worker.equalify.app] 20 new commits pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/315692008e7d25c2ca092cf4a4d49dc6dfb68ddb|31569200>` - Updated dev paths\/names\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/e3eae34e4c7c6cce1d78f7b931d73bb85af4eba6|e3eae34e>` - Added telemetry to dev worker\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/3976777d9e6963e0af44b356b11e3ef966b36115|3976777d>` - Forgot url and token for <http:\/\/logz.io|logz.io>\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/58ff397846545fcca8233c03615ae3311dc610a3|58ff3978>` - Attempted fix for bad import\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/cc4adbf7588596dc0848b2deb512e0512248b20f|cc4adbf7>` - More import tweaking\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/5cbfa41375a5cf13e7eab858d26f9cc0c7683bfd|5cbfa413>` - Added logz port for non-ssl\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/bce290f64caa4132499288afb45242b3ddede65f|bce290f6>` - Fixed wrong logz url\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/8b92b4aaba98f720f68fcd60f1445a921c0d4179|8b92b4aa>` - Removed port # in logz url\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/1ad99856757612656cdcad30050a4781dba2f053|1ad99856>` - More fussing with logz\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/2f8e579087cfe035209b0dcd531a52428d37ceaf|2f8e5790>` - Final try with logz\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/c0bf6cd83f6a821c9311a99647f20b6dfcf1f75c|c0bf6cd8>` - Add worker2\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/72244da043994aa21a6d6aca559ebfb418f82c37|72244da0>` - Add 3 more dev scan workers\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/f5b14abcdd9e7b5b4a98964e9b331f2f3890b639|f5b14abc>` - Fixed incorrect deploy IPs for dev workers\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/82f8347499ed5f5c5e35bbccc741a81154b80350|82f83474>` - Update deploy.yml\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/1907778004a1c276e17711ffa9075220b1ae8222|19077780>` - Removed additional dev IPs\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/52cb78d73a057bd3f96396dc02baa01b2c94484b|52cb78d7>` - Merge branch 'dev' of <https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app> into dev\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/e34482e497d9db2a40133513b54532e202727c67|e34482e4>` - Refactored DB and telemetry connections to singletons and turned off sandboxed processing\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/6b9c9af6fff0c123c88bea74cddd532d51491060|6b9c9af6>` - Cleanup and decreased the telemetry export rate\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/3abc9d2e3e663ceae1b93a8f655c50048a61cbbe|3abc9d2e>` - Merge branch 'dev'\n`<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/commit\/5216cd49df7f4d64461b7c1206768488575f9c7d|5216cd49>` - Updated env and deploy scripts after merge",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/compare\/6ceb819ee4c5...5216cd49df7f|20 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/scan-worker.equalify.app|EqualifyEverything\/scan-worker.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712873073.379769",
+        "client_msg_id": "7f647257-5f46-46b3-b8ea-62f0267d1534",
+        "text": "alright should be ready for throwing stuff at it again",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712791982.005889",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VYSMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright should be ready for throwing stuff at it again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1712873242.503409",
+        "client_msg_id": "0a79fae3-0630-4603-81d0-6e1f3a293831",
+        "text": "Btw would be nice to have a repo or something for like test sets- like sitemaps of various sizes, different domains, etc",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712791982.005889",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5l9KV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw would be nice to have a repo or something for like test sets- like sitemaps of various sizes, different domains, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712888373.421089",
+        "client_msg_id": "caaf2355-8216-411e-bbe9-9b8816bcfb7c",
+        "text": "I have this: <https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/websites-and-titles-cleaned.csv>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712791982.005889",
+        "parent_user_id": "U04N3UUQBJL",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/websites-and-titles-cleaned.csv",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/websites-and-titles-cleaned.csv | websites-and-titles-cleaned.csv>",
+                "text": "```\nName,URL,Discovery\nOpenverse,<https:\/\/openverse.org>,Sitemap Import\nYoruba Team - <http:\/\/WordPress.org|WordPress.org> Yoruba,<https:\/\/yor.wordpress.org\/team,Single> Page Import\nYoruba Support - <http:\/\/WordPress.org|WordPress.org> Yoruba,<https:\/\/yor.wordpress.org\/support,Single> Page Import\nXhosa Team - <http:\/\/WordPress.org|WordPress.org> Xhosa,<https:\/\/xho.wordpress.org\/team,Single> Page Import\nWP-CLI,<https:\/\/make.wordpress.org\/cli,Sitemap> Import\nWP Theme Demo,<http:\/\/wp-themes.com>,Single Page Import\n<http:\/\/WordPress.tv|WordPress.tv>,<https:\/\/wordpress.tv>,Sitemap Import\n<http:\/\/WordPress.org|WordPress.org> Yoruba,<https:\/\/yor.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Xhosa,<https:\/\/xho.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Wolof,<https:\/\/wol.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Vietnamese,<https:\/\/vi.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Venezuela,<https:\/\/ve.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Venetian,<https:\/\/vec.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Uzbekistan,<https:\/\/uz.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Uyghur,<https:\/\/ug.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Uruguay,<https:\/\/es-uy.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Urdu,<https:\/\/ur.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Ukrainian,<https:\/\/uk.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tweants,<https:\/\/twd.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Turkmen,<https:\/\/tuk.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Turkish Azerbaijani,<https:\/\/az-tr.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tigrinya,<https:\/\/tir.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tibetan,<https:\/\/bo.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Thai,<https:\/\/th.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Telugu,<https:\/\/te.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tatar,<https:\/\/tt.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tamil,<https:\/\/ta.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tamil,<https:\/\/ta-lk.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tamazight,<https:\/\/zgh.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tamazight,<https:\/\/tzm.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tajik,<https:\/\/tg.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Taiwan Traditional Chinese,<https:\/\/tw.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tahitian,<https:\/\/tah.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Tagalog,<https:\/\/tl.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Syriac,<https:\/\/syr.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Swazi,<https:\/\/ssw.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Swahili,<https:\/\/sw.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Svenska,<https:\/\/sv.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Sundanese,<https:\/\/su.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Spain,<https:\/\/es.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> South Africa,<https:\/\/en-za.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Somali,<https:\/\/so.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Slovensko,<https:\/\/sk.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Slovenian,<https:\/\/sl.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Sinhala,<https:\/\/si.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Sindhi,<https:\/\/snd.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Silesian,<https:\/\/szl.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Sicilian,<https:\/\/scn.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Showcase,<https:\/\/wordpress.org\/showcase,Sitemap> Import\n<http:\/\/WordPress.org|WordPress.org> Shona,<https:\/\/sna.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Serbian,<https:\/\/sr.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Sardinian,<https:\/\/srd.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Saraiki,<https:\/\/skr.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Sanskrit,<https:\/\/sa.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Sakha,<https:\/\/sah.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Russian,<https:\/\/ru.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Romansh,<https:\/\/roh.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Romanian,<https:\/\/ro.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Rohingya,<https:\/\/rhg.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Punjabi,<https:\/\/pan.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Pular,<https:\/\/fuc.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Project,<https:\/\/make.wordpress.org\/project,Sitemap> Import\n<http:\/\/WordPress.org|WordPress.org> Portuguese,<https:\/\/pt.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Polish,<https:\/\/pl.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Pirate,<https:\/\/pirate.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Peru,<https:\/\/pe.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Persian (Afghanistan),<https:\/\/fa-af.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Persian,<https:\/\/fa.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Pashto,<https:\/\/ps.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Papiamentu (CW),<https:\/\/pap-cw.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Papiamento(AW),<https:\/\/pap-aw.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Ossetic,<https:\/\/os.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Odia,<https:\/\/ory.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Occitan,<https:\/\/oci.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Norsk (Nynorsk),<https:\/\/nn.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Norsk (Bokmål),<https:\/\/nb.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Nigerian Pidgin,<https:\/\/pcm.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> New Zealand,<https:\/\/en-nz.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Nepali,<https:\/\/ne.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Nederlands (België),<https:\/\/nl-be.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Nederlands,<https:\/\/nl.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> N’ko,<https:\/\/nqo.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Moroccan Arabic,<https:\/\/ary.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Mongolian,<https:\/\/mn.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Mexico,<https:\/\/es-mx.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Marathi,<https:\/\/mr.wordpress.org>,Single Page Import\n<http:\/\/WordPress.org|WordPress.org> Māori,<ht…",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/websites-and-titles-cleaned.csv | websites-and-titles-cleaned.csv>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp|EqualifyEverything\/eudaimonia-wp>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ni4NG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/websites-and-titles-cleaned.csv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712888376.332779",
+        "client_msg_id": "c53c1114-db33-4220-b84b-e036874cb276",
+        "text": "Does that work?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712791982.005889",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3MqnO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does that work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712888398.384499",
+        "client_msg_id": "e9215a45-2a30-4c7c-914f-514fad3fed3b",
+        "text": "wow. it's running a lot faster already!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712791982.005889",
+        "parent_user_id": "U04N3UUQBJL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BzBRu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wow. it's running a lot faster already!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04J7TVCQGP",
+        "thread_ts": "1712681892.503479",
+        "root": {
+            "user": "U04J7TVCQGP",
+            "type": "message",
+            "ts": "1712681892.503479",
+            "client_msg_id": "c5a5ab31-9ee2-49d4-ab25-714927480762",
+            "text": "I have some free time today that I'm going to spend on testing the scan and hopefully getting the WP scan project running. I'll add notes to this thread so that folks can know wassup.",
+            "team": "T04JQU0GB2Q",
+            "thread_ts": "1712681892.503479",
+            "reply_count": 25,
+            "reply_users_count": 1,
+            "latest_reply": "1713297815.900859",
+            "reply_users": [
+                "U04J7TVCQGP"
+            ],
+            "replies": [
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712685201.821889"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712685211.024649"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712685212.091769"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712686351.722649"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712686449.583119"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712691619.106399"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712691740.845249"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712698523.463869"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712698711.397009"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712699479.018019"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712700308.149749"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712888727.740709"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712890550.476159"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712912703.887269"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712912958.979759"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712913640.300159"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712914166.236099"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712934092.342479"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712934180.110229"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712945786.488959"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712945816.963319"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1713094763.833759"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1713296464.235389"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1713296480.502939"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1713297815.900859"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1713297815.900859",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pWY4X",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I have some free time today that I'm going to spend on testing the scan and hopefully getting the WP scan project running. I'll add notes to this thread so that folks can know wassup."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1712888727.740709",
+        "client_msg_id": "50f38d52-63d1-4e40-9c97-e84607c43d7c",
+        "text": "Resuming my test from previously... Getting the results from 1000 scans...",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bI3Pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Resuming my test from previously... Getting the results from 1000 scans..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712890550.476159",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1712890556.000000"
+        },
+        "client_msg_id": "26635851-163a-46da-abe6-7ace5dc7b89e",
+        "text": "Getting results for 1,000 scans worked great. Now, going to get results for 10,000 scans...",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uF9PE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Getting results for 1,000 scans worked great. Now, going to get results for 10,000 scans..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

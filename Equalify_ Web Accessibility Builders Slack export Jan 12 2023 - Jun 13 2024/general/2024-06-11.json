@@ -1,0 +1,452 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718107948.143249",
+        "edited": {
+            "user": "U06Q2P392AU",
+            "ts": "1718112617.000000"
+        },
+        "client_msg_id": "88784d1c-96dd-459f-9736-ff39863c2492",
+        "text": "Notes from my meeting with <@U04J7TVCQGP>  yesterday:\n• Agreed to share and like each other's LinkedIn posts as we see fit; no pressure on regularity.\n• Jesse Sookne in the WebA11y Slack emphasized liking posts if we think they're worthy.\n• Engage in the particular <https:\/\/web-a11y.slack.com\/archives\/C0241L0TMGD\/p1717526814051989|freelance thread> in the web a11y Slack, if you want.\n• Regression testing of a11y issues from this <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10|ticket> has to get done. I will test and follow up with <@U06TJNUDNLA> by Saturday at 11:11am EDT but will aim for sooner.\n• Conduct an Equalify roadshow, pitching the product in a series of presentations.\n• Reach out to the Equalify braintrust to restart engagement and gather feedback.\n• I will lead the push on the pitch, considering a recorded format.\n• Discuss and agree on the general format before recording the pitch.\n• Send the recorded pitch to the braintrust.\n• Develop an outreach email for personal 1:1 pitching.\n• Establish a clear sales funnel, emphasizing the human aspect and impacts of a11y in outreach.\n• Highlight the passion for Equalify when reaching out to accessibility managers.\n• Focus on the sustainability push.\nTo-Dos:\n• Record the pitch tomorrow (Blake and I).\n• Reach out to the braintrust by my next meeting with Blake.\n• Blake to provide Kevin a list of notes on braintrust members.\n• Follow up with Mark Jamison from Khan Academy for sales connection this week.\n• Complete regression testing for a11y - tbd based on <@U04J7TVCQGP>'s <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23|ticket> from this morning.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718107948.143249",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1718209960.556549",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06Q2P392AU"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718111595.078749"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1718201707.899009"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718209960.556549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718209960.556549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODhNj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Notes from my meeting with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  yesterday:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Agreed to share and like each other's LinkedIn posts as we see fit; no pressure on regularity."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Jesse Sookne in the WebA11y Slack emphasized liking posts if we think they're worthy."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Engage in the particular "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/web-a11y.slack.com\/archives\/C0241L0TMGD\/p1717526814051989",
+                                        "text": "freelance thread"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " in the web a11y Slack, if you want."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Regression testing of a11y issues from this "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10",
+                                        "text": "ticket"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " has to get done. I will test and follow up with "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06TJNUDNLA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " by Saturday at 11:11am EDT but will aim for sooner."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Conduct an Equalify roadshow, pitching the product in a series of presentations."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reach out to the Equalify braintrust to restart engagement and gather feedback."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I will lead the push on the pitch, considering a recorded format."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss and agree on the general format before recording the pitch."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Send the recorded pitch to the braintrust."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Develop an outreach email for personal 1:1 pitching."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Establish a clear sales funnel, emphasizing the human aspect and impacts of a11y in outreach."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Highlight the passion for Equalify when reaching out to accessibility managers."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Focus on the sustainability push."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nTo-Dos:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Record the pitch tomorrow (Blake and I)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reach out to the braintrust by my next meeting with Blake."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Blake to provide Kevin a list of notes on braintrust members."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Follow up with Mark Jamison from Khan Academy for sales connection this week."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Complete regression testing for a11y - tbd based on "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U04J7TVCQGP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "'s "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23",
+                                        "text": "ticket"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " from this morning."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718111595.078749",
+        "client_msg_id": "d8a47040-f294-48ca-b93b-db8ef166d486",
+        "text": "A few notes on your notes:\n• We might need to retool our pitch demo into an update. I looked over the frontend today and there are some things <@U06TJNUDNLA> needs to address before we can really demo it.\n• Related to that point, hold off on testing until I give the thumbs up.\n• I suggest regularity of posting on LinkedIn. I'm posting every Tuesday and Thursday at 11:11 CST. Regularity will help A11y professionals know when they should engage with your posts.\n• I created a GitHub ticket to follow the progress of the LinkedIn project. Here is the link: <https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2>\n• Maybe you can create issues in the outreach repo on GitHub for the other tasks (like creating a sales funnel)? That way we can keep track of tasks and followup weekly. You can add issues under the \"Issues\" tab of our repo. Here is the link to our GitHub outreach repo: <https:\/\/github.com\/EqualifyEverything\/equalify-outreach>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718107948.143249",
+        "parent_user_id": "U06Q2P392AU",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1717781955,
+                "color": "36a64f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#2 LinkedIn Outreach",
+                "title": "#2 LinkedIn Outreach",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach|EqualifyEverything\/equalify-outreach>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/equalify-outreach",
+                "title": "EqualifyEverything\/equalify-outreach",
+                "fields": [
+                    {
+                        "value": "8 days ago",
+                        "title": "Last updated",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTZH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A few notes on your notes:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We might need to retool our pitch demo into an update. I looked over the frontend today and there are some things "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06TJNUDNLA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " needs to address before we can really demo it."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Related to that point, hold off on testing until I give the thumbs up."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I suggest regularity of posting on LinkedIn. I'm posting every Tuesday and Thursday at 11:11 CST. Regularity will help A11y professionals know when they should engage with your posts."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I created a GitHub ticket to follow the progress of the LinkedIn project. Here is the link: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Maybe you can create issues in the outreach repo on GitHub for the other tasks (like creating a sales funnel)? That way we can keep track of tasks and followup weekly. You can add issues under the \"Issues\" tab of our repo. Here is the link to our GitHub outreach repo: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-outreach"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

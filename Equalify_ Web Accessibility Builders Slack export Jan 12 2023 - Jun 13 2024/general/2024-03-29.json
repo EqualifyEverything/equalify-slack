@@ -1,0 +1,187 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711767572.404359",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1711774922.000000"
+        },
+        "client_msg_id": "5ae05aaa-8381-4afd-b678-faff6937271f",
+        "text": "<!channel> - Here's the Good News this week:\n• New Orleans Startup Fund invested $75,000 in Equalify!\n• All the April projects should be rollin'! <#C06PUUQD4AX|build-raga> <#C06Q9HZRHLK|build-scan> <#C06S292NL0H|build-monitor> <#C06RS373V6G|build-frontend> <#C06R2TJM562|build-api> \n• We've scanned 42,033 WordPress Dotorg pages. 120,332 to go!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjKVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Here's the Good News this week:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "New Orleans Startup Fund invested $75,000 in Equalify!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "All the April projects should be rollin'! "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06PUUQD4AX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06Q9HZRHLK"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06S292NL0H"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06RS373V6G"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06R2TJM562"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We've scanned 42,033 WordPress Dotorg pages. 120,332 to go!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U06P7AP2R38",
+                    "U04J7TVCQGP",
+                    "U06P7A34VPH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U06PKP46SMR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U06PJUXLN5B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711767628.219949",
+        "client_msg_id": "be0be36a-5aeb-453e-9678-e49a30280969",
+        "text": "... still twiddling my thumbs as I wait for Baby Bertuccelli-Booth. It could be any day now and I plan to devote total attention to the little one when she comes, but I feel everyone is in pretty good shape without me.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D58oA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... still twiddling my thumbs as I wait for Baby Bertuccelli-Booth. It could be any day now and I plan to devote total attention to the little one when she comes, but I feel everyone is in pretty good shape without me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

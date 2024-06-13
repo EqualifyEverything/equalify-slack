@@ -1,0 +1,567 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718079527.122839",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-accounting] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/commit\/97758f1ee0598cb09137c7012336272ab3ad78d7|97758f1e>` - Create 2024-06to09 Budget",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/compare\/4f8a194c4a4b...97758f1ee059|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting|EqualifyEverything\/equalify-accounting>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718079570.659699",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-accounting] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/commit\/1c82dfcc287be6b997dcb858d5e8f89de8d587bb|1c82dfcc>` - Make md file",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/compare\/97758f1ee059...1c82dfcc287b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting|EqualifyEverything\/equalify-accounting>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718079634.269049",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-accounting] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/commit\/4264e89b100f8cb4fb0b73dc4cf6a706677e8659|4264e89b>` - Update format",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/compare\/1c82dfcc287b...4264e89b100f|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting|EqualifyEverything\/equalify-accounting>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718079674.421849",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-accounting] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/commit\/f6d3b4dd8241041bed8c1a206aac43fe5ae82ed8|f6d3b4dd>` - correct text",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/compare\/4264e89b100f...f6d3b4dd8241|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting|EqualifyEverything\/equalify-accounting>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04J7TVCQGP",
+        "thread_ts": "1717383228.095789",
+        "root": {
+            "user": "U04J7TVCQGP",
+            "type": "message",
+            "ts": "1717383228.095789",
+            "edited": {
+                "user": "U04J7TVCQGP",
+                "ts": "1718045899.000000"
+            },
+            "client_msg_id": "26c1b797-9159-4f5f-80f7-5f96b73ef40b",
+            "text": "Current June 1 - September 1 Expected Cash Flow:\n\n*Currently in the bank:*\n$76,489.39\n\n*Goal:*\nLaunch three versions (V1, 1.5, 2) with cash to validate if this is a business or not. Hopefully, we will be sustained when we get to version 3.\n\n*Approved Upcoming Budgets*\n• $677.20: <https:\/\/decubing.harvestapp.com\/client\/invoices\/f19f8eb701737d1fe04637947c768a49b462174a|Decubing Bill> + $50 uninvoiced\n• $150*3: Digital Ocean\n• $150*3: AWS\n• $50*3: OpenAI\n• $450: <@U06Q2P392AU> Accessibility Testing for April and May\n• $3333*3: <@U04J7TVCQGP> <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304|V1 Launch >\n• $2222*3: <@U06Q2P392AU> <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12|V1 Outreach>\n• $3000+($650*2): <@U06TJNUDNLA> <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11|V1 Frontend and Maintenance >\n• $4500+($500*2): <@U06P7AP2R38> <https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4|V1 API and Maintenance>\n• $2800*3: <@U06PB2BPADB> Monitor build-out finish and Scan + Monitor Maintenance\n• ???: Chrome Extension Finalization Maintenance\n= -$37,042.20 + additional payments\n\n*Budget Goals*\n• Sell three subscriptions by September ($17,160), allowing us to do another development push (Version 2) then and a third before 2025.\n• Reach 11M Equalified issues by February 2025 and $200,000 in revenue by August 2025.",
+            "team": "T04JQU0GB2Q",
+            "thread_ts": "1717383228.095789",
+            "reply_count": 8,
+            "reply_users_count": 2,
+            "latest_reply": "1718112272.848319",
+            "reply_users": [
+                "U04J7TVCQGP",
+                "U06Q2P392AU"
+            ],
+            "replies": [
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1717384280.133249"
+                },
+                {
+                    "user": "U06Q2P392AU",
+                    "ts": "1717398270.413019"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1717425646.873679"
+                },
+                {
+                    "user": "U06Q2P392AU",
+                    "ts": "1717427568.496259"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1718079709.569949"
+                },
+                {
+                    "user": "U06Q2P392AU",
+                    "ts": "1718111530.892919"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1718112050.899479"
+                },
+                {
+                    "user": "U06Q2P392AU",
+                    "ts": "1718112272.848319"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1718112272.848319",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2VbeF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Current June 1 - September 1 Expected Cash Flow:\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Currently in the bank:",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n$76,489.39\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Goal:",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nLaunch three versions (V1, 1.5, 2) with cash to validate if this is a business or not. Hopefully, we will be sustained when we get to version 3.\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Approved Upcoming Budgets",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$677.20: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/decubing.harvestapp.com\/client\/invoices\/f19f8eb701737d1fe04637947c768a49b462174a",
+                                            "text": "Decubing Bill"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " + $50 uninvoiced"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$150*3: Digital Ocean"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$150*3: AWS"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$50*3: OpenAI"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$450: "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U06Q2P392AU"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " Accessibility Testing for April and May"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$3333*3: "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U04J7TVCQGP"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/304",
+                                            "text": "V1 Launch "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$2222*3: "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U06Q2P392AU"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12",
+                                            "text": "V1 Outreach"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$3000+($650*2): "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U06TJNUDNLA"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11",
+                                            "text": "V1 Frontend and Maintenance "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$4500+($500*2): "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U06P7AP2R38"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4",
+                                            "text": "V1 API and Maintenance"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "$2800*3: "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U06PB2BPADB"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " Monitor build-out finish and Scan + Monitor Maintenance"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "???: Chrome Extension Finalization Maintenance"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "= -$37,042.20 + additional payments\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Budget Goals",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sell three subscriptions by September ($17,160), allowing us to do another development push (Version 2) then and a third before 2025."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reach 11M Equalified issues by February 2025 and $200,000 in revenue by August 2025."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1718079709.569949",
+        "client_msg_id": "711e4d13-bd04-41f0-902f-13affee20048",
+        "text": "I'll make budget updates here from now on <https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/blob\/main\/budgets\/2024-06to09.md>",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/blob\/main\/budgets\/2024-06to09.md",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/blob\/main\/budgets\/2024-06to09.md | 2024-06to09.md>",
+                "text": "*June - September 2024 Budget*\n*Currently in the bank:*\n\n$76,489.39\n\n*Goal:*\n\nSell three subscriptions by September ($17,160), allowing us to do another development push (Version 2) then and a third before 2025. Reach 11M Equalified issues by February 2025 and $200,000 in revenue by August 2025.\n\n*Expected Expenses:*\n\n• $677.20: Decubing Bill + $50 uninvoiced\n• $150*3: Digital Ocean\n• $150*3: AWS\n• $50*3: OpenAI\n• $450: Kevin Andrews Accessibility Testing\n• $3333*3: Blake V1 Launch\n• $2222*3: Kevin Andrews V1 Outreach\n• $3000+($650*2): Adonis Suriel V1 Frontend and Maintenance\n• $4500+($500*2): Christopher Aitken V1 API and Maintenance\n• $2800*3: Trey Monitor build-out finish and Scan + Monitor Maintenance\n\n= -$37,042.20 + additional payments",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/blob\/main\/budgets\/2024-06to09.md | 2024-06to09.md>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting|EqualifyEverything\/equalify-accounting>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BvbaQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll make budget updates here from now on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/blob\/main\/budgets\/2024-06to09.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1718079828.556019",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-accounting] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/commit\/1c34854d43aab631f74ddd4f4f4fad1d2b4cf02c|1c34854d>` - Finalize budget",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/compare\/f6d3b4dd8241...1c34854d43aa|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-accounting\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-accounting|EqualifyEverything\/equalify-accounting>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

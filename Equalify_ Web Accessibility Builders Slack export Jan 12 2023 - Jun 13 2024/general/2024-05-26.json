@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716752676.465779",
+        "client_msg_id": "3d9a577f-f66f-4d79-92af-53b973bc59ac",
+        "text": "Will try to make it tomorrow but may end up giving input async w\/the holiday. <@U04J7TVCQGP> Can you record all of these in case folks can't attend? I'm still working on the outreach proposal--I wasn't able to wrap up my draft by Friday--and am going to aim for the rough draft to you by Tuesday end of day. Also, not sure if you saw my latest DMs from last week--not urgent.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716579935.606729",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TkLlL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will try to make it tomorrow but may end up giving input async w\/the holiday. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can you record all of these in case folks can't attend? I'm still working on the outreach proposal--I wasn't able to wrap up my draft by Friday--and am going to aim for the rough draft to you by Tuesday end of day. Also, not sure if you saw my latest DMs from last week--not urgent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

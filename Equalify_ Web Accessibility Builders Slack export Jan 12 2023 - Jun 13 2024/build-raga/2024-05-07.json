@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U06PDVC4P7C",
+        "type": "message",
+        "ts": "1715138573.455159",
+        "client_msg_id": "dd90a1f4-15e7-4d47-8265-67de1ea217cd",
+        "text": "Hey <@U06PKP46SMR> checking in to see about finding a good time to do a knowledge transfer. Will bug you with a call or text tomorrow to coordinate;)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g8c3edc90450",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8c3edc9045015566aac452ae0501f647.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "James",
+            "real_name": "James Wesley Goedert",
+            "display_name": "James Wesley Goedert",
+            "team": "T04JQU0GB2Q",
+            "name": "jwgoedert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oDlGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " checking in to see about finding a good time to do a knowledge transfer. Will bug you with a call or text tomorrow to coordinate;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U06PKP46SMR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

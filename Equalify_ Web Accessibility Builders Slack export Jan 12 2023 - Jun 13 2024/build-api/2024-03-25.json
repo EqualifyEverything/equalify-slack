@@ -1,0 +1,534 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1711410537.500239"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PKP46SMR",
+        "text": "<@U06PKP46SMR> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410556.350349"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PSPPSTLZ",
+        "text": "<@U06PSPPSTLZ> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410556.445159"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06P7AP2R38",
+        "text": "<@U06P7AP2R38> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410556.537779"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PB2BPADB",
+        "text": "<@U06PB2BPADB> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410658.926649"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410726.852779",
+        "client_msg_id": "46034e60-2f35-4beb-9d4d-205d1660f34f",
+        "text": "I'm starting to refactor the API now. It's super simple (for now). You just have to give it a URL ID and it'll give you all the database content in STREAM format related to that URL. Here are some related links:\n• <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php|The API file>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php | api.php>",
+                "text": "```\n<?php\n\/\/ Set content type\nheader('Content-Type: application\/json');\n\n\/\/ Add helper functions\nrequire_once('init.php');\n\n\/\/ Require url_id parameter\nif( isset($_GET['urlIds']) && !empty($_GET['urlIds'])){\n    $urlIds = explode(',', $_GET['urlIds']);\n}else{\n    http_response_code(400);\n    echo json_encode(['error' => 'urlIds required']);\n    exit;\n}\n\n\/\/ Fetch the URL\n$urlsIn = str_repeat('?,', count($urlIds) - 1) . '?';\n\n\/\/ Fetch URLs\n$sqlUrls = \"SELECT url_id, url FROM urls WHERE url_id IN ($urlsIn)\";\n$stmtUrls = $pdo->prepare($sqlUrls);\n$stmtUrls->execute($urlIds);\n$urls = $stmtUrls->fetchAll(PDO::FETCH_ASSOC);\n\n\/\/ Fetch Nodes related to URLs\n$sqlNodes = \"SELECT node_id, node_html AS html, node_targets AS targets, node_url_id, node_equalified AS equalified FROM nodes WHERE node_url_id IN ($urlsIn)\";\n$stmtNodes = $pdo->prepare($sqlNodes);\n$stmtNodes->execute($urlIds);\n$nodes = $stmtNodes->fetchAll(PDO::FETCH_ASSOC);\n\n$nodeIds = array_column($nodes, 'node_id');\n\n\/\/ Fetch Messages related to Nodes\n$nodeIdsIn = str_repeat('?,', count($nodeIds) - 1) . '?';\n$sqlMessages = \"SELECT m.message_id, m.message, m.message_type AS type, mn.node_id \n                FROM messages m \n                INNER JOIN message_nodes mn ON m.message_id = mn.message_id \n                WHERE mn.node_id IN ($nodeIdsIn)\";\n$stmtMessages = $pdo->prepare($sqlMessages);\n$stmtMessages->execute($nodeIds);\n$messages = $stmtMessages->fetchAll(PDO::FETCH_ASSOC);\n\n\/\/ Fetch Tags related to Messages\n$messageIds = array_column($messages, 'message_id');\n$messageIdsIn = str_repeat('?,', count($messageIds) - 1) . '?';\n$sqlTags = \"SELECT t.tag_id, t.tag, mt.message_id \n            FROM tags t \n            INNER JOIN message_tags mt ON t.tag_id = mt.tag_id \n            WHERE mt.message_id IN ($messageIdsIn)\";\n$stmtTags = $pdo->prepare($sqlTags);\n$stmtTags->execute($messageIds);\n$tags = $stmtTags->fetchAll(PDO::FETCH_ASSOC);\n\n\/\/ Organize Messages with related Tag IDs\nforeach ($messages as &$message) {\n    $message['relatedTagIds'] = array_column(array_filter($tags, function ($tag) use ($message) {\n        return $tag['message_id'] == $message['message_id'];\n    }), 'tag_id');\n    $message['relatedNodeIds'] = array($message['node_id']);\n    unset($message['node_id'], $message['message_id']); \/\/ Clean up\n}\nunset($message); \/\/ Break the reference with the last element\n\n\/\/ Organize Nodes with related URL IDs\nforeach ($nodes as &$node) {\n    $node['relatedUrlIds'] = array($node['node_url_id']);\n    unset($node['node_url_id']); \/\/ Clean up\n    $node['equalified'] = $node['equalified'] == 1; \/\/ Convert to boolean\n}\nunset($node); \/\/ Break the reference with the last element\n\n\/\/ Prepare the final structure\n$output = [\n    \"urls\" => $urls,\n    \"nodes\" => $nodes,\n    \"messages\" => $messages,\n    \"tags\" => array_map(function ($tag) {\n        unset($tag['message_id']); \/\/ Clean up\n        return $tag;\n    }, $tags),\n];\n\n\/\/ Return as JSON\necho json_encode($output);\n```",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php | api.php>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oBpe\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm starting to refactor the API now. It's super simple (for now). You just have to give it a URL ID and it'll give you all the database content in STREAM format related to that URL. Here are some related links:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php",
+                                        "text": "The API file"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410756.233489",
+        "client_msg_id": "d6fe217f-06a8-422e-9598-2da613426cd0",
+        "text": "• <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php|API documentation>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php | api.php>",
+                "text": "```\n<?php\n\/\/ Set content type\nheader('Content-Type: application\/json');\n\n\/\/ Add helper functions\nrequire_once('init.php');\n\n\/\/ Require url_id parameter\nif( isset($_GET['urlIds']) && !empty($_GET['urlIds'])){\n    $urlIds = explode(',', $_GET['urlIds']);\n}else{\n    http_response_code(400);\n    echo json_encode(['error' => 'urlIds required']);\n    exit;\n}\n\n\/\/ Fetch the URL\n$urlsIn = str_repeat('?,', count($urlIds) - 1) . '?';\n\n\/\/ Fetch URLs\n$sqlUrls = \"SELECT url_id, url FROM urls WHERE url_id IN ($urlsIn)\";\n$stmtUrls = $pdo->prepare($sqlUrls);\n$stmtUrls->execute($urlIds);\n$urls = $stmtUrls->fetchAll(PDO::FETCH_ASSOC);\n\n\/\/ Fetch Nodes related to URLs\n$sqlNodes = \"SELECT node_id, node_html AS html, node_targets AS targets, node_url_id, node_equalified AS equalified FROM nodes WHERE node_url_id IN ($urlsIn)\";\n$stmtNodes = $pdo->prepare($sqlNodes);\n$stmtNodes->execute($urlIds);\n$nodes = $stmtNodes->fetchAll(PDO::FETCH_ASSOC);\n\n$nodeIds = array_column($nodes, 'node_id');\n\n\/\/ Fetch Messages related to Nodes\n$nodeIdsIn = str_repeat('?,', count($nodeIds) - 1) . '?';\n$sqlMessages = \"SELECT m.message_id, m.message, m.message_type AS type, mn.node_id \n                FROM messages m \n                INNER JOIN message_nodes mn ON m.message_id = mn.message_id \n                WHERE mn.node_id IN ($nodeIdsIn)\";\n$stmtMessages = $pdo->prepare($sqlMessages);\n$stmtMessages->execute($nodeIds);\n$messages = $stmtMessages->fetchAll(PDO::FETCH_ASSOC);\n\n\/\/ Fetch Tags related to Messages\n$messageIds = array_column($messages, 'message_id');\n$messageIdsIn = str_repeat('?,', count($messageIds) - 1) . '?';\n$sqlTags = \"SELECT t.tag_id, t.tag, mt.message_id \n            FROM tags t \n            INNER JOIN message_tags mt ON t.tag_id = mt.tag_id \n            WHERE mt.message_id IN ($messageIdsIn)\";\n$stmtTags = $pdo->prepare($sqlTags);\n$stmtTags->execute($messageIds);\n$tags = $stmtTags->fetchAll(PDO::FETCH_ASSOC);\n\n\/\/ Organize Messages with related Tag IDs\nforeach ($messages as &$message) {\n    $message['relatedTagIds'] = array_column(array_filter($tags, function ($tag) use ($message) {\n        return $tag['message_id'] == $message['message_id'];\n    }), 'tag_id');\n    $message['relatedNodeIds'] = array($message['node_id']);\n    unset($message['node_id'], $message['message_id']); \/\/ Clean up\n}\nunset($message); \/\/ Break the reference with the last element\n\n\/\/ Organize Nodes with related URL IDs\nforeach ($nodes as &$node) {\n    $node['relatedUrlIds'] = array($node['node_url_id']);\n    unset($node['node_url_id']); \/\/ Clean up\n    $node['equalified'] = $node['equalified'] == 1; \/\/ Convert to boolean\n}\nunset($node); \/\/ Break the reference with the last element\n\n\/\/ Prepare the final structure\n$output = [\n    \"urls\" => $urls,\n    \"nodes\" => $nodes,\n    \"messages\" => $messages,\n    \"tags\" => array_map(function ($tag) {\n        unset($tag['message_id']); \/\/ Clean up\n        return $tag;\n    }, $tags),\n];\n\n\/\/ Return as JSON\necho json_encode($output);\n```",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php | api.php>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZIAU",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/api.php",
+                                        "text": "API documentation"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410787.200039",
+        "client_msg_id": "6d8db511-2f7e-4c9a-be67-4273536281f3",
+        "text": "• <https:\/\/github.com\/EqualifyEverything\/STREAM|STREAM documentation>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/STREAM",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/STREAM",
+                "text": "Streamline web accessibility testing results with STREAM.",
+                "title": "EqualifyEverything\/STREAM",
+                "fields": [
+                    {
+                        "value": "2",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "JavaScript",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1FED",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/STREAM",
+                                        "text": "STREAM documentation"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410825.815759",
+        "client_msg_id": "3d97f327-3a31-4483-a281-eff6b06c327a",
+        "text": "Happy to answer any questions and will probably update stuff here as I am able.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBV5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to answer any questions and will probably update stuff here as I am able."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06P7APCV9U",
+        "text": "<@U06P7APCV9U> has joined the channel",
+        "type": "message",
+        "ts": "1711410937.922939"
+    },
+    {
+        "text": "Also, here's a sample output from Equalify.",
+        "files": [
+            {
+                "id": "F06RN7ZEAG1",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZOGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, here's a sample output from Equalify."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711411266.302739",
+        "client_msg_id": "295497e8-9e82-4784-896a-bac551f83ff9"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711411314.222279",
+        "client_msg_id": "39522775-c3c3-4d3c-aa78-c19114d3e3fe",
+        "text": "It is going to change a little bit, but <@U06PSPPSTLZ> I bet you can build an entire frontend around filtering that and <@U06P7AP2R38> I imagine an LLM will find lots of juice in there to suggest from.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kwj1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is going to change a little bit, but "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PSPPSTLZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I bet you can build an entire frontend around filtering that and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I imagine an LLM will find lots of juice in there to suggest from."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1711412032.485259",
+        "client_msg_id": "CB99EBF7-F563-41C8-B990-A89FF31551FB",
+        "text": "This is fantastic, definitely valuable input for the LLM.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "88Rv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is fantastic, definitely valuable input for the LLM."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1711412059.406519",
+        "client_msg_id": "178DC717-4629-4605-A62F-3B06A680CE9A",
+        "text": "Will see what other insights we might be able to glean outside of a simple suggested fix",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHW23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will see what other insights we might be able to glean outside of a simple suggested fix"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Here is the updated file. I noticed an issue with that last one.",
+        "files": [
+            {
+                "id": "F06R9G4EWUB",
+                "created": 1711412127,
+                "timestamp": 1711412127,
+                "name": "sample.json",
+                "title": "sample.json",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": true,
+                "size": 17298,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06R9G4EWUB\/sample.json?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06R9G4EWUB\/download\/sample.json?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F06R9G4EWUB\/sample.json",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F06R9G4EWUB-58731f817e",
+                "edit_link": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F06R9G4EWUB\/sample.json\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uq\/fB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the updated file. I noticed an issue with that last one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711412130.331999",
+        "client_msg_id": "4f7a5155-9c5b-4e66-b504-630e7127a296"
+    }
+]

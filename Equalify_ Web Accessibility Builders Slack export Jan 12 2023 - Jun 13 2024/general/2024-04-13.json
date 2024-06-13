@@ -1,0 +1,169 @@
+[
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1713027078.333049",
+        "client_msg_id": "b5eeb78f-911f-469a-8e39-40a9d7128895",
+        "text": "*<!channel>* Good news for this week!\n• Projects are chugging along! <#C06PUUQD4AX|build-raga> <#C06Q9HZRHLK|build-scan> <#C06S292NL0H|build-monitor> <#C06RS373V6G|build-frontend> <#C06R2TJM562|build-api>\n• <#C06Q9HZRHLK|build-scan> scan workers &amp; their connection to the storage database have been refactored, which’ll lead to better performance on a per-scan basis &amp; will allow to scale more smoothly. Big picture, that means more can be handled and scanned faster re: sitemaps\/pages. Woo!\n• <@U06TJNUDNLA> joined the <#C06RS373V6G|build-frontend> team and will have some updates soon!\n• A lot of momentum in <#C06R2TJM562|build-api> — I recommend checking out the channel to read up on what’s been going on (I’m working on learning about all the projects so I can better translate the updates in future posts!)\nHave a great weekend! Will check in next Thursday and report every Friday starting next week — feel free to send me updates throughout the week, however, if that makes sense for your schedules. Thanks all!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZIraJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Good news for this week!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Projects are chugging along! "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06PUUQD4AX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06Q9HZRHLK"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06S292NL0H"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06RS373V6G"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06R2TJM562"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06Q9HZRHLK"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " scan workers & their connection to the storage database have been refactored, which’ll lead to better performance on a per-scan basis & will allow to scale more smoothly. Big picture, that means more can be handled and scanned faster re: sitemaps\/pages. Woo!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06TJNUDNLA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " joined the "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06RS373V6G"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " team and will have some updates soon!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A lot of momentum in "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06R2TJM562"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " — I recommend checking out the channel to read up on what’s been going on (I’m working on learning about all the projects so I can better translate the updates in future posts!)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have a great weekend! Will check in next Thursday and report every Friday starting next week — feel free to send me updates throughout the week, however, if that makes sense for your schedules. Thanks all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1716917997.712579",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1717431026.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1716917995,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by kevinandrews1",
+                "text": "*Official Equalify Version 1 Outreach Proposal*\n*Summary*\n\nThe three-month outreach program will start on June 10 and involves a detailed strategy to engage key stakeholders, demonstrate the product, and secure contracts. To ensure progress, weekly meetings with Blake and asynchronous communication via Slack will be maintained. The goal is to establish Equalify as a viable alternative to more expensive automated accessibility solutions, demonstrating its scalability, robustness, and ease of use.\n\nThe objective is to secure contracts with higher education stakeholders, aim for 100,000 pages scanned by September 1, and acquire at least three customers.\n\n*Introduction*\n\nDraft of our pitch:\n\n&gt; Introducing Equalify, the ideal and cost-effective solution for higher education institutions committed to digital accessibility. Equalify streamlines the process of making university websites accessible to all students, faculty, and visitors. With its fast, robust, and scalable platform, Equalify scans entire websites using just a sitemap, delivering detailed accessibility reports without requiring advanced technical skills. The included Chrome extension allows users to check and enhance accessibility directly from their browsers. Ensure conformance with today's accessibility standards, improve user experience, and support an inclusive campus environment effortlessly with Equalify. Embrace digital inclusion with Equalify today!\n\n*Budget*\n\nTotal Budget for Three Months: $6,666\n\n*Payment Structure and Allocation:*\n\n• Option 1:\n    • 50% Upfront: $3,333 due June 10\n    • 50% Contingent: $3,333 upon completion of the project\n• Option 2:\n    • $2,222\/mo invoiced in addition to the other a11y work\n\n*Timeline of Tasks, Deliverables, and Milestones*\n*Phase 1: Preparation (June 10 - June 23)*\n\n• Tasks:\n    • Finalize outreach strategy and materials\n    • Set up social media accounts and content plan\n    • Identify and reach out to initial contacts within the higher education sector\n• Deliverables:\n    • Outreach materials (emails, presentations, brochures)\n    • Social media profiles and initial content calendar\n    • List of initial contacts and stakeholders\n• Milestones:\n    • Completed outreach strategy\n    • Social media presence established\n    • Initial contact list finalized\n\n*Phase 2: Engagement (June 24 - July 21)*\n\n• Tasks:\n    • Launch social media campaign\n    • Conduct product demonstrations\n    • Engage with higher education community through webinars, listserves, and online events\n• Deliverables:\n    • Social media posts and engagement metrics\n    • Recorded product demonstrations\n    • Webinars and event participation records\n• Milestones:\n    • Social media campaign initiated\n    • First round of product demonstrations completed\n    • Webinars conducted with higher education stakeholders\n\n*Phase 3: Follow-Up and Conversion (July 22 - August 18)*\n\n• Tasks:\n    • Follow up with interested stakeholders\n    • Provide trial access and support for Equalify\n    • Collect feedback and refine the pitch based on responses\n• Deliverables:\n    • Follow-up emails and communication logs\n    • Trial accounts and support documentation\n    • Feedback reports, surveys, testimonials, etc\n• Milestones:\n    • Stakeholder follow-ups completed\n    • Trial accounts provided\n    • Feedback analyzed and pitch refined\n\n*Phase 4: Contract Negotiation and Finalization (August 19 - September 1)*\n\n• Tasks:\n    • Negotiate and finalize contracts with interested stakeholders\n    • Provide onboarding support for new customers\n    • Prepare final outreach report\n• Deliverables:\n    • Signed contracts\n    • Onboarding documentation\n    • Final report on outreach initiative\n• Milestones:\n    • Contracts signed\n    • Customers onboarded\n    • Outreach report completed\n\n*Key Performance Indicators (KPIs)*\n\n• Quantifiable:\n    • Number of social media engagements (likes, shares, comments)\n    • Number of product demonstrations conducted\n    • Number of trial accounts initiated\n    • Number of contracts signed\n    • Number of pages scanned by September 1 (goal: 100,000 pages)\n• Qualitative:\n    • Stakeholder feedback on product usefulness and ease of use\n    • Customer satisfaction with onboarding and support\n    • Impact of Equalify on improving web accessibility in their institutions\n    • Engagement quality during webinars and online events\n    • Perception of Equalify compared to more expensive alternatives\n\n*Conclusion*\n\nThis initiative aims to demonstrate the value of an affordable, robust, and scalable accessibility solution to higher education institutions. By strategically engaging stakeholders, showcasing product benefits, garnering and responding to feedback, and providing exceptional support, Equalify will establish itself as a viable alternative to more costly solutions, securing contracts and ensuring sustainability.\n\n*Next Steps*\n\n• Finalize outreach proposal and strategy\n• Confirm payment arrangement\n• Set up and plan social media engagement\n• Begin initial contact outreach within the higher education sector",
+                "pretext": "Issue created by <https:\/\/github.com\/kevinandrews1|kevinandrews1>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12|#12 Equalify V1 Outreach Proposal>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/kevinandrews1|@kevinandrews1>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "10",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:12,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Equalify V1 Outreach Proposal&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:12,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Equalify V1 Outreach Proposal&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:12,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Equalify V1 Outreach Proposal&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713137388.951329",
+        "client_msg_id": "da942f70-d668-4606-bf01-0b094df940e7",
+        "text": "Hey <@U06P7AP2R38> - LMK if there's anything you need for the API. I can see this becoming a sticking point in the next week or two as <#C06PUUQD4AX|build-raga> and <#C06RS373V6G|build-frontend> heatup.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqIR+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - LMK if there's anything you need for the API. I can see this becoming a sticking point in the next week or two as "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06PUUQD4AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06RS373V6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " heatup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1713139510.553579",
+        "client_msg_id": "bcc37107-8fb6-45f5-99a2-1405ff584059",
+        "text": "Hey <@U04J7TVCQGP>, absolutely- I'm likely going to be pinging you this week. I'm happy to collaborate with developers from both initiatives. Goal is to get a majority of the new API migrated\/scaffolded this week.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713139510.553579",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1713148898.647729",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1713148898.647729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1713148898.647729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m\/4J4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", absolutely- I'm likely going to be pinging you this week. I'm happy to collaborate with developers from both initiatives. Goal is to get a majority of the new API migrated\/scaffolded this week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713148898.647729",
+        "text": "amazing!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713139510.553579",
+        "parent_user_id": "U06P7AP2R38",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "amazing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

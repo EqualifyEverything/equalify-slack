@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717915407.110989",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-api] 1 new commit pushed to _main_ by heythisischris",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-api\/commit\/4920e8582b70de972642ef142fe7025dde393e9b|4920e858>` - Completed add scans endpoint, decoupled URLs from properties",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/compare\/b53bbe1b7765...4920e8582b70|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-api\/tree\/main|main>` by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

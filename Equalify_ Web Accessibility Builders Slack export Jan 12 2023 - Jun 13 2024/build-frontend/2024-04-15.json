@@ -1,0 +1,195 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1713202384.176339",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1713202984.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1713202384.176339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1713202983.219269",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1713202983.219269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1713202381,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                "text": "Hey there :wave:,\n\nI’ve been busy setting up the basics for Equalify, and I’m excited to share the progress! Here’s a quick rundown of what’s been done:\n\n• *Started off the project*: Got the project up and running with some initial config and tooling.\n• *Routing and State*: Set up React Router and React Query for handling our SPA needs, plus Zustand for a bit of global state magic (with some persistence sprinkled in).\n• *Auth and APIs*: Got AWS Amplify in place to handle our auth and make talking to APIs smoother.\n• *Look and Feel*: Threw in some layout components (`NotFound`, `Footer`, `Header`) and gave our app a fresh coat of paint with TailwindCSS.\n• *Testing and Docs*: Added tests for our layout stuff to make sure they play nice (accessibility included) and spruced up the `README.md` and `CHANGELOG.md` so everyone knows what’s up.\n• *Some Housekeeping*: Updated `.gitignore`, set up `.env.example` for easy starts, and added some new scripts to `package.json`.\n\nFeel free to dive in, ask questions, or suggest changes. Excited to push this project forward and see where it goes!",
+                "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/2|#2 Feature\/initial setup>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:2,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/2&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/initial setup&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1713202981.948799",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 18 new commits pushed to _main_ by wilsuriel03",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/baae7fae1af934516908eabdfd7cc1866e522c2e|baae7fae>` - feat: Initialize project configuration and tooling setup\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/dab5462638c64d51c55e82050d5a826631a1dbcd|dab54626>` - chore: Update .gitignore and establish .env.example for environment setup\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/d6c231b7fc5b8ff4296b48bda441348f4685545b|d6c231b7>` - Delete logo.png and Add new Equalify svg logo\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/5c8658b4dc0620542ef7d60eebc70b74e6ee55da|5c8658b4>` - feat(router): initialize routing with React Router and React Query\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/f7388105d43877d04bc70507fd16d298287a96c1|f7388105>` - feat(auth): configure AWS Amplify for authentication and API interactions\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/cce4fbb0dace3499758b5a09bb9fc82399e9519d|cce4fbb0>` - style(globals): define global styles and color scheme with TailwindCSS\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/776e68dbd8b5bc04adbf5f965629854b71b6214f|776e68db>` - Update package.json with new scripts and dependencies\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/86dbbcf564c7a4b6e9649df31b4b2cd548ee2e3f|86dbbcf5>` - feat(layout): implement a custom 404 Not Found page\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/735fd101c88710b33a76196c4818ac6c93ec0a9d|735fd101>` - feat(layout): add Footer and Header components with dynamic navigation\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/9ba831261d04f433e41e4aad190b047c7bd51ef1|9ba83126>` - feat(layout): establish RootLayout wrapper for application consistency\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/41bbe52f932366e48c2b2787a4d2930f816ed4c6|41bbe52f>` - Delete unused components\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/8c5802965c69e904ab2d102fac7e98bdc5a2ac9d|8c580296>` - test(layout): add unit and accessibility tests for layout components\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/e28aa6ba11fb943f2fbaf83896abe6189fe5a159|e28aa6ba>` - test(utils): create a custom render utility for testing with context providers\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/606423466eeee787ccb726d66ecdf45400170db5|60642346>` - chore(testing): set up jest-dom for enhanced testing assertions\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/6bc7d31893923d93e7d0fab9ca15ad6a0677fad5|6bc7d318>` - Remove useGlobalStore utility\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/9f61ce2ca0214c5a611e6b2cc90fa7d617ad640b|9f61ce2c>` - feat(store): implement Zustand for global state management with persistence\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/a245433e7fae768ecea523a16b60f6e0b7f79434|a245433e>` - docs: refine README and CHANGELOG for the initial 0.1.0 release\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/7ded573927866cac6d90fd2a1b2c658d6b937254|7ded5739>` - Merge pull request #2 from wilsuriel03\/feature\/initial-setup",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/86844bd1167b...7ded57392786|18 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1713202384.176339",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1713202384.176339",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1713202984.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1713202384.176339",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1713202983.219269",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1713202983.219269"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1713202381,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                    "text": "Hey there :wave:,\n\nI’ve been busy setting up the basics for Equalify, and I’m excited to share the progress! Here’s a quick rundown of what’s been done:\n\n• *Started off the project*: Got the project up and running with some initial config and tooling.\n• *Routing and State*: Set up React Router and React Query for handling our SPA needs, plus Zustand for a bit of global state magic (with some persistence sprinkled in).\n• *Auth and APIs*: Got AWS Amplify in place to handle our auth and make talking to APIs smoother.\n• *Look and Feel*: Threw in some layout components (`NotFound`, `Footer`, `Header`) and gave our app a fresh coat of paint with TailwindCSS.\n• *Testing and Docs*: Added tests for our layout stuff to make sure they play nice (accessibility included) and spruced up the `README.md` and `CHANGELOG.md` so everyone knows what’s up.\n• *Some Housekeeping*: Updated `.gitignore`, set up `.env.example` for easy starts, and added some new scripts to `package.json`.\n\nFeel free to dive in, ask questions, or suggest changes. Excited to push this project forward and see where it goes!",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/2|#2 Feature\/initial setup>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:2,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/2&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/initial setup&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1713202983.219269",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1713202381,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request merged by wilsuriel03",
+                "pretext": "Pull request merged by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/2|#2 Feature\/initial setup>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    }
+]

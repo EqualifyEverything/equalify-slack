@@ -1,0 +1,540 @@
+[
+{
+    "id": "C04JFS3F98E",
+    "name": "general",
+    "created": 1673540400,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7A2BHGF",
+        "U06P7A34VPH",
+        "U06P7AP2R38",
+        "U06P7APCV9U",
+        "U06PB2BPADB",
+        "U06PDVC4P7C",
+        "U06PDVCV5FC",
+        "U06PGDCPYQ4",
+        "U06PJUXLN5B",
+        "U06PJUY7RBP",
+        "U06PJUYHT29",
+        "U06PKJHF1FC",
+        "U06PKP46SMR",
+        "U06PLBXSJ14",
+        "U06PMSMLHAN",
+        "U06PMSNHF0A",
+        "U06PPQQF54P",
+        "U06PSPPSTLZ",
+        "U06Q2P392AU",
+        "U06Q3B1JABZ",
+        "U06Q6N3N6TT",
+        "U06Q82JGBRT",
+        "U06QFV8L389",
+        "U06QY7WHFDH",
+        "U06R0QS11PW",
+        "U06RHR4JVA8",
+        "U06RZ1EJGER",
+        "U06S042E347",
+        "U06S4D2RX8T",
+        "U06SBP1B7QV",
+        "U06T3BYNLCV",
+        "U06TDDQLGCU",
+        "U06TJNUDNLA",
+        "U072732NLAJ",
+        "U072C2M1NBU",
+        "U072MHXHWF2",
+        "U072RBSMPE0",
+        "U072RR8KQE4",
+        "U072VSKLKR6",
+        "U072XM65EAF",
+        "U073V4UBNHK",
+        "U07475MH43H",
+        "U075WQMT3EW",
+        "U076RQU6Y1X"
+    ],
+    "pins": [
+        {
+            "id": "1715969485.766429",
+            "type": "C",
+            "created": 1716115045,
+            "user": "U04J7TVCQGP",
+            "owner": "U04J7TVCQGP"
+        }
+    ],
+    "topic": {
+        "value": "Contributor Meeting: Mondays @ 11:11 CST <https:\/\/us06web.zoom.us\/j\/86156635249?pwd=DVIQjkTeIjp0VUKLIbxl8hM6r3Ve2V.1>",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1718079743
+    },
+    "purpose": {
+        "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1673540400
+    }
+},
+{
+    "id": "C04JFSBNTHU",
+    "name": "next-gen-accessibility",
+    "created": 1673540471,
+    "creator": "U04J7TVCQGP",
+    "is_archived": true,
+    "is_general": false,
+    "members": [],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for everything #next-gen-accessibility. Hold meetings, share docs, and make decisions together with your team.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1673540471
+    }
+},
+{
+    "id": "C04JQU0JX28",
+    "name": "random",
+    "created": 1673540401,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7A2BHGF",
+        "U06P7A34VPH",
+        "U06P7AP2R38",
+        "U06P7APCV9U",
+        "U06PB2BPADB",
+        "U06PDVC4P7C",
+        "U06PDVCV5FC",
+        "U06PGDCPYQ4",
+        "U06PJUY7RBP",
+        "U06PJUYHT29",
+        "U06PKJHF1FC",
+        "U06PKP46SMR",
+        "U06PMSMLHAN",
+        "U06PMSNHF0A",
+        "U06PPQQF54P",
+        "U06PSPPSTLZ",
+        "U06Q2P392AU",
+        "U06Q3B1JABZ",
+        "U06Q6N3N6TT",
+        "U06Q82JGBRT",
+        "U06QFV8L389",
+        "U06QY7WHFDH",
+        "U06R0QS11PW",
+        "U06RHR4JVA8",
+        "U06RZ1EJGER",
+        "U06S042E347",
+        "U06S4D2RX8T",
+        "U06SBP1B7QV",
+        "U06T3BYNLCV",
+        "U06TDDQLGCU",
+        "U06TJNUDNLA",
+        "U072732NLAJ",
+        "U072C2M1NBU",
+        "U072MHXHWF2",
+        "U072RBSMPE0",
+        "U072RR8KQE4",
+        "U072VSKLKR6",
+        "U072XM65EAF",
+        "U073V4UBNHK",
+        "U07475MH43H",
+        "U075WQMT3EW",
+        "U076RQU6Y1X"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1673540401
+    }
+},
+{
+    "id": "C06PUUQD4AX",
+    "name": "build-raga",
+    "created": 1710544648,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7A34VPH",
+        "U06P7AP2R38",
+        "U06PDVC4P7C",
+        "U06PKJHF1FC",
+        "U06PKP46SMR",
+        "U06Q2P392AU",
+        "U06RZ1EJGER",
+        "U06S042E347",
+        "U06SBP1B7QV"
+    ],
+    "topic": {
+        "value": "Building Equalify's Manual Testing Tool.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1711576423
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C06Q9HZRHLK",
+    "name": "build-scan",
+    "created": 1710860600,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7AP2R38",
+        "U06P7APCV9U",
+        "U06PB2BPADB",
+        "U06PMSNHF0A",
+        "U06Q2P392AU",
+        "U06RZ1EJGER",
+        "U073V4UBNHK"
+    ],
+    "topic": {
+        "value": "Equalify's automated scan.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1711576371
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C06QYRA0VSL",
+    "name": "build-schema",
+    "created": 1710863204,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7AP2R38",
+        "U06PB2BPADB",
+        "U06PKP46SMR",
+        "U06RZ1EJGER",
+        "U073V4UBNHK"
+    ],
+    "topic": {
+        "value": "Equalify Schema Development",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1711482839
+    },
+    "purpose": {
+        "value": "Developing Equalify Schema for super-efficient handling of accessibility results.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1711482885
+    }
+},
+{
+    "id": "C06R2TJM562",
+    "name": "build-api",
+    "created": 1711410537,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7AP2R38",
+        "U06P7APCV9U",
+        "U06PB2BPADB",
+        "U06PDVC4P7C",
+        "U06PKP46SMR",
+        "U06PSPPSTLZ",
+        "U06RZ1EJGER",
+        "U06TJNUDNLA"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C06RS373V6G",
+    "name": "build-frontend",
+    "created": 1711576202,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7AP2R38",
+        "U06PDVC4P7C",
+        "U06PMSNHF0A",
+        "U06PSPPSTLZ",
+        "U06Q2P392AU",
+        "U06RZ1EJGER",
+        "U06T3BYNLCV",
+        "U06TJNUDNLA"
+    ],
+    "topic": {
+        "value": "Equalify Frontend development.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1711576393
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C06S292NL0H",
+    "name": "build-monitor",
+    "created": 1711576266,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7AP2R38",
+        "U06PB2BPADB",
+        "U06RZ1EJGER",
+        "U073V4UBNHK"
+    ],
+    "topic": {
+        "value": "Equalify's change-management platform development.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1711576401
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C06S92KJAR1",
+    "name": "build-llm",
+    "created": 1711996570,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7AP2R38",
+        "U06P7APCV9U",
+        "U06RZ1EJGER",
+        "U073V4UBNHK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C06TPFKV21Y",
+    "name": "build-sales",
+    "created": 1712760793,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U06Q6N3N6TT",
+        "U073V4UBNHK"
+    ],
+    "topic": {
+        "value": "Work to sustain 100-million accessibility fixes by 2028.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1715970124
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C072DJ7JAM9",
+    "name": "jobs",
+    "created": 1715107886,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U072732NLAJ",
+        "U073V4UBNHK"
+    ],
+    "topic": {
+        "value": "Commissions for Equalify",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1715107927
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C074N9VQJSE",
+    "name": "outreach",
+    "created": 1716394253,
+    "creator": "U06Q2P392AU",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06Q2P392AU",
+        "U06Q6N3N6TT",
+        "U06TJNUDNLA",
+        "U075WQMT3EW"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C074YBD1HS4",
+    "name": "a11y",
+    "created": 1716227610,
+    "creator": "U06Q2P392AU",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06P7AP2R38",
+        "U06PKJHF1FC",
+        "U06PKP46SMR",
+        "U06Q2P392AU",
+        "U06TJNUDNLA",
+        "U07475MH43H"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C075ESQDPS5",
+    "name": "future",
+    "created": 1716577212,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06PDVC4P7C",
+        "U06Q2P392AU",
+        "U06Q6N3N6TT",
+        "U06TJNUDNLA",
+        "U07475MH43H"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C076988JBK3",
+    "name": "legal",
+    "created": 1717105434,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06PB2BPADB",
+        "U06Q2P392AU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C076E9DUT09",
+    "name": "accounting",
+    "created": 1717176015,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06Q2P392AU"
+    ],
+    "topic": {
+        "value": "Logging sales and expenses.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1717176039
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C077S8PRKEF",
+    "name": "management",
+    "created": 1718199161,
+    "creator": "U04J7TVCQGP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04J7TVCQGP",
+        "U06PB2BPADB"
+    ],
+    "topic": {
+        "value": "There should be little discussion around management until Year 5.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1718199191
+    },
+    "purpose": {
+        "value": "Discussion here is a personal failure for <@U04J7TVCQGP>.",
+        "creator": "U04J7TVCQGP",
+        "last_set": 1718200391
+    }
+}
+]

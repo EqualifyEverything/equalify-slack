@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718190177.752369",
+        "client_msg_id": "0e3a56ee-90c3-4e91-a132-bbd7fb962388",
+        "text": "<@U06Q2P392AU> reached out to me about offering manual testing through Equalify. Before I let that thread go, I wanted to post it here. I think this would be a great way to cultivate talent. That said, we shouldn't get the cart before the horse so to speak. We need to get Equalify users, then build out initiatives like this.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4QI\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reached out to me about offering manual testing through Equalify. Before I let that thread go, I wanted to post it here. I think this would be a great way to cultivate talent. That said, we shouldn't get the cart before the horse so to speak. We need to get Equalify users, then build out initiatives like this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

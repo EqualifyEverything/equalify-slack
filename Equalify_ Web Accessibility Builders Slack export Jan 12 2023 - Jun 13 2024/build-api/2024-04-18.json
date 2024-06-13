@@ -1,0 +1,143 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713468420.307979",
+        "client_msg_id": "dd39fb23-cf95-43fd-ab74-a8c83c8670be",
+        "text": "<@U06P7AP2R38> - here is an export of <https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz|WordPress's Equalify DB database>.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz | equalify_db.sql.gz>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz | equalify_db.sql.gz>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp|EqualifyEverything\/eudaimonia-wp>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ApOM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - here is an export of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz",
+                                "text": "WordPress's Equalify DB database"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713468525.952089",
+        "client_msg_id": "9949e333-2753-42e8-91ea-0a70a4090a73",
+        "text": "Here's a user you can use for <https:\/\/managed.equalify.app>:\nusername- <mailto:wordpress@equalify.app|wordpress@equalify.app>\npassword- Eudaimonia89!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EL31v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a user you can use for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/managed.equalify.app"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\nusername- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:wordpress@equalify.app",
+                                "text": "wordpress@equalify.app"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npassword- Eudaimonia89!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

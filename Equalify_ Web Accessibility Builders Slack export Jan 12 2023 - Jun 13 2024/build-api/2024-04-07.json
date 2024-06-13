@@ -1,0 +1,1369 @@
+[
+    {
+        "text": "Hey <@U04J7TVCQGP>, I hope everything's going great on your end! I thought it'd be helpful to organize my thoughts and ask you some questions via Slack. So here goes.\n\nUpdates so far:\n• Breaking ground on Fastify API development- it's my first time developing with a \"local-first\" rather than \"cloud-first\" mentality, but I think we've got a good solution in place.\n• I registered <http:\/\/equalify.dev|equalify.dev> to simplify all of my AWS work and give us a non-production domain to work with. Here are some resources\/endpoints I've provisioned:\n    ◦ Route 53\n        ▪︎ Just an easy DNS service that plugs into AWS services ($0.50\/mo for <http:\/\/equalify.dev|equalify.dev>)\n    ◦ EC2\n        ▪︎ These have t4g.micro EC2 instances under the hood with an Elastic IP routed through Cloudfront ($11\/mo each)\n        ▪︎ <https:\/\/graphql.equalify.dev> - Production GraphQL engine\n            • Password: `Mryvn5h63PmkyfaroxsNzpy8Y7sYwvJmyeDmFi3J24XjDvhrXSMkK9R6amezZRamdyoCnpHR3Ln6tEMV3fJMs2GCrPxiA5pj23JtEoN6VmHCWPRDYwtkRPygrKU4bfZj`\n        ▪︎ <https:\/\/graphql-staging.equalify.dev> - Staging GraphQL engine\n            • Password: `TMTJcJoeuB65WFi8XE5JBr2F4cEANuMws5CVS473JXDKuSsHRiT3KqYepjQttAve9LK3K9rgnn6SwTyZ7uAqosESgVozAvqmk2xfdyfkVueSDV7MRCCBhYW2LrnmrTYT`\n        ▪︎ <https:\/\/db.equalify.dev> - Cloudbeaver DB Viewer (think PhpMyAdmin, but for the modern age)\n            • Username: `equalify`\n            • Password: `Equalify2024!`\n    ◦ Lambda\n        ▪︎ These are Node.js Lambda functions with Function URLs routed through Cloudfront ($0\/mo)\n        ▪︎ <https:\/\/api.equalify.dev> - Production Lambda API\n        ▪︎ <https:\/\/api-staging.equalify.dev> - Staging Lambda API\n    ◦ Relational Database Service\n        ▪︎ I provisioned 2 t4g.micro PostgreSQL databases ($13\/mo each)\n        ▪︎ <http:\/\/equalify.c3mkya8ai9xe.us-east-2.rds.amazonaws.com|equalify.c3mkya8ai9xe.us-east-2.rds.amazonaws.com> - Production PostgreSQL DB\n            • Host: `<http:\/\/equalify.c3mkya8ai9xe.us-east-2.rds.amazonaws.com|equalify.c3mkya8ai9xe.us-east-2.rds.amazonaws.com>`\n            • Username: `equalify`\n            • Database: `equalify`\n            • Password: `Mryvn5h63PmkyfaroxsNzpy8Y7sYwvJmyeDmFi3J24XjDvhrXSMkK9R6amezZRamdyoCnpHR3Ln6tEMV3fJMs2GCrPxiA5pj23JtEoN6VmHCWPRDYwtkRPygrKU4bfZj`\n            • Port: `5432`\n        ▪︎ <http:\/\/equalify-staging.c3mkya8ai9xe.us-east-2.rds.amazonaws.com|equalify-staging.c3mkya8ai9xe.us-east-2.rds.amazonaws.com> - Staging PostgreSQL DB\n            • Host: `<http:\/\/equalify-staging.c3mkya8ai9xe.us-east-2.rds.amazonaws.com|equalify-staging.c3mkya8ai9xe.us-east-2.rds.amazonaws.com>`\n            • Username: `equalify`\n            • Database: `equalify`\n            • Password: `TMTJcJoeuB65WFi8XE5JBr2F4cEANuMws5CVS473JXDKuSsHRiT3KqYepjQttAve9LK3K9rgnn6SwTyZ7uAqosESgVozAvqmk2xfdyfkVueSDV7MRCCBhYW2LrnmrTYT`\n            • Port: `5432`\n    ◦ Cloudfront\n        ▪︎ I created proxies for all of the above services so they could be served through easy endpoints from `*.<http:\/\/equalify.dev|equalify.dev>` (and also protected by AWS WAF w\/ rate limiting)\n    ◦ Bedrock\n        ▪︎ Applied for access to all LLM models (Claude, Mistral, etc)\nI had a few questions:\n• Would you be comfortable migrating from MySQL to PostgreSQL?\n    ◦ PostgreSQL would allow us to use fancy extensions like `pgVector` which let us store & index vector embeddings (very helpful for RAG integrations w\/ LLMs, super efficient search, etc).\n    ◦ I could leverage my experience w\/ either the <https:\/\/github.com\/hasura\/graphql-engine|Hasura> or <https:\/\/www.graphile.org\/postgraphile\/|Postgraphile >GraphQL engines, which would help create a CRUD API and simultaneously enforce authorization rules out-of-the-box using JWT tokens from Auth0. We'd still have a Node.js API with business logic, but we could pass through \"dumb\" queries to these engines\n• Would you be comfortable with switching from a \"database per user\" approach to a \"single database\" approach? We'd match users' resources using a `user_id` UUID column.\n• Have you applied for AWS Activate credits before?\n• I could not log into the Auth0 account because I was asked for an MFA code sent to your number. Perhaps you could add me to the Auth0 team as an admin?\n• Would you consider migrating from Auth0 to AWS Cognito for auth? I'm personally more familiar with AWS Cognito (and it's got a much cheaper MAU rate than Auth0), but Auth0 has better documentation\/redundancy\n• Could you enable <https:\/\/us-east-1.console.aws.amazon.com\/billing\/home?region=us-east-1#\/account|IAM user and role access to Billing Information>? I attached a screenshot of where the toggle is, only the account owner can flip it. It'd help give me insight into cloud costs.\nAnd closing thoughts:\n• I looked at the frontend channel and thought I could lend my hand in scaffolding a simple React app as a single page application with Vite- you can see the message I left there.",
+        "files": [
+            {
+                "id": "F06TJ1MUCCR",
+                "created": 1712471817,
+                "timestamp": 1712471817,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06P7AP2R38",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 178000,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06TJ1MUCCR\/image.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F06TJ1MUCCR\/download\/image.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_64.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_80.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_360.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360_w": 360,
+                "thumb_360_h": 181,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_480.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_480_w": 480,
+                "thumb_480_h": 242,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_160.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_720.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720_w": 720,
+                "thumb_720_h": 362,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_800.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_800_w": 800,
+                "thumb_800_h": 403,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_960.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_960_w": 960,
+                "thumb_960_h": 483,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F06TJ1MUCCR-54ccb2f967\/image_1024.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 515,
+                "original_w": 1915,
+                "original_h": 964,
+                "thumb_tiny": "AwAYADCr2pDk9qXPH3RTT900AGP9k\/nRt9qMDA+WjH+yKAFCjvRgY6frTTj+6BQvDfhTAdzgYpD91vpTv4fwpv8ACfpSAMf7X6UY\/wBr9KWigBpz\/kUDr+FONN7\/AIUAf\/\/Z",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U06P7AP2R38\/F06TJ1MUCCR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F06TJ1MUCCR-a90ae81320",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06P7AP2R38",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M2TCI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I hope everything's going great on your end! I thought it'd be helpful to organize my thoughts and ask you some questions via Slack. So here goes.\n\nUpdates so far:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Breaking ground on Fastify API development- it's my first time developing with a \"local-first\" rather than \"cloud-first\" mentality, but I think we've got a good solution in place."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I registered "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/equalify.dev",
+                                        "text": "equalify.dev"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to simplify all of my AWS work and give us a non-production domain to work with. Here are some resources\/endpoints I've provisioned:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Route 53"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Just an easy DNS service that plugs into AWS services ($0.50\/mo for "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/equalify.dev",
+                                        "text": "equalify.dev"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "EC2"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "These have t4g.micro EC2 instances under the hood with an Elastic IP routed through Cloudfront ($11\/mo each)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/graphql.equalify.dev"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - Production GraphQL engine"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Password: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Mryvn5h63PmkyfaroxsNzpy8Y7sYwvJmyeDmFi3J24XjDvhrXSMkK9R6amezZRamdyoCnpHR3Ln6tEMV3fJMs2GCrPxiA5pj23JtEoN6VmHCWPRDYwtkRPygrKU4bfZj",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/graphql-staging.equalify.dev"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - Staging GraphQL engine"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Password: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "TMTJcJoeuB65WFi8XE5JBr2F4cEANuMws5CVS473JXDKuSsHRiT3KqYepjQttAve9LK3K9rgnn6SwTyZ7uAqosESgVozAvqmk2xfdyfkVueSDV7MRCCBhYW2LrnmrTYT",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/db.equalify.dev"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - Cloudbeaver DB Viewer (think PhpMyAdmin, but for the modern age)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Username: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "equalify",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Password: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Equalify2024!",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lambda"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "These are Node.js Lambda functions with Function URLs routed through Cloudfront ($0\/mo)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/api.equalify.dev"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - Production Lambda API"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/api-staging.equalify.dev"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - Staging Lambda API"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Relational Database Service"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I provisioned 2 t4g.micro PostgreSQL databases ($13\/mo each)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/equalify.c3mkya8ai9xe.us-east-2.rds.amazonaws.com",
+                                        "text": "equalify.c3mkya8ai9xe.us-east-2.rds.amazonaws.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - Production PostgreSQL DB"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Host: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/equalify.c3mkya8ai9xe.us-east-2.rds.amazonaws.com",
+                                        "text": "equalify.c3mkya8ai9xe.us-east-2.rds.amazonaws.com",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Username: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "equalify",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Database: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "equalify",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Password: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Mryvn5h63PmkyfaroxsNzpy8Y7sYwvJmyeDmFi3J24XjDvhrXSMkK9R6amezZRamdyoCnpHR3Ln6tEMV3fJMs2GCrPxiA5pj23JtEoN6VmHCWPRDYwtkRPygrKU4bfZj",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Port: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "5432",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/equalify-staging.c3mkya8ai9xe.us-east-2.rds.amazonaws.com",
+                                        "text": "equalify-staging.c3mkya8ai9xe.us-east-2.rds.amazonaws.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - Staging PostgreSQL DB"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Host: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/equalify-staging.c3mkya8ai9xe.us-east-2.rds.amazonaws.com",
+                                        "text": "equalify-staging.c3mkya8ai9xe.us-east-2.rds.amazonaws.com",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Username: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "equalify",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Database: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "equalify",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Password: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "TMTJcJoeuB65WFi8XE5JBr2F4cEANuMws5CVS473JXDKuSsHRiT3KqYepjQttAve9LK3K9rgnn6SwTyZ7uAqosESgVozAvqmk2xfdyfkVueSDV7MRCCBhYW2LrnmrTYT",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Port: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "5432",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cloudfront"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I created proxies for all of the above services so they could be served through easy endpoints from "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "*.",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/equalify.dev",
+                                        "text": "equalify.dev",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (and also protected by AWS WAF w\/ rate limiting)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bedrock"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Applied for access to all LLM models (Claude, Mistral, etc)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI had a few questions:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Would you be comfortable migrating from MySQL to PostgreSQL?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PostgreSQL would allow us to use fancy extensions like "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "pgVector",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " which let us store & index vector embeddings (very helpful for RAG integrations w\/ LLMs, super efficient search, etc)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I could leverage my experience w\/ either the "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/hasura\/graphql-engine",
+                                        "text": "Hasura"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " or "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.graphile.org\/postgraphile\/",
+                                        "text": "Postgraphile "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "GraphQL engines, which would help create a CRUD API and simultaneously enforce authorization rules out-of-the-box using JWT tokens from Auth0. We'd still have a Node.js API with business logic, but we could pass through \"dumb\" queries to these engines"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Would you be comfortable with switching from a \"database per user\" approach to a \"single database\" approach? We'd match users' resources using a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "user_id",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " UUID column."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Have you applied for AWS Activate credits before?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I could not log into the Auth0 account because I was asked for an MFA code sent to your number. Perhaps you could add me to the Auth0 team as an admin?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Would you consider migrating from Auth0 to AWS Cognito for auth? I'm personally more familiar with AWS Cognito (and it's got a much cheaper MAU rate than Auth0), but Auth0 has better documentation\/redundancy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Could you enable "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/us-east-1.console.aws.amazon.com\/billing\/home?region=us-east-1#\/account",
+                                        "text": "IAM user and role access to Billing Information"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "? I attached a screenshot of where the toggle is, only the account owner can flip it. It'd help give me insight into cloud costs."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAnd closing thoughts:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I looked at the frontend channel and thought I could lend my hand in scaffolding a simple React app as a single page application with Vite- you can see the message I left there."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712498401.153429",
+        "edited": {
+            "user": "U06P7AP2R38",
+            "ts": "1712516859.000000"
+        },
+        "client_msg_id": "05ff39c1-b249-4193-9681-963a82c9a681"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712516772.757979",
+        "client_msg_id": "EB7ACC40-97BF-4CBF-9867-476B6A290205",
+        "text": "AMAZING! I’ll respond to your questions in different message so we can start threads if need be:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cksUZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AMAZING! I’ll respond to your questions in different message so we can start threads if need be:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712516928.313809",
+        "client_msg_id": "CCB62FE0-75AE-4D42-8658-D0CA297AE40A",
+        "text": "• PostgreSQL is the way to go!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bq2B0",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PostgreSQL is the way to go!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "elephant",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712516980.803669",
+        "client_msg_id": "BE3E70F5-D088-421B-9C4D-A03AABED4251",
+        "text": "• Single DB is cool.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iNj4F",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Single DB is cool."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712517017.178709",
+        "client_msg_id": "A88DF2DD-8089-4788-817A-7DD2BB1A615A",
+        "text": "• Never applied AWS Activate credits to that account.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkVPJ",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Never applied AWS Activate credits to that account."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712517924.586809",
+        "client_msg_id": "0CEA8055-38DD-4CBE-ABD1-3B2B31AAEFA6",
+        "text": "• Auth0 recovery code is `959Q8PBYG8YMLTM6UBE7B32G`. We’re trying to avoid their $35\/mo fee because we really don’t need the features they have.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NyIB0",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Auth0 recovery code is "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "959Q8PBYG8YMLTM6UBE7B32G",
+                                        "style": {
+                                            "bold": false,
+                                            "italic": false,
+                                            "strike": false,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". We’re trying to avoid their $35\/mo fee because we really don’t need the features they have."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712517948.467099",
+        "client_msg_id": "31A18D0F-FC20-4AC2-A5CC-0DA5E0EADB38",
+        "text": "• Please migrate from Auth0. I’m not a fan of Auth0",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HoWwX",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Please migrate from Auth0. I’m not a fan of Auth0"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712518104.774759",
+        "client_msg_id": "DD218906-AC63-4374-9795-DD2BC9A310DA",
+        "text": "• IAM activated",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V2msc",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "IAM activated"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1712518126.766749",
+        "client_msg_id": "84677d4e-1a95-4956-b038-814100a5d34b",
+        "text": "Very happy to hear about the greenlight for Cognito... their service is honestly awesome even though many people on the internet complain about it",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyhUF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very happy to hear about the greenlight for Cognito... their service is honestly awesome even though many people on the internet complain about it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712518228.606409",
+        "client_msg_id": "D0E3431B-C5C6-463A-87A0-03124BB8A2C0",
+        "text": "Totally! This project is built off whatever tech contributors are enthusiastic about.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Epj5+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Totally"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! This project is built off "
+                            },
+                            {
+                                "type": "text",
+                                "text": "whatever"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tech contributors are enthusiastic about."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

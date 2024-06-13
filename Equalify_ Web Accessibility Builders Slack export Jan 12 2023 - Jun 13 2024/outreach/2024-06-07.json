@@ -1,0 +1,262 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717781957.127539",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1718111403.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1717781955,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-outreach] Issue opened by bbertucc",
+                "text": "Jesse Sookne initiated a LinkedIn outreach project on the a11y slack. Here is a link to that Slack thread: <https:\/\/web-a11y.slack.com\/archives\/C0241L0TMGD\/p1717526814051989|https:\/\/web-a11y.slack.com\/archives\/C0241L0TMGD\/p1717526814051989>\n\nWe'll participate in this outreach project.\n\nHere are some important notes:\n\n• Link to Jesse's LinkedIn: <https:\/\/www.linkedin.com\/in\/jessesookne\/|https:\/\/www.linkedin.com\/in\/jessesookne\/>\n• Link to Blake's LinkedIn: <https:\/\/www.linkedin.com\/in\/blake1111\/|https:\/\/www.linkedin.com\/in\/blake1111\/>\n• Link to Kevin's LinkedIn: <https:\/\/www.linkedin.com\/in\/kevinjandrews\/|https:\/\/www.linkedin.com\/in\/kevinjandrews\/>\n• Jesse will post every weekday about web and mobile app accessibility, workplace accessibility, inclusive design, inclusive user research, explaining WCAG, explaining\n• Blake will post every Tuesday and Thursday at 11:11AM about Automated Web Accessibility, Progress toward fixing 100M issues, progress making WordPress Accessible, Updates from Equalify, Inspiring Human Stories, Business Benefits of working on double bottom lines, Open Source\n• We commit to working with our partner to promote each post within the first few minutes it goes up. Maybe we commit for a specific timeframe initially, e.g. for a month, so we can see how the process goes.\n• We also jump in to promote posts from the other pairs as\/when we can. No specific commitment here.\n\nI'll continue to update this ticket as the project progresses.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2|#2 LinkedIn Outreach>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-outreach|EqualifyEverything\/equalify-outreach>",
+                "fields": [
+                    {
+                        "value": "<@U04J7TVCQGP>, <https:\/\/github.com\/kevinandrews1|@kevinandrews1>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;LinkedIn Outreach&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;LinkedIn Outreach&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-outreach&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:809899091,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-outreach\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;LinkedIn Outreach&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717785954.999669",
+        "client_msg_id": "D0EAB5C6-7529-4564-93B0-66B35305416A",
+        "text": "<@U04J7TVCQGP> I plan to join the call here at 3 PM Eastern. I have to run to catch a bus so I might be a few minutes late, but I should be there as soon as I can.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bJ6z\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I plan to join the call here at 3 PM Eastern. I have to run to catch a bus so I might be a few minutes late, but I should be there as soon as I can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717789863.945519",
+        "client_msg_id": "99039b32-9ddd-4427-86af-6604e06e2e8b",
+        "text": "*Meeting with Grant David Gillham*\n• Worked in Cali legislation for 10 years.\n• Current clients include Cal Poly <https:\/\/iatpp.calpoly.edu\/organization|Insitute for Advanced Technology and Public Policy> and a fire camera company that has gotten hundreds of millions to install cameras for early fire warning.\n• He suggests we  hit the blue state legislators' technology office \n• Staffers say, \"Mister Speaker, we have to have this. You can't afford to have a black eye on ADA stuff.\"\n• Also hit up the departments in each state: Department of Transportation, Department of General Services\n• I'll be emailing him a ton of Equalify info that he can use to create marketing material and reach out to his government contacts\n• He said he needs a \"week or so\" to digest everything.\n• CC'ing <@U06Q2P392AU> to stay in the loop.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oAaIV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meeting with Grant David Gillham",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Worked in Cali legislation for 10 years."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Current clients include Cal Poly "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/iatpp.calpoly.edu\/organization",
+                                        "text": "Insitute for Advanced Technology and Public Policy"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and a fire camera company that has gotten hundreds of millions to install cameras for early fire warning."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "He suggests we  hit the blue state legislators' technology office "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Staffers say, \"Mister Speaker, we have to have this. You can't afford to have a black eye on ADA stuff.\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Also hit up the departments in each state: Department of Transportation, Department of General Services"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I'll be emailing him a ton of Equalify info that he can use to create marketing material and reach out to his government contacts"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "He said he needs a \"week or so\" to digest everything."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CC'ing "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06Q2P392AU"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to stay in the loop."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

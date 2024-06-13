@@ -1,0 +1,338 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1710860600.771339"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PB2BPADB",
+        "text": "<@U06PB2BPADB> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710860605.558139"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06P7APCV9U",
+        "text": "<@U06P7APCV9U> has joined the channel",
+        "type": "message",
+        "ts": "1710860673.810259"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710860714.272659",
+        "text": "\/github subscribe <https:\/\/github.com\/EqualifyEverything\/scan.equalify.app>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9AT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github subscribe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/scan.equalify.app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>. This channel will receive notifications for `issues`, `pulls`, `commits`, `releases`, `deployments`",
+        "type": "message",
+        "ts": "1710860714.305179",
+        "bot_id": "B04LZN1SH0X",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "WPRvR",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/scan.equalify.app|EqualifyEverything\/scan.equalify.app>. This channel will receive notifications for\n`issues`, `pulls`, `commits`, `releases`, `deployments`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "iPB6b",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "<https:\/\/github.com\/integrations\/slack#configuration | Learn More>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06Q2P392AU",
+        "text": "<@U06Q2P392AU> has joined the channel",
+        "type": "message",
+        "ts": "1710861550.930839"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710861858.096299",
+        "client_msg_id": "138f5683-91d5-4b37-80c5-651cc4281e81",
+        "text": "The schema is now mature. <https:\/\/github.com\/EqualifyEverything\/stream>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/stream",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/STREAM",
+                "text": "Streamline web accessibility testing results with STREAM.",
+                "title": "EqualifyEverything\/STREAM",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "JavaScript",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yYSu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The schema is now mature. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/stream"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710863364.858819",
+        "text": "\/github subscribe <https:\/\/github.com\/EqualifyEverything\/STREAM>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github subscribe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/STREAM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>. This channel will receive notifications for `issues`, `pulls`, `commits`, `releases`, `deployments`",
+        "attachments": [
+            {
+                "image_url": "https:\/\/opengraph.githubassets.com\/03bb110ae19b2b67cbb143425e24cc1b90cbadecc8154037c801f8d8b3985940\/EqualifyEverything\/STREAM",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 59152,
+                "from_url": "https:\/\/github.com\/EqualifyEverything\/STREAM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/EqualifyEverything\/STREAM",
+                "fallback": "GitHub: GitHub - EqualifyEverything\/STREAM: Streamline web accessibility testing results with STREAM.",
+                "text": "Streamline web accessibility testing results with STREAM. - EqualifyEverything\/STREAM",
+                "title": "GitHub - EqualifyEverything\/STREAM: Streamline web accessibility testing results with STREAM.",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/STREAM",
+                "service_name": "GitHub"
+            }
+        ],
+        "type": "message",
+        "ts": "1710863364.886489",
+        "edited": {
+            "user": "B04LZN1SH0X",
+            "ts": "1710863365.000000"
+        },
+        "bot_id": "B04LZN1SH0X",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "U5QVo",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>. This channel will receive notifications for\n`issues`, `pulls`, `commits`, `releases`, `deployments`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "efKxG",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "<https:\/\/github.com\/integrations\/slack#configuration | Learn More>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710863578.993469",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/2d6af1843bbfbf7fe36418b15a260c1cbb39e5dd|2d6af184>` - Create LICENSE",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/1f014fd27b41...2d6af1843bbf|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1710867066.865039",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/STREAM] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/STREAM\/commit\/d43201e4faa8b58f2ba78c3547d99df730ffa994|d43201e4>` - Focus the Fight",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/STREAM\/compare\/2d6af1843bbf...d43201e4faa8|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/STREAM|EqualifyEverything\/STREAM>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PMSNHF0A",
+        "text": "<@U06PMSNHF0A> has joined the channel",
+        "type": "message",
+        "ts": "1710875049.520039"
+    }
+]

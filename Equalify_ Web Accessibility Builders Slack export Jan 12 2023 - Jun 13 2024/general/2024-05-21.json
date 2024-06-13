@@ -1,0 +1,177 @@
+[
+    {
+        "user": "U073V4UBNHK",
+        "type": "message",
+        "ts": "1716296647.805279",
+        "client_msg_id": "509115b7-101e-4b73-8ce3-bfb07cf7afa6",
+        "text": "Property results are not formatted correctly\n using your sitemap :\n<https:\/\/equalify.app\/post-sitemap.xml>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "5ce10434e8c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7136545587588_5ce10434e8c8c4cde09b_72.png",
+            "first_name": "enabled",
+            "real_name": "enabled accessibility",
+            "display_name": "enabled accessibility",
+            "team": "T04JQU0GB2Q",
+            "name": "enableda11y",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715952843.438329",
+        "parent_user_id": "U073V4UBNHK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPf2t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Property results are not formatted correctly\n using your sitemap :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/equalify.app\/post-sitemap.xml"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U072C2M1NBU",
+        "type": "message",
+        "ts": "1716300227.579339",
+        "client_msg_id": "fa5a4c5a-04fb-4e3a-91d3-133a343f0fe1",
+        "text": "We are against this at Duke. Providing an aggregated way of demonstrating how much improvement needs done is a way of shaming people who are trying to improve. Also, Equalify gives users the opportunity to mark false positives. Prioritize the improvements. The results shared will not take that into consideration.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6e34e5c363e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e34e5c363e4cf5c97c52ba67cec4e4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Joel",
+            "real_name": "Joel Crawford-Smith",
+            "display_name": "Joel Crawford-Smith",
+            "team": "T04JQU0GB2Q",
+            "name": "jhc36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715928963.099719",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKASv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are against this at Duke. Providing an aggregated way of demonstrating how much improvement needs done is a way of shaming people who are trying to improve. Also, Equalify gives users the opportunity to mark false positives. Prioritize the improvements. The results shared will not take that into consideration."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716307977.423259",
+        "client_msg_id": "dff08954-c94d-4141-bf54-631f62a96850",
+        "text": "Are you using the managed version (<http:\/\/managed.equalify.app|managed.equalify.app>)? Or a local version? If you're using a local version, did you update your `.env` to include a link to your scanner of choice?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715952843.438329",
+        "parent_user_id": "U073V4UBNHK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Knob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you using the managed version (managed.equalify.app)? Or a local version? If you're using a local version, did you update your "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".env",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to include a link to your scanner of choice?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716308003.857069",
+        "client_msg_id": "b8a73f3a-169e-4136-bb99-bb66026ebed9",
+        "text": "If you are using the managed version, DM me your email address and I'll check out what's going on.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715952843.438329",
+        "parent_user_id": "U073V4UBNHK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R3Wo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you are using the managed version, DM me your email address and I'll check out what's going on."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

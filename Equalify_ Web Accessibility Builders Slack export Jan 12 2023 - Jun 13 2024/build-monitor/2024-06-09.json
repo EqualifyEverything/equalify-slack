@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717988861.243289",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/monitor.equalify.app] 5 new commits pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/aa2ea03d1f8d68ac7f5e1c715bada2d1697cd964|aa2ea03d>` - feat: Added cron for checking stale sites\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/76201c9205a071930124da97186bfeda8a5bf84c|76201c92>` - feat: Added per-site threshold setting\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/ea551a5b73a478ac63b9a5b6d915b9323abf43c5|ea551a5b>` - Additional info added to readme\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/ae2aef4ba3db69eb2bf2f005e9f1f85eb84a62ce|ae2aef4b>` - feat: starting setup of export buffer\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/b09f35d70363a0960217c2659671739c60f562ab|b09f35d7>` - feat: Added export buffer to check, refactored to shared Redis connection",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/compare\/3223a609af6b...b09f35d70363|5 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app|EqualifyEverything\/monitor.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1712688364.106949",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 1 new commit pushed to _main_ by heythisischris",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/86844bd1167b6533bdc58f8de7e70a2d57f1dfbd|86844bd1>` - Scaffolded Vite React SPA w\/ Amplify, Tailwind, React Query, &amp; Radix UI",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/10bc8d141543...86844bd1167b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

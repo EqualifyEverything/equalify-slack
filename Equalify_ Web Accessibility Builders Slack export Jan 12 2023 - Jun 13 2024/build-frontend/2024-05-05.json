@@ -1,0 +1,766 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714902271.725109",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1714902278.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1714902271.725109",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714902278.391309",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1714902278.391309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1714902269,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/6|#6 Feature\/reports UI mocked pages>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:6,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/6&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/reports UI mocked pages&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1714902271.725109",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1714902271.725109",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1714902278.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1714902271.725109",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1714902278.391309",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1714902278.391309"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1714902269,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/6|#6 Feature\/reports UI mocked pages>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:6,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/6&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/reports UI mocked pages&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1714902278.391309",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1714902269,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request merged by wilsuriel03",
+                "pretext": "Pull request merged by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/6|#6 Feature\/reports UI mocked pages>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714902278.461689",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 13 new commits pushed to _main_ by wilsuriel03",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/20b600963881732938df9acdfff62d0934b92816|20b60096>` - Add ReportForm and Command components\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/85dc1d2cd430f9c4795c68a2c1143ad5920ce469|85dc1d2c>` - Add ReportForm component\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/25f3f0d8543fd37f52884a5ef3100861bf5b0b61|25f3f0d8>` - Update Select component styles\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/3a2b015d3f5d50fa52febedc1a8345d78b268c5e|3a2b015d>` - Add new GraphQL hooks for fetching mock message, page, and tag details\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/964fc5bd8e9da8ffd0361cfbe575766b8933fe32|964fc5bd>` - Add mock message, page, and report details data for testing\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/ffa5761602235d08f8cb65905b0b5d394fe55549|ffa57616>` - Update GraphQL types to include Occurrence and Node interfaces\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/3779f0aabdd7471ab5bd02fffbdb6d11155ca917|3779f0aa>` - Add new routes and components for creating and editing reports\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/2e0bbc2d9bda3f395f9432d431a688e8e91ee3cb|2e0bbc2d>` - Add new routes for editing and creating reports\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/d1f0b9a76175abe1506b4d80071d6fe83903349f|d1f0b9a7>` - Add filterSlice.ts for managing filters in the store\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/d4b59b7d2b81c79ff322e56b8597fe5315c4f877|d4b59b7d>` - Add filterSlice.ts and createFilterSlice to manage filters in the store\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/760ec5b203a20a281c9110ca18d30b1b07d72d7a|760ec5b2>` - Update routes to include new components for creating and editing reports\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/40804e7514c9f1c1fa29777be74b7abbc326aaeb|40804e75>` - Add cmdk package to package.json and pnpm-lock.yaml\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/755eb246cce6558c6fb69fbc8091a61033887014|755eb246>` - Merge pull request #6 from wilsuriel03\/feature\/reports-ui-mocked-pages",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/08b905d8f522...755eb246cce6|13 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714903604.484769",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1714903624.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1714903604.484769",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714903623.881889",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1714903623.881889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1714903602,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/7|#7 Feature\/scans page UI>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:7,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/7&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/scans page UI&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1714903604.484769",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1714903604.484769",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1714903624.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1714903604.484769",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1714903623.881889",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1714903623.881889"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1714903602,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/7|#7 Feature\/scans page UI>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:7,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/7&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/scans page UI&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1714903623.881889",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1714903602,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request merged by wilsuriel03",
+                "pretext": "Pull request merged by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/7|#7 Feature\/scans page UI>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714903624.096299",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 5 new commits pushed to _main_ by wilsuriel03",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/68e082f1493d4db312e0d630e9dd6b0bf545e1ca|68e082f1>` - Add support for 'scans' type in DataTable component\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/72b1330ebca2501729b31c4fb041bee7d42bda26|72b1330e>` - Add scans route and component for displaying and processing scans\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/e060b5f782cfe6ab6c4325aa9ef386c61b9909c1|e060b5f7>` - Add scans route and component for displaying and processing scans\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/31b419b0d332f84638d5c4a29288980fbe962c18|31b419b0>` - Add Scans route and component for displaying and processing scans\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/fd0d81e8e2b249307e99c8797c215fda071cb237|fd0d81e8>` - Merge pull request #7 from wilsuriel03\/feature\/scans-page-ui",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/755eb246cce6...fd0d81e8e2b2|5 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714908000.936959",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1714908008.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1714908000.936959",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714908008.181909",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1714908008.181909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1714907998,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/8|#8 Feature\/properties UI mock>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:8,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/8&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/properties UI mock&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1714908000.936959",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1714908000.936959",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1714908008.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1714908000.936959",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1714908008.181909",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1714908008.181909"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1714907998,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/8|#8 Feature\/properties UI mock>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:8,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/8&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/properties UI mock&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1714908008.181909",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1714907998,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request merged by wilsuriel03",
+                "pretext": "Pull request merged by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/8|#8 Feature\/properties UI mock>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714908008.428529",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 10 new commits pushed to _main_ by wilsuriel03",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/9d656ba90d511e77dad3d8a280aee562c4a408a5|9d656ba9>` - Add PropertyForm component for managing property data\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/4f545d80d1c4c7fea12d3fe12184e1aaeed713fd|4f545d80>` - Update header component to use 'Properties' instead of 'Settings' in the navigation menu\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/8e485d8a7548774abd66ecdb6c8a9fe92ea16faf|8e485d8a>` - Add useProperties and usePropertyDetails hooks for fetching and managing property data\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/69a1e18b0f4166024ae7ccd07eaea967e626c1d4|69a1e18b>` - Add mockProperties array for simulating property data in tests\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/abad29a32e44d0c0e8e913de522babeac1287c98|abad29a3>` - Add LoadingProperty, AddProperty, and Properties components for managing property data\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/5e5e54f8f5f7f18dce5a5d7037361cb8b283a72b|5e5e54f8>` - Update handleDeleteAccount function name to handleDeleteReport in edit-report.tsx\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/c11456cf8e29a17752ff8522f1c4c70cda25f012|c11456cf>` - Update Scans component to wrap DataTable in a div with overflow-x-auto class\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/36c6c08e14f037619fde57cbddcf0dded067af94|36c6c08e>` - Add Properties, AddProperty, and EditProperty components for managing property data\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/9758d7ae50e3e34752f6f02cd84bfab56e4c3c0e|9758d7ae>` - Add new components for managing property data and update Scans component\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/c9e3f65751acb764b6738780c0f156108d073b20|c9e3f657>` - Merge pull request #8 from wilsuriel03\/feature\/properties-ui-mock",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/fd0d81e8e2b2...c9e3f65751ac|10 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714923859.174249",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1714923864.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1714923859.174249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714923864.266439",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1714923864.266439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1714923856,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by heythisischris",
+                "pretext": "Pull request opened by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/9|#9 Feature\/api integration>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:9,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/9&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/api integration&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1714923859.174249",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1714923859.174249",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1714923864.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1714923859.174249",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1714923864.266439",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1714923864.266439"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1714923856,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by heythisischris",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/heythisischris|heythisischris>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/9|#9 Feature\/api integration>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:9,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/9&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/api integration&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1714923864.266439",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1714923856,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request merged by heythisischris",
+                "pretext": "Pull request merged by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/9|#9 Feature\/api integration>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714923864.576669",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 3 new commits pushed to _main_ by heythisischris",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/7c4e0a8461011ad4af1364c339d7ef7a72be855c|7c4e0a84>` - Fixed GraphQL auth\/config, add ability to update first\/last name &amp; email\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/cf3b17a2324c59295aa72b553c761c75d9dadac0|cf3b17a2>` - Added first\/last name to signup, hooked up get\/add\/update\/del properties\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/ad23f0fd4c458f35e0e739ae8527524ae00e2d56|ad23f0fd>` - Merge pull request #9 from EqualifyEverything\/feature\/api-integration",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/c9e3f65751ac...ad23f0fd4c45|3 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

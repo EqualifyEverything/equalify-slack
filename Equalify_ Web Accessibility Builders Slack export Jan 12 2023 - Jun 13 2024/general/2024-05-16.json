@@ -1,0 +1,267 @@
+[
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1715924520.748679",
+        "text": "\n<https:\/\/vimeo.com\/945587328>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNwa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vimeo.com\/945587328"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715925484.163669",
+        "client_msg_id": "5c1be5c4-f49c-40a5-a6ec-373ddcca37b6",
+        "text": "Thanks <@U06P7APCV9U> - Very exciting to follow all those updates.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfqTK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7APCV9U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Very exciting to follow all those updates."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715928963.099719",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1715929181.000000"
+        },
+        "client_msg_id": "338c446c-ee63-4f0d-aeb2-1fcc8cc24f7e",
+        "text": "Tonight I started hacking an idea that is probably pretty dumb, but <@U06TJNUDNLA>'s passion for frontend got me thinking outside the box.\n\nBasically:\n1. We expose every website we scan publicly\n2. Anyone can scan a site for free.\n3. People can signup for a \"Pro\" tier to get prioritized scanning + AI features + Customizable reporting\nWhat do you think?\n\nI put together a video walkthrough here (warning to all my screen reader friends: the site that I uploaded this video to sucks, but you can click the play button in the Slack embedded video): <https:\/\/www.loom.com\/share\/c53709f0024c4d5c92a6089483c64221?sid=dd5a74df-9ea7-4c60-b1db-46fa9557f8e7>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715928963.099719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716300227.579339",
+        "reply_users": [
+            "U072C2M1NBU"
+        ],
+        "replies": [
+            {
+                "user": "U072C2M1NBU",
+                "ts": "1716300227.579339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716300227.579339",
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "video",
+                        "block_id": "wIQ\/9",
+                        "video_url": "https:\/\/www.loom.com\/embed\/c53709f0024c4d5c92a6089483c64221?sid=dd5a74df-9ea7-4c60-b1db-46fa9557f8e7&unfurl=blocks",
+                        "thumbnail_url": "https:\/\/cdn.loom.com\/sessions\/thumbnails\/c53709f0024c4d5c92a6089483c64221-4x3.jpg",
+                        "alt_text": "Another Departure: Free and Pro Tiers",
+                        "title": {
+                            "type": "plain_text",
+                            "text": "Another Departure: Free and Pro Tiers",
+                            "emoji": true
+                        },
+                        "title_url": "https:\/\/www.loom.com\/share\/c53709f0024c4d5c92a6089483c64221",
+                        "author_name": "Blake Bertuccelli-Booth",
+                        "provider_name": "Loom",
+                        "provider_icon_url": "https:\/\/cdn.loom.com\/assets\/favicons-loom\/favicon-32x32.png",
+                        "description": {
+                            "type": "plain_text",
+                            "text": "⏱ 4 min  ",
+                            "emoji": true
+                        }
+                    },
+                    {
+                        "type": "section",
+                        "block_id": "126ne",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": ":information_source: In this video, I discuss a new idea based on the concept that all the data we scan is public. I propose implementing a free and pro tier system for...",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "G+7gQ",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "view-on-loom-cta",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch on Loom",
+                                    "emoji": true
+                                },
+                                "url": "https:\/\/www.loom.com\/share\/c53709f0024c4d5c92a6089483c64221?sid=dd5a74df-9ea7-4c60-b1db-46fa9557f8e7"
+                            },
+                            {
+                                "type": "button",
+                                "action_id": "watch-video-later-cta",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch Later",
+                                    "emoji": true
+                                },
+                                "value": "{\"videoId\":\"c53709f0024c4d5c92a6089483c64221\",\"videoName\":\"Another Departure: Free and Pro Tiers\",\"sendWatchLaterReminderWeekdaysOnly\":false,\"loomBaseUrl\":\"https:\/\/www.loom.com\"}"
+                            }
+                        ]
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "B073W2U7Y4A",
+                "app_unfurl_url": "https:\/\/www.loom.com\/share\/c53709f0024c4d5c92a6089483c64221?sid=dd5a74df-9ea7-4c60-b1db-46fa9557f8e7",
+                "is_app_unfurl": true,
+                "app_id": "A9G1TH4S2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3JMUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tonight I started hacking an idea that is probably pretty dumb, but "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s passion for frontend got me thinking outside the box.\n\nBasically:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We expose every website we scan publicly"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Anyone can scan a site for free."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "People can signup for a \"Pro\" tier to get prioritized scanning + AI features + Customizable reporting"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nWhat do you think?\n\nI put together a video walkthrough here (warning to all my screen reader friends: the site that I uploaded this video to sucks, but you can click the play button in the Slack embedded video): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.loom.com\/share\/c53709f0024c4d5c92a6089483c64221?sid=dd5a74df-9ea7-4c60-b1db-46fa9557f8e7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

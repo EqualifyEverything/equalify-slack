@@ -1,0 +1,61 @@
+[
+    {
+        "text": "Updated output attached. Roughly, I would estimate 40-50k pages. But it's kind of hard to tell because many of their sites reject our IP.",
+        "files": [
+            {
+                "id": "F073623DA9X",
+                "created": 1715290818,
+                "timestamp": 1715290818,
+                "name": "properties_view.csv",
+                "title": "properties_view.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": true,
+                "size": 20768,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F073623DA9X\/properties_view.csv?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F073623DA9X\/download\/properties_view.csv?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F073623DA9X\/properties_view.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F073623DA9X-781cebb72d",
+                "edit_link": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F073623DA9X\/properties_view.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XvwyU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Updated output attached. Roughly, I would estimate 40-50k pages. But it's kind of hard to tell because many of their sites reject our IP."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715290820.062519",
+        "client_msg_id": "248e725c-b32d-4478-a718-d647717a9260",
+        "thread_ts": "1715108204.149649",
+        "parent_user_id": "U04J7TVCQGP"
+    }
+]

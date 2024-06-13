@@ -1,0 +1,264 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1713794609.854449",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1713807042.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1713794603,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by joelhsmith",
+                "text": "Issue 1: Equalify Properties are duplicating with user error. To reproduce:\n\n1. Upload a faulty sitemap, with syntax errors in it.\n2. Choose \"Settings\" from the top menu.\n3. Choose the Property.\n4. Enter a faulty sitemap in 'sitemap url' field.\n5. Click \"Send to scan\".\n6. Equalify will respond with \"2024-04-22 13:55:26: Property results are not formatted correctly\" in light grey next to the \"Send to Scan\" button.\n7. Choose \"Reports\" from the top menu.\n8. Choose \"Settings\" from the top menu.\n9. You will see a new duplicate \"Property\" for _every_ failed scan.\n\nLink to see image of duplicate Properties: <https:\/\/duke.box.com\/s\/f3fil37nrldk9nirrijp312avjqiusv4|https:\/\/duke.box.com\/s\/f3fil37nrldk9nirrijp312avjqiusv4>\n\nExpected behavior:  \nNot generating a new Property for each failed attempt to Scan new potentially faulty sitemap.\n\nSidenote: My old sitemap.xml was accepted and scanned fine last month. See old version here:  \n<https:\/\/github.com\/joelhsmith\/debug-examples\/commit\/5b4b94a7e8d4c10a054f41bc4405e83e010e0e62|joelhsmith\/debug-examples@5b4b94a>\n\nNot it does not work. Maybe there is new validation going on since last month?\n\nI have uploaded a new valid sitemap:  \n<https:\/\/joelhsmith.github.io\/debug-examples\/lh-tests\/sitemap.xml|https:\/\/joelhsmith.github.io\/debug-examples\/lh-tests\/sitemap.xml>\n\nI get the same error as the previous sitemap.\n\nIssue 2: Sitemap is cached, maybe?  \nThe new sitemap above is valid and I get the same error as I had with my invalid sitemap.",
+                "pretext": "Issue created by <https:\/\/github.com\/joelhsmith|joelhsmith>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/4|#4 Multiple duplicate Properties generated when user has invalid sitemap>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Multiple duplicate Properties generated when user has invalid sitemap&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Multiple duplicate Properties generated when user has invalid sitemap&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:4,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/4&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Multiple duplicate Properties generated when user has invalid sitemap&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1713842236.404809",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1713842250.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1713842236.404809",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1713842250.118469",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1713842250.118469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1713842234,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                "text": "This PR introduces several updates and new components aimed at improving the user experience and preparing for the integration of live data:\n\n*Added*\n\n• `Timeline` component for visualizing report data.\n• `Skeleton` component to indicate loading states.\n• `DataTable` component for displaying report details.\n• Hooks (`useReportDetails`, `useReports`) for fetching mock data.\n• `Reports` and `ReportDetails` pages with loading states and placeholders.\n• New routes for report creation and detail views.\n\n*Updated*\n\n• 404 page layout and redirect functionality.\n• Footer to reflect the new version number (0.3.0).\n• Header component for improved navigation.\n• Global CSS for better autofill styles and utility functions.\n• Layout enhancements focusing on authentication flows.\n\n*Dependencies*\n\n• Integrated `@tanstack\/react-table` and `recharts` libraries for data handling and visualization.\n\n*Next Steps*\n\n• Replace placeholders with API-driven content.\n• Expand user interactions with live data integration.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/5|#5 Feature\/reports UI>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:5,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/5&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/reports UI&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1713842249.814709",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 20 new commits pushed to _main_ by wilsuriel03",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/a4ad0daa696103ccfd807f9944cb078f83e9d514|a4ad0daa>` - Refactor 404 page layout and update link to reports page\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/952fc182b386cb6d0eb806503c44d3b3a318b596|952fc182>` - Update version number in footer to 0.3.0\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/d732d7e9eddff37d7a46afed0388bf1c74c6e8f4|d732d7e9>` - Refactor Header component and update link to reports page\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/1ba736c17e5eedd84125ffa179ea0cb48764f227|1ba736c1>` - Refactor layout and fix height issue\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/2156e2bd46c6316ae1d7d1d65d728d70bdfecdfe|2156e2bd>` - Add Skeleton component for displaying loading state in UI\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/114661e54cf9419d62ad8a5e8f6701923ff5ed03|114661e5>` - Add reusable table component\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/831086ccf08834953d5af7fb22a71dfc8fc670f5|831086cc>` - Add DataTable component for displaying tabular data\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/de0bd7f27cc44974db8e9c490877cdade55fbad3|de0bd7f2>` - export tables\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/dc3386a840d6b8247707bb9f07080e81155505f3|dc3386a8>` - Add useReportDetails hook for fetching mock report details\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/85b9b53fda1ff7f620e430accc75d395f0618bc1|85b9b53f>` - Add useReports hook for fetching mock reports\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/854325bc4a1e5bafb5c1ff2e7de1f2266bfadbd1|854325bc>` - Add mock report details and reports data\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/7ebf468730c782d33102e43309a47a4862b718f5|7ebf4687>` - Add GraphQL types for Message, Page, and Tag\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/fb533700b8059d3da553442adf3b5c1178db8dee|fb533700>` - Add Reports component for displaying reports and loading state\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/7b80628ca0f4afc6919abc6095cd95a489744d51|7b80628c>` - Add LoadingReport component for displaying loading state in reports\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/cb3f9275939f7ff569eab8bce7f87d95b26df815|cb3f9275>` - Add ReportDetails page for displaying single report details\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/174c98f5d26b254e97d5e3f61a8b149f96b4fc86|174c98f5>` - Update Public component to redirect to \/reports if user is authenticated\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/b87ee93f8f2df8ed7553a718ebb0bdf55f1a84ac|b87ee93f>` - Export Reports and ReportDetails routes\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/055aefe687ff9d2cd6df57fbba27896a67f0749d|055aefe6>` - Add new routes for creating and viewing report details + add place holder routes for report actions\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/96950af12ac4e184e838466aaccf46697dd637f6|96950af1>` - Add @tanstack\/react-table and recharts dependencies\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/08b905d8f522bced9eebe775fa84a40d8a529c33|08b905d8>` - Merge pull request #5 from wilsuriel03\/feature\/reports-ui",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/8112dd061d6d...08b905d8f522|20 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1713842236.404809",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1713842236.404809",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1713842250.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1713842236.404809",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1713842250.118469",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1713842250.118469"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1713842234,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                    "text": "This PR introduces several updates and new components aimed at improving the user experience and preparing for the integration of live data:\n\n*Added*\n\n• `Timeline` component for visualizing report data.\n• `Skeleton` component to indicate loading states.\n• `DataTable` component for displaying report details.\n• Hooks (`useReportDetails`, `useReports`) for fetching mock data.\n• `Reports` and `ReportDetails` pages with loading states and placeholders.\n• New routes for report creation and detail views.\n\n*Updated*\n\n• 404 page layout and redirect functionality.\n• Footer to reflect the new version number (0.3.0).\n• Header component for improved navigation.\n• Global CSS for better autofill styles and utility functions.\n• Layout enhancements focusing on authentication flows.\n\n*Dependencies*\n\n• Integrated `@tanstack\/react-table` and `recharts` libraries for data handling and visualization.\n\n*Next Steps*\n\n• Replace placeholders with API-driven content.\n• Expand user interactions with live data integration.",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/5|#5 Feature\/reports UI>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:5,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/5&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/reports UI&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1713842250.118469",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1713842234,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request merged by wilsuriel03",
+                "pretext": "Pull request merged by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/5|#5 Feature\/reports UI>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    }
+]

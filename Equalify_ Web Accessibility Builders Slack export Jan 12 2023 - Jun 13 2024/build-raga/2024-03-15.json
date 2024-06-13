@@ -1,0 +1,192 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1710544648.910189"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PKP46SMR",
+        "text": "<@U06PKP46SMR> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710544681.175409"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PKJHF1FC",
+        "text": "<@U06PKJHF1FC> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710544681.283149"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06Q2P392AU",
+        "text": "<@U06Q2P392AU> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710544681.395889"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710544944.752099",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1710544949.000000"
+        },
+        "client_msg_id": "c9ca33d1-f960-44c8-abcc-a1cf3d87eb33",
+        "text": "First order of business: What can we call this project? ChatGPT thinks we should call it \"Testify\".",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nn53f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First order of business: What can we call this project? ChatGPT thinks we should call it \"Testify\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P7A34VPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06P7A34VPH",
+        "text": "<@U06P7A34VPH> has joined the channel",
+        "type": "message",
+        "ts": "1710545324.671449"
+    },
+    {
+        "user": "U06PKJHF1FC",
+        "type": "message",
+        "ts": "1710550367.750939",
+        "client_msg_id": "1c861381-e12c-4a46-9830-46c706d0c821",
+        "text": "Like in a court case? :laughing: I'm terrible with naming.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g220fe8025ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/220fe8025ea2d8179e1643df03fc9883.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Stine",
+            "display_name": "Alex Stine",
+            "team": "T04JQU0GB2Q",
+            "name": "alex.stine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ks09P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like in a court case? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm terrible with naming."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710557752.530639",
+        "client_msg_id": "DDA9F639-7863-490B-88DC-5177296F8A49",
+        "text": "Good point <@U06PKJHF1FC>. Something else then. ",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vu7uI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good point "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKJHF1FC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Something else then"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

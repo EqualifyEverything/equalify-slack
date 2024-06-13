@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1714397613.367459",
+        "client_msg_id": "05cf37f8-1405-4c62-8f79-0738c626adb5",
+        "text": "ahh yes, thank you! working on accessibility and not making my own stuff accessible… :face_palm:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712357091.468169",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M52Wy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahh yes, thank you! working on accessibility and not making my own stuff accessible… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_palm",
+                                "unicode": "1f926"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1714410600.341009",
+        "client_msg_id": "c400d55e-e949-4617-9919-515b86dad479",
+        "text": "All good! &gt;96% of the million most popular pages fail accessiblity tests, so we all gots a lot to learn!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712357091.468169",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPvWV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All good! >96% of the million most popular pages fail accessiblity tests, so we all gots a lot to learn!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_spiral_eyes",
+                "users": [
+                    "U06PKP46SMR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

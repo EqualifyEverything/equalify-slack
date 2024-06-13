@@ -1,0 +1,169 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717007812.074579",
+        "client_msg_id": "d7c9e8ba-6811-4db4-ac82-274fdf0f9991",
+        "text": "<@U06PKP46SMR> - we still meeting? I'm on the zoom. <https:\/\/us06web.zoom.us\/j\/82941427947>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ibGsw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - we still meeting? I'm on the zoom. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/82941427947"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717017270.987429",
+        "client_msg_id": "45ac78d2-1dd9-4303-9d8a-81a86e8973f5",
+        "text": "Updates from my meeting with <@U06PKP46SMR> and video available here: <https:\/\/github.com\/EqualifyEverything\/equalify-raga\/issues\/1#issuecomment-2138107210>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1717010538,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-raga\/issues\/1#issuecomment-2138107210",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Comment on #1 Build First Version of Raga",
+                "text": "Updates from 5\/29 Call:\n\n• Everything is bootstrapped\n• Chrome Extension is Architected\n• Implemented Authentication Paradigm w\/ API to auth to\n\nStill To Do:\n\n• Test on Screen Reader\n• Finalize handoff to <https:\/\/github.com\/jwgoedert|@jwgoedert>\n• Can <https:\/\/github.com\/heythisischris|@heythisischris> provide a .ts API file? Or how else should we think about integrating?\n• Run a production and get it distributed\n• <https:\/\/github.com\/bbertucc|@bbertucc> will get Chrome Extension Store Login\n• <https:\/\/github.com\/bbertucc|@bbertucc> will send his PM notes and <https:\/\/github.com\/hcwiley|@hcwiley> will send the second payment info.\n\nVideo available here: <https:\/\/youtu.be\/ikv6GfXPRu0|https:\/\/youtu.be\/ikv6GfXPRu0>",
+                "title": "Comment on #1 Build First Version of Raga",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-raga\/issues\/1#issuecomment-2138107210",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga|EqualifyEverything\/equalify-raga>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MFhmD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Updates from my meeting with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and video available here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-raga\/issues\/1#issuecomment-2138107210"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717017972.217619",
+        "client_msg_id": "29306ff7-c27c-4972-b0ad-dec319e8a670",
+        "text": "<@U06PKP46SMR>, I created the Chrome developer account. It's verification is still pending but you should be able to login using these credentials:\nuser- <mailto:support@equalify.app|support@equalify.app>\npw: Eudaimonia89!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nnMke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I created the Chrome developer account. It's verification is still pending but you should be able to login using these credentials:\nuser- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:support@equalify.app",
+                                "text": "support@equalify.app"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npw: Eudaimonia89!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

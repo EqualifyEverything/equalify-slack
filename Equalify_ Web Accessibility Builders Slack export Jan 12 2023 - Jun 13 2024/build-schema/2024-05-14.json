@@ -1,0 +1,818 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715716452.797169",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/e4154d278bc043a8f9ef997f090f1340e41b8e5c|e4154d27>` - Create NPM Package",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/200fbe426cba...e4154d278bc0|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715717419.659799",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/dfbf285961fcdcf03239ebbd4189895436f56c47|dfbf2859>` - Update pblish config",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/e4154d278bc0...dfbf285961fc|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715717622.965069",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/bb5c0a8c7083c456a33ff87eaf0237a9d8a218fb|bb5c0a8c>` - Create npm-publish.yml",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/dfbf285961fc...bb5c0a8c7083|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715717836.935299",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1715717871.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1715717836.935299",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715717866.255739",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1715717866.255739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715717834,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-schema] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/expressjs\/express|express> from 4.18.3 to 4.19.2.\n\nRelease notes\n\n_Sourced from <https:\/\/github.com\/expressjs\/express\/releases|express's releases>._\n\n&gt; *4.19.2*\n&gt; *What's Changed*\n&gt; \n&gt; • <https:\/\/github.com\/expressjs\/express\/commit\/0b746953c4bd8e377123527db11f9cd866e39f94|Improved fix for open redirect allow list bypass>\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/expressjs\/express\/compare\/4.19.1...4.19.2|expressjs\/express@4.19.1...4.19.2>\n&gt; \n&gt; *4.19.1*\n&gt; *What's Changed*\n&gt; \n&gt; • Fix ci after location patch by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5552|expressjs\/express#5552>\n&gt; • fixed un-edited version in history.md for 4.19.0 by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5556|expressjs\/express#5556>\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/expressjs\/express\/compare\/4.19.0...4.19.1|expressjs\/express@4.19.0...4.19.1>\n&gt; \n&gt; *4.19.0*\n&gt; *What's Changed*\n&gt; \n&gt; • fix typo in release date by <https:\/\/github.com\/UlisesGascon|`@​UlisesGascon`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5527|expressjs\/express#5527>\n&gt; • docs: nominating <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> to be project captian by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5511|expressjs\/express#5511>\n&gt; • docs: loosen TC activity rules by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5510|expressjs\/express#5510>\n&gt; • Add note on how to update docs for new release by <https:\/\/github.com\/crandmck|`@​crandmck`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5541|expressjs\/express#5541>\n&gt; • <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5551\/commits\/660ccf5fa33dd0baab069e5c8ddd9ffe7d8bbff1|Prevent open redirect allow list bypass due to encodeurl>\n&gt; • Release 4.19.0 by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5551|expressjs\/express#5551>\n&gt; \n&gt; *New Contributors*\n&gt; \n&gt; • <https:\/\/github.com\/crandmck|`@​crandmck`> made their first contribution in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5541|expressjs\/express#5541>\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/expressjs\/express\/compare\/4.18.3...4.19.0|expressjs\/express@4.18.3...4.19.0>\n\nChangelog\n\n_Sourced from <https:\/\/github.com\/expressjs\/express\/blob\/master\/History.md|express's changelog>._\n\n&gt; *4.19.2 \/ 2024-03-25*\n&gt; \n&gt; • Improved fix for open redirect allow list bypass\n&gt; \n&gt; *4.19.1 \/ 2024-03-20*\n&gt; \n&gt; • Allow passing non-strings to res.location with new encoding handling checks\n&gt; \n&gt; *4.19.0 \/ 2024-03-20*\n&gt; \n&gt; • Prevent open redirect allow list bypass due to encodeurl\n&gt; • deps: cookie@0.6.0\n\nCommits\n\n• <https:\/\/github.com\/expressjs\/express\/commit\/04bc62787be974874bc1467b23606c36bc9779ba|`04bc627`> 4.19.2\n• <https:\/\/github.com\/expressjs\/express\/commit\/da4d763ff6ba9df6dbd8f1f0b1d05412dda934d5|`da4d763`> Improved fix for open redirect allow list bypass\n• <https:\/\/github.com\/expressjs\/express\/commit\/4f0f6cc67d531431c096ea006c2191b92931bbc3|`4f0f6cc`> 4.19.1\n• <https:\/\/github.com\/expressjs\/express\/commit\/a003cfab034fbadb1c78ae337ee8ab389adda217|`a003cfa`> Allow passing non-strings to res.location with new encoding handling checks f...\n• <https:\/\/github.com\/expressjs\/express\/commit\/a1fa90fcea7d8e844e1c9938ad095d62669c3abd|`a1fa90f`> fixed un-edited version in history.md for 4.19.0\n• <https:\/\/github.com\/expressjs\/express\/commit\/11f2b1db227fd42c2508c427032c1ec671b306be|`11f2b1d`> build: fix build due to inconsistent supertest behavior in older versions\n• <https:\/\/github.com\/expressjs\/express\/commit\/084e36506a18774f85206a65d8da04dc1107fc1b|`084e365`> 4.19.0\n• <https:\/\/github.com\/expressjs\/express\/commit\/0867302ddbde0e9463d0564fea5861feb708c2dd|`0867302`> Prevent open redirect allow list bypass due to encodeurl\n• <https:\/\/github.com\/expressjs\/express\/commit\/567c9c665d0de4c344b8e160146050770233783c|`567c9c6`> Add note on how to update docs for new release (<https:\/\/redirect.github.com\/expressjs\/express\/issues\/5541|#5541>)\n• <https:\/\/github.com\/expressjs\/express\/commit\/69a4cf2819c4449ec6ea45649691fb43a528d5d1|`69a4cf2`> deps: cookie@0.6.0\n• Additional commits viewable in <https:\/\/github.com\/expressjs\/express\/compare\/4.18.3...4.19.2|compare view>\n\nMaintainer changes\n\nThis version was pushed to npm by <https:\/\/www.npmjs.com\/~wesleytodd|wesleytodd>, a new releaser for express since your current version.\n\n  \n\n<https:\/\/docs.github.com\/en\/github\/managing-security-vulnerabilities\/about-dependabot-security-updates#about-compatibility-scores|Dependabot compatibility score>\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n* * *\n\nDependabot commands and options  \n\nYou can trigger Dependabot actions by commenting on this PR:\n\n• `@dependabot rebase` will rebase this PR\n• `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n• `@dependabot merge` will merge this PR after your CI passes on it\n• `@dependabot squash and merge` will squash and merge this PR after your CI passes on it\n• `@dependabot cancel merge` will cancel a previously requested merge and block automerging\n• `@dependabot reopen` will reopen this PR if it is closed\n• `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually\n• `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency\n• `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)  \n    You can disable automated security fix PRs for this repo from the <https:\/\/github.com\/EqualifyEverything\/equalify-schema\/network\/alerts|Security Alerts page>.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/2|#2 Bump express from 4.18.3 to 4.19.2 in \/equalify-schema-app>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "fields": [
+                    {
+                        "value": "dependencies",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-schema&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:765260929,&amp;amp;quot;number&amp;amp;quot;:2,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/2&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Bump express from 4.18.3 to 4.19.2 in \/equalify-schema-app&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715717853.205269",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/5e4feab5b3e78780d89a576480ce0c7a39a54bb3|5e4feab5>` - Styling update",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/bb5c0a8c7083...5e4feab5b3e7|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1715717836.935299",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1715717836.935299",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1715717871.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1715717836.935299",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1715717866.255739",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1715717866.255739"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1715717834,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-schema] Pull request opened by dependabot[bot]",
+                    "text": "Bumps <https:\/\/github.com\/expressjs\/express|express> from 4.18.3 to 4.19.2.\n\nRelease notes\n\n_Sourced from <https:\/\/github.com\/expressjs\/express\/releases|express's releases>._\n\n&gt; *4.19.2*\n&gt; *What's Changed*\n&gt; \n&gt; • <https:\/\/github.com\/expressjs\/express\/commit\/0b746953c4bd8e377123527db11f9cd866e39f94|Improved fix for open redirect allow list bypass>\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/expressjs\/express\/compare\/4.19.1...4.19.2|expressjs\/express@4.19.1...4.19.2>\n&gt; \n&gt; *4.19.1*\n&gt; *What's Changed*\n&gt; \n&gt; • Fix ci after location patch by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5552|expressjs\/express#5552>\n&gt; • fixed un-edited version in history.md for 4.19.0 by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5556|expressjs\/express#5556>\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/expressjs\/express\/compare\/4.19.0...4.19.1|expressjs\/express@4.19.0...4.19.1>\n&gt; \n&gt; *4.19.0*\n&gt; *What's Changed*\n&gt; \n&gt; • fix typo in release date by <https:\/\/github.com\/UlisesGascon|`@​UlisesGascon`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5527|expressjs\/express#5527>\n&gt; • docs: nominating <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> to be project captian by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5511|expressjs\/express#5511>\n&gt; • docs: loosen TC activity rules by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5510|expressjs\/express#5510>\n&gt; • Add note on how to update docs for new release by <https:\/\/github.com\/crandmck|`@​crandmck`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5541|expressjs\/express#5541>\n&gt; • <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5551\/commits\/660ccf5fa33dd0baab069e5c8ddd9ffe7d8bbff1|Prevent open redirect allow list bypass due to encodeurl>\n&gt; • Release 4.19.0 by <https:\/\/github.com\/wesleytodd|`@​wesleytodd`> in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5551|expressjs\/express#5551>\n&gt; \n&gt; *New Contributors*\n&gt; \n&gt; • <https:\/\/github.com\/crandmck|`@​crandmck`> made their first contribution in <https:\/\/redirect.github.com\/expressjs\/express\/pull\/5541|expressjs\/express#5541>\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/expressjs\/express\/compare\/4.18.3...4.19.0|expressjs\/express@4.18.3...4.19.0>\n\nChangelog\n\n_Sourced from <https:\/\/github.com\/expressjs\/express\/blob\/master\/History.md|express's changelog>._\n\n&gt; *4.19.2 \/ 2024-03-25*\n&gt; \n&gt; • Improved fix for open redirect allow list bypass\n&gt; \n&gt; *4.19.1 \/ 2024-03-20*\n&gt; \n&gt; • Allow passing non-strings to res.location with new encoding handling checks\n&gt; \n&gt; *4.19.0 \/ 2024-03-20*\n&gt; \n&gt; • Prevent open redirect allow list bypass due to encodeurl\n&gt; • deps: cookie@0.6.0\n\nCommits\n\n• <https:\/\/github.com\/expressjs\/express\/commit\/04bc62787be974874bc1467b23606c36bc9779ba|`04bc627`> 4.19.2\n• <https:\/\/github.com\/expressjs\/express\/commit\/da4d763ff6ba9df6dbd8f1f0b1d05412dda934d5|`da4d763`> Improved fix for open redirect allow list bypass\n• <https:\/\/github.com\/expressjs\/express\/commit\/4f0f6cc67d531431c096ea006c2191b92931bbc3|`4f0f6cc`> 4.19.1\n• <https:\/\/github.com\/expressjs\/express\/commit\/a003cfab034fbadb1c78ae337ee8ab389adda217|`a003cfa`> Allow passing non-strings to res.location with new encoding handling checks f...\n• <https:\/\/github.com\/expressjs\/express\/commit\/a1fa90fcea7d8e844e1c9938ad095d62669c3abd|`a1fa90f`> fixed un-edited version in history.md for 4.19.0\n• <https:\/\/github.com\/expressjs\/express\/commit\/11f2b1db227fd42c2508c427032c1ec671b306be|`11f2b1d`> build: fix build due to inconsistent supertest behavior in older versions\n• <https:\/\/github.com\/expressjs\/express\/commit\/084e36506a18774f85206a65d8da04dc1107fc1b|`084e365`> 4.19.0\n• <https:\/\/github.com\/expressjs\/express\/commit\/0867302ddbde0e9463d0564fea5861feb708c2dd|`0867302`> Prevent open redirect allow list bypass due to encodeurl\n• <https:\/\/github.com\/expressjs\/express\/commit\/567c9c665d0de4c344b8e160146050770233783c|`567c9c6`> Add note on how to update docs for new release (<https:\/\/redirect.github.com\/expressjs\/express\/issues\/5541|#5541>)\n• <https:\/\/github.com\/expressjs\/express\/commit\/69a4cf2819c4449ec6ea45649691fb43a528d5d1|`69a4cf2`> deps: cookie@0.6.0\n• Additional commits viewable in <https:\/\/github.com\/expressjs\/express\/compare\/4.18.3...4.19.2|compare view>\n\nMaintainer changes\n\nThis version was pushed to npm by <https:\/\/www.npmjs.com\/~wesleytodd|wesleytodd>, a new releaser for express since your current version.\n\n  \n\n<https:\/\/docs.github.com\/en\/github\/managing-security-vulnerabilities\/about-dependabot-security-updates#about-compatibility-scores|Dependabot compatibility score>\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n* * *\n\nDependabot commands and options  \n\nYou can trigger Dependabot actions by commenting on this PR:\n\n• `@dependabot rebase` will rebase this PR\n• `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n• `@dependabot merge` will merge this PR after your CI passes on it\n• `@dependabot squash and merge` will squash and merge this PR after your CI passes on it\n• `@dependabot cancel merge` will cancel a previously requested merge and block automerging\n• `@dependabot reopen` will reopen this PR if it is closed\n• `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually\n• `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency\n• `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)  \n    You can disable automated security fix PRs for this repo from the <https:\/\/github.com\/EqualifyEverything\/equalify-schema\/network\/alerts|Security Alerts page>.",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/2|#2 Bump express from 4.18.3 to 4.19.2 in \/equalify-schema-app>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                    "fields": [
+                        {
+                            "value": "dependencies",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-schema&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:765260929,&amp;amp;quot;number&amp;amp;quot;:2,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/2&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Bump express from 4.18.3 to 4.19.2 in \/equalify-schema-app&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1715717866.255739",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715717834,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-schema] Pull request merged by bbertucc",
+                "pretext": "Pull request merged by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/2|#2 Bump express from 4.18.3 to 4.19.2 in \/equalify-schema-app>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>"
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715717866.330669",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 2 new commits pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/2c343b66a1a0ca5b9a843be63d28af86ca32fa78|2c343b66>` - Bump express from 4.18.3 to 4.19.2 in \/equalify-schema-app\n`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/07711b4108a387036aaa0e98034a7d399b24b36f|07711b41>` - Merge pull request #2 from EqualifyEverything\/dependabot\/npm_and_yarn\/equalify-schema-app\/express-4.19.2",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/5e4feab5b3e7...07711b4108a3|2 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715717930.262049",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715717929,
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] New release <https:\/\/github.com\/EqualifyEverything\/equalify-schema\/releases\/tag\/v1.0.0|Release - First Release> published by bbertucc",
+                "pretext": "New release published by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/releases\/tag\/v1.0.0|Release - First Release>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715718003.981419",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/7b722a137b995ca82999400aa05b755a174632ab|7b722a13>` - Update npm-publish.yml",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/07711b4108a3...7b722a137b99|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715718015.045139",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/74b8fab0747b8594e76c58213be018762eef29e0|74b8fab0>` - Update npm-publish.yml",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/7b722a137b99...74b8fab0747b|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715718053.026389",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715718051,
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] New release <https:\/\/github.com\/EqualifyEverything\/equalify-schema\/releases\/tag\/v1.0.0|Release - First Release> published by bbertucc",
+                "pretext": "New release published by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/releases\/tag\/v1.0.0|Release - First Release>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715718113.187129",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/ca5401ad77aff7ffd40f9098e051b1d127665f2b|ca5401ad>` - Delete .github\/workflows directory",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/74b8fab0747b...ca5401ad77af|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715718209.288369",
+        "client_msg_id": "3d2fbbd4-ee68-441f-8e8a-ef5b07ccd7f2",
+        "text": "<@U06P7AP2R38> <@U06PB2BPADB> - I turned the schema into an npm package. What's your npm user names? I'll give you access to it. <https:\/\/www.npmjs.com\/package\/@equalifyapp\/equalify-schema?activeTab=readme>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715718209.288369",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1715725305.759629",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06P7AP2R38",
+            "U06PB2BPADB"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715718233.893359"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1715724627.543929"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1715724883.879769"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715725305.759629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715725305.759629",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.npmjs.com\/package\/@equalifyapp\/equalify-schema?activeTab=readme",
+                "thumb_url": "https:\/\/static-production.npmjs.com\/338e4905a2684ca96e08c7780fc68412.png",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/static-production.npmjs.com\/58a19602036db1daee0d7863c94673a4.png",
+                "id": 1,
+                "original_url": "https:\/\/www.npmjs.com\/package\/@equalifyapp\/equalify-schema?activeTab=readme",
+                "fallback": "npm: @equalifyapp\/equalify-schema",
+                "text": "JSON schema for web acccessibility results.. Latest version: 1.0.0, last published: 31 minutes ago. Start using @equalifyapp\/equalify-schema in your project by running `npm i @equalifyapp\/equalify-schema`. There are no other projects in the npm registry using @equalifyapp\/equalify-schema.",
+                "title": "@equalifyapp\/equalify-schema",
+                "title_link": "https:\/\/www.npmjs.com\/package\/@equalifyapp\/equalify-schema?activeTab=readme",
+                "service_name": "npm"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Renc9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I turned the schema into an npm package. What's your npm user names? I'll give you access to it. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.npmjs.com\/package\/@equalifyapp\/equalify-schema?activeTab=readme"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715718233.893359",
+        "client_msg_id": "b8fc0d34-83d9-4a97-895a-2df0fc877c40",
+        "text": "Also, feel free to update github\/npm to handle packgae updates",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715718209.288369",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CnhfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, feel free to update github\/npm to handle packgae updates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06P7AP2R38",
+        "text": "<@U06P7AP2R38> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715718292.037659"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PB2BPADB",
+        "text": "<@U06PB2BPADB> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715718292.288379"
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1715724627.543929",
+        "client_msg_id": "24D43A66-8DAC-4DA3-8F08-85B2D6671918",
+        "text": "Cool! My NPM username is heythisischris",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715718209.288369",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNbZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool! My NPM username is heythisischris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1715724883.879769",
+        "client_msg_id": "29941370-488e-4bd3-a287-4a26ab1c5862",
+        "text": "npm user `azdak`",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715718209.288369",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D5r\/u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm user "
+                            },
+                            {
+                                "type": "text",
+                                "text": "azdak",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715725305.759629",
+        "client_msg_id": "313326d8-2744-4424-ab2b-5f2d9dab682f",
+        "text": "Sent to y'all.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715718209.288369",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FPRKu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sent to y'all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

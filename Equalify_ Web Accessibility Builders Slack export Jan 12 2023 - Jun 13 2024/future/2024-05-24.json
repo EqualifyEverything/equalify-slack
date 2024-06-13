@@ -1,0 +1,144 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1716577212.833299"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716593926.762719",
+        "client_msg_id": "d5157123-a619-49f2-a371-8d60774bf853",
+        "text": "Here's a small \"Red Pill\" update. (For those who don't know \"Red Pill\" refers to a future version of Equalify that exposes a mass amount of data. We would have to ensure we do that responsibly if we ever do it.)\n\nAnyway, this video details a new idea for a \"Claim\" feature that allows website owners to Claim sites that have been scanned. They could then make content private. Curious what y'all think.\n\n<https:\/\/www.loom.com\/share\/bc2e9ad29e564a3daa86cf7562c54559?sid=98d4111d-ee06-42a6-abd2-7a1f0e73464d>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716593926.762719",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1716821506.321779",
+        "reply_users": [
+            "U06Q6N3N6TT",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1716808532.012009"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716821422.008529"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1716821506.321779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716821506.321779",
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "video",
+                        "block_id": "lXx0t",
+                        "video_url": "https:\/\/www.loom.com\/embed\/bc2e9ad29e564a3daa86cf7562c54559?sid=98d4111d-ee06-42a6-abd2-7a1f0e73464d&unfurl=blocks",
+                        "thumbnail_url": "https:\/\/cdn.loom.com\/sessions\/thumbnails\/bc2e9ad29e564a3daa86cf7562c54559-4x3.jpg",
+                        "alt_text": "Red Pill Updates: Claiming and Unclaimed Websites",
+                        "title": {
+                            "type": "plain_text",
+                            "text": "Red Pill Updates: Claiming and Unclaimed Websites",
+                            "emoji": true
+                        },
+                        "title_url": "https:\/\/www.loom.com\/share\/bc2e9ad29e564a3daa86cf7562c54559",
+                        "author_name": "Blake Bertuccelli-Booth",
+                        "provider_name": "Loom",
+                        "provider_icon_url": "https:\/\/cdn.loom.com\/assets\/favicons-loom\/favicon-32x32.png",
+                        "description": {
+                            "type": "plain_text",
+                            "text": "⏱ 2 min  ",
+                            "emoji": true
+                        }
+                    },
+                    {
+                        "type": "section",
+                        "block_id": "kh1NZ",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": ":information_source: Hey folks, in this video, I'll be sharing some new updates on the red pill project. Although this version is speculative, I wanted to explore the...",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "ij1Er",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "view-on-loom-cta",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch on Loom",
+                                    "emoji": true
+                                },
+                                "url": "https:\/\/www.loom.com\/share\/bc2e9ad29e564a3daa86cf7562c54559?sid=98d4111d-ee06-42a6-abd2-7a1f0e73464d"
+                            },
+                            {
+                                "type": "button",
+                                "action_id": "watch-video-later-cta",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch Later",
+                                    "emoji": true
+                                },
+                                "value": "{\"videoId\":\"bc2e9ad29e564a3daa86cf7562c54559\",\"videoName\":\"Red Pill Updates: Claiming and Unclaimed Websites\",\"sendWatchLaterReminderWeekdaysOnly\":false,\"loomBaseUrl\":\"https:\/\/www.loom.com\"}"
+                            }
+                        ]
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "B073W2U7Y4A",
+                "app_unfurl_url": "https:\/\/www.loom.com\/share\/bc2e9ad29e564a3daa86cf7562c54559?sid=98d4111d-ee06-42a6-abd2-7a1f0e73464d",
+                "is_app_unfurl": true,
+                "app_id": "A9G1TH4S2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myVNu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a small \"Red Pill\" update. (For those who don't know \"Red Pill\" refers to a future version of Equalify that exposes a mass amount of data. We would have to ensure we do that responsibly if we ever do it.)\n\nAnyway, this video details a new idea for a \"Claim\" feature that allows website owners to Claim sites that have been scanned. They could then make content private. Curious what y'all think.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.loom.com\/share\/bc2e9ad29e564a3daa86cf7562c54559?sid=98d4111d-ee06-42a6-abd2-7a1f0e73464d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

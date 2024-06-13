@@ -1,0 +1,356 @@
+[
+    {
+        "user": "U06PJUXLN5B",
+        "type": "message",
+        "ts": "1710602604.627889",
+        "client_msg_id": "b5f4e793-dc16-4522-8589-8a71c6a0a612",
+        "text": "yup, I’ll send an email and introduce you.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "gd8fdef73464",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8fdef734644ec220731d574dc75375a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Gen",
+            "real_name": "Gen Herres",
+            "display_name": "Gen Herres",
+            "team": "T04JQU0GB2Q",
+            "name": "gen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710533049.452009",
+        "parent_user_id": "U06PJUXLN5B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5U8Go",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup, I’ll send an email and introduce you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1710606204.923509",
+        "client_msg_id": "34E00B58-503D-4376-B3C7-658CB5051E81",
+        "text": "Meeting with Sal Kahn who created Kahn Academy. He seems pretty great. Should Equalify donate our services to Kahn to make his site accessible? Seeing a few gnarly issues now",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710606204.923509",
+        "reply_count": 23,
+        "reply_users_count": 4,
+        "latest_reply": "1710784370.060879",
+        "reply_users": [
+            "U06PKJHF1FC",
+            "U06P7AP2R38",
+            "U04J7TVCQGP",
+            "U06Q6N3N6TT"
+        ],
+        "replies": [
+            {
+                "user": "U06PKJHF1FC",
+                "ts": "1710607954.261429"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1710618492.670929"
+            },
+            {
+                "user": "U06PKJHF1FC",
+                "ts": "1710620611.521739"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710692637.495249"
+            },
+            {
+                "user": "U06PKJHF1FC",
+                "ts": "1710730550.095149"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710741959.557199"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710741998.592939"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710764805.942869"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710764857.382459"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710764918.997889"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710765006.796629"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710778702.620359"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710783483.623819"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710784029.193239"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710784086.006079"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710784150.823659"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710784177.886119"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710784200.264339"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710784201.695009"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710784209.058379"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710784245.530859"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1710784278.467199"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1710784370.060879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1710784370.060879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFye1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meeting with Sal Kahn who created Kahn Academy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " He seems pretty great"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Should Equalify donate our services to Kahn to make his site accessible? Seeing a few gnarly issues now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "i_love_you_hand_sign",
+                "users": [
+                    "U06P7APCV9U",
+                    "U06P7AP2R38",
+                    "U06Q6N3N6TT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06PKJHF1FC",
+        "type": "message",
+        "ts": "1710607954.261429",
+        "client_msg_id": "c0ed8cf6-ab49-4fdb-ab0b-d2e883015e47",
+        "text": "No, Sal should pay for them. I've reported issues to his team over the years only to be ignored. Let's find a company a little bit more deserving of a donation.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g220fe8025ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/220fe8025ea2d8179e1643df03fc9883.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Stine",
+            "display_name": "Alex Stine",
+            "team": "T04JQU0GB2Q",
+            "name": "alex.stine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710606204.923509",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uZ0vM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, Sal should pay for them. I've reported issues to his team over the years only to be ignored. Let's find a company a little bit more deserving of a donation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1710618492.670929",
+        "client_msg_id": "27f64a23-a23f-4e2b-80d4-5297b39702fe",
+        "text": "Hmm. Maybe you could offer a \"discounted rate\" to non-profits? They can afford to pay, but we could still benefit from the exposure it brings to Equalify and accessibility in general. Crummy that their team didn't respond to your reported issues <@U06PKJHF1FC>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710606204.923509",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phnvJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm. Maybe you could offer a \"discounted rate\" to non-profits? They can afford to pay, but we could still benefit from the exposure it brings to Equalify and accessibility in general. Crummy that their team didn't respond to your reported issues "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKJHF1FC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKJHF1FC",
+        "type": "message",
+        "ts": "1710620611.521739",
+        "client_msg_id": "bcbe92ec-d55c-45bc-86a8-14984acf7c2e",
+        "text": "That's the way it goes most of the time. Give accessibility help for free and they still don't improve.\n\nI agree with the idea of a discount or simply finding a more deserving organization.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g220fe8025ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/220fe8025ea2d8179e1643df03fc9883.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Stine",
+            "display_name": "Alex Stine",
+            "team": "T04JQU0GB2Q",
+            "name": "alex.stine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710606204.923509",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mAb7B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's the way it goes most of the time. Give accessibility help for free and they still don't improve.\n\nI agree with the idea of a discount or simply finding a more deserving organization."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

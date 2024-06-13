@@ -1,0 +1,87 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1711576266.396659"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PB2BPADB",
+        "text": "<@U06PB2BPADB> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711576269.271379"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711576295.277009",
+        "text": "\/github subscribe <https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3kl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github subscribe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app|EqualifyEverything\/monitor.equalify.app>. This channel will receive notifications for `issues`, `pulls`, `commits`, `releases`, `deployments`",
+        "type": "message",
+        "ts": "1711576295.304149",
+        "bot_id": "B04LZN1SH0X",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "fBKJC",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":white_check_mark: Subscribed to <https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app|EqualifyEverything\/monitor.equalify.app>. This channel will receive notifications for\n`issues`, `pulls`, `commits`, `releases`, `deployments`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "5B1z3",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "<https:\/\/github.com\/integrations\/slack#configuration | Learn More>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    }
+]

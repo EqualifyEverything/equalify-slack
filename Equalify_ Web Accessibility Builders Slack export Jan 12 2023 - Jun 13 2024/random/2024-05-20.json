@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1716234007.933689",
+        "text": "\n<https:\/\/www.eetimes.com\/the-blind-hacker-who-inspired-apple\/>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716234007.933689",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716235084.218239",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716235084.218239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716235084.218239",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.eetimes.com\/the-blind-hacker-who-inspired-apple\/",
+                "ts": 1375116300,
+                "image_url": "https:\/\/www.eetimes.com\/wp-content\/uploads\/eet-650x366.jpg",
+                "image_width": 650,
+                "image_height": 366,
+                "image_bytes": 16604,
+                "service_icon": "https:\/\/www.eetimes.com\/wp-content\/uploads\/2019\/12\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.eetimes.com\/the-blind-hacker-who-inspired-apple\/",
+                "fallback": "EE Times: The Blind Hacker Who Inspired Apple - EE Times",
+                "text": "This is the story of a highly skilled young man's journey that spawned the true seed inspiring the creation of Apple.",
+                "title": "The Blind Hacker Who Inspired Apple - EE Times",
+                "title_link": "https:\/\/www.eetimes.com\/the-blind-hacker-who-inspired-apple\/",
+                "service_name": "EE Times"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hsL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eetimes.com\/the-blind-hacker-who-inspired-apple\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716235084.218239",
+        "client_msg_id": "31bd2484-5ae0-416a-a4bd-46509d119355",
+        "text": "<@U072VSKLKR6> - Jo's route to getting employment is a funny one. Maybe you should try hacking your way into a job?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716234007.933689",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MSZwi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U072VSKLKR6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Jo's route to getting employment is a funny one. Maybe you should try hacking your way into a job?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,229 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711059884.103859",
+        "client_msg_id": "371f55fe-df38-4a02-9d4c-b5adad37d290",
+        "text": "Very exciting (kidding) video of me walking through Equalify main scan processor. This is the brain behind Equalify: <https:\/\/youtu.be\/_FhZIbHHar8> .. happy to answer any questions.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711059884.103859",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1711117433.281639",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06Q2P392AU"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711059925.163949"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711060322.101409"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1711117433.281639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711117433.281639",
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/_FhZIbHHar8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/_FhZIbHHar8\/hqdefault.jpg",
+                "thumb_width": 120,
+                "thumb_height": 90,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/_FhZIbHHar8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Equalify Scan Processor Demo\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/_FhZIbHHar8",
+                "fallback": "YouTube Video: Equalify Scan Processor Demo",
+                "title": "Equalify Scan Processor Demo",
+                "title_link": "https:\/\/youtu.be\/_FhZIbHHar8",
+                "author_name": "Equalify",
+                "author_link": "https:\/\/www.youtube.com\/@Equalify-qd9yr",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OjajY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very exciting (kidding) video of me walking through Equalify main scan processor. This is the brain behind Equalify: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/_FhZIbHHar8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .. happy to answer any questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "i_love_you_hand_sign",
+                "users": [
+                    "U06P7APCV9U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711059925.163949",
+        "client_msg_id": "f080d559-b865-464f-bd3b-e468863fc1bb",
+        "text": "Here is the code file I'm looking at in the video: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/helpers\/scan_processor.php>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711059884.103859",
+        "parent_user_id": "U04J7TVCQGP",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/helpers\/scan_processor.php",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/helpers\/scan_processor.php | scan_processor.php>",
+                "text": "```\n<?php\n\/* Scan Processor - helpers\/scan_processor.php\n *\n * Processes STREAM results. This processor will:\n * 1. Add new urls\n * 2. Add new messages\n * 3. Add new tags and relate tags to messages.\n * 4. Add new nodes and relate nodes to messages and URLs.\n * 5. Remove\/add \"Equalified\" status.\n * \n * What does Equalified mean?\n * \n * Equalified is when a node on a page is no longer related to a \n * violation or error.\n * \n * A few known issues:\n * - If a message tag or node relationship is deleted, it won't be\n *   deleted by this script. This should be okay since most scanners \n *   have no reason to delete a tag and we want to keep a record of\n *   what nodes were associated with what messages.\n * - If a message is deleted, this script won't delete a tag. This\n *   is okay because we want to have as many messages as possible, \n *   it could also be an issue if message text just changes in a \n *   scan.\n * \n * For more info on STREAM, visit:\n * https:\/\/github.com\/equalifyEverything\/stream\n * \n *\/\n\n\/\/======================================================================\n\/\/ Testing Data\n\/\/======================================================================\nif(!defined('__ROOT__'))\n    define('__ROOT__', dirname(dirname(__FILE__)));\nrequire_once(__ROOT__.'\/init.php'); \nrequire_once(__ROOT__.'\/helpers\/scan_processor.php'); \n$property_id = 1; \n$jsonFilePath = __ROOT__.'\/_dev\/samples\/stream-sample-1.json';\n$jsonData = json_decode(file_get_contents($jsonFilePath), true);\nscan_processor($jsonData, $property_id);\n\n\/\/======================================================================\n\/\/ The Processsor\n\/\/======================================================================\nfunction scan_processor($jsonData, $property_id){\n\n    global $pdo;\n\n    try {\n        $pdo->beginTransaction();\n\n        \/\/ Log start\n        echo \"Starting process_scans.php\\n\";\n\n        \/\/ We aren't interested in pass data, since we'll \n        \/\/ get it when violations or errors are equalified.\n        \/\/ We also want to get rid of any ophans because\n        \/\/ we know a node is equalified when it isn't in\n        \/\/ the JSON. We also remove tags so we don't fill\n        \/\/ the DB with unnessary tags.\n        trimPassDataAndOrphans($jsonData);\n\n        \/\/ Count unique items in JSON for debugging - all\n        \/\/ JSON counts should add up to added counts.\n        countUniqueItemsInJson($jsonData);\n\n        \/\/ Process content\n        processUrl($pdo, $jsonData, $property_id);\n        processMessages($pdo, $jsonData);\n        processTags($pdo, $jsonData);\n        processNodes($pdo, $jsonData);\n        \n        \/\/ After all processing is done, compare and update nodes\n        compareAndUpdateNodes($pdo, $jsonData, $property_id);\n\n        $pdo->commit();\n\n        \/\/ Log end\n        echo \"Ending process_scans.php\\n\";\n\n    } catch (Exception $e) {\n        $pdo->rollBack();\n        echo \"Error: \" . $e->getMessage();\n    }\n\n}\n\n\/\/======================================================================\n\/\/ Helper Functions\n\/\/======================================================================\n\n\/\/ Remove pass data and ophans\nfunction trimPassDataAndOrphans(&$jsonData) {\n    $passTagIds = [];\n    $passNodeIds = [];\n    $allTagIds = [];\n    $allNodeIds = [];\n\n    \/\/ Ensure that messages, tags, and nodes keys exist in $jsonData\n    $jsonData['messages'] = $jsonData['messages'] ?? [];\n    $jsonData['tags'] = $jsonData['tags'] ?? [];\n    $jsonData['nodes'] = $jsonData['nodes'] ?? [];\n\n    \/\/ Step 1: Identify \"pass\" messages and collect their related tags and nodes\n    foreach ($jsonData['messages'] as $index => $message) {\n        if ($message['type'] === 'pass') {\n            $passTagIds = array_merge($passTagIds, $message['relatedTagIds']);\n            $passNodeIds = array_merge($passNodeIds, $message['relatedNodeIds']);\n            unset($jsonData['messages'][$index]); \/\/ Remove \"pass\" message\n        } else {\n            $allTagIds = array_merge($allTagIds, $message['relatedTagIds']);\n            $allNodeIds = array_merge($allNodeIds, $message['relatedNodeIds']);\n        }\n    }\n\n    \/\/ Re-index messages after removing \"pass\" messages\n    $jsonData['messages'] = array_values($jsonData['messages']);\n\n    \/\/ Step 2: Remove exclusive \"pass\" related tags and nodes\n    $jsonData['tags'] = array_filter($jsonData['tags'], function ($tag) use ($allTagIds) {\n        return in_array($tag['tagId'], $allTagIds);\n    });\n\n    $jsonData['nodes'] = array_filter($jsonData['nodes'], function ($node) use ($allNodeIds) {\n        return in_array($node['nodeId'], $allNodeIds);\n    });\n\n    \/\/ Step 3: Further trim tags and nodes that are not related to any messages\n    $relatedTagIds = [];\n    $relatedNodeIds = [];\n\n    foreach ($jsonData['messages'] as $message) {\n        $relatedTagIds = array_merge($relatedTagIds, $message['relatedTagIds']);\n        $relatedNodeIds = array_merge($relatedNodeIds, $message['relatedNodeIds']);\n    }\n\n    $jsonData['tags'] = array_filter($jsonData['tags'], function ($tag) use ($relatedTagIds) {\n        return in_array($tag['tagId'], $relatedTagIds);\n    });\n\n    $jsonData['nodes'] = array_filter($jsonData['nodes'], function ($node) use ($relatedNodeIds) {\n        return in_array($node['nodeId'], $relatedNodeIds);\n    });\n\n    \/\/ Re-index tags and nodes arrays after filtering\n    $jsonData['tags'] = array_values($jsonData['tags']);\n    $jsonData['nodes'] = array_values($jsonData['nodes']);\n}\n\n\/\/ Count Unique Items in JSON\nfunction countUniqueItemsInJson(array $jsonData) {\n    \/\/ Initialize sets to track unique items\n    $uniqueMessages = [];\n    $uniqueTags = [];\n    $uniqueNodes = [];\n    $totalRelatedTags = 0;\n    $totalRelatedNodes = 0;\n\n    \/\/ Count the URL (assuming there's only one URL in the structure)\n    $url = $jsonData['url'];\n\n    \/\/ Count Unique Messages\n    foreach ($jsonData['messages'] as $message) {\n        $uniqueKey = md5($message['message'] . '|' . $message['type']);\n        $uniqueMessages[$uniqueKey] = true; \/\/ Store in associative array to prevent duplicates\n        \n        \/\/ Sum up all related tags and nodes for each message\n        $totalRelatedTags += count($message['relatedTagIds']);\n        $totalRelatedNodes += count($message['relatedNodeIds']);\n    }\n\n    \/\/ Count Unique Tags\n    foreach ($jsonData['tags'] as $tag) {\n        $uniqueTags[$tag['tagId']] = true; \/\/ Assuming tagId is unique\n    }\n\n    \/\/ Count Unique Nodes\n    foreach ($jsonData['nodes'] as $node) {\n        $uniqueKey = md5($node['html'] . '|' . json_encode($node['targets']));\n        $uniqueNodes[$uniqueKey] = true; \/\/ Use md5 hash of html and targets to identify uniqueness\n    }\n\n    \/\/ Echo counts\n    echo \"- JSON has \\\"$url\\\" URL\\n\";\n    echo \"- JSON has \" . count(array_filter($jsonData['messages'], fn($msg) => $msg['type'] === 'error')) . \" Unique Error Messages\\n\";\n    echo \"- JSON has \" . count(array_filter($jsonData['messages'], fn($msg) => $msg['type'] === 'pass')) . \" Unique Pass Messages\\n\";\n    echo \"- JSON has \" . count(array_filter($jsonData['messages'], fn($msg) => $msg['type'] === 'violation')) . \" Unique Violation Messages\\n\";\n    echo \"- JSON has \" . count($uniqueTags) . \" Unique Tags\\n\";\n    echo \"- JSON has \" . count($uniqueNodes) . \" Unique Nodes\\n\";\n    echo \"- JSON has \" . $totalRelatedTags . \" Total Related Tags in All Messages\\n\";\n    echo \"- JSON has \" . $totalRelatedNodes . \" Total Related Nodes in All Messages\\n\";\n}\n\n\/\/ Process url.\nfunction processUrl(PDO $pdo, array &$jsonData, $property_id) {\n\n    \/\/ URL Is required, so if it isn't present we'll stop the script\n    if(empty($jsonData['url'])){\n        throw new Exception(\"No URL found!\");\n        exit;\n    }\n\n    $url = $jsonData['url'];\n    $stmt = $pdo->prepare(\"SELECT url_id FROM urls WHERE url = :url AND url_property_id = :property_id\");\n    $stmt->execute(['url' => $url, 'property_id' => $property_id]);\n\n    \/\/ Start for logging.\n    $logging_message = '';\n\n    \/\/ Give an existing id to an exisiting ur…",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/helpers\/scan_processor.php | scan_processor.php>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BEhRY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the code file I'm looking at in the video: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/300-refactor-data-architecture-for-stream-schema\/helpers\/scan_processor.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711060322.101409",
+        "client_msg_id": "9ac56c5a-b5dc-4bd0-bc74-04748694cb8e",
+        "text": "Here are also the examples I'm using: <https:\/\/github.com\/EqualifyEverything\/stream-examples>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711059884.103859",
+        "parent_user_id": "U04J7TVCQGP",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/stream-examples",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/stream-examples",
+                "text": "This processes issues",
+                "title": "EqualifyEverything\/stream-examples",
+                "fields": [
+                    {
+                        "value": "a minute ago",
+                        "title": "Last updated",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OjyTS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are also the examples I'm using: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/stream-examples"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

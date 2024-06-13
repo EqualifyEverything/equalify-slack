@@ -1,0 +1,139 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "type": "message",
+        "ts": "1712760793.563659"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06Q6N3N6TT",
+        "text": "<@U06Q6N3N6TT> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712760801.193329"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712760888.724219",
+        "client_msg_id": "07fc6d30-5a1c-40fe-8e9f-158e1ef589fa",
+        "text": "I created this channel to help us work to our goal of delivering 11-million accessibility fixes by 2025.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HHUbV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I created this channel to help us work to our goal of delivering 11-million accessibility fixes by 2025."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712760890.488299",
+        "client_msg_id": "2fff0b6a-550c-497f-98fc-de448f1e1b96",
+        "text": "<@U06Q6N3N6TT> - what do you think about this opt-in form to get started? <https:\/\/new.equalify.app>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DWW\/f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q6N3N6TT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - what do you think about this opt-in form to get started? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/new.equalify.app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1712761013.811709",
+        "client_msg_id": "c48382a6-9ca7-4ffa-8d2f-9c939ac7763f",
+        "text": "Ask them for the URL or URLs that they want to scan.\n\nYou’re going to get much better conversion if you can send them a link in 2 weeks that says, “Remember you wanted to know errors about this site. We found 3043 critical errors you should fix”",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6UV\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ask them for the URL or URLs that they want to scan.\n\nYou’re going to get much better conversion if you can send them a link in 2 weeks that says, “Remember you wanted to know errors about this site. We found 3043 critical errors you should fix”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

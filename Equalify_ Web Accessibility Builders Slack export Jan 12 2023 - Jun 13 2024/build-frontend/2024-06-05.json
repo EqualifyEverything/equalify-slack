@@ -1,0 +1,583 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717625938.409039",
+        "client_msg_id": "0ed4bfe1-d45b-4ed9-b70f-85283662a249",
+        "text": "<@U06TJNUDNLA> are you happy with Equalify branding? Were you playing with anything? I'm kind of thinking we focus on a super simple \"Version 1\" branding approach.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uTmv5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you happy with Equalify branding? Were you playing with anything? I'm kind of thinking we focus on a super simple \"Version 1\" branding approach."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717625988.494819",
+        "client_msg_id": "cbe79828-3bf1-476a-9f7e-6e2b71111cf2",
+        "text": "We could just have \"EQUALIFY\" written in white on black or black on white.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OsKH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could just have \"EQUALIFY\" written in white on black or black on white."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717626002.270579",
+        "client_msg_id": "b090df46-ff6b-4efa-8ea6-574825fe6d6c",
+        "text": "And use the equal sign as our icon.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CODZp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And use the equal sign as our icon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717626010.661459",
+        "client_msg_id": "d1c068c2-a4e3-4f6d-bd12-185f54838708",
+        "text": "I imagine that would adapt over time.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Awv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I imagine that would adapt over time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1717626043.827709",
+        "client_msg_id": "89E48543-E4C9-4FAD-9366-08A246083754",
+        "text": "Wait you are doing a rebranding?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7AXzx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait you are doing a rebranding?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717626069.242069",
+        "client_msg_id": "6c983020-f0a2-4d7d-8306-fabe7d553bb9",
+        "text": "<@U06Q2P392AU> was talking about getting some kind of solid branding going for <#C074N9VQJSE|outreach>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ngX72",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was talking about getting some kind of solid branding going for "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074N9VQJSE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717626079.102099",
+        "client_msg_id": "4807dac1-5e2d-46dc-b47d-5b60e1c38384",
+        "text": "But maybe that's not something we do now",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPpXp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But maybe that's not something we do now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1717626089.581379",
+        "client_msg_id": "8FCC4B74-793E-4933-A913-4D27E9B45607",
+        "text": "Yeah I think it’s to soon",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5oU56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I think "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to soon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717626123.462639",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1717626153.000000"
+        },
+        "client_msg_id": "fb4bd630-5bde-4ec5-a214-9d65c4a91b59",
+        "text": "Okay, thanks. I'll keep Black Panther inspired branding for future generations :upside_down_face:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B\/4rs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, thanks. I'll keep Black Panther inspired branding for future generations "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face",
+                                "unicode": "1f643"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F076Q4FAALD",
+                "created": 1717626125,
+                "timestamp": 1717626125,
+                "name": "Banners.001.png",
+                "title": "Banners.001.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 48855,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F076Q4FAALD\/banners.001.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F076Q4FAALD\/download\/banners.001.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_64.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_80.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_360.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_480.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_160.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_720.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_800.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_960.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076Q4FAALD-1ef12c5695\/banners.001_1024.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADDMooooAKKkESFQTKo9jSFFC\/6wZ9BQAyiiigAooooAKKKKACiiigD\/2Q==",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F076Q4FAALD\/banners.001.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F076Q4FAALD-d29fde3ab7",
+                "alt_txt": "EQUALIFY is written in white, coder-like text on a black background.",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F076LCE52PQ",
+                "created": 1717626128,
+                "timestamp": 1717626128,
+                "name": "Banners.002.png",
+                "title": "Banners.002.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 39763,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F076LCE52PQ\/banners.002.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F076LCE52PQ\/download\/banners.002.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_64.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_80.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_360.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_480.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_160.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_720.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_800.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_960.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F076LCE52PQ-d7b0c94a93\/banners.002_1024.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADDMooooAKKByfSg8H1oAKKKKACiiigAooooAKKKKAP\/2Q==",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F076LCE52PQ\/banners.002.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F076LCE52PQ-a3e524a07a",
+                "alt_txt": "An equal sign is written in white, coder-like text on a black background.",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717626131.149599",
+        "client_msg_id": "0cd44807-a571-4349-a998-c9a7f59a1e98"
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1717626251.703599",
+        "client_msg_id": "C621BCEF-5192-403E-8041-A87F35885F1D",
+        "text": "Coming up Monday or later that week I would like to share the design if I get it to a good point where it’s more organized. That way we have an idea for future etc . And we can work on branding and everything else",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6Yd5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coming up Monday or later that week I would like to share the design if I get it to a good point where "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " more organized. That way we have an idea for future etc . And we can work on branding and everything else"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717626286.252649",
+        "client_msg_id": "028b113d-043a-42db-aee9-be0e69f916a6",
+        "text": "Great <@U06TJNUDNLA>! Definitely into that forward-thinking approach.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lEwvO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Definitely into that forward-thinking approach."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718191150.289139",
+        "text": "Hey <@U06P7AP2R38> - Following up on this.. When do you expect the API to be at a point where <@U06TJNUDNLA> can finalize the front end? I'm hoping to work from dates, so we can schedule necessary outreach.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1718114205.621009",
+                "author_id": "U04J7TVCQGP",
+                "channel_id": "C06RS373V6G",
+                "channel_team": "T04JQU0GB2Q",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04JQU0GB2Q",
+                        "channel": "C06RS373V6G",
+                        "ts": "1718114205.621009",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "0+t1u",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "So we can avoid adding lots of issues before the frontend is done, "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "could we set a date when we review the frontend?",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nThis will help us plan things like our demo video. We will have to work from the API, so "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U06P7AP2R38"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " would you be able to have a date for when we have the endpoints "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U06TJNUDNLA"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " needs? Then "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U06TJNUDNLA"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ", can you give me a date after Chris for when we can review? Then I'll schedule a bit of time for fixes."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/equalifyapp.slack.com\/archives\/C06RS373V6G\/p1718114205621009",
+                "is_share": true,
+                "fallback": "[June 11th, 2024 8:56 AM] blakebertuccelli: So we can avoid adding lots of issues before the frontend is done, *could we set a date when we review the frontend?*\n\nThis will help us plan things like our demo video. We will have to work from the API, so <@U06P7AP2R38> would you be able to have a date for when we have the endpoints <@U06TJNUDNLA> needs? Then <@U06TJNUDNLA>, can you give me a date after Chris for when we can review? Then I'll schedule a bit of time for fixes.",
+                "text": "So we can avoid adding lots of issues before the frontend is done, *could we set a date when we review the frontend?*\n\nThis will help us plan things like our demo video. We will have to work from the API, so <@U06P7AP2R38> would you be able to have a date for when we have the endpoints <@U06TJNUDNLA> needs? Then <@U06TJNUDNLA>, can you give me a date after Chris for when we can review? Then I'll schedule a bit of time for fixes.",
+                "author_name": "Blake Bertuccelli-Booth",
+                "author_link": "https:\/\/equalifyapp.slack.com\/team\/U04J7TVCQGP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_48.jpg",
+                "author_subname": "Blake Bertuccelli-Booth",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bezyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Following up on this.. When do you expect the API to be at a point where "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can finalize the front end? I'm hoping to work from dates, so we can schedule necessary outreach."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1718213114.999009",
+        "client_msg_id": "c90d6259-a342-42f5-b864-37e66db179cf",
+        "text": "Hey <@U04J7TVCQGP>, I expect <@U06TJNUDNLA> to be able to start integrating this weekend. I'll have everything ready to go by Friday (06\/14\/24)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718213114.999009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718220849.941299",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718220849.941299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718220849.941299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cAuCK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I expect "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to be able to start integrating this weekend. I'll have everything ready to go by Friday (06\/14\/24)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06TJNUDNLA",
+        "text": "<@U06TJNUDNLA> has joined the channel",
+        "inviter": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1718213128.188199"
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1718213211.105709",
+        "client_msg_id": "2FDD6501-D5EE-4892-B78A-79C002BC0CA2",
+        "text": "Please ping me whenever they are ready to integrate",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gyyac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please ping me whenever they are ready to integrate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718220849.941299",
+        "client_msg_id": "a4f06cd1-c6d5-4655-92b5-940ee670497e",
+        "text": "Thanks <@U06P7AP2R38>!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718213114.999009",
+        "parent_user_id": "U06P7AP2R38",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hM4nI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

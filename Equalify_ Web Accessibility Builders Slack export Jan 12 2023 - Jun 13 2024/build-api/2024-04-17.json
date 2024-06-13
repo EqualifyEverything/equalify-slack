@@ -1,0 +1,228 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1713337579.314229",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-api] 1 new commit pushed to _main_ by heythisischris",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-api\/commit\/8f1366050d255878fb27d62c15a352254980612d|8f136605>` - Added help endpoint w\/ code from equalify-llm-api repo, using OpenAI SDK",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/compare\/33349cef161b...8f1366050d25|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-api\/tree\/main|main>` by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1713381214.538739",
+        "client_msg_id": "74397931-c120-41dc-a4c2-e6a564b6ffa4",
+        "text": "Hey <@U04J7TVCQGP>, would you have a chance to go over the API quickly today? It could help to talk\/meet over a Google Meet if you had a chance, say, 4pm or 5pm CT. Let me know!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsK9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", would you have a chance to go over the API quickly today? It could help to talk\/meet over a Google Meet if you had a chance, say, 4pm or 5pm CT. Let me know!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713393867.017669",
+        "client_msg_id": "8875c574-4433-4332-b871-b7f2e04ce2d9",
+        "text": "Sorry <@U06P7AP2R38> - just got out of baby stuff. Still free? Just give me a call <tel:5043773650|504-377-3650>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5nSQl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - just got out of baby stuff. Still free? Just give me a call "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:5043773650",
+                                "text": "504-377-3650"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713394187.546769",
+        "client_msg_id": "3bfd3493-5525-4056-ba62-1ea864351a79",
+        "text": "Will probably be out the rest of the week, so text\/call is best for anything needed",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cEtl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will probably be out the rest of the week, so text\/call is best for anything needed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713395772.564279",
+        "client_msg_id": "9f4c34ce-d4ca-4778-9487-99eaa9eea0ba",
+        "text": "Here ya go! Join Zoom Meeting\n<https:\/\/us06web.zoom.us\/j\/6781562167?pwd=U1CabveMteD0nE64QTiDSYV244C2v0.1>\n\nMeeting ID:  <tel:6781562167|678 156 2167>\nPasscode: j2GJyn",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T4SqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here ya go! Join Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/6781562167?pwd=U1CabveMteD0nE64QTiDSYV244C2v0.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:6781562167",
+                                "text": "678 156 2167"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPasscode: j2GJyn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

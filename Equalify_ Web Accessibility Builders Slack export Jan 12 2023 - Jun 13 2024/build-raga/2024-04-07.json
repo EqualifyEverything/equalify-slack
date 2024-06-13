@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712520244.794619",
+        "client_msg_id": "3A28A927-B791-45AD-A521-872517F9A7D3",
+        "text": "One tiny note: highly suggest adding alt text or a description to the image so our friends who use screen readers don’t have to download this into an AI image reader",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712357091.468169",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ju9ZW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One tiny note: highly suggest adding alt text or a description to the image so our friends who use screen readers don’t have to download this into an AI image reader"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06S042E347",
+        "type": "message",
+        "ts": "1712543940.045109",
+        "client_msg_id": "69641527-b0bb-473e-9ca4-f1111b956438",
+        "text": "Yes we met and had a demo of the things <@U06SBP1B7QV> has done so far and i think by now he must have shared his repo with <@U06PKP46SMR> too",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "gab52f5d6bfe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ab52f5d6bfeffb32c916f23303bfc5a3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "satyakam",
+            "real_name": "satyakam goswami",
+            "display_name": "satyakam goswami",
+            "team": "T04JQU0GB2Q",
+            "name": "satyaakam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712355046.471629",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gprrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes we met and had a demo of the things "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06SBP1B7QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has done so far and i think by now he must have shared his repo with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

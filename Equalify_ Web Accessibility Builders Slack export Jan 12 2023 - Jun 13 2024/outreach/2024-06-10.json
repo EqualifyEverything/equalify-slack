@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718042501.595649",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1718053492.000000"
+        },
+        "client_msg_id": "8d8ca1ad-7b8a-4e48-bd2d-0664b1ab47d6",
+        "text": "We've started a LinkedIn posting group in A11y. Here's the link: <https:\/\/web-a11y.slack.com\/archives\/C0241L0TMGD\/p1717526814051989>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718042501.595649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718042528.232909",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718042528.232909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718042528.232909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yevaC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We've started a LinkedIn posting group in A11y. Here's the link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/web-a11y.slack.com\/archives\/C0241L0TMGD\/p1717526814051989"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718042528.232909",
+        "client_msg_id": "2fb83802-edfc-4bbe-b5d4-99d725afbf75",
+        "text": "<@U06Q2P392AU>, I've volunteered you for this since I think it can help us a lot. Checkout the thread",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718042501.595649",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/Wt2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I've volunteered you for this since I think it can help us a lot. Checkout the thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

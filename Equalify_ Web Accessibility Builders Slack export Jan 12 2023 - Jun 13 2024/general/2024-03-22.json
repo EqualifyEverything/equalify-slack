@@ -1,0 +1,340 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1711117433.281639",
+        "client_msg_id": "4e0812da-4be1-4818-936f-434646f2e0d9",
+        "text": "Very informative--thanks for sharing how this process works <@U04J7TVCQGP>!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711059884.103859",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UVGVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very informative--thanks for sharing how this process works "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711119174.247669",
+        "client_msg_id": "2d62ecda-cc84-4f47-8ca9-0bd18895d7e9",
+        "text": "<!channel> - Here's the good news this week:\n• Our new processor launched! (link: <https:\/\/www.youtube.com\/watch?v=_FhZIbHHar8&amp;feature=youtu.be|Demo video>)\n• STREAM is a lot more stable (link: <https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main|the stream repo>)\n• New channels are focused on projects (<#C06PUUQD4AX|build-ragha>, <#C06Q9HZRHLK|build-scan>, <#C06QYRA0VSL|build-stream>)\n• We welcome three new folks - howdy <@U06Q3B1JABZ>, <@U06Q82JGBRT>, <@U06PPQQF54P>!\nOne personal note: I'll be on Baby Daddy Leave starting April 1. Will try to follow updates when I can, but  <@U06PSPPSTLZ>, <@U06PKP46SMR> <@U06P7AP2R38> and anyone else selected for the <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278|the $11k issue> will have to keep the good news flowing while I'm away!\n\n:v:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BY108",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Here's the good news this week:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Our new processor launched! (link: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=_FhZIbHHar8&feature=youtu.be",
+                                        "text": "Demo video"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "STREAM is a lot more stable (link: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/STREAM\/tree\/main",
+                                        "text": "the stream repo"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "New channels are focused on projects ("
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06PUUQD4AX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06Q9HZRHLK"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06QYRA0VSL"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We welcome three new folks - howdy "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06Q3B1JABZ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06Q82JGBRT"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PPQQF54P"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOne personal note: I'll be on Baby Daddy Leave starting April 1. Will try to follow updates when I can, but  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PSPPSTLZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and anyone else selected for the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/278",
+                                "text": "the $11k issue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will have to keep the good news flowing while I'm away!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v",
+                                "unicode": "270c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U06PPQQF54P",
+                    "U06PMSNHF0A",
+                    "U06Q3B1JABZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711125087.670929",
+        "client_msg_id": "258fd4aa-67d7-4443-b009-5ca21ff8af4b",
+        "text": "Here's a peek into the Equalify Discovery and Scanning feature. Shoutout to <@U06PB2BPADB> for getting the scan to work so well! <https:\/\/youtu.be\/prpkh-_OcU8>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/prpkh-_OcU8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/prpkh-_OcU8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/prpkh-_OcU8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Equalify Discovery and Scan Demo of Version 1 - Release Candidate 5\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/prpkh-_OcU8",
+                "fallback": "YouTube Video: Equalify Discovery and Scan Demo of Version 1 - Release Candidate 5",
+                "title": "Equalify Discovery and Scan Demo of Version 1 - Release Candidate 5",
+                "title_link": "https:\/\/youtu.be\/prpkh-_OcU8",
+                "author_name": "Equalify",
+                "author_link": "https:\/\/www.youtube.com\/@Equalify-qd9yr",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKV3S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a peek into the Equalify Discovery and Scanning feature. Shoutout to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for getting the scan to work so well! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/prpkh-_OcU8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

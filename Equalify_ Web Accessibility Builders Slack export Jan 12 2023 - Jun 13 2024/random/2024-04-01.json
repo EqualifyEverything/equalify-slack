@@ -1,0 +1,80 @@
+[
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1711978445.016119",
+        "client_msg_id": "a448b0ec-9577-4b72-a539-38cc24435452",
+        "text": "I’m skeptical of most accessibility fonts. I like giving folks choice. But for a take with research behind it <https:\/\/medium.com\/the-readability-group\/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711560908.922229",
+        "parent_user_id": "U06P7APCV9U",
+        "attachments": [
+            {
+                "from_url": "https:\/\/medium.com\/the-readability-group\/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0",
+                "ts": 1627553932,
+                "image_url": "https:\/\/miro.medium.com\/v2\/resize:fit:1200\/0*9xUdP0r2WneEQn-I.png",
+                "image_width": 1200,
+                "image_height": 740,
+                "image_bytes": 175285,
+                "service_icon": "https:\/\/miro.medium.com\/v2\/resize:fill:152:152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/the-readability-group\/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0",
+                "fallback": "Medium: A guide to understanding what makes a typeface accessible",
+                "text": "And how to make more informed design decisions.",
+                "title": "A guide to understanding what makes a typeface accessible",
+                "title_link": "https:\/\/medium.com\/the-readability-group\/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "10 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oiYeD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m skeptical of most accessibility fonts. I like giving folks choice. But for a take with research behind it "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/the-readability-group\/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

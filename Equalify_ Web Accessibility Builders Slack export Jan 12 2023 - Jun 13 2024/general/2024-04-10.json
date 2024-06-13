@@ -1,0 +1,457 @@
+[
+    {
+        "user": "U06PJUXLN5B",
+        "type": "message",
+        "ts": "1712754583.181189",
+        "client_msg_id": "e77576a1-7af4-442f-86bb-86ef177fb69f",
+        "text": "I think it’s going to follow the current trend, many sites will be sued. I would expect to see an increase in lawsuits for businesses now that this is out. From what I could tell without reading the entire 300+ page document, the enforcement will be to file a complaint with the Dept of Justice. Then the Dept of Justice issues an order to fix it.\n\nRight now a lot of state govt websites that I have to deal with aren’t even responsive (menus can’t even be opened with keyboard nav or screen reader). They list an accessibility statement that goes to some random state guideline that ends up in an endless loop trying to even find the thing. So having a much clearer set of rules is a win for me. I’ll let you know in 2 years if the state sites are any better.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "gd8fdef73464",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8fdef734644ec220731d574dc75375a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Gen",
+            "real_name": "Gen Herres",
+            "display_name": "Gen Herres",
+            "team": "T04JQU0GB2Q",
+            "name": "gen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712694837.595739",
+        "parent_user_id": "U06PJUXLN5B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8XLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it’s going to follow the current trend, many sites will be sued. I would expect to see an increase in lawsuits for businesses now that this is out. From what I could tell without reading the entire 300+ page document, the enforcement will be to file a complaint with the Dept of Justice. Then the Dept of Justice issues an order to fix it.\n\nRight now a lot of state govt websites that I have to deal with aren’t even responsive (menus can’t even be opened with keyboard nav or screen reader). They list an accessibility statement that goes to some random state guideline that ends up in an endless loop trying to even find the thing. So having a much clearer set of rules is a win for me. I’ll let you know in 2 years if the state sites are any better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712756624.153129",
+        "client_msg_id": "ca8489d9-9f81-4b46-9b08-ca7d7287fc39",
+        "text": "that is a pretty nasty place to put an `h3` LOL",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712694837.595739",
+        "parent_user_id": "U06PJUXLN5B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fiIVk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that is a pretty nasty place to put an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "h3",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " LOL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04J7TVCQGP",
+        "thread_ts": "1712694837.595739",
+        "root": {
+            "user": "U06PJUXLN5B",
+            "type": "message",
+            "ts": "1712694837.595739",
+            "client_msg_id": "e17a90d1-107d-4567-b41a-8b3eb3338f0e",
+            "text": "Woohoo! WCAG 2.1 level AA will now apply to state &amp; local govt!  <https:\/\/www.ada.gov\/notices\/2024\/03\/08\/web-rule\/>",
+            "team": "T04JQU0GB2Q",
+            "thread_ts": "1712694837.595739",
+            "reply_count": 9,
+            "reply_users_count": 3,
+            "latest_reply": "1712854337.959259",
+            "reply_users": [
+                "U04J7TVCQGP",
+                "U06PKJHF1FC",
+                "U06PJUXLN5B"
+            ],
+            "replies": [
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712712181.502339"
+                },
+                {
+                    "user": "U06PKJHF1FC",
+                    "ts": "1712713275.784979"
+                },
+                {
+                    "user": "U06PKJHF1FC",
+                    "ts": "1712713733.906019"
+                },
+                {
+                    "user": "U06PJUXLN5B",
+                    "ts": "1712754583.181189"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712756624.153129"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712757143.619709"
+                },
+                {
+                    "user": "U06PKJHF1FC",
+                    "ts": "1712803718.582399"
+                },
+                {
+                    "user": "U04J7TVCQGP",
+                    "ts": "1712806768.979389"
+                },
+                {
+                    "user": "U06PKJHF1FC",
+                    "ts": "1712854337.959259"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1712854337.959259",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "e3DrW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Woohoo! WCAG 2.1 level AA will now apply to state & local govt!  "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.ada.gov\/notices\/2024\/03\/08\/web-rule\/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1712757143.619709",
+        "client_msg_id": "cb263992-70c3-4489-a876-b617250440b3",
+        "text": "<@U06Q6N3N6TT> suggested that we do a crawl of gov sites. I could see us using Equalify to check progress over the years in the way we're working with WordPress. That said, we would also need to have clear contact with the government orgs we're surveying. We should be working from inside systems not outside! I want to make sure our work actually leads to fixes in a way that I don't see from other survey projects like the WebAIM Million.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILH+f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q6N3N6TT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggested that we do a crawl of gov sites. I could see us using Equalify to check progress over the years in the way we're working with WordPress. That said, we would also need to have clear contact with the government orgs we're surveying. We should be working from inside systems not outside! I want to make sure our work actually leads to fixes in a way that I don't see from other survey projects like the WebAIM Million."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06Q6N3N6TT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1712758144.125679",
+        "client_msg_id": "f63e7488-3aae-430a-a091-5009efd98d44",
+        "text": "Want to just open it up? Anyone with a .gov account can request a scan of a .gov site for free? We can specify that it should be for a site you are working on or have some connection to.  Might want to add that we will not publicize the names of the folks who submit, but will be reaching out to them to see that the feedback is being received. Could also clarify that anyone with a .gov email could get updates for any number of .gov sites.  What if the governor wants to look at a few for instance?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712758144.125679",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712760719.181099",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712760719.181099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1712760719.181099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSP9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Want to just open it up? Anyone with a .gov account can request a scan of a .gov site for free? We can specify that it should be for a site you are working on or have some connection to.  Might want to add that we will not publicize the names of the folks who submit, but will be reaching out to them to see that the feedback is being received. Could also clarify that anyone with a .gov email could get updates for any number of .gov sites.  What if the governor wants to look at a few for instance?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712760719.181099",
+        "client_msg_id": "416de851-e46e-4ab8-bd1c-1ec8e24c773a",
+        "text": "Yes. That's a great idea.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712758144.125679",
+        "parent_user_id": "U06Q6N3N6TT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0PR23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. That's a great idea."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712760960.834739",
+        "client_msg_id": "ce091b3f-c0ba-4001-b059-78e5c7071425",
+        "text": "Created <#C06TPFKV21Y|build-11m> to work toward our goal of delivering 11-million accessibility fixes by 2025. This will include all the work around our Version 1 launch.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hq4qD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Created "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06TPFKV21Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to work toward our goal of delivering 11-million accessibility fixes by 2025. This will include all the work around our Version 1 launch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKJHF1FC",
+        "type": "message",
+        "ts": "1712803718.582399",
+        "client_msg_id": "f566a9bb-12b3-41f9-be4a-ed0d1e61675d",
+        "text": "Yeah, it doesn't inspire much confidence when they have an accessibility issue on the accessibility rule newly published.\n\nI don't know, it just feels like they're always giving us a shiny object to chase and not fixing the real issues. I would have felt much better if the government created an enforcement body because agencies like the EEOC and DOJ rarely do enough for people with disabilities.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g220fe8025ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/220fe8025ea2d8179e1643df03fc9883.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Stine",
+            "display_name": "Alex Stine",
+            "team": "T04JQU0GB2Q",
+            "name": "alex.stine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712694837.595739",
+        "parent_user_id": "U06PJUXLN5B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+OWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, it doesn't inspire much confidence when they have an accessibility issue on the accessibility rule newly published.\n\nI don't know, it just feels like they're always giving us a shiny object to chase and not fixing the real issues. I would have felt much better if the government created an enforcement body because agencies like the EEOC and DOJ rarely do enough for people with disabilities."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "no_mouth",
+                "users": [
+                    "U06Q6N3N6TT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712806768.979389",
+        "client_msg_id": "7b6c22e3-6d64-4c14-bf9a-926489401786",
+        "text": "So much of it is PR, <@U06PKJHF1FC>. But I'm betting on the fact that the chatter will turn to action one day soon. Once the chatter becomes loud enough and echoed by the political puppets.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712694837.595739",
+        "parent_user_id": "U06PJUXLN5B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "id\/Wl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So much of it is PR, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKJHF1FC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". But I'm betting on the fact that the chatter will turn to action one day soon. Once the chatter becomes loud enough and echoed by the political puppets."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06PJUXLN5B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

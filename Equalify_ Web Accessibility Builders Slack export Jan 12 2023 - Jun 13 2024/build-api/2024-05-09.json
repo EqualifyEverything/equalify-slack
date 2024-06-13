@@ -1,0 +1,380 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715272746.784739",
+        "client_msg_id": "56b9e157-8c99-4af7-8b78-64355df59965",
+        "text": "Looking at the videos, <@U06P7AP2R38>, the glaringly obvious next step is to get results working in addition to the integration with scans and updates.\n\nDo you have any ideas on next steps to tackle those items?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pd3xf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking at the videos, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", the glaringly obvious next step is to get results working in addition to the integration with scans and updates.\n\nDo you have any ideas on next steps to tackle those items?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1715274820.217019",
+        "client_msg_id": "9089be21-ff8c-4b41-8c2c-3030b2b3192a",
+        "text": "Yes- I will start by attempting to migrate the exact MySQL schema that was created for results, scans, &amp; updates, and iteratively test\/scaffold the new API until we have something that works",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715274820.217019",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1715275730.742129",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06P7AP2R38"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715275498.972859"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715275564.825009"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1715275651.021859"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1715275730.742129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715275730.742129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xg6kP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes- I will start by attempting to migrate the exact MySQL schema that was created for results, scans, & updates, and iteratively test\/scaffold the new API until we have something that works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715275498.972859",
+        "client_msg_id": "dae349c6-222f-4c4a-b638-762da73df822",
+        "text": "Cool. Note: the architecture of the db and output schema.\n\nThe end goal is to efficiently deliver content to populate our frontend reports.\n\nDelivering `\/results` output in the <https:\/\/github.com\/EqualifyEverything\/equalify-schema\/blob\/main\/equalify-schema-app\/equalify-schema.json|equalify schema> plus `\/updates`output should give <@U06TJNUDNLA> all the content he would need to feed create the charts on the frontend.\n\nThe only issue I see is that that could be a massive call (ie- WordPress has over 1.6M nodes and requesting that would be just huge).",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715274820.217019",
+        "parent_user_id": "U06P7AP2R38",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-schema\/blob\/main\/equalify-schema-app\/equalify-schema.json",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/blob\/main\/equalify-schema-app\/equalify-schema.json | equalify-schema.json>",
+                "text": "```\n{\n  \"$schema\": \"<http:\/\/json-schema.org\/draft-07\/schema#>\",\n  \"title\": \"STREAM Schema\",\n  \"type\": \"object\",\n  \"properties\": {\n    \"urls\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n          \"urlId\": { \"type\": \"integer\" },\n          \"url\": { \"type\": \"string\" }\n        },\n        \"required\": [\"urlId\", \"url\"]\n      }\n    },\n    \"messages\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n          \"message\": { \"type\": \"string\" },\n          \"relatedTagIds\": {\n            \"type\": \"array\",\n            \"items\": { \"type\": \"integer\" }\n          },\n          \"relatedNodeIds\": {\n            \"type\": \"array\",\n            \"items\": { \"type\": \"integer\" }\n          },\n          \"type\": { \"type\": \"string\", \"enum\": [\"pass\", \"error\", \"violation\"] }\n        },\n        \"required\": [\"message\", \"relatedTagIds\", \"relatedNodeIds\", \"type\"] \n      }\n    },\n    \"tags\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n          \"tagId\": { \"type\": \"integer\" },\n          \"tag\": { \"type\": \"string\" }\n        },\n        \"required\": [\"tagId\", \"tag\"]\n      }\n    },\n    \"nodes\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n          \"nodeId\": { \"type\": \"integer\" },\n          \"html\": { \"type\": \"string\" },\n          \"targets\": {\n            \"type\": \"array\",\n            \"items\": { \"type\": \"string\" }\n          },\n          \"relatedUrlId\": { \"type\": \"integer\" },\n          \"equalified\": { \"type\": \"boolean\" } \n        },\n        \"required\": [\"nodeId\", \"html\", \"relatedUrlId\", \"equalified\"] \n      }\n    }\n  },\n  \"required\": [\"messages\", \"tags\", \"nodes\", \"urls\"] \n}\n```",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/blob\/main\/equalify-schema-app\/equalify-schema.json | equalify-schema.json>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfuQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool. Note: the architecture of the db and output schema.\n\nThe end goal is to efficiently deliver content to populate our frontend reports.\n\nDelivering "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/results",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " output in the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-schema\/blob\/main\/equalify-schema-app\/equalify-schema.json",
+                                "text": "equalify schema"
+                            },
+                            {
+                                "type": "text",
+                                "text": " plus "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/updates",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "output should give "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " all the content he would need to feed create the charts on the frontend.\n\nThe only issue I see is that that could be a massive call (ie- WordPress has over 1.6M nodes and requesting that would be just huge)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715275564.825009",
+        "client_msg_id": "2c79763e-01c5-4ebf-8eb1-e796683e92a3",
+        "text": "I also suggest using the WordPress data to test queries because it's the biggest data set we have and it's something that most people will be using. Here is the latest pulldown: <https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715274820.217019",
+        "parent_user_id": "U06P7AP2R38",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz | equalify_db.sql.gz>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz | equalify_db.sql.gz>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp|EqualifyEverything\/eudaimonia-wp>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oE8NA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also suggest using the WordPress data to test queries because it's the biggest data set we have and it's something that most people will be using. Here is the latest pulldown: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/eudaimonia-wp\/blob\/main\/equalify_db.sql.gz"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715275651.021859",
+        "client_msg_id": "27021242-1ed0-478c-a54e-fcddd95351ce",
+        "text": "Maybe on Monday we can decide on your approach to finishing the API and review anything you created? That would allow us to create requirements to work from.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715274820.217019",
+        "parent_user_id": "U06P7AP2R38",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0qd2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe on Monday we can decide on your approach to finishing the API and review anything you created? That would allow us to create requirements to work from."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1715275730.742129",
+        "client_msg_id": "29AC140B-5445-4125-B7BA-8A0190E68966",
+        "text": "Sounds good to me- I'll try to run with what I have so far so we can be efficient on Monday and I'll have a list of questions ready (if any) to complete the API",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715274820.217019",
+        "parent_user_id": "U06P7AP2R38",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RGRp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good to me- I'll try to run with what I have so far so we can be efficient on Monday and I'll have a list of questions ready (if any) to complete the API"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

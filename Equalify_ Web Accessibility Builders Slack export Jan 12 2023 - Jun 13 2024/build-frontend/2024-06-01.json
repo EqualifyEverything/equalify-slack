@@ -1,0 +1,312 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717304183.879559",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1717304196.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1717304183.879559",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717304195.484829",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1717304195.484829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1717304181,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                "text": "Hey :wave:,\n\nI've been working on cleaning up and refactoring our authentication and REST API integration, and I'm excited to share the updates! Here’s a detailed rundown of the changes:\n\n*Features and Enhancements:*\n\n• *useAuth Hook:* Enhanced to include updateUserAttributes functionality for better user attribute management.\n• *Form Components:* Refactored ReportForm and PropertyForm to leverage react-hook-form for better form handling and validation.\n• *Toaster Component:* Introduced a new Toaster component to display toast notifications across the app.\n• *API Queries and Services:* Added comprehensive queries and services for properties and reports, including CRUD operations.\n• *Loading Components:* Added loading components for properties and property details to improve user experience during data fetching.\n\n*Main Changes:*\n\n• *API Request Handling:* Cleaned up and refactored various functions managing the API requests.\n• *Data Migration:* Transitioned from mocked data to partial live data for the properties.\n• *Authentication Flow:* Fixed several bugs in the authentication flow for a smoother user experience.\n• *General Improvements:* Various enhancements across the board to improve code quality and maintainability.\n\n*Next Steps:*\n\n• *SEO Enhancement:* Focus on enhancing the SEO of the platform.\n• *Issue Resolution:* Address and resolve <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10#issue-2307057264|issue #10> regarding the Results of Accessibility Testing May 19, 2024 .",
+                "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/17|#17 Refactor\/rest api auth cleanup>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:17,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/17&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Refactor\/rest api auth cleanup&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717304195.418949",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 20 new commits pushed to _main_ by wilsuriel03",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/134f501955d1a8816382aeccf9fb89cd97b3f1ba|134f5019>` - feat: Add services for reports and properties\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/dfcb1c5f4ddb7856dc428eea59afd33590e1d2e4|dfcb1c5f>` - chore: Add services for properties and CRUD operations\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/ae2377200c0d96cc05631e0f6bdfe0f9aba1b88d|ae237720>` - chore: Add services for reports and CRUD operations for reports\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/ce81b756aed305a3459b8392e7d52733957cd5cd|ce81b756>` - chore: Add safety utility function for asserting non-null values\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/c66ca55c48a27cd34541f10c9565f2a2aadab52a|c66ca55c>` - chore: Add React Query Devtools for debugging and monitoring queries\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/3f4df9d63d5d7280b64c1cff02b9b4e408b4cd94|3f4df9d6>` - chore: Update npm dependencies to latest versions\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/25627e117b37d906ad6076a5ab24ba466d159b40|25627e11>` - feat: Add action function for adding a new property\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/5d44a3049eeff31679226f646ebf7faa2ecd46f1|5d44a304>` - feat: Add action function for updating and deleting a property\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/87105547e0b2fc2125751fb619882209ea888463|87105547>` - chore: Add loading components for properties and property details\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/15cc86c4872466b7aa040adcdd6bbb9717b28518|15cc86c4>` - refactor: Renamed LoadingProperty component to loading.tsx\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/601fd71aa7524cddc9b4ae4c01bf221a18941e81|601fd71a>` - feat: Update properties page with lazy loading and initial data\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/65f74cc3b9dcc1c72be859515ef5824af546cec7|65f74cc3>` - feat: Add form validation for report name in create report page\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/0c4961e977466a177ea06d667f12d695510401ca|0c4961e9>` - feat: Update edit report page with report data and form validation\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/9950c53d7f5e3d5524c3be75108cd6203c022126|9950c53d>` - chore: Update reports page with lazy loading and place holder of initial data\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/c59840f975c9a72f01237eac0f6b787c385c20e9|c59840f9>` - chore: Update auth layout to use responsive height for mobile view\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/fb6f5e4c18c4c0b8bd6a8c3b16c55328aec73cb0|fb6f5e4c>` - feat: Update useAuth hook to include updateUserAttributes functionality\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/65cd04efae25589861a9f77cdb1a4827be6f0b7f|65cd04ef>` - chore: Update OTPValidationForm and SignupForm components\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/937fe5df3aed9f961143e89d6f87da749feac568|937fe5df>` - chore: Clear errors and cancel confirmation on unmount in login form\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/fcfd86ad61a68d6569317cf38c130a3b606846ca|fcfd86ad>` - chore: Update AccountForm component with useWatch and useEffect\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/5d6b54273c8d9a4bcfbf275e00161e8b035febb8|5d6b5427>` - Merge pull request #17 from wilsuriel03\/refactor\/rest-api-auth-cleanup",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/e981c3b7e484...5d6b54273c8d|20 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1717304183.879559",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1717304183.879559",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1717304196.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1717304183.879559",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1717304195.484829",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1717304195.484829"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1717304181,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                    "text": "Hey :wave:,\n\nI've been working on cleaning up and refactoring our authentication and REST API integration, and I'm excited to share the updates! Here’s a detailed rundown of the changes:\n\n*Features and Enhancements:*\n\n• *useAuth Hook:* Enhanced to include updateUserAttributes functionality for better user attribute management.\n• *Form Components:* Refactored ReportForm and PropertyForm to leverage react-hook-form for better form handling and validation.\n• *Toaster Component:* Introduced a new Toaster component to display toast notifications across the app.\n• *API Queries and Services:* Added comprehensive queries and services for properties and reports, including CRUD operations.\n• *Loading Components:* Added loading components for properties and property details to improve user experience during data fetching.\n\n*Main Changes:*\n\n• *API Request Handling:* Cleaned up and refactored various functions managing the API requests.\n• *Data Migration:* Transitioned from mocked data to partial live data for the properties.\n• *Authentication Flow:* Fixed several bugs in the authentication flow for a smoother user experience.\n• *General Improvements:* Various enhancements across the board to improve code quality and maintainability.\n\n*Next Steps:*\n\n• *SEO Enhancement:* Focus on enhancing the SEO of the platform.\n• *Issue Resolution:* Address and resolve <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10#issue-2307057264|issue #10> regarding the Results of Accessibility Testing May 19, 2024 .",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/17|#17 Refactor\/rest api auth cleanup>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:17,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/17&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Refactor\/rest api auth cleanup&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1717304195.484829",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1717304181,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request merged by wilsuriel03",
+                "pretext": "Pull request merged by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/17|#17 Refactor\/rest api auth cleanup>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1716253625.136549",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1716253625.136549",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1717304201.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1716253625.136549",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1717304195.960119",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1717304195.960119"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1716253623,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by kevinandrews1",
+                    "text": "This stems from the recent chat on the a11y channel of our Slack (cc <https:\/\/github.com\/wilsuriel03|@wilsuriel03> &amp; <https:\/\/github.com\/heythisischris|@heythisischris>.\n\n*Stats*\n\n• Windows 11,\n• Google Chrome Version 125.0.6422.61\n• JAWS 2024.2312.53.400,\n• NVDA 2024.1\n• Equalify.dev 0.3.0 Developer Preview\n\nIf any of the issues are particular to a browser, I make that clear, though that wasn't the case here.\n\n*Results*\n*Signup\/signin*\n\n• Signin page uses placeholder for the email. you shouldn't use placeholder text here --that really goes for any input field. These tend to introduce color contrast issues. Also the placeholder will disappear as soon as text is entered, so you should consider wrapping it in a p tag and associate it with the input using aria-describedby.\n• On the signup page, <https:\/\/equalify.dev\/signup|https:\/\/equalify.dev\/signup>, the first field is read as \"email first name\". Next field appears to read helper text as the label for the first name only rather than explicitly saying \"first name\".\n• When attempting to sign up, after pressing Continue, my focus jumped back to the confirm password field but there was no context around the issue. It needs to communicate to the user that the passwords don't match, in this case. In other UIs it might be that the password wasn't strong enough, didn't contain the required character types, etc. Communicating the issue eliminates any of the ambiguity. You could consider comparing the two password fields before the user presses Continue if then once they've entered into the confirm field, wait a beat and confirm whether or not the passwords match so they don't have to go backward through the DOM and guess what the issue was, creating additional work for them and disrupting the workflow.\n• After pressing Continue, I did receive the verification code, but there seemed to be stale content from earlier when I tried signing in with my email. If it confused me, it will most certainly confuse other users.\n\n*Main screen after logging in\/Reports*\n\n• Navigation in the main navigation landmark label which is redundant. It reads as \"main navigation navigation\".\n• View Report link is redundant, especially if the user navigates via the tab key or pulls up a links list, which is a common feature of most modern screen readers. It lacks context pertaining to which report is being viewed. E.g. change the link text to \"View Accessibility 1 Report\". Make sure the accessible name and visible label match if at all possible. This is important for two reasons:\n    • Speech-input users can directly activate controls on a page with fewer surprising changes of focus, and\n    • text-to-speech users will have a better experience because the labels that they hear match the visible text labels that they see on the screen.\n• Viewing a report, in this case Accessibility Audit 1, there are a variety of graphics before the message table with generic-sounding alt text whose purpose is unclear: \"2021\/01\", \"2021\/02\", \"2021\/03\", \"2021\/04\", \"2021\/05\", \"0\", \"8\", \"16\", \"24\", and \"32\"\".\n• Report\/edit\/danger zone: When closing\/cancelling deletion, screen reader focus is unclear and focus should return to the button that initiated the dialog in this case being the delete button.\n• Searching any of the selected filter types does not announce the search result even if no items are found.\n• When creating a report, the report name text field is unavailable.\n\nThis random one I didn't know how to categorize: When going to Properties I receive the messsage \"Error loading properties\".",
+                    "pretext": "Issue created by <https:\/\/github.com\/kevinandrews1|kevinandrews1>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10|#10 Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "bug",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:10,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:10,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:10,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1717304195.960119",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1716253623,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue closed as completed by wilsuriel03",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10|#10 Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    }
+]

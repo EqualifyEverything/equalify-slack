@@ -1,0 +1,785 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06Q2P392AU",
+        "text": "<@U06Q2P392AU> has joined the channel",
+        "type": "message",
+        "ts": "1716227610.880099"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06TJNUDNLA",
+        "text": "<@U06TJNUDNLA> has joined the channel",
+        "inviter": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716227688.297069"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04J7TVCQGP",
+        "text": "<@U04J7TVCQGP> has joined the channel",
+        "inviter": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716227688.476159"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06PKP46SMR",
+        "text": "<@U06PKP46SMR> has joined the channel",
+        "inviter": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716227688.584019"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06P7AP2R38",
+        "text": "<@U06P7AP2R38> has joined the channel",
+        "inviter": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716227779.895259"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716227915.424559",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1716227919.000000"
+        },
+        "client_msg_id": "1f3c7397-4fc5-4755-9fa7-a9a9658fdc42",
+        "text": "This is great.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gYfjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is great."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716227926.334969",
+        "client_msg_id": "cd938b70-c944-47b6-b23d-3502491a0862",
+        "text": "Excited to see where it goes.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2EupT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excited to see where it goes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716235011.059049",
+        "client_msg_id": "fe4e61e4-1182-4ed2-a3bc-4f624608ff67",
+        "text": "<@U04J7TVCQGP> Hey, curious what happened to <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/287#issuecomment-2002619111>. Or is Chris and Adonis's work building off that and this is basically the new and improved Equalify? At least, that's how my brain's interpreting it and based off the convo today. :slightly_smiling_face:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710710035,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/287#issuecomment-2002619111",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Comment on #287 Screen Reader Regression Testing (Version 1 - RC4)",
+                "text": "For context, here's the <https:\/\/docs.google.com\/document\/d\/1n3vLdrdSILtnlPKAgv7Vqoj40NHy_Y2ffXNQprl4fd8\/edit?usp=sharing|results of the screen reader testing> I did for v1rc3. <https:\/\/github.com\/bbertucc|@bbertucc> and I discussed and they said it was okay to just drop the issues from v1rc4 testing here. I'm open to collaboration and all the things\/Zoom\/screenshare either asynchronous or real-time depending on who's working on this! The stats are basically identical except I think it's now on Chrome 122 something--can get exact number if needed:\n\n• Still issues with receiving pw reset email. Not sure if it's the email domain (a .edu in this case) or on the Equalify backend somewhere. Can try to help troubleshoot further.\n• Settings\/Add Property: This appears in the title of the page: \"  \n    *Warning*: Undefined variable $property_name in *\/workspace\/helpers\/get_page_title.php* on line *45*  \n    Property Settings | Equalify\".\n• Settings\/Add Property: The Sitemap URL text field has a note after the label about the requirement for the URL to follow specific schema, but that message isn't programmatically associated with the text field, so tabbing past the text field i.e. the next focusable element you land on the link called \"XML Sitemap schema\" without the appropriate context.\n• Pressed button Process 20 Scans. Like in V1RC3, after the scans are processed, the screen reader begins reading off the entire list of results in one contiguous chunk. In the case of this testing that was a list of 16. That's overwhelming and way too verbose. I recommend just having some messaging that \"x\" number of scans completed, provide a semantic heading for the user to easily jump to the results on their accord, and inform of the heading in the message. It so happened I stopped it speaking after the fifth or sixth item and was looking for the results which I assumed would be preceded by a heading. When that wasn't the case, I encountered the button to process 20 scans again. Not a11y per se, but it could be a little misleading for someone if they're not sure that the scan already completed, maybe they missed the alert (stopped the screen reader\/was doing something else and missed it, etc).\n• Reports\/New Report: Title page is too generic, \"Equalify | Accessibility Issue Management\".\n• Reports\/New Report: After updating the report title the focus still resets. This might be a JAWS issue because that continues to be okay on NVDA and the focus continues (see the note in v1rc3 doc but basically the next tab press moves you in tab order as expected rather than back to the skp link). For example, after the title is updated and the alert fires, pressing tab, expecting to continue progressing through the form, the next tab press is on the skip link and you essentially have to work you way all the way back to the form to pick back up where you left off.\n• Reports\/Add Report\/Add Filter: The field \"search and select filter values\" always says \"no search results\" when the user tabs onto it. A user might think there aren't any results. I recommend a clearer message instructing the user to type and that results will appear they can use the up and down arrow keys.\n• When searching to filter by property, you're told how many results there are but not how to access them. Recommend a quick tip how using the arrow keys\/press entr to select.\n• After removing the filter, an alert is spoken that the changes were successful, though there's no change--it needs to be clearer and tell the user the removal, not change, was successful.",
+                "title": "Comment on #287 Screen Reader Regression Testing (Version 1 - RC4)",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/287#issuecomment-2002619111",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJx0E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey, curious what happened to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/287#issuecomment-2002619111"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Or is Chris and Adonis's work building off that and this is basically the new and improved Equalify? At least, that's how my brain's interpreting it and based off the convo today. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716235219.415719",
+        "client_msg_id": "09231aab-c427-46f1-af81-ded380b26a7a",
+        "text": "Yes <@U06Q2P392AU>! Basically, I hit paternity leave while I was working through this. Then Chris and Adonis took over and built a way better system than what I was working on. I added a note to the ticket. Good catch though",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTo4+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Basically, I hit paternity leave while I was working through this. Then Chris and Adonis took over and built a way better system than what I was working on. I added a note to the ticket. Good catch though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716235494.699989",
+        "client_msg_id": "f108a0f8-567f-4435-aed5-4445099568ae",
+        "text": "<@U04J7TVCQGP> Ah ya that's basically what my understanding was too. Okay, glad we're aligned and thank you for that! Just thought I'd flag for posterity's sake.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iaL2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ah ya that's basically what my understanding was too. Okay, glad we're aligned and thank you for that! Just thought I'd flag for posterity's sake."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716235998.178239",
+        "client_msg_id": "f8571689-824d-4348-868d-230ff9803711",
+        "text": "Also <@U04J7TVCQGP> and\/or maybe for <@U06P7AP2R38>\/<@U06TJNUDNLA> should I drop my results into this <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1|issue> as a comment? Let me know what makes the most sense to ensure consistency in the workflow.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711575199,
+                "color": "36a64f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#1 Build Frontend",
+                "text": "*Authentication*\n\n☑︎ Requires users to be logged in to access. (Redirect to Auth0 to login)\n\n*Views*\n\nThe frontend will include views.\n\n*“Discovery”*\n\n☑︎ List of properties\n☑︎ Includes Modal to add new properties via form or CSV\n\nUses `get\/properties` API query.\n\n*“Property Settings”*\n\n☑︎ Form to up property name, url, and scan type\n\nUses `get\/properties` API query.\n\n*“Scans”*\n\n☑︎ List of queued scans\n\nUses `get\/scans` API query.\n\n*“Reports”*\n\n☑︎ List of Reports with a button to edit each report.\n\nUses `get\/reports` API query.\n\n*“Single Report”*\n\n☑︎ A single report page with timeline of node updates, messages, tags, and pages components.\n☑︎ Includes button to edit report.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Report Settings”*\n\n☑︎ Form to update report name and filters\n\nUses `get\/reports` API query.\n\n*“Single Message”*\n\n☑︎ Report page that is focused on messages includes timeline of node updates and list of nodes related to the message.\n☑︎ Inherits filters from report if a user clicks to Single Messages from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Single Tag”*\n\n☑︎ Report page that is focused on tags with timeline of node updates and list of messages with the tag.\n☑︎ Inherits filters from report if a user clicks to Single Tag from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Single URL”*\n\n☑︎ Report page that is focused on ruls with timeline of node updates and list of messages related to the URL.\n☑︎ Inherits filters from report if a user clicks to Single URL from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*Actions*\n\nThe frontend will include actions:\n\n*Add Single Property*\n\n☐ Inserts new property info from the form.\n☐ Triggered by Single Property Entry Form button in modal on Discovery view\n☐ Passes info to `\/add\/properties`\n☐ Return success\/failure alert with message\n\n*Add Multiple Properties*\n\n☐ Inserts multiple new properties from the CSV\n☐ Triggered by Upload Form button in modal on Discovery view\n☐ CSV is validated to be a valid CSV with proper fields and reformatted to work with API call.\n☐ Passes info to `\/add\/properties`\n☐ Return success\/failure alert with message\n\n*Save Property Settings*\n\n☐ Updates Property Info\n☐ Triggered by “Save Property” button on Property Settings view\n☐ Passes propertyID and updates to `\/update\/properties`\n☐ Return success\/failure alert with message\n\n*Delete Property*\n\n☐ Removes property and all related content\n☐ Triggered by “Delete Property” button on Property Settings view\n☐ Requires confirmation before deletion: \"All data related to your property will be removed. That includes all nodes and node updates. Are you sure you want to continue?\"\n☐ Passes propertyID to `\/update\/properties`\n☐ Return success\/failure alert with message\n\n*Add Report*\n\n☐ Adds a new report and relevant filters\n☐ Triggered by “Save Report” button on Report Settings view if it's a new report\n☐ Passes relevant info to `\/add\/reports`\n☐ Return success\/failure alert with message\n\n*Update Report*\n\n☐ Updates a report and relevant filters\n☐ Triggered by “Save Report” button on Report Settings view if it's an existing report\n☐ Passes relevant info to `\/update\/reports`\n☐ Return success\/failure alert with message\n\n*Delete Report*\n\n☐ Deletes a report and relevant filters\n☐ Triggered by “Delete Report” button on Report Settings view if it's an existing report\n☐ Passes relevant info to `\/delete\/reports`\n☐ Return success\/failure alert with message\n\n*Add URL to Scan Queue:*\n\n☐ Add Scan to Scan queue\n☐ Triggered by “Scan URL” button on Scan Detail view\n☐ Passes urlID to `\/add\/scans`\n☐ Return success\/failure alert with message\n\n*Components*\n\nThe following are reusable components. Note: Old component markup is available here: <https:\/\/github.com\/EqualifyEverything\/equalify\/tree\/main\/components|https:\/\/github.com\/EqualifyEverything\/equalify\/tree\/main\/components>\n\n*Timeline*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays chart of nodes equalified over time.\n☑︎ Using <https:\/\/www.chartjs.org|https:\/\/www.chartjs.org>\n\n*Messages List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of messages with count of equalified and active nodes related to each message.\n☑︎ Each row links to related Single Message view.\n\n*Tags List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of tags\n☑︎ Each row links to related Single Tag view.\n\n*URL List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of urls\n☑︎ Each row links to related Single URL view.\n\n*Node List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of nodes\n\n*Accessibility Requirements*\n\n☑︎ Maintain WCAG 2.2 Level AA Standards\n☐ Perform user tests - Feel free to ping <https:\/\/github.com\/kevinandrews1|@kevinandrews1> to perform user testing.",
+                "title": "#1 Build Frontend",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ODfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and\/or maybe for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should I drop my results into this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1",
+                                "text": "issue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as a comment? Let me know what makes the most sense to ensure consistency in the workflow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716236045.173559",
+        "client_msg_id": "85c275b5-da50-4867-989a-44c5a192204a",
+        "text": "I would say you could add a comment to it or create new issues, whatever <@U06TJNUDNLA> is into.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tBovP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would say you could add a comment to it or create new issues, whatever "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is into."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716236162.379079",
+        "client_msg_id": "CA2DF161-0E57-43CE-83A4-A14FB39D1F36",
+        "text": "Feel free to create it as a separate issue , that way I can close it once I fix them",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SsFof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feel free to create it as a separate issue , that way I can close it once I fix them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716236841.528149",
+        "client_msg_id": "70a3b75f-5acb-4171-a0a0-4aa4a500b357",
+        "text": "Absolutely thank you <@U06TJNUDNLA>!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1bxe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716253829.840909",
+        "client_msg_id": "6fc2a248-8b6e-46cd-b06f-75000311610e",
+        "text": "Hey <@U06TJNUDNLA> here you go--<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10>. I didn't assign it to anyone since I didn't wanna overstep but please let me know if you have any questions or need more info. I'm also happy to meet with you and\/or Chris and discuss. You can definitely ping me on GitHub and I will be notified and reply there!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1716253623,
+                "color": "36a64f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#10 Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)",
+                "text": "This stems from the recent chat on the a11y channel of our Slack (cc <https:\/\/github.com\/wilsuriel03|@wilsuriel03> & <https:\/\/github.com\/heythisischris|@heythisischris>.\n\n*Stats*\n\n• Windows 11,\n• Google Chrome Version 125.0.6422.61\n• JAWS 2024.2312.53.400,\n• NVDA 2024.1\n• Equalify.dev 0.3.0 Developer Preview\n\nIf any of the issues are particular to a browser, I make that clear, though that wasn't the case here.\n\n*Results*\n*Signup\/signin*\n\n• Signin page uses placeholder for the email. you shouldn't use placeholder text here --that really goes for any input field. These tend to introduce color contrast issues. Also the placeholder will disappear as soon as text is entered, so you should consider wrapping it in a p tag and associate it with the input using aria-describedby.\n• On the signup page, <https:\/\/equalify.dev\/signup|https:\/\/equalify.dev\/signup>, the first field is read as \"email first name\". Next field appears to read helper text as the label for the first name only rather than explicitly saying \"first name\".\n• When attempting to sign up, after pressing Continue, my focus jumped back to the confirm password field but there was no context around the issue. It needs to communicate to the user that the passwords don't match, in this case. In other UIs it might be that the password wasn't strong enough, didn't contain the required character types, etc. Communicating the issue eliminates any of the ambiguity. You could consider comparing the two password fields before the user presses Continue if then once they've entered into the confirm field, wait a beat and confirm whether or not the passwords match so they don't have to go backward through the DOM and guess what the issue was, creating additional work for them and disrupting the workflow.\n• After pressing Continue, I did receive the verification code, but there seemed to be stale content from earlier when I tried signing in with my email. If it confused me, it will most certainly confuse other users.\n\n*Main screen after logging in\/Reports*\n\n• Navigation in the main navigation landmark label which is redundant. It reads as \"main navigation navigation\".\n• View Report link is redundant, especially if the user navigates via the tab key or pulls up a links list, which is a common feature of most modern screen readers. It lacks context pertaining to which report is being viewed. E.g. change the link text to \"View Accessibility 1 Report\". Make sure the accessible name and visible label match if at all possible. This is important for two reasons:\n    • Speech-input users can directly activate controls on a page with fewer surprising changes of focus, and\n    • text-to-speech users will have a better experience because the labels that they hear match the visible text labels that they see on the screen.\n• Viewing a report, in this case Accessibility Audit 1, there are a variety of graphics before the message table with generic-sounding alt text whose purpose is unclear: \"2021\/01\", \"2021\/02\", \"2021\/03\", \"2021\/04\", \"2021\/05\", \"0\", \"8\", \"16\", \"24\", and \"32\"\".\n• Report\/edit\/danger zone: When closing\/cancelling deletion, screen reader focus is unclear and focus should return to the button that initiated the dialog in this case being the delete button.\n• Searching any of the selected filter types does not announce the search result even if no items are found.\n• When creating a report, the report name text field is unavailable.\n\nThis random one I didn't know how to categorize: When going to Properties I receive the messsage \"Error loading properties\".",
+                "title": "#10 Results of Accessibility Testing May 19, 2024 (Dev Preview 0.3.0)",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VxV9\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here you go--"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/10"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I didn't assign it to anyone since I didn't wanna overstep but please let me know if you have any questions or need more info. I'm also happy to meet with you and\/or Chris and discuss. You can definitely ping me on GitHub and I will be notified and reply there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716253889.023169",
+        "client_msg_id": "8f6dbf45-0440-453b-9504-fb5ce2de4724",
+        "text": "I'm also excited to chat more about the llm stuff and see where that is going!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5WgSR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm also excited to chat more about the llm stuff and see where that is going!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716254130.136729",
+        "client_msg_id": "B0289A62-9216-4CB8-BAB9-F8E0590FB2E3",
+        "text": "<@U06Q2P392AU> this is amazing",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fuPhO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is amazing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716254142.515579",
+        "client_msg_id": "0CDC8583-E410-434B-A9F8-9016083F99B3",
+        "text": "I will definitely get those fixed as soon as I can",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JR14z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will definitely get those fixed as soon as I can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716254373.338409",
+        "client_msg_id": "D8E1B376-40C7-4CCC-9327-CAA64EA4567D",
+        "text": "Some of the accessibility issues are from a quick emergency push Chris did for the Cinco de Mayo presentation. I’ll get them sorted out and keep you updated for retesting.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XgQk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some of the accessibility issues are from a quick emergency push Chris did for the Cinco de Mayo presentation. I’ll get them sorted out and keep you updated for retesting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716254965.567999",
+        "client_msg_id": "c1c554e7-78e7-438d-948b-f71fe72e4d62",
+        "text": "Sounds good. Totally get it!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AglLD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good. Totally get it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

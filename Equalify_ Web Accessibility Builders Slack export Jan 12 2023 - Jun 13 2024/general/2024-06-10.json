@@ -1,0 +1,724 @@
+[
+    {
+        "user": "USLACKBOT",
+        "type": "message",
+        "ts": "1718028033.489349",
+        "bot_id": "B01",
+        "text": "Reminder: contributor meeting at <https:\/\/github.com\/orgs\/EqualifyEverything\/projects\/2> Every Monday at 11:11.",
+        "team": "T04JQU0GB2Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Fsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder: contributor meeting at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/orgs\/EqualifyEverything\/projects\/2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Every Monday at 11:11."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718030220.258359",
+        "client_msg_id": "B838A02C-2DE6-4382-AA11-6F578BC31D12",
+        "text": "<@U04J7TVCQGP> I may be MIA for the contributors call. No updates from my end other than you and I are meeting later this afternoon for <#C074N9VQJSE|outreach> checkin. I'm curious if there are any <#C074YBD1HS4|a11y> dev updates I'm awaiting for regression testing and if <#C06PUUQD4AX|build-raga> is ready for initial testing.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718030220.258359",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1718032217.401479",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718032198.677929"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718032217.401479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718032420.680089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94RmJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I may be MIA for the contributors call. No updates from my end other than you and I are meeting later this afternoon for "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074N9VQJSE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " checkin. I'm curious if there are any "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074YBD1HS4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dev updates I'm awaiting for regression testing and if "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06PUUQD4AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is ready for initial testing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718032198.677929",
+        "client_msg_id": "47181779-e27f-4404-b7dc-4c16bfa8f07c",
+        "text": "All good <@U06Q2P392AU>!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718030220.258359",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dOaLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All good "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718032217.401479",
+        "client_msg_id": "20b983f5-b034-4923-9650-5bd8bc9b1e08",
+        "text": "Do you have anything your particularly focused on this week?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718030220.258359",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7u8H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have anything your particularly focused on this week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U072C2M1NBU",
+        "type": "message",
+        "ts": "1718032412.083159",
+        "client_msg_id": "99d99629-1f59-42bc-8e7a-d77577cfddaa",
+        "text": "Can I get a link to today’s meeting?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6e34e5c363e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e34e5c363e4cf5c97c52ba67cec4e4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Joel",
+            "real_name": "Joel Crawford-Smith",
+            "display_name": "Joel Crawford-Smith",
+            "team": "T04JQU0GB2Q",
+            "name": "jhc36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ed\/mR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I get a link to today’s meeting?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P7AP2R38",
+        "type": "message",
+        "ts": "1718032713.328949",
+        "client_msg_id": "6d37865e-d2e0-4a2a-a42c-585313f2adb0",
+        "text": "Also looking for a link to today's meeting",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g0770f21768e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0770f21768ebc3d0b0c6cdce6ca6ca82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Christopher",
+            "real_name": "Christopher Aitken",
+            "display_name": "Christopher Aitken",
+            "team": "T04JQU0GB2Q",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRXYz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also looking for a link to today's meeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718033235.413059",
+        "client_msg_id": "f3a5a061-cd76-44b9-9fcd-9b3345c5f63a",
+        "text": "Here's the link for today:\n<https:\/\/us06web.zoom.us\/j\/86156635249?pwd=DVIQjkTeIjp0VUKLIbxl8hM6r3Ve2V.1>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7DHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's the link for today:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/86156635249?pwd=DVIQjkTeIjp0VUKLIbxl8hM6r3Ve2V.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718033297.967359",
+        "client_msg_id": "b0770972-6917-4eae-b809-be4f0e67628f",
+        "text": "I added the link to the channel description so we have it there for future meetings",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V071G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I added the link to the channel description so we have it there for future meetings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1718033409.289499",
+        "client_msg_id": "ac0581e7-1c09-4d2e-b3a6-b0d47062d58d",
+        "text": "<@U04J7TVCQGP>, I wont e able to make it to the call today.\n\nBut as for updates on my end. I fixed most of the accessibility issues on Kevin's ticket. This week I will focus on adding analytics.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718033409.289499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718033529.606009",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718033529.606009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718033529.606009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dtCRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I wont e able to make it to the call today.\n\nBut as for updates on my end. I fixed most of the accessibility issues on Kevin's ticket. This week I will focus on adding analytics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718033529.606009",
+        "client_msg_id": "6023ff54-8bcd-4178-be2c-3f720683155e",
+        "text": "Thanks <@U06TJNUDNLA>!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718033409.289499",
+        "parent_user_id": "U06TJNUDNLA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/j9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718035849.877779",
+        "client_msg_id": "31f24148-eeca-4883-aa01-5572ec5a0018",
+        "text": "<!here> - Contributor meeting starting now in this Zoom: <https:\/\/us06web.zoom.us\/j\/86156635249?pwd=DVIQjkTeIjp0VUKLIbxl8hM6r3Ve2V.1>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+miqh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Contributor meeting starting now in this Zoom: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/86156635249?pwd=DVIQjkTeIjp0VUKLIbxl8hM6r3Ve2V.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718038769.793899",
+        "client_msg_id": "80d49151-105e-4679-9b96-a6f5b3a54e63",
+        "text": "*Updates This Week (6\/10):*\n• Grant David Gillham: Connecting us with folks from Cal Poly and local legislators.\n• <@U06Q2P392AU> and I are putting together a presentation to pitch presentation.\n• <@U06TJNUDNLA>: Adding analytics this week. He already fixed most of the accessibility issues Kevin discussed.\n• <@U06PB2BPADB>: Moving the monitor to Digital Ocean and starting to load sites into it, and is scheduling a time with <@U06P7AP2R38> to discuss integration.\n• <@U06P7AP2R38>: Continued working on `\/results` this week, also working on correctly processing `\/scans` . (Shared demo of updates, which I'll upload in video.)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5wFJ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Updates This Week (6\/10):",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Grant David Gillham: Connecting us with folks from Cal Poly and local legislators."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06Q2P392AU"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and I are putting together a presentation to pitch presentation."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06TJNUDNLA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Adding analytics this week. He already fixed most of the accessibility issues Kevin discussed."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PB2BPADB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Moving the monitor to Digital Ocean and starting to load sites into it, and is scheduling a time with "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to discuss integration."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Continued working on "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\/results",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " this week, also working on correctly processing "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\/scans",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " . (Shared demo of updates, which I'll upload in video.)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718060400.481099",
+        "client_msg_id": "1dbd490f-4ab5-44aa-956c-1de3c71cd9d2",
+        "text": "Video from. our 6\/10 meeting: <https:\/\/youtu.be\/gyFFAKK9EFs>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/gyFFAKK9EFs",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/gyFFAKK9EFs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/gyFFAKK9EFs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Equalify - Contributor Meeting - 6\/10\/24\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/gyFFAKK9EFs",
+                "fallback": "YouTube Video: Equalify - Contributor Meeting - 6\/10\/24",
+                "title": "Equalify - Contributor Meeting - 6\/10\/24",
+                "title_link": "https:\/\/youtu.be\/gyFFAKK9EFs",
+                "author_name": "Equalify",
+                "author_link": "https:\/\/www.youtube.com\/@Equalify-qd9yr",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gyPHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Video from. our 6\/10 meeting: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/gyFFAKK9EFs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

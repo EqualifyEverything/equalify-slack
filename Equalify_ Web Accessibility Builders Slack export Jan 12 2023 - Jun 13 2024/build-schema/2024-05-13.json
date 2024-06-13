@@ -1,0 +1,221 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715639889.514539",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1715640141.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1715639889.514539",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715640135.896419",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1715640135.896419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715640135.896419",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715639887,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-schema] Pull request opened by heythisischris",
+                "text": "During a discussion with Blake, we decided that the `source` attribute should be added to the Equalify schema. This will help us understand where the data is coming from. Possible sources currently include:\n\n• `scan`: These originate from the Equalify Scan API\n• `extension`: These originate from the Equalify Chrome Extension\n• `manual`: This is manually added to the DB\n\nWe might extend the enum values in the future.\n\nThis will be particularly helpful the `equalify-api` effort, because we'd like to compare the results from `scan`-derived results to existing nodes to determine whether or not we \"equalify\" or \"un-equalify\" them.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/heythisischris|heythisischris>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/1|#1 Added source as a top-level string enum attribute to the Equalify schema>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "fields": [
+                    {
+                        "value": "<@U04J7TVCQGP>",
+                        "title": "Reviewers",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-schema&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:765260929,&amp;amp;quot;number&amp;amp;quot;:1,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/1&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Added source as a top-level string enum attribute to the Equalify schema&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1715640135.754049",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-schema] 2 new commits pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/bc0d8eba8eef7e24dcbffa4793e1eedcac9e6896|bc0d8eba>` - Added source as a top-level string enum attribute to the Equalify schema\n`<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/commit\/200fbe426cba085605d37511d83f30202bd047a8|200fbe42>` - Merge pull request #1 from EqualifyEverything\/add-source",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/compare\/d8f9f5297595...200fbe426cba|2 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1715639889.514539",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1715639889.514539",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1715640141.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1715639889.514539",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1715640135.896419",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1715640135.896419"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1715640135.896419",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1715639887,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-schema] Pull request opened by heythisischris",
+                    "text": "During a discussion with Blake, we decided that the `source` attribute should be added to the Equalify schema. This will help us understand where the data is coming from. Possible sources currently include:\n\n• `scan`: These originate from the Equalify Scan API\n• `extension`: These originate from the Equalify Chrome Extension\n• `manual`: This is manually added to the DB\n\nWe might extend the enum values in the future.\n\nThis will be particularly helpful the `equalify-api` effort, because we'd like to compare the results from `scan`-derived results to existing nodes to determine whether or not we \"equalify\" or \"un-equalify\" them.",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/heythisischris|heythisischris>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/1|#1 Added source as a top-level string enum attribute to the Equalify schema>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>",
+                    "fields": [
+                        {
+                            "value": "<@U04J7TVCQGP>",
+                            "title": "Reviewers",
+                            "short": true
+                        },
+                        {
+                            "value": "enhancement",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-schema&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:765260929,&amp;amp;quot;number&amp;amp;quot;:1,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/1&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Added source as a top-level string enum attribute to the Equalify schema&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1715640135.896419",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1715639887,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-schema] Pull request merged by bbertucc",
+                "pretext": "Pull request merged by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema\/pull\/1|#1 Added source as a top-level string enum attribute to the Equalify schema>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-schema|EqualifyEverything\/equalify-schema>"
+            }
+        ]
+    }
+]

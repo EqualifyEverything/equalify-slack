@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1716502644.645959",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/monitor.equalify.app] 6 new commits pushed to _main_ by azdak",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/be6b344207d4bff29aa375347cdd3ebdfe95e267|be6b3442>` - Added Mongo, routes and scaffolding\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/63d3ad810286149b18cdae46ba46c550caf77980|63d3ad81>` - Started add\/ endpoint, added type validation\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/40a9ea9d56e576363aed9d132f89747f7b51d2b0|40a9ea9d>` - More work on add\/ endpoint\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/cf88913c927ac02a79967b46cc71003cb060eafe|cf88913c>` - Wrapping up \/add\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/17ef140887b9e4c1184dfe555b3a183865c511f3|17ef1408>` - Added basic \/check endpoint\n`<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/commit\/97317f203a179e7273f64140ad71023a4f1c4abe|97317f20>` - Added similarityHistory to check function",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/compare\/c867ef6f94c4...97317f203a17|6 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app\/tree\/main|main>` by <https:\/\/github.com\/azdak|azdak>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app|EqualifyEverything\/monitor.equalify.app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

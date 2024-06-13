@@ -1,0 +1,253 @@
+[
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1714155944.494719",
+        "client_msg_id": "3a371a6a-dab9-4e3b-a019-41377ff9e3ec",
+        "text": "*<!channel>* Good news for this week and a half! (was receiving some updates past last Fri so decided to share now)  <#C06PUUQD4AX|build-raga> <#C06Q9HZRHLK|build-scan> <#C06S292NL0H|build-monitor> <#C06RS373V6G|build-frontend> <#C06R2TJM562|build-api>\nLots of updates!\n• <#C06Q9HZRHLK|build-scan> \n    ◦ Scanner api endpoints and dashboard live at <http:\/\/scan.equalify.app\/|scan.equalify.app>\n    ◦ Managed database connection being used when retrieving results to fix problems with DB getting overloaded\n    ◦ Ran &amp; processed around ~120k scans; nothing caught on :fire:\n• <#C06PUUQD4AX|build-raga> Cole’s been working on the selected text\/tax feature &amp; screenshot capabilities\n• <#C06R2TJM562|build-api>\n    ◦ Fastify serverless\/local API has been set up w\/ basic packages, now smooth sailing for development\n    ◦ Picked Postgraphile as our handy GraphQL CRUD middleware (w\/ enforced permissions based on JWT auth)\n    ◦ Finally have beginning of a PostgreSQL schema based on the original MySQL schema\n    ◦ Chris met briefly w\/ Blake to discuss the new API, potential migration headaches, and overall infrastructure decisions\nKeep up the great work, and have an awesome weekend, y’all! :sunglasses:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9lxPs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Good news for this week and a half! (was receiving some updates past last Fri so decided to share now)  "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06PUUQD4AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06Q9HZRHLK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06S292NL0H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06RS373V6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06R2TJM562"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLots of updates!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06Q9HZRHLK"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Scanner api endpoints and dashboard live at "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/scan.equalify.app\/",
+                                        "text": "scan.equalify.app"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Managed database connection being used when retrieving results to fix problems with DB getting overloaded"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ran & processed around ~120k scans; nothing caught on "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "fire",
+                                        "unicode": "1f525"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06PUUQD4AX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Cole’s been working on the selected text\/tax feature & screenshot capabilities"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06R2TJM562"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fastify serverless\/local API has been set up w\/ basic packages, now smooth sailing for development"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Picked Postgraphile as our handy GraphQL CRUD middleware (w\/ enforced permissions based on JWT auth)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Finally have beginning of a PostgreSQL schema based on the original MySQL schema"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Chris met briefly w\/ Blake to discuss the new API, potential migration headaches, and overall infrastructure decisions"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Keep up the great work, and have an awesome weekend, y’all! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06T3BYNLCV",
+                    "U06P7A34VPH",
+                    "U06P7AP2R38",
+                    "U04J7TVCQGP"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

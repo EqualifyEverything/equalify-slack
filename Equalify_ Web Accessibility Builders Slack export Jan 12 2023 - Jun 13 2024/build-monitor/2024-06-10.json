@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718038739.668569",
+        "client_msg_id": "0cac451f-ba6e-4c42-8129-dac950a64ad9",
+        "text": "<@U06PB2BPADB> here is <@U06P7AP2R38>'s calendar where you can schedule time to talk: <https:\/\/cal.com\/heythisischris>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/cal.com\/heythisischris",
+                "image_url": "https:\/\/cal.com\/_next\/image?w=1200&q=100&url=%2Fapi%2Fsocial%2Fog%2Fimage%3Ftype%3Dmeeting%26title%3D30%2520Min%2520Meeting%26meetingProfileName%3DChristopher%2520Aitken%26meetingImage%3Dhttps%253A%252F%252Fcal.com%252Fapi%252Favatar%252F8eca08cc-ff56-492a-8600-b577f684dc96.png%26names%3DChristopher%2520Aitken%26usernames%3Dheythisischris",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 248500,
+                "service_icon": "https:\/\/cal.com\/api\/logo?type=apple-touch-icon",
+                "id": 1,
+                "original_url": "https:\/\/cal.com\/heythisischris",
+                "fallback": "Cal.com: 30 Min Meeting | Christopher Aitken | Cal.com",
+                "text": "30 Min Meeting",
+                "title": "30 Min Meeting | Christopher Aitken | Cal.com",
+                "title_link": "https:\/\/cal.com\/heythisischris",
+                "service_name": "Cal.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mD+B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here is "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s calendar where you can schedule time to talk: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cal.com\/heythisischris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06PB2BPADB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

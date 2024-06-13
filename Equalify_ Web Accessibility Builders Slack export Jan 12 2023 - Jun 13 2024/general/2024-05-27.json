@@ -1,0 +1,454 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716822446.296129",
+        "client_msg_id": "aa48806b-d228-437a-a0bd-590d9a112995",
+        "text": "Yeah. Totally. I'll look at your DMs <@U06Q2P392AU> - I'm Mr. Open Source so I prioritize channel messages, but will check it out",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716579935.606729",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0AAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah. Totally. I'll look at your DMs "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I'm Mr. Open Source so I prioritize channel messages, but will check it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716822575.533359",
+        "client_msg_id": "ec9d1ca1-d034-407b-991e-05ab4150d890",
+        "text": "This is issue on Licenses and Contributor agreements is super important (even though I'm not one to usually prioritize these things). Flagging it here so we talk about it at 11:11.  <https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/307>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1716822309,
+                "color": "36a64f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/307",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#307 Get Organizational Repo Licenses and Contributor Agreements Inline",
+                "text": "I've been really bad about staying on top of getting contributor agreements and adding licenses to the Equalify org repos.\n\nGood contributor agreements are super important because many major organizations will not use code without them. The contributor agreement I've been recommended most is this: <https:\/\/www.eclipse.org\/legal\/committer_process\/EclipseMemberCommitterAgreement.pdf|https:\/\/www.eclipse.org\/legal\/committer_process\/EclipseMemberCommitterAgreement.pdf>\n\nI'll need to make sure <https:\/\/github.com\/azdak|@azdak> <https:\/\/github.com\/heythisischris|@heythisischris> <https:\/\/github.com\/wilsuriel03|@wilsuriel03> <https:\/\/github.com\/kevinandrews1|@kevinandrews1> <https:\/\/github.com\/hcwiley|@hcwiley> and <https:\/\/github.com\/jwgoedert|@jwgoedert> signed these agreements.\n\nAs for Licenses, every repo in the Equalify organization should have an <https:\/\/opensource.org\/licenses|approved Open Source license> attributed to Equalify Inc.\n\nI have been dragging my feet on licenses because we haven't had enough business to really decide what license suits us best. For now, maybe we can just add a LICENSE.MD file to each repo that says:\n\n```\nAll code is owned by Equalify Inc. \n\nWe are waiting for some business necessity to decide which license we will publish this code under, but we are committed to releasing all Equalify code under an Open Source license approved by the Open Source Initiative. Visit <https:\/\/opensource.org\/licenses> for a full list of approved licenses.\n\nFeel free to add an issue in this repo if you have a business reason why we should adopt a specific license.\n```",
+                "title": "#307 Get Organizational Repo Licenses and Contributor Agreements Inline",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/307",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify|EqualifyEverything\/equalify>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/bbertucc|@bbertucc>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlZNv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is issue on Licenses and Contributor agreements is super important (even though I'm not one to usually prioritize these things). Flagging it here so we talk about it at 11:11.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify\/issues\/307"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716826108.454499",
+        "client_msg_id": "ef6995ec-eda5-4119-ac4d-46cd6f5be4fb",
+        "text": "<!here> Equalify's Weekly Contributor meeting starts in 1 minute. Join us: <https:\/\/us06web.zoom.us\/j\/84549758489?pwd=THoSX0e1aedZkx559TKfn5vpo5aXin.1>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFY\/h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Equalify's Weekly Contributor meeting starts in 1 minute. Join us: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/84549758489?pwd=THoSX0e1aedZkx559TKfn5vpo5aXin.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "reminder_add",
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716826319.629739",
+        "text": " set up a reminder “contributor meeting at https:\/\/github.com\/orgs\/EqualifyEverything\/projects\/2 Every Monday at 11:11” in this channel at 9AM every Monday, Central Daylight Time."
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716828823.959349",
+        "client_msg_id": "3c21e2a2-9aff-444f-b5dd-f0b07c989568",
+        "text": "• <@U06P7AP2R38> by next week, get scans and get results prototyped for <https:\/\/github.com\/EqualifyEverything\/equalify-api|Equalify API>.\n• <@U06TJNUDNLA> resolving accessibility issues that <@U06Q2P392AU> reported for <https:\/\/github.com\/EqualifyEverything\/equalify-frontend|Equalify Frontend>.\n• <@U06PB2BPADB> setting up queue system for <https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app|Equalify Monitor>, thinking through UX integration with frontend.\n• <@U06PKP46SMR> is going to meet with me this week on <https:\/\/github.com\/EqualifyEverything\/equalify-raga|Equalify Raga Project>.\n• <@U04J7TVCQGP> will get a version of the homepage up and pay <@U06P7AP2R38> and <@U06TJNUDNLA>. Will also get contributor agreements and sample licenses in place for all repos. And publish the video of our meeting.\nGenerally, still on track for a July 4 Version 1 release! :partying_face:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1f1h0",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " by next week, get scans and get results prototyped for "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-api",
+                                        "text": "Equalify API"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06TJNUDNLA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " resolving accessibility issues that "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06Q2P392AU"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " reported for "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend",
+                                        "text": "Equalify Frontend"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PB2BPADB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " setting up queue system for "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/monitor.equalify.app",
+                                        "text": "Equalify Monitor"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", thinking through UX integration with frontend."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PKP46SMR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is going to meet with me this week on "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-raga",
+                                        "text": "Equalify Raga Project"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U04J7TVCQGP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " will get a version of the homepage up and pay "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06TJNUDNLA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Will also get contributor agreements and sample licenses in place for all repos. And publish the video of our meeting."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nGenerally, still on track for a July 4 Version 1 release! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716828953.912679",
+        "client_msg_id": "db9f93fd-381b-4f1f-b6ee-9aeb5aa356f2",
+        "text": "Feel free to add your comments async, anyone who didn't attend.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MWX4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feel free to add your comments async, anyone who didn't attend."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716833460.281409",
+        "client_msg_id": "0c6487b7-80fb-4f7e-870e-db034f6f4bd8",
+        "text": "Video from our 5\/27 Contributor Meeting is available here: <https:\/\/youtu.be\/zAQGG8ZOoEc>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/zAQGG8ZOoEc",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zAQGG8ZOoEc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/zAQGG8ZOoEc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"May 27 - Equalify Contributor Meeting\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/zAQGG8ZOoEc",
+                "fallback": "YouTube Video: May 27 - Equalify Contributor Meeting",
+                "title": "May 27 - Equalify Contributor Meeting",
+                "title_link": "https:\/\/youtu.be\/zAQGG8ZOoEc",
+                "author_name": "Equalify",
+                "author_link": "https:\/\/www.youtube.com\/@Equalify-qd9yr",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5bLRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Video from our 5\/27 Contributor Meeting is available here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/zAQGG8ZOoEc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1712070165.595429",
+        "client_msg_id": "86d6670d-07b6-4285-9226-a4ff7527ac13",
+        "text": "<@U06P7A34VPH> i kicked both of you out! sorry",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGTF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P7A34VPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i kicked both of you out! sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1712071597.103369",
+        "client_msg_id": "682e7817-de32-4e5a-955c-6c92fc881600",
+        "text": "github profile: hcwiley",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710953417.855149",
+        "parent_user_id": "U06P7A34VPH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tOQpl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "github profile: hcwiley"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1712071605.667429",
+        "client_msg_id": "5b541460-0438-45eb-96a6-8ab3aa8f615d",
+        "text": "email incase you need it for anything else <mailto:hcwiley@gmail.com|hcwiley@gmail.com>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710953417.855149",
+        "parent_user_id": "U06P7A34VPH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mHCWE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "email incase you need it for anything else "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hcwiley@gmail.com",
+                                "text": "hcwiley@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06SBP1B7QV",
+        "text": "<@U06SBP1B7QV> has joined the channel",
+        "type": "message",
+        "ts": "1712071921.792209"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06S042E347",
+        "text": "<@U06S042E347> has joined the channel",
+        "type": "message",
+        "ts": "1712074037.251349"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712086478.134149",
+        "client_msg_id": "46cb1eb2-6453-4909-b4f0-9c7f2953b89b",
+        "text": "<@U06P7A34VPH> <@U06PKP46SMR> - I read through notes of your call. So cool to hear you've been working on a similar project <@U06P7A34VPH>!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712086478.134149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712840108.841459",
+        "reply_users": [
+            "U06P7A34VPH"
+        ],
+        "replies": [
+            {
+                "user": "U06P7A34VPH",
+                "ts": "1712840108.841459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1712840108.841459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3yv+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P7A34VPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I read through notes of your call. So cool to hear you've been working on a similar project "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7A34VPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P7A34VPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712086689.055759",
+        "client_msg_id": "5cab465b-3db3-47c3-a975-8c04a69b2065",
+        "text": "I told <@U06PKP46SMR> that I'm totally into any type of collaboration he wants to do after he looks at the codebase. My main interest is that the extension can select and tag content from both a quick key and right click Chrome inspector \"Send to Equalify\" option. We wouldn't want to capture the entire page source, just problem areas (we already hash page source with <#C06S292NL0H|build-monitor>). The user would add a message with tags or select existing messages with tags. That information would be saved into Equalify.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/npzD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I told "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that I'm totally into any type of collaboration he wants to do after he looks at the codebase. My main interest is that the extension can select and tag content from both a quick key and right click Chrome inspector \"Send to Equalify\" option. We wouldn't want to capture the entire page source, just problem areas (we already hash page source with "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06S292NL0H"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). The user would add a message with tags or select existing messages with tags. That information would be saved into Equalify."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P7A34VPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06RZ1EJGER",
+        "text": "<@U06RZ1EJGER> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712086863.249489"
+    }
+]

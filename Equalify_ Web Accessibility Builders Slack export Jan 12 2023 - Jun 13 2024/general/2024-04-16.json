@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713299685.641909",
+        "client_msg_id": "7a5c8bd1-91f4-46c6-82a1-5fc85ab6be62",
+        "text": "Okay, it's official! Our May 5 Demo day is set! Here's the link: <https:\/\/lu.ma\/equalify>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/lu.ma\/equalify",
+                "service_icon": "https:\/\/lu.ma\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/lu.ma\/equalify",
+                "fallback": "Equalify Demo Day! · Zoom · Luma",
+                "text": "The latest and greatest in web accessibility tech from Equalify!\nThis demo day includes updates from our April sprint. Project creators will be presenting:\nAI…",
+                "title": "Equalify Demo Day! · Zoom · Luma",
+                "title_link": "https:\/\/lu.ma\/equalify",
+                "service_name": "lu.ma"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QdRWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, it's official! Our May 5 Demo day is set! Here's the link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lu.ma\/equalify"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713299711.243709",
+        "client_msg_id": "4f4fb1c6-e2c9-4bf2-9168-ffce73e01c87",
+        "text": "let me know if y'all have any changes to the descriptions in the event: <https:\/\/lu.ma\/equalify>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713202451.530279",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDI0e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let me know if y'all have any changes to the descriptions in the event: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lu.ma\/equalify"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

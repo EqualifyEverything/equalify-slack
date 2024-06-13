@@ -1,0 +1,215 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1716578683.396499",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1716578683.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1716578683.396499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716578683.570299",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1716578683.570299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711575199,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by bbertucc",
+                "text": "*Authentication*\n\n☑︎ Requires users to be logged in to access. (Redirect to Auth0 to login)\n\n*Views*\n\nThe frontend will include views.\n\n*“Discovery”*\n\n☑︎ List of properties\n☑︎ Includes Modal to add new properties via form or CSV\n\nUses `get\/properties` API query.\n\n*“Property Settings”*\n\n☑︎ Form to up property name, url, and scan type\n\nUses `get\/properties` API query.\n\n*“Scans”*\n\n☑︎ List of queued scans\n\nUses `get\/scans` API query.\n\n*“Reports”*\n\n☑︎ List of Reports with a button to edit each report.\n\nUses `get\/reports` API query.\n\n*“Single Report”*\n\n☑︎ A single report page with timeline of node updates, messages, tags, and pages components.\n☑︎ Includes button to edit report.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Report Settings”*\n\n☑︎ Form to update report name and filters\n\nUses `get\/reports` API query.\n\n*“Single Message”*\n\n☑︎ Report page that is focused on messages includes timeline of node updates and list of nodes related to the message.\n☑︎ Inherits filters from report if a user clicks to Single Messages from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Single Tag”*\n\n☑︎ Report page that is focused on tags with timeline of node updates and list of messages with the tag.\n☑︎ Inherits filters from report if a user clicks to Single Tag from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Single URL”*\n\n☑︎ Report page that is focused on ruls with timeline of node updates and list of messages related to the URL.\n☑︎ Inherits filters from report if a user clicks to Single URL from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*Actions*\n\nThe frontend will include actions:\n\n*Add Single Property*\n\n☑︎ Inserts new property info from the form.\n☑︎ Triggered by Single Property Entry Form button in modal on Discovery view\n☑︎ Passes info to `\/add\/properties`\n☑︎ Return success\/failure alert with message\n\n*Add Multiple Properties*\n\n☐ Inserts multiple new properties from the CSV\n☐ Triggered by Upload Form button in modal on Discovery view\n☐ CSV is validated to be a valid CSV with proper fields and reformatted to work with API call.\n☐ Passes info to `\/add\/properties`\n☐ Return success\/failure alert with message\n\n*Save Property Settings*\n\n☑︎ Updates Property Info\n☑︎ Triggered by “Save Property” button on Property Settings view\n☑︎ Passes propertyID and updates to `\/update\/properties`\n☑︎ Return success\/failure alert with message\n\n*Delete Property*\n\n☑︎ Removes property and all related content\n☑︎ Triggered by “Delete Property” button on Property Settings view\n☑︎ Requires confirmation before deletion: \"All data related to your property will be removed. That includes all nodes and node updates. Are you sure you want to continue?\"\n☑︎ Passes propertyID to `\/update\/properties`\n☑︎ Return success\/failure alert with message\n\n*Add Report*\n\n☑︎ Adds a new report and relevant filters\n☑︎ Triggered by “Save Report” button on Report Settings view if it's a new report\n☑︎ Passes relevant info to `\/add\/reports`\n☑︎ Return success\/failure alert with message\n\n*Update Report*\n\n☑︎ Updates a report and relevant filters\n☑︎ Triggered by “Save Report” button on Report Settings view if it's an existing report\n☑︎ Passes relevant info to `\/update\/reports`\n☑︎ Return success\/failure alert with message\n\n*Delete Report*\n\n☑︎ Deletes a report and relevant filters\n☑︎ Triggered by “Delete Report” button on Report Settings view if it's an existing report\n☑︎ Passes relevant info to `\/delete\/reports`\n☑︎ Return success\/failure alert with message\n\n*Add URL to Scan Queue:*\n\n☐ Add Scan to Scan queue\n☐ Triggered by “Scan URL” button on Scan Detail view\n☐ Passes urlID to `\/add\/scans`\n☐ Return success\/failure alert with message\n\n*Components*\n\nThe following are reusable components. Note: Old component markup is available here: <https:\/\/github.com\/EqualifyEverything\/equalify\/tree\/main\/components|https:\/\/github.com\/EqualifyEverything\/equalify\/tree\/main\/components>\n\n*Timeline*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays chart of nodes equalified over time.\n☑︎ Using <https:\/\/www.chartjs.org|https:\/\/www.chartjs.org>\n\n*Messages List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of messages with count of equalified and active nodes related to each message.\n☑︎ Each row links to related Single Message view.\n\n*Tags List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of tags\n☑︎ Each row links to related Single Tag view.\n\n*URL List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of urls\n☑︎ Each row links to related Single URL view.\n\n*Node List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of nodes\n\n*Accessibility Requirements*\n\n☑︎ Maintain WCAG 2.2 Level AA Standards\n☑︎ Perform user tests - Feel free to ping <https:\/\/github.com\/kevinandrews1|@kevinandrews1> to perform user testing.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1|#1 Build Frontend>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Build Frontend&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Build Frontend&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "reopen",
+                        "text": "Reopen",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Build Frontend&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1716578683.396499",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1716578683.396499",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1716578683.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1716578683.396499",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1716578683.570299",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1716578683.570299"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1711575199,
+                    "color": "8250df",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by bbertucc",
+                    "text": "*Authentication*\n\n☑︎ Requires users to be logged in to access. (Redirect to Auth0 to login)\n\n*Views*\n\nThe frontend will include views.\n\n*“Discovery”*\n\n☑︎ List of properties\n☑︎ Includes Modal to add new properties via form or CSV\n\nUses `get\/properties` API query.\n\n*“Property Settings”*\n\n☑︎ Form to up property name, url, and scan type\n\nUses `get\/properties` API query.\n\n*“Scans”*\n\n☑︎ List of queued scans\n\nUses `get\/scans` API query.\n\n*“Reports”*\n\n☑︎ List of Reports with a button to edit each report.\n\nUses `get\/reports` API query.\n\n*“Single Report”*\n\n☑︎ A single report page with timeline of node updates, messages, tags, and pages components.\n☑︎ Includes button to edit report.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Report Settings”*\n\n☑︎ Form to update report name and filters\n\nUses `get\/reports` API query.\n\n*“Single Message”*\n\n☑︎ Report page that is focused on messages includes timeline of node updates and list of nodes related to the message.\n☑︎ Inherits filters from report if a user clicks to Single Messages from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Single Tag”*\n\n☑︎ Report page that is focused on tags with timeline of node updates and list of messages with the tag.\n☑︎ Inherits filters from report if a user clicks to Single Tag from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Single URL”*\n\n☑︎ Report page that is focused on ruls with timeline of node updates and list of messages related to the URL.\n☑︎ Inherits filters from report if a user clicks to Single URL from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*Actions*\n\nThe frontend will include actions:\n\n*Add Single Property*\n\n☑︎ Inserts new property info from the form.\n☑︎ Triggered by Single Property Entry Form button in modal on Discovery view\n☑︎ Passes info to `\/add\/properties`\n☑︎ Return success\/failure alert with message\n\n*Add Multiple Properties*\n\n☐ Inserts multiple new properties from the CSV\n☐ Triggered by Upload Form button in modal on Discovery view\n☐ CSV is validated to be a valid CSV with proper fields and reformatted to work with API call.\n☐ Passes info to `\/add\/properties`\n☐ Return success\/failure alert with message\n\n*Save Property Settings*\n\n☑︎ Updates Property Info\n☑︎ Triggered by “Save Property” button on Property Settings view\n☑︎ Passes propertyID and updates to `\/update\/properties`\n☑︎ Return success\/failure alert with message\n\n*Delete Property*\n\n☑︎ Removes property and all related content\n☑︎ Triggered by “Delete Property” button on Property Settings view\n☑︎ Requires confirmation before deletion: \"All data related to your property will be removed. That includes all nodes and node updates. Are you sure you want to continue?\"\n☑︎ Passes propertyID to `\/update\/properties`\n☑︎ Return success\/failure alert with message\n\n*Add Report*\n\n☑︎ Adds a new report and relevant filters\n☑︎ Triggered by “Save Report” button on Report Settings view if it's a new report\n☑︎ Passes relevant info to `\/add\/reports`\n☑︎ Return success\/failure alert with message\n\n*Update Report*\n\n☑︎ Updates a report and relevant filters\n☑︎ Triggered by “Save Report” button on Report Settings view if it's an existing report\n☑︎ Passes relevant info to `\/update\/reports`\n☑︎ Return success\/failure alert with message\n\n*Delete Report*\n\n☑︎ Deletes a report and relevant filters\n☑︎ Triggered by “Delete Report” button on Report Settings view if it's an existing report\n☑︎ Passes relevant info to `\/delete\/reports`\n☑︎ Return success\/failure alert with message\n\n*Add URL to Scan Queue:*\n\n☐ Add Scan to Scan queue\n☐ Triggered by “Scan URL” button on Scan Detail view\n☐ Passes urlID to `\/add\/scans`\n☐ Return success\/failure alert with message\n\n*Components*\n\nThe following are reusable components. Note: Old component markup is available here: <https:\/\/github.com\/EqualifyEverything\/equalify\/tree\/main\/components|https:\/\/github.com\/EqualifyEverything\/equalify\/tree\/main\/components>\n\n*Timeline*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays chart of nodes equalified over time.\n☑︎ Using <https:\/\/www.chartjs.org|https:\/\/www.chartjs.org>\n\n*Messages List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of messages with count of equalified and active nodes related to each message.\n☑︎ Each row links to related Single Message view.\n\n*Tags List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of tags\n☑︎ Each row links to related Single Tag view.\n\n*URL List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of urls\n☑︎ Each row links to related Single URL view.\n\n*Node List*\n\n☑︎ Inherits view data from `get\/results`\n☑︎ Displays list of nodes\n\n*Accessibility Requirements*\n\n☑︎ Maintain WCAG 2.2 Level AA Standards\n☑︎ Perform user tests - Feel free to ping <https:\/\/github.com\/kevinandrews1|@kevinandrews1> to perform user testing.",
+                    "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1|#1 Build Frontend>",
+                    "callback_id": "issue-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "enhancement",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Build Frontend&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "edit",
+                            "text": "Edit",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Build Frontend&amp;amp;quot;}",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "reopen",
+                            "text": "Reopen",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Build Frontend&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1716578683.570299",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711575199,
+                "color": "8250df",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue closed as completed by bbertucc",
+                "pretext": "Issue closed as completed by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1|#1 Build Frontend>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    }
+]

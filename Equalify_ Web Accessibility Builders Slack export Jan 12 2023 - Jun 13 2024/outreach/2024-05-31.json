@@ -1,0 +1,1824 @@
+[
+    {
+        "user": "U06Q6N3N6TT",
+        "type": "message",
+        "ts": "1717147305.254249",
+        "client_msg_id": "f3325971-8c5a-4bb4-8405-a145e1356cdb",
+        "text": "Talk about value not price. Some see free as worthless rather than as an angle for innovation.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "76ae63754070",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-15\/6812657799188_76ae637540709f243fa0_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Gifford",
+            "display_name": "Mike Gifford",
+            "team": "T04JQU0GB2Q",
+            "name": "mike.gifford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v90yW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Talk about value not price. Some see free as worthless rather than as an angle for innovation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717161464.197989",
+        "client_msg_id": "D6D1F63C-1DD2-485F-BA22-0E39C76C3D8C",
+        "text": "Added a ton of random notes to your outreach proposal <@U06Q2P392AU> ‘",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H8Nbv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added a ton of random notes to your outreach proposal "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ‘"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717166701.289409",
+        "client_msg_id": "b30048ff-e9c7-4fe1-b40f-b8ad8b486c09",
+        "text": "Thanks <@U04J7TVCQGP> will review this afternoon in the car.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPxvA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will review this afternoon in the car."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717173016.643999",
+        "client_msg_id": "4b1a2232-b67d-4424-8c7b-6773d717aaad",
+        "text": "I'm on a call with a great sales guy from Khan Academy. His sales approach is just demoing everything and being a subject matter expert. Something you definitely can do <@U06Q2P392AU>. I bet if we just had a like a \"Book a meeting with Kevin, Blind Equalify and Accessibility Expert\" people would join?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6JeAZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm on a call with a great sales guy from Khan Academy. His sales approach is just demoing everything and being a subject matter expert. Something you definitely can do "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I bet if we just had a like a \"Book a meeting with Kevin, Blind Equalify and Accessibility Expert\" people would join?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717175826.460069",
+        "client_msg_id": "e4dbdf29-ee88-4c2f-990f-d53954a88190",
+        "text": "<@U06TJNUDNLA> asked about the number of plans, pricing, inclusions, and other relevant information. We only offer Equalify's Founder Plan: 10,000 Scans per Week for $5000\/year. Users can add priority support service, which guarantees a response within 24 hours, for $720 per year. The Founder plan will be available for the first 100 subscribers. *If the user has over 10k scans, they should get in touch with us for additional pricing.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "reply_count": 21,
+        "reply_users_count": 2,
+        "latest_reply": "1717179077.249899",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06TJNUDNLA"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717175984.047299"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717175996.637129"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1717176066.015569"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1717176131.973839"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176167.271249"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176193.517879"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176206.268029"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176248.150049"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176300.575679"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176333.832209"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176334.907069"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176353.381989"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176476.735109"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176481.663389"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176553.029039"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717176600.750629"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1717178346.851879"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717178749.913609"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717178795.270379"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1717179055.276269"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717179077.249899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1717179077.249899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTFG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " asked about the number of plans, pricing, inclusions, and other relevant information. We only offer Equalify's Founder Plan: 10,000 Scans per Week for $5000\/year. Users can add priority support service, which guarantees a response within 24 hours, for $720 per year. The Founder plan will be available for the first 100 subscribers. *If the user has over 10k scans, they should get in touch with us for additional pricing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06TJNUDNLA",
+        "text": "<@U06TJNUDNLA> has joined the channel",
+        "inviter": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717175955.897489"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717175984.047299",
+        "client_msg_id": "3a9a44e4-d8cc-46c7-acf3-7262489a23fb",
+        "text": "Let me know if you have any other questions <@U06TJNUDNLA>! The simpler we start the better.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+MnGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if you have any other questions "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! The simpler we start the better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717175996.637129",
+        "client_msg_id": "e9e43839-5206-4119-93bc-0042404b8873",
+        "text": "Inviting you to our Stripe",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+JxR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inviting you to our Stripe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1717176066.015569",
+        "client_msg_id": "EBE5A2B0-249A-4368-A957-305E25DBDD1E",
+        "text": "Perfect thanks <@U04J7TVCQGP> ",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DlfCX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1717176131.973839",
+        "client_msg_id": "A11EB3DD-2FD6-4C54-BBA4-133D52718417",
+        "text": "What about the free plan? What’s included with that? &lt; 10k scans?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oWlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What about the free plan? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "What’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " included with that? < 10k scans?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176167.271249",
+        "client_msg_id": "0f3cfc39-ae85-4547-89f8-1edeea1d4ad3",
+        "text": "O yeah. The free plan just gets one page scan per week.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BJo5z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "O yeah. The free plan just gets one page scan per week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176193.517879",
+        "client_msg_id": "86f6288e-74f3-4138-9d03-43f6353c2ec8",
+        "text": "We're really super focused on the $5000 + $720.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kJ0D0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're really super focused on the $5000 + $720."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176206.268029",
+        "client_msg_id": "7da25873-4b8d-4ad7-9b45-be35c45e33f2",
+        "text": "Until a customer tells us otherwise.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPneB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Until a customer tells us otherwise."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176248.150049",
+        "client_msg_id": "18bbed81-a0c1-4807-9e27-b9478d8ebb6a",
+        "text": "The way I was envisioning it is someone only needs to signup if they want to scan more than one page.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Du4To",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The way I was envisioning it is someone only needs to signup if they want to scan more than one page."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176300.575679",
+        "client_msg_id": "243252e4-8a3f-4352-a86e-80f1c15eaf70",
+        "text": "Actually, there wouldn't be a free plan for <http:\/\/Equalify.app|Equalify.app>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g8h+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually, there wouldn't be a free plan for Equalify.app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176333.832209",
+        "client_msg_id": "d05cef65-19a2-4105-88d5-e79224c9d51c",
+        "text": "Or maybe there is?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FRoPm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or maybe there is?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176334.907069",
+        "client_msg_id": "a27edde2-01c0-45f0-9736-cc318e070e2a",
+        "text": "Ha.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2B9Fa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176353.381989",
+        "client_msg_id": "c6a04053-f23b-45cb-bb0b-d7cf1ca96041",
+        "text": "I won't really know if we should have it until we start getting people to signup.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DghCS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I won't really know if we should have it until we start getting people to signup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176476.735109",
+        "client_msg_id": "0f66edf4-b931-43b1-83af-c924ebbedc94",
+        "text": "This is the sales funnel I thought:\n1. User comes to the <http:\/\/Equalify.app|Equalify.app> website and enters the URL to scan.\n2. Display a \"Trial Dashboard\" that shows the errors on that page and count of how many pages their site has.\n3. They have to signup to scan other pages ($5000\/year).\nTechnically, the frontend your building would start at the signup form. I would build the website with the trial dashboard using the API.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mv\/8c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the sales funnel I thought:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "User comes to the Equalify.app website and enters the URL to scan."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Display a \"Trial Dashboard\" that shows the errors on that page and count of how many pages their site has."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "They have to signup to scan other pages ($5000\/year)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nTechnically, the frontend your building would start at the signup form. I would build the website with the trial dashboard using the API."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176481.663389",
+        "client_msg_id": "12d2230c-f560-4238-8810-51d57b1d3242",
+        "text": "Does that make sense <@U06TJNUDNLA>?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C51uJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does that make sense "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176553.029039",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1717176579.000000"
+        },
+        "client_msg_id": "3309b250-904c-4700-91d2-969ea5c90785",
+        "text": "You would just need to have a form where the user could buy $5720\/year \"Equalify Founders\" plan with 10,000 pages + Priority support. Limited to the first 100 signups. No other choices. For now. (This would change very quickly once we figured out what users wanted to spend.)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xe90r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You would just need to have a form where the user could buy $5720\/year \"Equalify Founders\" plan with 10,000 pages + Priority support. Limited to the first 100 signups. No other choices. For now. (This would change very quickly once we figured out what users wanted to spend.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717176600.750629",
+        "client_msg_id": "52dffcea-1f9c-4a79-98a4-87055c11d769",
+        "text": "Simpler the better, in my book.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ub9O7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Simpler the better, in my book."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1717178346.851879",
+        "client_msg_id": "e3fa63a1-f16c-4c19-86ae-ac890fbb33a1",
+        "text": "<@U04J7TVCQGP>\nThanks for the info. I have a few questions to make sure we're on the same page:\n1. *Reports and Properties:*\n    ◦ How many reports come with the Founder Plan?\n    ◦ How many properties can users manage?\n    ◦ Are scans, reports, and properties separate quotas?\n2. *Design and Coordination:*\n    ◦ You mentioned the trial dashboard and landing page. Can we coordinate on the design to make sure everything looks cohesive?\n    ◦ Should I design these sections, or will you? The trial Dashboard shouldn't take me lot of time. If you design the trial dashboard, it needs to match the rest of the design I’ll be creating.\n3. *User Journey and Sign-up:*\n    ◦ What does the trial dashboard show? How do we prompt users to sign up for the paid plan?\n    ◦ Can I go based on the wireframe we discussed last contributors call?\n4. *Priority Support:*\n    ◦ How will priority support work? Do we need a separate interface or UI components for this?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LeUW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThanks for the info. I have a few questions to make sure we're on the same page:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reports and Properties:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How many reports come with the Founder Plan?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How many properties can users manage?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Are scans, reports, and properties separate quotas?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Design and Coordination:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You mentioned the trial dashboard and landing page. Can we coordinate on the design to make sure everything looks cohesive?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Should I design these sections, or will you? The trial Dashboard shouldn't take me lot of time. If you design the trial dashboard, it needs to match the rest of the design I’ll be creating."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "User Journey and Sign-up:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What does the trial dashboard show? How do we prompt users to sign up for the paid plan?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can I go based on the wireframe we discussed last contributors call?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Priority Support:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How will priority support work? Do we need a separate interface or UI components for this?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717178749.913609",
+        "client_msg_id": "a5c153ff-5924-484f-8264-48a01c65e790",
+        "text": "1. *Property\/Report Quota*: Unlimited reports and unlimited properties. That said, to add a property, you need to do a scan of all the pages. So if you have no scans you can't add a property.\n2. *Trial Dashboard Design:* If you want to design it be my guest! I'm definitely not precious. Just didn't want to overwhelm you.\n3. *Trial Dashboard* - Yes. It's the wireframe. A trial dashboard should be like a report without the option to edit it. It'll only show information related to one URL that's scanned. It also wouldn't have any additional links to create reports, or add properties. If users wanted to see another page, users would have to go back and scan another page Attaching a rough wireframe.\n4. *Priority Support*: That's actually bundled with the Founders plan. We don't need a separate interface. You get priority support if you pay $5720 for the founders plan.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VV3JH",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Property\/Report Quota",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Unlimited reports and unlimited properties. That said, to add a property, you need to do a scan of all the pages. So if you have no scans you can't add a property."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trial Dashboard Design: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "If you want to design it be my guest! I'm definitely not precious. Just didn't want to overwhelm you."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trial Dashboard ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "- Yes. It's the wireframe. A trial dashboard should be like a report without the option to edit it. It'll only show information related to one URL that's scanned. It also wouldn't have any additional links to create reports, or add properties. If users wanted to see another page, users would have to go back and scan another page Attaching a rough wireframe."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Priority Support",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": That's actually bundled with the Founders plan. We don't need a separate interface. You get priority support if you pay $5720 for the founders plan."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "This is a screenshot of the wireframe I created for the trial dashboard. It can be the same design of a report with no options to edit or add properties or whatever",
+        "files": [
+            {
+                "id": "F0764B8EEJ0",
+                "created": 1717178765,
+                "timestamp": 1717178765,
+                "name": "Screenshot 2024-05-31 at 1.03.37 PM.png",
+                "title": "Screenshot 2024-05-31 at 1.03.37 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 81331,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F0764B8EEJ0\/screenshot_2024-05-31_at_1.03.37___pm.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F0764B8EEJ0\/download\/screenshot_2024-05-31_at_1.03.37___pm.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0764B8EEJ0-7ba7862d5c\/screenshot_2024-05-31_at_1.03.37___pm_64.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0764B8EEJ0-7ba7862d5c\/screenshot_2024-05-31_at_1.03.37___pm_80.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0764B8EEJ0-7ba7862d5c\/screenshot_2024-05-31_at_1.03.37___pm_360.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_360_w": 297,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0764B8EEJ0-7ba7862d5c\/screenshot_2024-05-31_at_1.03.37___pm_480.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_480_w": 396,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0764B8EEJ0-7ba7862d5c\/screenshot_2024-05-31_at_1.03.37___pm_160.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0764B8EEJ0-7ba7862d5c\/screenshot_2024-05-31_at_1.03.37___pm_720.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_720_w": 594,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0764B8EEJ0-7ba7862d5c\/screenshot_2024-05-31_at_1.03.37___pm_800.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_800_w": 660,
+                "thumb_800_h": 800,
+                "original_w": 746,
+                "original_h": 904,
+                "thumb_tiny": "AwAwACfTzTWbHQZ\/GgAFmyBSkKOoFADd7f3P1FKrEnlcfjSbA3Ibj2Ap20eg\/KgBcj1oyPWmSKNh4H5VDgegoAnB5bimyD5Du5HsKcPvNTqAKpERx8p\/I\/41JCqjJQY9cg1LkA45\/Kjcv94fnTEJJ9w1BUzsCh+YVDmkMnH3mp3403OGPBo3D+6fyoAdVR0fccZ6+lWd3sfyoyD\/AAn8qadhNXKuxh1z+VGD6VYcZyRu6YxUe1v7p\/KhsSR\/\/9k=",
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F0764B8EEJ0\/screenshot_2024-05-31_at_1.03.37___pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F0764B8EEJ0-e927cb04ea",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tnxQf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a screenshot of the wireframe I created for the trial dashboard. It can be the same design of a report with no options to edit or add properties or whatever"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717178795.270379",
+        "client_msg_id": "0f6f85a9-bfda-41f0-9d83-e35465a4f7f2",
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP"
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1717179055.276269",
+        "client_msg_id": "f3ee82f2-c7e2-489b-b481-7c1b5a85807d",
+        "text": "Thanks for the info! No worries, I enjoy doing this. Since I’m already doing the research, I can design the trial dashboard too. That way, the entire platform’s UI will align with each other.\nI’ll contact you as soon as I get it done.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WMMrT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the info! No worries, I enjoy doing this. Since I’m already doing the research, I can design the trial dashboard too. That way, the entire platform’s UI will align with each other.\nI’ll contact you as soon as I get it done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717179077.249899",
+        "client_msg_id": "31c2f495-5e27-45bb-9e1c-d2e5811a827e",
+        "text": "SWEET",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717175826.460069",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4DHM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SWEET"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717182107.676969",
+        "client_msg_id": "e2ace104-095b-4611-9e34-3801cc245f2f",
+        "text": "<@U06Q2P392AU> - just introduced you via email to Mark of Khan Academy. He led two amazing sales calls. Maybe you can hop on a 15-30 minute meeting to pick his brain about how to reach Sales success? He seemed open to it.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xl3Uf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - just introduced you via email to Mark of Khan Academy. He led two amazing sales calls. Maybe you can hop on a 15-30 minute meeting to pick his brain about how to reach Sales success? He seemed open to it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U075WQMT3EW",
+        "text": "<@U075WQMT3EW> has joined the channel",
+        "type": "message",
+        "ts": "1717194339.981659"
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717194525.802129",
+        "client_msg_id": "021bf263-13ab-484a-813b-e90328bf1161",
+        "text": "Glad to see <@U075WQMT3EW> in here! Here is <@U06Q2P392AU> outreach proposal you can checkout: <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717194525.802129",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1717326417.294059",
+        "reply_users": [
+            "U075WQMT3EW",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U075WQMT3EW",
+                "ts": "1717197436.688849"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717255244.253019"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717326417.294059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1717326417.294059",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1716917995,
+                "color": "36a64f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#12 Equalify V1 Outreach Proposal",
+                "text": "*Official Equalify Version 1 Outreach Proposal*\n*Summary*\n\nThe three-month outreach program will start on June 10 and involves a detailed strategy to engage key stakeholders, demonstrate the product, and secure contracts. To ensure progress, weekly meetings with Blake and asynchronous communication via Slack will be maintained. The goal is to establish Equalify as a viable alternative to more expensive automated accessibility solutions, demonstrating its scalability, robustness, and ease of use.\n\nThe objective is to secure contracts with higher education stakeholders, aim for 100,000 pages scanned by September 1, and acquire at least three customers.\n\n*Introduction*\n\nDraft of our pitch:\n\n> Introducing Equalify, the ideal and cost-effective solution for higher education institutions committed to digital accessibility. Equalify streamlines the process of making university websites accessible to all students, faculty, and visitors. With its fast, robust, and scalable platform, Equalify scans entire websites using just a sitemap, delivering detailed accessibility reports without requiring advanced technical skills. The included Chrome extension allows users to check and enhance accessibility directly from their browsers. Ensure conformance with today's accessibility standards, improve user experience, and support an inclusive campus environment effortlessly with Equalify. Embrace digital inclusion with Equalify today!\n\n*Budget*\n\nTotal Budget for Three Months: $6,666\n\n*Payment Structure and Allocation:*\n\n• Option 1:\n    • 50% Upfront: $3,333 due June 10\n    • 50% Contingent: $3,333 upon completion of the project\n• Option 2:\n    • $2,222\/mo invoiced in addition to the other a11y work\n\n*Timeline of Tasks, Deliverables, and Milestones*\n*Phase 1: Preparation (June 10 - June 23)*\n\n• Tasks:\n    • Finalize outreach strategy and materials\n    • Set up social media accounts and content plan\n    • Identify and reach out to initial contacts within the higher education sector\n• Deliverables:\n    • Outreach materials (emails, presentations, brochures)\n    • Social media profiles and initial content calendar\n    • List of initial contacts and stakeholders\n• Milestones:\n    • Completed outreach strategy\n    • Social media presence established\n    • Initial contact list finalized\n\n*Phase 2: Engagement (June 24 - July 21)*\n\n• Tasks:\n    • Launch social media campaign\n    • Conduct product demonstrations\n    • Engage with higher education community through webinars, listserves, and online events\n• Deliverables:\n    • Social media posts and engagement metrics\n    • Recorded product demonstrations\n    • Webinars and event participation records\n• Milestones:\n    • Social media campaign initiated\n    • First round of product demonstrations completed\n    • Webinars conducted with higher education stakeholders\n\n*Phase 3: Follow-Up and Conversion (July 22 - August 18)*\n\n• Tasks:\n    • Follow up with interested stakeholders\n    • Provide trial access and support for Equalify\n    • Collect feedback and refine the pitch based on responses\n• Deliverables:\n    • Follow-up emails and communication logs\n    • Trial accounts and support documentation\n    • Feedback reports, surveys, testimonials, etc\n• Milestones:\n    • Stakeholder follow-ups completed\n    • Trial accounts provided\n    • Feedback analyzed and pitch refined\n\n*Phase 4: Contract Negotiation and Finalization (August 19 - September 1)*\n\n• Tasks:\n    • Negotiate and finalize contracts with interested stakeholders\n    • Provide onboarding support for new customers\n    • Prepare final outreach report\n• Deliverables:\n    • Signed contracts\n    • Onboarding documentation\n    • Final report on outreach initiative\n• Milestones:\n    • Contracts signed\n    • Customers onboarded\n    • Outreach report completed\n\n*Key Performance Indicators (KPIs)*\n\n• Quantifiable:\n    • Number of social media engagements (likes, shares, comments)\n    • Number of product demonstrations conducted\n    • Number of trial accounts initiated\n    • Number of contracts signed\n    • Number of pages scanned by September 1 (goal: 100,000 pages)\n• Qualitative:\n    • Stakeholder feedback on product usefulness and ease of use\n    • Customer satisfaction with onboarding and support\n    • Impact of Equalify on improving web accessibility in their institutions\n    • Engagement quality during webinars and online events\n    • Perception of Equalify compared to more expensive alternatives\n\n*Conclusion*\n\nThis initiative aims to demonstrate the value of an affordable, robust, and scalable accessibility solution to higher education institutions. By strategically engaging stakeholders, showcasing product benefits, garnering and responding to feedback, and providing exceptional support, Equalify will establish itself as a viable alternative to more costly solutions, securing contracts and ensuring sustainability.\n\n*Next Steps*\n\n• Finalize outreach proposal and strategy\n• Confirm payment arrangement\n• Set up and plan social media engagement\n• Begin initial contact outreach within the higher education sector",
+                "title": "#12 Equalify V1 Outreach Proposal",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "6",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxxj6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glad to see "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U075WQMT3EW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in here! Here is "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " outreach proposal you can checkout: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U075WQMT3EW",
+        "type": "message",
+        "ts": "1717197436.688849",
+        "client_msg_id": "4d0c0e3e-7217-4ceb-895b-1dc3375b76ca",
+        "text": "HI! Thanks for the warm welcome-\n\nMy initial thoughts on this proposal:\n• Take the last sentence from both the Proposal Summary and Introduction to the top of each paragraph.\n• I would proceed with Option 2 for payment as this proposal has potential for scope creep and may require different deliverables than originally planned as you proceed with outreach work\n• Is brand messaging &amp; visual identity established? CTAs? Taglines? Graphic Components? It is important to launch with a strong voice, look, and feel to instill confidence in this new product. Educational Institutions get pitched solutions often, and move slowly to make a change or investment. If you are able to make contact and gain someone's ear, you want to be prepared to capture their confidence with  brand cohesion and ample trust symbols.\n• Phase 1: This seems solid. I would provide more detail on what qualifies the social media presence as \"established\" and what will be included in the outreach strategy. Make sure to prepare during this time to automate scheduling and create a streamline experience for any interested stakeholders.\n• Phase 2: This phase feels like an aggressive timeline. How much time will be spent doing outreach and engagement? Do you anticipate initial meetings prior to booking a demonstration? How many? How long? How will you manage your availability for this array of tasks? I might move product demonstration tasks into phase 3, and focus Phase 2 solely on outreach and preparation for Phase 3. Use phase 2 outreach to  schedule demonstrations for Phase 3 and prepare the onboarding process to be as streamlined as possible to establish credibility from the get go (no multitasking). This way Demonstrations, recordings, follow up, trial access, and feedback collection can all happen together and create a positive experience for early adopters to rave about. Some form of onboarding support should be ready before you make any demonstrations to potential clients, so eager beavers can jump on the bandwagon immediately if they choose.\n• Phase 3: It's go time! \n• Phase 4: Are drafted contracts ready?\n• KPI's looks good",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "34f022da37db",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7206926312851_34f022da37db6888c502_72.jpg",
+            "first_name": "Ray",
+            "real_name": "Ray Fontaine",
+            "display_name": "Ray Fontaine",
+            "team": "T04JQU0GB2Q",
+            "name": "dreambig",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717194525.802129",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ZdVv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HI! Thanks for the warm welcome-\n\nMy initial thoughts on this proposal:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Take the last sentence from both the Proposal Summary and Introduction to the top of each paragraph."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I would proceed with Option 2 for payment as this proposal has potential for scope creep and may require different deliverables than originally planned as you proceed with outreach work"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Is brand messaging & visual identity established? CTAs? Taglines? Graphic Components? It is important to launch with a strong voice, look, and feel to instill confidence in this new product. Educational Institutions get pitched solutions often, and move slowly to make a change or investment. If you are able to make contact and gain someone's ear, you want to be prepared to capture their confidence with  brand cohesion and ample trust symbols."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Phase 1: This seems solid. I would provide more detail on what qualifies the social media presence as \"established\" and what will be included in the outreach strategy. Make sure to prepare during this time to automate scheduling and create a streamline experience for any interested stakeholders."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Phase 2: This phase feels like an aggressive timeline. How much time will be spent doing outreach and engagement? Do you anticipate initial meetings prior to booking a demonstration? How many? How long? How will you manage your availability for this array of tasks? I might move product demonstration tasks into phase 3, and focus Phase 2 solely on outreach and preparation for Phase 3. Use phase 2 outreach to  schedule demonstrations for Phase 3 and prepare the onboarding process to be as streamlined as possible to establish credibility from the get go (no multitasking). This way Demonstrations, recordings, follow up, trial access, and feedback collection can all happen together and create a positive experience for early adopters to rave about. Some form of onboarding support should be ready before you make any demonstrations to potential clients, so eager beavers can jump on the bandwagon immediately if they choose."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Phase 3: It's go time! "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Phase 4: Are drafted contracts ready?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "KPI's looks good"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

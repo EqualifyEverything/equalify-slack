@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1711391619.975219",
+        "client_msg_id": "0caa9697-9388-4422-abc6-938490580ce1",
+        "text": "hey <@U06P7A34VPH> sorry for the delay, was out of town end of last week. you want to grab a spot on my calendar for a time that works for you? <https:\/\/calendly.com\/crescent-wrench-studio\/>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710953417.855149",
+        "parent_user_id": "U06P7A34VPH",
+        "attachments": [
+            {
+                "from_url": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-453957c3679200e19fcc84e079b5e55cfb26ae5a3aa2504d75b5aedaaf37aa0c.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "id": 1,
+                "original_url": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "fallback": "Calendly: H. Cole Wiley",
+                "text": "Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.",
+                "title": "H. Cole Wiley",
+                "title_link": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "service_name": "Calendly"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTlCA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7A34VPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry for the delay, was out of town end of last week. you want to grab a spot on my calendar for a time that works for you? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendly.com\/crescent-wrench-studio\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

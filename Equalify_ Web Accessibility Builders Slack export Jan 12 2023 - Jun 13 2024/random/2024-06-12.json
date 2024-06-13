@@ -1,0 +1,185 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718210031.512209",
+        "client_msg_id": "cfae33a6-3765-448a-8c17-473261e3a3a9",
+        "text": "Shameless plug. <https:\/\/www.c-ville.com\/kevin-andrews-in-the-hotseat>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/d33byq9npfy6u9.cloudfront.net\/2\/2024\/06\/11182231\/Kevin_Supplied-scaled.jpg",
+                "image_width": 2560,
+                "image_height": 1707,
+                "image_bytes": 284208,
+                "from_url": "https:\/\/www.c-ville.com\/kevin-andrews-in-the-hotseat",
+                "service_icon": "https:\/\/www.c-ville.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.c-ville.com\/kevin-andrews-in-the-hotseat",
+                "fallback": "C-VILLE Weekly: Kevin Andrews in the HotSeat",
+                "text": "In late 2023, the Biden administration released new guidance that requires federal agencies to improve digital accessibility, including enforcing a set of accessibility guidelines before publi...",
+                "title": "Kevin Andrews in the HotSeat",
+                "title_link": "https:\/\/www.c-ville.com\/kevin-andrews-in-the-hotseat",
+                "service_name": "C-VILLE Weekly"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EEy6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shameless plug. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.c-ville.com\/kevin-andrews-in-the-hotseat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partying_face",
+                "users": [
+                    "U04J7TVCQGP",
+                    "U06P7AP2R38"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718210382.597329",
+        "client_msg_id": "9ee0933f-3ef5-414f-924f-d23100978162",
+        "text": "I hope you don't mind that I shared that post on linkedin <@U06Q2P392AU>. Here is my post: <https:\/\/www.linkedin.com\/posts\/blake1111_kevin-andrews-in-the-hotseat-activity-7206696545646194691-Tv_1?utm_source=share&amp;utm_medium=member_desktop>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S36Bw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope you don't mind that I shared that post on linkedin "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Here is my post: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/blake1111_kevin-andrews-in-the-hotseat-activity-7206696545646194691-Tv_1?utm_source=share&utm_medium=member_desktop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718210557.125209",
+        "client_msg_id": "95e9afa3-0fa7-4909-acc2-4a16ecde0f5d",
+        "text": "Awesome <@U04J7TVCQGP>! And definitely don't mind. I'm trying to get more active on there anyway. :slightly_smiling_face: Thank you!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jRqX+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! And definitely don't mind. I'm trying to get more active on there anyway. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

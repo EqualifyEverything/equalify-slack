@@ -1,0 +1,195 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1713483313.707649",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1713483328.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "thread_ts": "1713483313.707649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1713483328.370999",
+        "reply_users": [
+            "U04N3UUQBJL"
+        ],
+        "replies": [
+            {
+                "user": "U04N3UUQBJL",
+                "ts": "1713483328.370999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1713483311,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                "text": "I've just wrapped up the initial implementation of our authentication workflow, along with some foundational user account management features. Here's what's new:\n\n*Features:*\n\n• *Login, Signup, &amp; OTP Verification*: We now have fully functional forms for user authentication. Whether it's a new user signing up or an existing one logging in, we've got it covered. Plus, OTP verification for that extra layer of security.\n• *Account Management*: Users can now peek into their account details and even opt to delete their account if they wish.\n• *UI Enhancements*: Introduced a bunch of new components (Alerts, Buttons, Dialogs) and extended input functionalities (OTP, Select) to enrich our UI toolkit.\n• *Layout Improvements*: The layout got a bit of a facelift too, with a specific focus on authentication flows and overall site structure.\n• *Secure Navigation*: Added Public and Protected routes to ensure pages are accessed as intended based on the user's auth state.\n• *Under the Hood*: Made updates to global CSS for better autofill styles, tweaked our store for authentication state management, and sprinkled in some utility functions for good measure.\n\n*Next Steps:*\n\nThis lays the groundwork for our upcoming features. With authentication out of the way, we can focus on building out the rest of the user-centric views and functionalities.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/3|#3 Feature\/authentication>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:3,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/3&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/authentication&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1713483327.923159",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] 20 new commits pushed to _main_ by wilsuriel03",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/fa564110b3d4ed4e4072eb71deb2ac661197e14b|fa564110>` - feat(authRoutes):Add login and signup pages with authentication forms\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/d1c073854a8b017d915534c0acfd1c777913d931|d1c07385>` - Add Public component for handling public routes\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/9c3cf5279795eb642f0a7758bccf0747798f46cc|9c3cf527>` - Refactor route imports and add Protected component to Root route\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/0c7637356ff35170ffdbaedfb5eda9731c3af93c|0c763735>` - feat(store):Add authentication slice to store\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/152e775b20403fd093fe5638daa5ea66298403eb|152e775b>` - refactor(store):Refactor store directory structure and update imports\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/92ee5f932ecc158b2b34f456491ad1503f815e7c|92ee5f93>` - Add cn utility function for combining class names\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/136046119ffb7c0e9d64c90d4570d6039a109b41|13604611>` - Update global CSS variables to handle autofill styles\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/f3f5e4b5c0a4e0d1da6f4a53954150e205573a98|f3f5e4b5>` - Refactor route imports and add Protected component to Root route\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/6f433e08cb5f1b40d155fb72384f45fddf0f8418|6f433e08>` - Add new dependencies and update existing ones in package.json\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/33accdb3a725baf55988bf8565df99fb69f77dfb|33accdb3>` - Update font family in tailwind.config.ts\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/039a580e2d6ab14e1a99f930e21d88219aab0d1a|039a580e>` - Refactor customRender function in tests to support routeOptions and queryClientConfig\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/360cd4b0bd7a169488ca67fa278177dcd1504d05|360cd4b0>` - Add signup test for page content and form\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/9732c0f3b824a10ee1e4b40882d42214700e3aca|9732c0f3>` - Add login test for page content and form\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/b42b9fdbf041edabcbb7039e2de6d72d2df18a74|b42b9fdb>` - Add tests for public routes\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/40b113016f303450bffcb798cddd8c82176a1898|40b11301>` - Add tests for account page and form\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/af24c25fd94a2bd65fc8bd714383231c795edb7a|af24c25f>` - Add tests for protected routes\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/289fc7d82bf0fb40be2ee8fc46de22a91a8d7b6b|289fc7d8>` - Refactor import statements\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/32e118d56ee50e8fef741951582956c9be57a727|32e118d5>` - Refactor Header component and add tests for navigation links\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/2dbf55974f0bd0c2901ae8d074895a9db9c6e17f|2dbf5597>` - feat(authentication): Complete initial authentication implementation and bump to version 0.2.0 reflecting new features and changes.\n`<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/commit\/390ec2de09b75d65712f198d8ad45dc66bd7f885|390ec2de>` - Merge pull request #3 from wilsuriel03\/feature\/authentication",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/compare\/7ded57392786...390ec2de09b7|20 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/tree\/main|main>` by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B04MGNB1U84",
+        "thread_ts": "1713483313.707649",
+        "root": {
+            "user": "U04N3UUQBJL",
+            "type": "message",
+            "ts": "1713483313.707649",
+            "edited": {
+                "user": "B04MGNB1U84",
+                "ts": "1713483328.000000"
+            },
+            "bot_id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T04JQU0GB2Q",
+            "bot_profile": {
+                "id": "B04MGNB1U84",
+                "app_id": "A01BP7R4KNY",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1675198366,
+                "team_id": "T04JQU0GB2Q"
+            },
+            "thread_ts": "1713483313.707649",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1713483328.370999",
+            "reply_users": [
+                "U04N3UUQBJL"
+            ],
+            "replies": [
+                {
+                    "user": "U04N3UUQBJL",
+                    "ts": "1713483328.370999"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1713483311,
+                    "color": "6f42c1",
+                    "fallback": "[EqualifyEverything\/equalify-frontend] Pull request opened by wilsuriel03",
+                    "text": "I've just wrapped up the initial implementation of our authentication workflow, along with some foundational user account management features. Here's what's new:\n\n*Features:*\n\n• *Login, Signup, &amp; OTP Verification*: We now have fully functional forms for user authentication. Whether it's a new user signing up or an existing one logging in, we've got it covered. Plus, OTP verification for that extra layer of security.\n• *Account Management*: Users can now peek into their account details and even opt to delete their account if they wish.\n• *UI Enhancements*: Introduced a bunch of new components (Alerts, Buttons, Dialogs) and extended input functionalities (OTP, Select) to enrich our UI toolkit.\n• *Layout Improvements*: The layout got a bit of a facelift too, with a specific focus on authentication flows and overall site structure.\n• *Secure Navigation*: Added Public and Protected routes to ensure pages are accessed as intended based on the user's auth state.\n• *Under the Hood*: Made updates to global CSS for better autofill styles, tweaked our store for authentication state management, and sprinkled in some utility functions for good measure.\n\n*Next Steps:*\n\nThis lays the groundwork for our upcoming features. With authentication out of the way, we can focus on building out the rest of the user-centric views and functionalities.",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                    "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/3|#3 Feature\/authentication>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;number&amp;amp;quot;:3,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/3&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/authentication&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1713483328.370999",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1713483311,
+                "color": "6f42c1",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Pull request merged by wilsuriel03",
+                "pretext": "Pull request merged by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/pull\/3|#3 Feature\/authentication>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>"
+            }
+        ]
+    }
+]

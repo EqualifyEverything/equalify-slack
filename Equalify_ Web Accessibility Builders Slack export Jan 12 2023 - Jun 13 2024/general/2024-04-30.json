@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1714540260.509569",
+        "client_msg_id": "66fabea6-2a6c-4755-8e3a-a810b9f41797",
+        "text": "<!channel> - This is an automated reminder that our 5\/5 11:11 event is just 5 days + 11hours away. We'll join the Zoom link here: <https:\/\/lu.ma\/equalify>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/lu.ma\/equalify",
+                "image_url": "https:\/\/social-images.lu.ma\/cdn-cgi\/image\/format=auto,fit=cover,dpr=1,quality=75,width=800,height=419\/api\/event-one?calendar_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Fcommunity_avatar_5.png&calendar_name&color0=%23e7eee7&color1=%23276223&color2=%23f4bc3e&color3=%23e43111&host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2Fji%2F390ed8bf-003a-485f-b3fa-b31d0be8ce3c&host_name=Blake%20Bertuccelli-Booth&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fz3%2F2532b7be-7a7e-4158-9a51-c2428671c216&name=Equalify%20Demo%20Day%21",
+                "image_width": 800,
+                "image_height": 419,
+                "image_bytes": 63766,
+                "service_icon": "https:\/\/lu.ma\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/lu.ma\/equalify",
+                "fallback": "Equalify Demo Day! · Zoom · Luma",
+                "text": "The Latest in web accessibility tech from Equalify!\nThis demo day includes updates from our April sprint. Project creators will be presenting:\nLarge-Scale…",
+                "title": "Equalify Demo Day! · Zoom · Luma",
+                "title_link": "https:\/\/lu.ma\/equalify",
+                "service_name": "lu.ma"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VDSuN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - This is an automated reminder that our 5\/5 11:11 event is just 5 days + 11hours away. We'll join the Zoom link here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lu.ma\/equalify"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

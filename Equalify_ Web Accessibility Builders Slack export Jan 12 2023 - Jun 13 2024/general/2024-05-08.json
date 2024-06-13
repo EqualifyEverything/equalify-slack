@@ -1,0 +1,395 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715204702.020539",
+        "client_msg_id": "d8f5adac-4740-4f36-a1c0-a40cea6a31fb",
+        "text": "Hola <!channel> - I'm starting to review all the work. You all are doing great! (<@U06TJNUDNLA>- kudos on your skeleton loader!) <@U06P7AP2R38>,<@U06PB2BPADB>, who has been working longest on Equalify (other than me), and I sat down to get an idea of where we're at and how we're moving forward.\n\nHere's what we're thinking about doing:\n1. New Work Review - <@U06PB2BPADB> is going through repositories to see what's there, then I'll get in touch to meet with folks in charge of the different items. We'll decide what should be put in the organizational main branch for V1.\n2. Loose roadmap to 6mo-1yr - After the roadmap, we'll give an idea of where we want to be.\n3. Figure out how we're going to support and implement - We need to establish a \"Service Level Agreement\" with clients and continue support understanding with folks working on the project.\nHappy to answer any questions!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVwYt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I'm starting to review all the work. You all are doing great! ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "- kudos on your skeleton loader!) "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", who has been working longest on Equalify (other than me), and I sat down to get an idea of where we're at and how we're moving forward.\n\nHere's what we're thinking about doing:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "New Work Review - "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PB2BPADB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is going through repositories to see what's there, then I'll get in touch to meet with folks in charge of the different items. We'll decide what should be put in the organizational main branch for V1."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Loose roadmap to 6mo-1yr - After the roadmap, we'll give an idea of where we want to be."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Figure out how we're going to support and implement - We need to establish a \"Service Level Agreement\" with clients and continue support understanding with folks working on the project."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHappy to answer any questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715209088.297909",
+        "client_msg_id": "affd2558-fea2-4ff6-b6f7-9aa2c8126998",
+        "text": "Also, since my Cinco De Mayo event was a complete failure LOL, maybe we can record and post videos of our work?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nsh5I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, since my Cinco De Mayo event was a complete failure LOL, maybe we can record and post videos of our work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "video_camera",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715209135.147609",
+        "client_msg_id": "62ea5e34-157c-4aa0-a324-f0619e16c15f",
+        "text": "I can start with my demo of the WordPress Accessibility scan I did in between cleaning dirty diapers. <https:\/\/www.youtube.com\/watch?v=16cX9C33LvE>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=16cX9C33LvE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/16cX9C33LvE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/16cX9C33LvE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"WordPress Accessibility Scan Results\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=16cX9C33LvE",
+                "fallback": "YouTube Video: WordPress Accessibility Scan Results",
+                "title": "WordPress Accessibility Scan Results",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=16cX9C33LvE",
+                "author_name": "Equalify",
+                "author_link": "https:\/\/www.youtube.com\/@Equalify-qd9yr",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AnuZv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can start with my demo of the WordPress Accessibility scan I did in between cleaning dirty diapers. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=16cX9C33LvE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U06P7AP2R38",
+                    "U06TJNUDNLA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "Here's my Equalify API \/ LLM update! Split into 2 videos because Slack only allows 5 min per recording.",
+        "files": [
+            {
+                "id": "F0727AVMC3H",
+                "created": 1715215717,
+                "timestamp": 1715215717,
+                "name": "Screenshare - 2024-05-08 7:48:34 PM.webm",
+                "title": "Screenshare - 2024-05-08 7:48:34 PM.webm",
+                "mimetype": "video\/webm",
+                "filetype": "webm",
+                "pretty_type": "WebM",
+                "user": "U06P7AP2R38",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 125325144,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_video",
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US",
+                    "preview": {
+                        "content": "Hey, everyone. My name is Christopher Aitken and I'm a software developer. I was assigned the API issue out of the qualify bounty along with the large",
+                        "has_more": true
+                    }
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0727AVMC3H-6ba7ed2128\/screenshare_-_2024-05-08_7_48_34_pm.mp4?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0727AVMC3H-6ba7ed2128\/screenshare_-_2024-05-08_7_48_34_pm.mp4?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0727AVMC3H-6ba7ed2128\/download\/screenshare_-_2024-05-08_7_48_34_pm.mp4?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0727AVMC3H-6ba7ed2128\/file.vtt?_xcb=2e0cb&t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0727AVMC3H-6ba7ed2128\/file.m3u8?_xcb=2e0cb&t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0727AVMC3H-6ba7ed2128\/screenshare_-_2024-05-08_7_48_34_pm_trans.mp4?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "duration_ms": 299666,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F0727AVMC3H-6ba7ed2128\/screenshare_-_2024-05-08_7_48_34_pm_thumb_video.jpeg?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_video_w": 1920,
+                "thumb_video_h": 1080,
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U06P7AP2R38\/F0727AVMC3H\/screenshare_-_2024-05-08_7_48_34_pm.webm",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F0727AVMC3H-3efad1e238",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F072F9HG0VC",
+                "created": 1715216317,
+                "timestamp": 1715216317,
+                "name": "Screenshare - 2024-05-08 7:58:34 PM.webm",
+                "title": "Screenshare - 2024-05-08 7:58:34 PM.webm",
+                "mimetype": "video\/webm",
+                "filetype": "webm",
+                "pretty_type": "WebM",
+                "user": "U06P7AP2R38",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 131293753,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_video",
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US",
+                    "preview": {
+                        "content": "So now that I've demonstrated the basic API, we can also switch from our local environment to our staging environment. So it's no longer going to hit",
+                        "has_more": true
+                    }
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F072F9HG0VC-7bff52c1fc\/screenshare_-_2024-05-08_7_58_34_pm.mp4?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F072F9HG0VC-7bff52c1fc\/screenshare_-_2024-05-08_7_58_34_pm.mp4?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F072F9HG0VC-7bff52c1fc\/download\/screenshare_-_2024-05-08_7_58_34_pm.mp4?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F072F9HG0VC-7bff52c1fc\/file.vtt?_xcb=3cf52&t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F072F9HG0VC-7bff52c1fc\/file.m3u8?_xcb=3cf52&t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F072F9HG0VC-7bff52c1fc\/file_trans.mp4?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "duration_ms": 288388,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F072F9HG0VC-7bff52c1fc\/screenshare_-_2024-05-08_7_58_34_pm_thumb_video.jpeg?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_video_w": 1920,
+                "thumb_video_h": 1080,
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U06P7AP2R38\/F072F9HG0VC\/screenshare_-_2024-05-08_7_58_34_pm.webm",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F072F9HG0VC-def1d763ab",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06P7AP2R38",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgN1C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's my Equalify API \/ LLM update! Split into 2 videos because Slack only allows 5 min per recording."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715216367.054579",
+        "client_msg_id": "ff506969-2d77-4cdb-a687-8838ebf3f18b",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U06P7APCV9U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

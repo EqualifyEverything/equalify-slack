@@ -1,0 +1,283 @@
+[
+    {
+        "user": "U06PSPPSTLZ",
+        "type": "message",
+        "ts": "1711730967.215219",
+        "client_msg_id": "cfbd9b00-c29b-48f9-aed0-50dd15a6d567",
+        "text": "<#C06RS373V6G|build-frontend>\n*Hey team.* \n\nOn trying to set up the frontend environment, I found that create-react-app is deprecated. While it’s certainly possible to set up a standalone React app from scratch, I have reconsidered and think it would be smarter both in the immediate and in the long run to use Next.js.\n\nSome reasons:\n\n*Sustainability and Future-proofing*: With CRA being deprecated, it’s clear that the ecosystem is moving towards more integrated solutions. Next.js is actively maintained, offering long-term sustainability and aligning with modern web development practices. Any new releases of React or other tools will likely be made with the assumption that a framework will be used\n\n*Improved Documentation and Community Support*: Future devs working on the project will most likely find more and better resources for a Next.js app than a standalone React one.\n\n*Handling Complexity*: Equalify’s number of features and therefore its complexity are growing rapidly. Next.js provides tools to handle complex API interactions and things like dynamic content rendering.\n\n*Developer experience*: Particularly without CRA, Next.js is much easier to set up than a standalone React app. Also, there are a ton of features and optimizations that make the development more speedy.\n\n*SEO*: Server side rendering is good for SEO, client side is not.\n\n*RESERVATIONS*:\n\n*Hosting*: Really my only concern now about using Next is that is would require a separate server than the PHP one. Which shouldn’t be too much of a problem, it’s very easy to host on Next on Vercel, which comes with automatic optimizations like deployment previews, auto-scaling, load-balancing, etc.\n\nI’m feeling pretty strongly that Next is the way to go on this, but I am open to discussion. Please let me know your thoughts!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "2fe15484aac7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6781590439287_2fe15484aac717fca2f1_72.png",
+            "first_name": "Eric",
+            "real_name": "Eric Kuehnemann",
+            "display_name": "Eric Kuehnemann",
+            "team": "T04JQU0GB2Q",
+            "name": "eekeric",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRUda",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C06RS373V6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey team. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn trying to set up the frontend environment, I found that create-react-app is deprecated. While it’s certainly possible to set up a standalone React app from scratch, I have reconsidered and think it would be smarter both in the immediate and in the long run to use Next.js.\n\nSome reasons:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sustainability and Future-proofing",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": With CRA being deprecated, it’s clear that the ecosystem is moving towards more integrated solutions. Next.js is actively maintained, offering long-term sustainability and aligning with modern web development practices. Any new releases of React or other tools will likely be made with the assumption that a framework will be used\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Improved Documentation and Community Support",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Future devs working on the project will most likely find more and better resources for a Next.js app than a standalone React one.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Handling Complexity",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Equalify’s number of features and therefore its complexity are growing rapidly. Next.js provides tools to handle complex API interactions and things like dynamic content rendering.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Developer experience",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Particularly without CRA, Next.js is much easier to set up than a standalone React app. Also, there are a ton of features and optimizations that make the development more speedy.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "SEO",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Server side rendering is good for SEO, client side is not.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "RESERVATIONS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hosting",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Really my only concern now about using Next is that is would require a separate server than the PHP one. Which shouldn’t be too much of a problem, it’s very easy to host on Next on Vercel, which comes with automatic optimizations like deployment previews, auto-scaling, load-balancing, etc.\n\nI’m feeling pretty strongly that Next is the way to go on this, but I am open to discussion. Please let me know your thoughts!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711736205.534619",
+        "client_msg_id": "4BBA13AB-4838-4E66-A31B-58E8A34E5771",
+        "text": "Got with Next.js! That’s totally fine.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "069uG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got with Next.js! That’s totally fine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711736422.538419",
+        "client_msg_id": "5EFD926B-9DDB-49FE-9486-B198A6986762",
+        "text": "I tried to keep <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1|the issue> pretty platform agnostic, so we can be flexible. The most important thing is that it’s using technology that is widely used and Open Source. I want to celebrate your good work with the wider Open Source community",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711575199,
+                "color": "36a64f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#1 Build Frontend",
+                "text": "*Authentication*\n\n☐ Requires users to be logged in to access. (Redirect to Auth0 to login)\n\n*Views*\n\nThe frontend will include views.\n\n*“Discovery”*\n\n☐ List of properties\n☐ Includes Modal to add new properties via form or CSV\n\nUses `get\/properties` API query.\n\n*“Property Settings”*\n\n☐ Form to up property name, url, and scan type\n\nUses `get\/properties` API query.\n\n*“Scans”*\n\n☐ List of queued scans\n\nUses `get\/scans` API query.\n\n*“Reports”*\n\n☐ List of Reports with a button to edit each report.\n\nUses `get\/reports` API query.\n\n*“Single Report”*\n\n☐ A single report page with timeline of node updates, messages, tags, and pages components.\n☐ Includes button to edit report.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Report Settings”*\n\n☐ Form to update report name and filters\n\nUses `get\/reports` API query.\n\n*“Single Message”*\n\n☐ Report page that is focused on messages includes timeline of node updates and list of nodes related to the message.\n☐ Inherits filters from report if a user clicks to Single Messages from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Single Tag”*\n\n☐ Report page that is focused on tags with timeline of node updates and list of messages with the tag.\n☐ Inherits filters from report if a user clicks to Single Tag from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*“Single URL”*\n\n☐ Report page that is focused on ruls with timeline of node updates and list of messages related to the URL.\n☐ Inherits filters from report if a user clicks to Single URL from a Single Report view.\n\nUses `get\/reports` and `get\/results` API query.\n\n*Actions*\n\nThe frontend will include actions:\n\n*Add Single Property*\n\n☐ Inserts new property info from the form.\n☐ Triggered by Single Property Entry Form button in modal on Discovery view\n☐ Passes info to `\/add\/properties`\n☐ Return success\/failure alert with message\n\n*Add Multiple Properties*\n\n☐ Inserts multiple new properties from the CSV\n☐ Triggered by Upload Form button in modal on Discovery view\n☐ CSV is validated to be a valid CSV with proper fields and reformatted to work with API call.\n☐ Passes info to `\/add\/properties`\n☐ Return success\/failure alert with message\n\n*Save Property Settings*\n\n☐ Updates Property Info\n☐ Triggered by “Save Property” button on Property Settings view\n☐ Passes propertyID and updates to `\/update\/properties`\n☐ Return success\/failure alert with message\n\n*Delete Property*\n\n☐ Removes property and all related content\n☐ Triggered by “Delete Property” button on Property Settings view\n☐ Requires confirmation before deletion: \"All data related to your property will be removed. That includes all nodes and node updates. Are you sure you want to continue?\"\n☐ Passes propertyID to `\/update\/properties`\n☐ Return success\/failure alert with message\n\n*Add Report*\n\n☐ Adds a new report and relevant filters\n☐ Triggered by “Save Report” button on Report Settings view if it's a new report\n☐ Passes relevant info to `\/add\/reports`\n☐ Return success\/failure alert with message\n\n*Update Report*\n\n☐ Updates a report and relevant filters\n☐ Triggered by “Save Report” button on Report Settings view if it's an existing report\n☐ Passes relevant info to `\/update\/reports`\n☐ Return success\/failure alert with message\n\n*Delete Report*\n\n☐ Deletes a report and relevant filters\n☐ Triggered by “Delete Report” button on Report Settings view if it's an existing report\n☐ Passes relevant info to `\/delete\/reports`\n☐ Return success\/failure alert with message\n\n*Add URL to Scan Queue:*\n\n☐ Add Scan to Scan queue\n☐ Triggered by “Scan URL” button on Scan Detail view\n☐ Passes urlID to `\/add\/scans`\n☐ Return success\/failure alert with message\n\n*Components*\n\nThe following are reusable components. Note: Old component markup is available here: <https:\/\/github.com\/EqualifyEverything\/equalify\/tree\/main\/components|https:\/\/github.com\/EqualifyEverything\/equalify\/tree\/main\/components>\n\n*Timeline*\n\n☐ Inherits view data from `get\/results`\n☐ Displays chart of nodes equalified over time.\n☐ Using <https:\/\/www.chartjs.org|https:\/\/www.chartjs.org>\n\n*Messages List*\n\n☐ Inherits view data from `get\/results`\n☐ Displays list of messages with count of equalified and active nodes related to each message.\n☐ Each row links to related Single Message view.\n\n*Tags List*\n\n☐ Inherits view data from `get\/results`\n☐ Displays list of tags\n☐ Each row links to related Single Tag view.\n\n*URL List*\n\n☐ Inherits view data from `get\/results`\n☐ Displays list of urls\n☐ Each row links to related Single URL view.\n\n*Node List*\n\n☐ Inherits view data from `get\/results`\n☐ Displays list of nodes\n\n*Accessibility Requirements*\n\n☐ Maintain WCAG 2.2 Level AA Standards\n☐ Perform user tests - Feel free to ping <https:\/\/github.com\/kevinandrews1|@kevinandrews1> to perform user testing.",
+                "title": "#1 Build Frontend",
+                "title_link": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/eekbk|@eekbk>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGzix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tried to keep "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1",
+                                "text": "the issue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pretty platform agnostic, so we can be flexible. The most important thing is that it’s using technology that is widely used and Open Source. I want to celebrate your good work with the wider Open Source community"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PSPPSTLZ",
+        "type": "message",
+        "ts": "1711743367.739649",
+        "client_msg_id": "b2e8b946-4d67-409f-a2e4-37d70bf13350",
+        "text": ":white_check_mark:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "2fe15484aac7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6781590439287_2fe15484aac717fca2f1_72.png",
+            "first_name": "Eric",
+            "real_name": "Eric Kuehnemann",
+            "display_name": "Eric Kuehnemann",
+            "team": "T04JQU0GB2Q",
+            "name": "eekeric",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2B3Jy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

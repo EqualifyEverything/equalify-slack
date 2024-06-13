@@ -1,0 +1,336 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713296464.235389",
+        "client_msg_id": "b8976e7c-11ad-4c00-a27e-c4c091462ef6",
+        "text": "50k worked great. and the results mostly worked.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YNHMv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "50k worked great. and the results mostly worked."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713296480.502939",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1713297615.000000"
+        },
+        "client_msg_id": "69372d19-51c1-416d-b154-af21437f1f9e",
+        "text": "now starting another 70k+ monster mostly due to the 20k pages of `<https:\/\/wordpress.org\/plugins\/>` , 15k of `<http:\/\/developer.wordpress.org\/themes|developer.wordpress.org\/themes>` , 10k from `<https:\/\/make.wordpress.org\/polyglots>`, and 30k pages of `<https:\/\/wordpress.org\/photos>`",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/8er",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now starting another 70k+ monster mostly due to the 20k pages of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/plugins\/",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , 15k of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/developer.wordpress.org\/themes",
+                                "text": "developer.wordpress.org\/themes",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , 10k from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/make.wordpress.org\/polyglots",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and 30k pages of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/photos",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713297815.900859",
+        "client_msg_id": "4b8b5ffc-4800-4cba-84b1-30f2ac89821f",
+        "text": "Going to try to process the results at the same time as the scanner is scanning..",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712681892.503479",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdqBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going to try to process the results at the same time as the scanner is scanning.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713322683.600009",
+        "client_msg_id": "25e02a93-d400-4017-b84e-b44d0fca06fd",
+        "text": "okay, <@U06PB2BPADB> - i think i finally broke it lol with <https:\/\/equalifyapp.slack.com\/archives\/C06Q9HZRHLK\/p1713297815900859?thread_ts=1712681892.503479&amp;cid=C06Q9HZRHLK|this>. the weird thing is that i don't see any crazy memory\/cpu spikes on any infra",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713322683.600009",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1713456129.711729",
+        "reply_users": [
+            "U06PB2BPADB",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1713327296.721839"
+            },
+            {
+                "user": "U06PB2BPADB",
+                "ts": "1713327333.005879"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1713456129.711729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1713456129.711729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IgHS5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - i think i finally broke it lol with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/equalifyapp.slack.com\/archives\/C06Q9HZRHLK\/p1713297815900859?thread_ts=1712681892.503479&cid=C06Q9HZRHLK",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". the weird thing is that i don't see any crazy memory\/cpu spikes on any infra"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1713327296.721839",
+        "client_msg_id": "6776d3c1-a9e2-4d18-8836-bdd4ba3604f6",
+        "text": "Wait what happened? Looks like it's working on my end",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713322683.600009",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NwLtI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait what happened? Looks like it's working on my end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PB2BPADB",
+        "type": "message",
+        "ts": "1713327333.005879",
+        "client_msg_id": "0ab26380-e9d5-436b-a8c6-2f9326900711",
+        "text": "Also wyd your wife is going to murder you lmaooooo",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g88c7881d594",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88c7881d5941b6787c9704b1aaff9f46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "trey",
+            "real_name": "trey",
+            "display_name": "trey",
+            "team": "T04JQU0GB2Q",
+            "name": "trey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713322683.600009",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bln7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also wyd your wife is going to murder you lmaooooo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fearful",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

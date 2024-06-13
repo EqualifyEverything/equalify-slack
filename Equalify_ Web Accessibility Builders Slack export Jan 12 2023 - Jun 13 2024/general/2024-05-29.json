@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717005397.326309",
+        "client_msg_id": "44f0c5f4-f92f-4dd6-a640-60725e4e6511",
+        "text": "Super! Commented on GitHub",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716918675.435599",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R4zte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super! Commented on GitHub"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

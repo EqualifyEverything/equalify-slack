@@ -1,0 +1,207 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715633082.966509",
+        "client_msg_id": "e5c974bb-f487-4826-a815-89a1d698f4b6",
+        "text": "Here's the Zoom of our discussion: <https:\/\/us06web.zoom.us\/rec\/share\/7GJqcZDsj3w4_o_-_WRIheKpgF_4F_jDmw5ctLMeH7YEBMDIVPmXJoSyjKiZd0s.0M28uVYFATi_khH-?startTime=1715625788000>\nPasscode: a6HZ^mSu\n\nAn overview of what we spoke about:\n1. API `\/add\/results`:  Results in <https:\/\/github.com\/equalifyEverything\/equalify-schema|equalify schema>, with added \"source\" parameter, will be sent to API. API will process results, adding what needs to be added and properly marking \"equalified\"\n2. API `get\/results`: Return a giant JSON in <https:\/\/github.com\/equalifyEverything\/equalify-schema|equalify schema>. We'll require at least one property parameter, so UX sets expectations for load time. Should also consider 4MB Lambda quota so we can deliver really massive amounts of results.\n3. API `add\/scans` : Sends property or url to scan.eqaulify and returns newly queued scan info\n4. API `get\/scans` : Returns queued scan info\n5. Payment: We'll do a bounty system for new features, then standard monthly payment for maintenance. Please supply requirements (overview of tasks, cost, and timeline) for buildout and what would be included in maintenance (services + cost)\n6. I will put it on a roadmap with other work. If it works for V1, we'll start buildout ASAP.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B04MGNB1U84",
+                "app_unfurl_url": "https:\/\/github.com\/equalifyEverything\/equalify-schema",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "EqualifyEverything\/equalify-schema",
+                "text": "Equalify's super simple schema for accessibility testing results.",
+                "title": "EqualifyEverything\/equalify-schema",
+                "fields": [
+                    {
+                        "value": "2",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "JavaScript",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VG7Ie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's the Zoom of our discussion: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/rec\/share\/7GJqcZDsj3w4_o_-_WRIheKpgF_4F_jDmw5ctLMeH7YEBMDIVPmXJoSyjKiZd0s.0M28uVYFATi_khH-?startTime=1715625788000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPasscode: a6HZ^mSu\n\nAn overview of what we spoke about:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "API "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\/add\/results",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ":  Results in "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/equalifyEverything\/equalify-schema",
+                                        "text": "equalify schema"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", with added \"source\" parameter, will be sent to API. API will process results, adding what needs to be added and properly marking \"equalified\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "API "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "get\/results",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Return a giant JSON in "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/equalifyEverything\/equalify-schema",
+                                        "text": "equalify schema"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". We'll require at least one property parameter, so UX sets expectations for load time. Should also consider 4MB Lambda quota so we can deliver really massive amounts of results."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "API "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "add\/scans",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : Sends property or url to scan.eqaulify and returns newly queued scan info"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "API "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "get\/scans",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : Returns queued scan info"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Payment: We'll do a bounty system for new features, then standard monthly payment for maintenance. Please supply requirements (overview of tasks, cost, and timeline) for buildout and what would be included in maintenance (services + cost)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I will put it on a roadmap with other work. If it works for V1, we'll start buildout ASAP."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U06P7APCV9U",
+                    "U06P7AP2R38"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

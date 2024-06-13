@@ -1,0 +1,235 @@
+[
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1712506740.492969",
+        "client_msg_id": "97cfd9c7-e824-41ee-9995-17918179129a",
+        "text": "<!channel> Good news for this week! Apologies for the delay, was waiting to hear back from all!\n• Projects rolling on! <#C06PUUQD4AX|build-raga> <#C06Q9HZRHLK|build-scan> <#C06S292NL0H|build-monitor> <#C06RS373V6G|build-frontend> <#C06R2TJM562|build-api>\n• <@U06P7AP2R38> has done some work on LLM models which can be translated over to Equalify LLM efforts, particularly with accessibility-specific instructions\n• <@U06PKP46SMR> met with Kevin and Raga + team to take notes on their process and started working on the initial crack at the chrome-extension.\n• <@U06Q2P392AU> met with Eric &amp; Cole, getting insights into their projects\nHave a great week, y’all! Thanks for being patient while I gather insight about all the projects as well! (lmk re: using @ + channel, if y’all feel it’s not necessary I can not include it in future updates.)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQ4Ko",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Good news for this week! Apologies for the delay, was waiting to hear back from all!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Projects rolling on! "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06PUUQD4AX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06Q9HZRHLK"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06S292NL0H"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06RS373V6G"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06R2TJM562"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " has done some work on LLM models which can be translated over to Equalify LLM efforts, particularly with accessibility-specific instructions"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PKP46SMR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " met with Kevin and Raga + team to take notes on their process and started working on the initial crack at the chrome-extension."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06Q2P392AU"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " met with Eric & Cole, getting insights into their projects"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHave a great week, y’all! Thanks for being patient while I gather insight about all the projects as well! (lmk re: using @ + channel, if y’all feel it’s not necessary I can not include it in future updates.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1712548046.889039",
+        "text": "\n<https:\/\/news.ycombinator.com\/item?id=39964355>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712548046.889039",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1712594818.360319",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06P7APCV9U",
+            "U06Q6N3N6TT"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1712581173.081019"
+            },
+            {
+                "user": "U06P7APCV9U",
+                "ts": "1712593001.160429"
+            },
+            {
+                "user": "U06P7APCV9U",
+                "ts": "1712593240.142279"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1712594818.360319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1712594818.360319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8gk7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.ycombinator.com\/item?id=39964355"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

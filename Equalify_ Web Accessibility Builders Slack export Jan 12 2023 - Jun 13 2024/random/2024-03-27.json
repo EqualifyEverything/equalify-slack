@@ -1,0 +1,142 @@
+[
+    {
+        "user": "U06P7APCV9U",
+        "type": "message",
+        "ts": "1711560908.922229",
+        "text": "\n<https:\/\/www.intel.com\/content\/www\/us\/en\/company-overview\/one-monospace-font.html>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "ga1eb0b7e1e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1eb0b7e1e50799d290b47311f2fb89f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Noah",
+            "real_name": "Noah Rahman",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "selimthegrim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711560908.922229",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1711978445.016119",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06Q6N3N6TT"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711576084.332019"
+            },
+            {
+                "user": "U06Q6N3N6TT",
+                "ts": "1711978445.016119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711978445.016119",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.intel.com\/content\/dam\/www\/central-libraries\/us\/en\/images\/2023-06\/monospace-marquee.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 117934,
+                "from_url": "https:\/\/www.intel.com\/content\/www\/us\/en\/company-overview\/one-monospace-font.html",
+                "service_icon": "https:\/\/www.intel.com\/etc.clientlibs\/settings\/wcm\/designs\/intel\/default\/resources\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.intel.com\/content\/www\/us\/en\/company-overview\/one-monospace-font.html",
+                "fallback": "Intel: Intel® One Mono",
+                "text": "The Intel One Mono typeface is a free monospace font designed with input from low-vision and legally blind developers for optimized legibility.",
+                "title": "Intel® One Mono",
+                "title_link": "https:\/\/www.intel.com\/content\/www\/us\/en\/company-overview\/one-monospace-font.html",
+                "service_name": "Intel"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCJsd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.intel.com\/content\/www\/us\/en\/company-overview\/one-monospace-font.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711576084.332019",
+        "client_msg_id": "90b331f0-a423-407c-93f6-3a621a213fa7",
+        "text": "That is amazing <@U06P7APCV9U>. Tagging <@U06PSPPSTLZ> on it just in case he wants to add it to Equalify. I can imagine it being used for when we display html code snippets.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711560908.922229",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/LD0G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is amazing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7APCV9U"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Tagging "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PSPPSTLZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on it just in case he wants to add it to Equalify. I can imagine it being used for when we display html code snippets."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U06P7APCV9U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

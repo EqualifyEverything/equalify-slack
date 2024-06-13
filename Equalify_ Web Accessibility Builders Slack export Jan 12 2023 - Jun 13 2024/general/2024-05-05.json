@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1714915789.669799",
+        "edited": {
+            "user": "U06PKP46SMR",
+            "ts": "1714915800.000000"
+        },
+        "client_msg_id": "d83558ee-834e-4f5d-9045-39f20285e303",
+        "text": "i had an event on my calendar at the wrong time today. i thought it was at 9 but it’s actually at 10, so i don’t be able to make it. i’ll upload a video walk thru of where i’m at later today or tomorrow when i’m working. sorry about this last minute absence",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714772164.077959",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRbAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i had an event on my calendar at the wrong time today. i thought it was at 9 but it’s actually at 10, so i don’t be able to make it. i’ll upload a video walk thru of where i’m at later today or tomorrow when i’m working. sorry about this last minute absence"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1714925487.380869",
+        "client_msg_id": "68f1b7b9-f73d-4bfa-a1fd-95842c6d5508",
+        "text": "We are outside Petitte Clouet Cafe and on Zoom here: <https:\/\/us06web.zoom.us\/j\/87070976781?pwd=RFzbljWG1jeZZt6pcfFrNVnrhYXAvL.1>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AxFYy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are outside Petitte Clouet Cafe and on Zoom here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/87070976781?pwd=RFzbljWG1jeZZt6pcfFrNVnrhYXAvL.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

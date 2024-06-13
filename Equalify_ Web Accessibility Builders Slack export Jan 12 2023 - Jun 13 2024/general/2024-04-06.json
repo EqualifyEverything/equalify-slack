@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1712403096.242209",
+        "client_msg_id": "ee892773-d61c-48a4-b5c1-6e501e54a0ee",
+        "text": "Key comment:\n&gt; I'm surprised at the number of commenters here that are blind, or commenters who work with someone who is blind. Maybe this is more common than I thought, and that's awesome. Goes to show that we should try to make accessibility more than just an afterthought.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712350231.606859",
+        "parent_user_id": "U06P7APCV9U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1JKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Key comment:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm surprised at the number of commenters here that are blind, or commenters who work with someone who is blind. Maybe this is more common than I thought, and that's awesome. Goes to show that we should try to make accessibility more than just an afterthought."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

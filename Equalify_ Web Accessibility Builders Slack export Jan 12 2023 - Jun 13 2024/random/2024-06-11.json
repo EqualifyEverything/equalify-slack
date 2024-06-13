@@ -1,0 +1,67 @@
+[
+    {
+        "text": "<@U072VSKLKR6> you still around? We got a response from Duke on our Security. Curious if you can look at it and  make heads or tails, so to speak, of what it says. Attaching a Microsoft Doc file. Let me know if you need a different format.",
+        "files": [
+            {
+                "id": "F077JQE5HRB",
+                "created": 1718131461,
+                "timestamp": 1718131461,
+                "name": "Vendor Risk Assessment Equalify.docx",
+                "title": "Vendor Risk Assessment Equalify.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U04J7TVCQGP",
+                "user_team": "T04JQU0GB2Q",
+                "editable": false,
+                "size": 102749,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F077JQE5HRB\/vendor_risk_assessment_equalify.docx?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04JQU0GB2Q-F077JQE5HRB\/download\/vendor_risk_assessment_equalify.docx?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F077JQE5HRB-39a40ad166\/vendor_risk_assessment_equalify_converted.pdf?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T04JQU0GB2Q-F077JQE5HRB-39a40ad166\/vendor_risk_assessment_equalify_thumb_pdf.png?t=xoxe-4636952555092-7267361192757-7270261788194-d839138f0643f65d1d04bb117f764d96",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/equalifyapp.slack.com\/files\/U04J7TVCQGP\/F077JQE5HRB\/vendor_risk_assessment_equalify.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T04JQU0GB2Q-F077JQE5HRB-cbf7fc6eed",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J7TVCQGP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJ06u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U072VSKLKR6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you still around? We got a response from Duke on our Security. Curious if you can look at it and  make heads or tails, so to speak, of what it says. Attaching a Microsoft Doc file. Let me know if you need a different format."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718131477.818369",
+        "client_msg_id": "9a09d996-2638-4e9c-b715-bf6b65d941f6"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1710948659.259599",
+        "edited": {
+            "user": "U06Q2P392AU",
+            "ts": "1710948798.000000"
+        },
+        "client_msg_id": "73036be7-4b5e-43d2-830e-ce78fc0e3e1a",
+        "text": "Hey <@U06PKP46SMR>,  I wasn't sure whether to connect with you directly or what re manual testing? <@U04J7TVCQGP> mentioned this to me last week and that you're interested in discussing my process. I'm happy to set something up with you not sure on communication protocols for some of these initiatives and wanna be respectful of any preexisting processes that've already been established with the overarching Equalify project. I come from the higher ed flense where's a gazillion layers and five levels of approval to get anything done, so the change of pace and free flow of ideas is incredibly welcome. Feel free to reply here or dm me--whatever you're most comfortable doing!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSI3C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",  I wasn't sure whether to connect with you directly or what re manual testing? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mentioned this to me last week and that you're interested in discussing my process. I'm happy to set something up with you not sure on communication protocols for some of these initiatives and wanna be respectful of any preexisting processes that've already been established with the overarching Equalify project. I come from the higher ed flense where's a gazillion layers and five levels of approval to get anything done, so the change of pace and free flow of ideas is incredibly welcome. Feel free to reply here or dm me--whatever you're most comfortable doing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1710950263.154739",
+        "client_msg_id": "4e03cf9f-8d4f-4aa4-844d-fbd9460ae7ff",
+        "text": "hey kevin, thanks for poking! i’d be happy to setup a screenshare and observe your process and ask questions. does tomorrow between 3:45pm and 4:30pm CST work for you?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1711398488.755329",
+        "reply_users": [
+            "U06Q2P392AU",
+            "U06PKP46SMR"
+        ],
+        "replies": [
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1710960575.641289"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1710965075.640309"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1710991733.287519"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1711391294.656169"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1711391392.412789"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1711391676.375069"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1711394098.775019"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1711394179.056949"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1711398488.755329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/DtaJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey kevin, thanks for poking! i’d be happy to setup a screenshare and observe your process and ask questions. does tomorrow between 3:45pm and 4:30pm CST work for you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1710960575.641289",
+        "client_msg_id": "7bd92821-ff7c-4ac8-a815-cad11f4ac410",
+        "text": "Can you do a little earlier <@U06PKP46SMR>,? I just had something open up between 1:15-2:30CST then have to leave for a previous engagement. Earlier in the day or most of Friday is also good rn.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WecVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you do a little earlier "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",? I just had something open up between 1:15-2:30CST then have to leave for a previous engagement. Earlier in the day or most of Friday is also good rn."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1710965075.640309",
+        "client_msg_id": "23de702a-6da0-4a0b-a576-008545286218",
+        "text": "i’m pretty fully booked for the rest of thursday currently and out all friday for a wedding. you want to grab a spot on my calendar for next week that works? <https:\/\/calendly.com\/crescent-wrench-studio\/>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "attachments": [
+            {
+                "from_url": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-453957c3679200e19fcc84e079b5e55cfb26ae5a3aa2504d75b5aedaaf37aa0c.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "id": 1,
+                "original_url": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "fallback": "Calendly: H. Cole Wiley",
+                "text": "Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.",
+                "title": "H. Cole Wiley",
+                "title_link": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "service_name": "Calendly"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vg\/3+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m pretty fully booked for the rest of thursday currently and out all friday for a wedding. you want to grab a spot on my calendar for next week that works? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendly.com\/crescent-wrench-studio\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1710991733.287519",
+        "client_msg_id": "3724d879-996d-479e-b76e-062eb95d07a7",
+        "text": "Weird <@U06PKP46SMR> I think something funky is going on it appears the rest of March and all of April no times available. Fwiw I'm pretty open next week except the 29th here on Eastern.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "utAsr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Weird "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think something funky is going on it appears the rest of March and all of April no times available. Fwiw I'm pretty open next week except the 29th here on Eastern."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

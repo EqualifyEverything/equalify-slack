@@ -1,0 +1,13 @@
+[
+{"user_id":"U04J7TVCQGP","user_name":"blakebertuccelli","date":1715915371,"change_type":"added","app_type":"Loom","app_id":"A9G1TH4S2"},
+{"user_id":"U04J7TVCQGP","user_name":"blakebertuccelli","date":1715915370,"change_type":"added","app_type":"Loom","app_id":"A9G1TH4S2","scope":"identify,groups:read,im:read,mpim:read,chat:write"},
+{"user_id":"U06Q6N3N6TT","user_name":"mike.gifford","date":1712937745,"change_type":"added","app_type":"Confluence Cloud","app_id":"AC23SDS77"},
+{"user_id":"U06Q6N3N6TT","user_name":"mike.gifford","date":1712937744,"change_type":"added","app_type":"Confluence Cloud","app_id":"AC23SDS77","scope":"identify,channels:read,groups:read,channels:write,groups:write,links:read,links:write"},
+{"user_id":"U06S4D2RX8T","user_name":"gfragin","date":1711904795,"change_type":"added","app_type":"Loop HQ","app_id":"A3Q06QDKJ","scope":"identify,channels:history,groups:history,im:history,mpim:history,channels:read,emoji:read,files:read,groups:read,im:read,mpim:read,stars:read,team:read,users:read,users:read.email,channels:write,chat:write,groups:write,im:write,mpim:write,links:read,remote_files:share,remote_files:read"},
+{"user_id":"U06P7A2BHGF","user_name":"kate_brodoff","date":1710870049,"change_type":"added","app_type":"Atlassian Connector","app_id":"A01CFF33E9F","scope":"identify,channels:history,groups:history,channels:read,files:read,groups:read,team:read,users:read,users:read.email,users.profile:read,links:read,links:write"},
+{"user_id":"U04J7TVCQGP","user_name":"blakebertuccelli","date":1709068044,"change_type":"added","app_type":"Zoom","app_id":"A5GE9BMQC","scope":"identity.basic"},
+{"user_id":"U04J7TVCQGP","user_name":"blakebertuccelli","date":1679589154,"change_type":"expanded","app_type":"Notion","app_id":"A049JV0H0KC"},
+{"user_id":"U04J7TVCQGP","user_name":"blakebertuccelli","date":1679588955,"change_type":"added","app_type":"Notion","app_id":"A049JV0H0KC"},
+{"user_id":"U04J7TVCQGP","user_name":"blakebertuccelli","date":1679588954,"change_type":"added","app_type":"Notion","app_id":"A049JV0H0KC","scope":"identify,channels:history,groups:history,im:history,mpim:history,channels:read,groups:read,im:read,mpim:read,chat:write,groups:write"},
+{"user_id":"U04J7TVCQGP","user_name":"blakebertuccelli","date":1675198367,"change_type":"added","app_type":"GitHub","app_id":"A01BP7R4KNY"}
+]

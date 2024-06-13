@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715640547.910469",
+        "client_msg_id": "e873323f-0879-44a8-84c3-3fee421e6060",
+        "text": "this is radically awesome <@U06TJNUDNLA>! sorry i missed it before. I sent you the invite to Gusto and will send the payment for the other 50% work as soon as you get signed up. Great work!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715489050.962739",
+        "parent_user_id": "U06TJNUDNLA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eMmft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is radically awesome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! sorry i missed it before. I sent you the invite to Gusto and will send the payment for the other 50% work as soon as you get signed up. Great work!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1715641364.411549",
+        "client_msg_id": "2f992711-c0f8-499e-bc2e-48f681f43abd",
+        "text": "<@U04J7TVCQGP>, thanks! I just finished signing up.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715489050.962739",
+        "parent_user_id": "U06TJNUDNLA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfv9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thanks! I just finished signing up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

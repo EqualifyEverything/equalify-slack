@@ -1,0 +1,194 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718112213.266359",
+        "client_msg_id": "d2ec7920-ef6e-4189-8518-4daf9c91f7a5",
+        "text": "Hey <@U06Q2P392AU> - The frontend is missing some major pieces that will effect usability. It's probably good to wait on regression testing until those pieces are complete, right? I put together a list of what <@U06TJNUDNLA> needs to do here: <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718112213.266359",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1718113295.877969",
+        "reply_users": [
+            "U06Q2P392AU",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1718112485.419979"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1718113295.877969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1718113295.877969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6QuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - The frontend is missing some major pieces that will effect usability. It's probably good to wait on regression testing until those pieces are complete, right? I put together a list of what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " needs to do here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/23"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1718112485.419979",
+        "client_msg_id": "69f2885d-aede-4720-aa04-43dff833dc35",
+        "text": "Yup I saw that <@U04J7TVCQGP> - should definitely wait until addressed. I'll update the notes in <#C04JFS3F98E|general> re the todo list.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718112213.266359",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ym0X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup I saw that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - should definitely wait until addressed. I'll update the notes in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04JFS3F98E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " re the todo list."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1718113295.877969",
+        "client_msg_id": "a326a57a-26bc-41db-b1df-c486d1c55a67",
+        "text": "Great. There might be a bit of time until our next testing.\n\n<@U06TJNUDNLA> - do you mind telling Kevin when the frontend is fully functional? That will be the next time we do testing.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718112213.266359",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OmSL8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great. There might be a bit of time until our next testing.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - do you mind telling Kevin when the frontend is fully functional? That will be the next time we do testing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

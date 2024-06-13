@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1713456129.711729",
+        "client_msg_id": "97521dae-eeec-4e0b-9083-c1bc3b065e49",
+        "text": "it was the url.. my fault.. all looks great. and hopefully i can stay away from slack as my wife goes into labor :face_with_spiral_eyes:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713322683.600009",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y1clN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it was the url.. my fault.. all looks great. and hopefully i can stay away from slack as my wife goes into labor "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_spiral_eyes",
+                                "unicode": "1f635-200d-1f4ab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06PB2BPADB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

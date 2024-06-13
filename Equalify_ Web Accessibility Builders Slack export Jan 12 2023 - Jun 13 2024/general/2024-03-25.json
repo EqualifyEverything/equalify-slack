@@ -1,0 +1,336 @@
+[
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1711391294.656169",
+        "client_msg_id": "720dea08-8bc5-4116-a89b-1e29c2ab0fa4",
+        "text": "that is weird. i’ll see what’s going on with that",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "krwGx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that is weird. i’ll see what’s going on with that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1711391392.412789",
+        "client_msg_id": "59eb409a-73b6-4e1e-9b49-2307e7b72065",
+        "text": "ah, i had some weeks long events that weren’t marked as show me as free. classic",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhfW4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah, i had some weeks long events that weren’t marked as show me as free. classic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1711391676.375069",
+        "client_msg_id": "8e2612b2-b48f-4c98-89cf-c811a5d0101a",
+        "text": "i’m pretty free this week as well. you want to try again for grabbing a spot? i just made sure the calendar is working: <https:\/\/calendly.com\/crescent-wrench-studio\/>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "attachments": [
+            {
+                "from_url": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-453957c3679200e19fcc84e079b5e55cfb26ae5a3aa2504d75b5aedaaf37aa0c.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "fallback": "Calendly: H. Cole Wiley",
+                "text": "Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.",
+                "title": "H. Cole Wiley",
+                "title_link": "https:\/\/calendly.com\/crescent-wrench-studio\/",
+                "service_name": "Calendly"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7v3ei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m pretty free this week as well. you want to try again for grabbing a spot? i just made sure the calendar is working: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendly.com\/crescent-wrench-studio\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1711394098.775019",
+        "client_msg_id": "8c61a56c-5379-451a-950f-624fe5e60fce",
+        "text": "Done and scheduled <@U06PKP46SMR> - thanks for looking into it! I just noticed it's going to do Meet. Any potential we can Zoom? I've had issues with Meet in the past with getting people to be able to hear me at least on desktop. Okay on app and I can make it work if need be but I do prefer Zoom if there's any possiblity for that as an option.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+HA0m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done and scheduled "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - thanks for looking into it! I just noticed it's going to do Meet. Any potential we can Zoom? I've had issues with Meet in the past with getting people to be able to hear me at least on desktop. Okay on app and I can make it work if need be but I do prefer Zoom if there's any possiblity for that as an option."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1711394179.056949",
+        "client_msg_id": "8e2018f7-0d84-4e7d-bc8a-e1564132d81b",
+        "text": "yea sure no problem. i don’t have a premium zoom account so i default to jitsi. you want to send me a zoom link for updating the invite with?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l3Q+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea sure no problem. i don’t have a premium zoom account so i default to jitsi. you want to send me a zoom link for updating the invite with?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1711398488.755329",
+        "client_msg_id": "2a2dae7b-1b34-4445-861b-1ba56781ce24",
+        "text": "Ah no worries, I've never used Jitsi and curious about its a11y. Let's give it the old college try! I think I can just access it via a web interface by the looks of it.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710950263.154739",
+        "parent_user_id": "U06PKP46SMR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2ivP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah no worries, I've never used Jitsi and curious about its a11y. Let's give it the old college try! I think I can just access it via a web interface by the looks of it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711410612.406109",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1711411104.000000"
+        },
+        "client_msg_id": "123aa04c-ad8f-4ba4-b481-7ad1f731ff06",
+        "text": "Creating <#C06R2TJM562|build-api> for chatter related to the API update, which I'm jumping on to kill time while I wait for Baby Bertuccelli-Booth :fearful:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9WMt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Creating "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06R2TJM562"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for chatter related to the API update, which I'm jumping on to kill time while I wait for Baby Bertuccelli-Booth "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fearful",
+                                "unicode": "1f628"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hatching_chick",
+                "users": [
+                    "U04J7TVCQGP",
+                    "U06P7APCV9U",
+                    "U06P7AP2R38"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

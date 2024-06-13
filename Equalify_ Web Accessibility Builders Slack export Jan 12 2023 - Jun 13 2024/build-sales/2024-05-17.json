@@ -1,0 +1,150 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715929234.674289",
+        "text": "this probably should go into marketing",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1715928963.099719",
+                "author_id": "U04J7TVCQGP",
+                "channel_id": "C04JFS3F98E",
+                "channel_team": "T04JQU0GB2Q",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04JQU0GB2Q",
+                        "channel": "C04JFS3F98E",
+                        "ts": "1715928963.099719",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "3JMUY",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Tonight I started hacking an idea that is probably pretty dumb, but "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U06TJNUDNLA"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "'s passion for frontend got me thinking outside the box.\n\nBasically:\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "We expose every website we scan publicly"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Anyone can scan a site for free."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "People can signup for a \"Pro\" tier to get prioritized scanning + AI features + Customizable reporting"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nWhat do you think?\n\nI put together a video walkthrough here (warning to all my screen reader friends: the site that I uploaded this video to sucks, but you can click the play button in the Slack embedded video): "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.loom.com\/share\/c53709f0024c4d5c92a6089483c64221?sid=dd5a74df-9ea7-4c60-b1db-46fa9557f8e7"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/equalifyapp.slack.com\/archives\/C04JFS3F98E\/p1715928963099719",
+                "is_share": true,
+                "fallback": "[May 17th, 2024 1:56 AM] blakebertuccelli: Tonight I started hacking an idea that is probably pretty dumb, but <@U06TJNUDNLA>'s passion for frontend got me thinking outside the box.\n\nBasically:\n1. We expose every website we scan publicly\n2. Anyone can scan a site for free.\n3. People can signup for a \"Pro\" tier to get prioritized scanning + AI features + Customizable reporting\nWhat do you think?\n\nI put together a video walkthrough here (warning to all my screen reader friends: the site that I uploaded this video to sucks, but you can click the play button in the Slack embedded video): <https:\/\/www.loom.com\/share\/c53709f0024c4d5c92a6089483c64221?sid=dd5a74df-9ea7-4c60-b1db-46fa9557f8e7>",
+                "text": "Tonight I started hacking an idea that is probably pretty dumb, but <@U06TJNUDNLA>'s passion for frontend got me thinking outside the box.\n\nBasically:\n1. We expose every website we scan publicly\n2. Anyone can scan a site for free.\n3. People can signup for a \"Pro\" tier to get prioritized scanning + AI features + Customizable reporting\nWhat do you think?\n\nI put together a video walkthrough here (warning to all my screen reader friends: the site that I uploaded this video to sucks, but you can click the play button in the Slack embedded video): <https:\/\/www.loom.com\/share\/c53709f0024c4d5c92a6089483c64221?sid=dd5a74df-9ea7-4c60-b1db-46fa9557f8e7>",
+                "author_name": "Blake Bertuccelli-Booth",
+                "author_link": "https:\/\/equalifyapp.slack.com\/team\/U04J7TVCQGP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_48.jpg",
+                "author_subname": "Blake Bertuccelli-Booth",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRi7Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this probably should go into marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U073V4UBNHK",
+        "text": "<@U073V4UBNHK> has joined the channel",
+        "type": "message",
+        "ts": "1715945142.250199"
+    }
+]

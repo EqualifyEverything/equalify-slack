@@ -1,0 +1,266 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711570006.487949",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-api] 1 new commit pushed to _main_ by bbertucc",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-api\/commit\/86ca0ed09f6d321c70e465dd562e2e3530f65579|86ca0ed0>` - Creativity needs a blank slate",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/compare\/2146f3f89dbe...86ca0ed09f6d|1 new commit> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-api\/tree\/main|main>` by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711570112.527169",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1711572826.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711570110,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue opened by bbertucc",
+                "text": "Domain hosted on porkbun.",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1|#1 Deploy to api.equalify.app>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:1,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/1&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Deploy to api.equalify.app&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711570362.556479",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1711573738.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711570359,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue opened by bbertucc",
+                "text": "Authentication tied with user accounts, stored in <http:\/\/auth0.com|auth0>.\n\nUser accounts also tell which DB the user has access to in auth0 App Meta Data:\n\n```\n{\n  \"equalify_databases\": [\n    \"equalify_account_36\",\n    \"equalify_account_35\"\n  ]\n}\n```",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2|#2 Integrate Authentication>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:2,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Integrate Authentication&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1711572664.192969",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1711575124.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1711572661,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-api] Issue opened by bbertucc",
+                "text": "*Overview*\n\nRequests add, remove, and get DB content.\n\n*NOTE:*\n\n☐ Every request will return `status` (success\/error), `message`, and `result` objects.\n☐ An overview of current DB architecture is available here: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/install.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/install.php>\n☐ Every DB is named related to a user account (see <https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/2|#2> for more info)\n\n*\/get Requests*\n\nThese requests get content from the DB:\n\n*\/get\/results*\n\n☐ Optionally filtered by `propertyIds`, `urlIds`, `nodeIds`, `nodeUpdateIds`, `messageIds`, and `tagIds`.\n☐ Returns results from `nodes`, `node_updates`, `messages`, `tags`, `message_nodes`, `message_tags`, `urls`, and `properties` DB tables as JSON in valid <https:\/\/github.com\/equalifyEverything\/equalify-schema|Equalify Schema>.\n☐ Messages, Tags, Properties, Pages are sorted by properties related to the most nodes with `nodeEqualified` set to \"false\" - most to least.\n\n*NOTE:*  \nThis PHP script was used to generate results without filters in the past: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/api.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/api.php>\n\n*\/get\/properties*\n\n☐ Optionally filtered by array with `propertIds`, string with `propertyDiscovery` set, or array with `propertyUrls`.\n☐ Returns results from `properties` DB table as JSON\n\n*\/get\/updates*\n\n☐ Optionally filtered by `startDate` and`endDate`.\n☐ Returns results from `node_updates` DB table as JSON\n\n*\/get\/scans*\n\n☐ Optionally filtered by `scanIds`\n☐ Returns results from `queued_scans` DB table as JSON\n\n*NOTE:*  \nThis existing PHP script did many of the functions described: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/helpers\/get_scans.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/helpers\/get_scans.php>\n\n*\/get\/reports*\n\n☐ Optionally filtered by `reportIds`\n☐ Returns results from `reports` DB table as JSON\n\n*NOTE:*  \nThis existing PHP script did many of the functions described: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/helpers\/get_reports.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/helpers\/get_reports.php>\n\n*\/add Requests*\n\nThese requests add content to the DB:\n\n*\/add\/results*\n\n☐ Processes and adds data formatted in <https:\/\/github.com\/equalifyEverything\/equalify-schema|Equalify schema> to DB.\n☐ Checks if properties are new. If so, adds properties. If not, uses id of existing properties.\n☐ Checks if urls are new. If so, adds urls. If not, uses id of existing url.\n☐ Checks if messages are new. If so, adds message. If not, uses id of existing message.\n☐ Checks if tags are new. If so, adds tag. If not, uses id of existing tag.\n☐ Checks if node is new (new nodes must be unique html + targets and relate to a unique URL). Adds if so. Uses existing id, if not.\n☐ Checks if node update is new. If so, adds update. If not, uses existing id.\n☐ Returns IDs related to added URLs, properties, messages, tags, nodes, and updates.\n\n*NOTE:*  \nThis PHP script did many of the same functions we need `add\/results` to do: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/process_scans.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/process_scans.php>\n\n*\/add\/scans*\n\n☐ Requires existing `urlIds`\n☐ Validates to make sure `urlIds` exist.\n☐ Adds URL info to `queuedScans`.\n☐ Returns new scan ids\n\n*\/add\/reports*\n\n☐ Requires `reportName` and `filters`.\n☐ `filters` is an array that includes optional arrays of `propertyIds`, `urlIds`, `nodeIds`, `nodeUpdateIds`, `messageIds`, `tagIds`\n☐ Validates to make sure `filters` data exists.\n☐ Returns new `reportIds`\n\n*NOTE:*  \nThese existing PHP script did many of the functions described:\n\n• <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_report_filter_change.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_report_filter_change.php>\n• <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_report_title.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_report_title.php>\n\n*\/add\/properties*\n\n☐ Requires `propertyName`, `propertyDiscovery` (\"single_page_import\" \/ \"sitemap_import\" \/ \"manually_added\"), and `propertyUrl`.\n☐ Validates to make sure `propertyDiscovery` (\"single_page_import\" \/ \"sitemap_import\" \/ \"manually_added\") and `propertyUrl` is valid\n☐ Returns new `propertyIds`\n\n*NOTE:*  \nThese existing PHP scripts did many of the functions described:\n\n• <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/add_single_property.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/add_single_property.php>\n• <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/add_csv_properties.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/add_csv_properties.php>\n\n*\/update Requests*\n\nThe requests update existing content:\n\n*\/update\/properties*\n\n☐ Requires `propertyId` and any either new `propertyName`, `propertyDiscovery` (\"single_page_import\" \/ \"sitemap_import\" \/ \"manually_added\"), and\/or `propertyURL`\n☐ Validates to make sure `propertyId` exists, `propertyDiscovery` is valid, and `propertyURL` is valid.\n☐ Returns fields that were saved with related `propertyIds`\n\n*NOTE:*  \nThis existing PHP script did many of the functions described: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_property_settings.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_property_settings.php>\n\n*\/update\/reports*\n\n☐ Requires `reportId` and either `reportName` and\/or `reportFilters`.\n☐ `filters` is an array that includes arrays of `propertyIds`, `urlIds`, `nodeIds`, `nodeUpdateIds`, `messageIds`, `tagIds`\n☐ Validates to make sure every entry in `filters` exist, formatting is valid, and `reportId` exists.\n☐ Returns fields that were saved with related `propertyIds`\n\n*NOTE:*  \nThese existing PHP scripts did many of the functions described:\n\n• <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_report_filter_change.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_report_filter_change.php>\n• <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_report_title.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/save_report_title.php>\n\n*\/delete\/properties*\n\n☐ Requires `propertyId`\n☐ Deletes property and all nodes and node updates related to the property, as well as any saved report filters related to the property and the node ids that were deleted\n☐ Returns propertyIds of deleted properties\n\n*NOTE:*  \nThis existing PHP script did many of the functions described: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/delete_property.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/delete_property.php>\n\n*\/delete\/reports*\n\n☐ Requires `reportId`\n☐ Deletes reports related to given ids\n☐ Returns reportIds of deleted reports\n\n*NOTE:*  \nThis existing PHP script did many of the functions described: <https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/delete_report.php|https:\/\/github.com\/EqualifyEverything\/equalify\/blob\/v1-rc5\/actions\/delete_report.php>\n\n*LLM Request*\n\nThis is a rough idea of what LLM-related requests would do because it's not created yet.\n\n*\/help*\n\n☐ Ideally, takes results formatted in Equalify schema and returns LLM suggestion",
+                "pretext": "Issue created by <https:\/\/github.com\/bbertucc|bbertucc>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/3|#3 Create Request Endpoints>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-api|EqualifyEverything\/equalify-api>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/heythisischris|@heythisischris>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:3,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/3&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Create Request Endpoints&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:3,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/3&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Create Request Endpoints&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:777986767,&amp;amp;quot;issueNumber&amp;amp;quot;:3,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/3&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Create Request Endpoints&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    }
+]

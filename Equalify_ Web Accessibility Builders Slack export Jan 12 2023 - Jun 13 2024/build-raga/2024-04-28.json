@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1714359551.982539",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-raga] 8 new commits pushed to _master_ by hcwiley",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/163f63e28b01f4250681258dbba64ddb50bdca85|163f63e2>` - feat: add more command handling\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/21ad24e949c98fc8846ad1349db3339921a07e15|21ad24e9>` - feat: add pm2 for managing services\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/3ef394a9aba5675b71c4cf07ff084d473818c1f5|3ef394a9>` - feat: packages of dummy api for testing requests\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/53c9556830f42f8b5d91b0332b10507e1993df60|53c95568>` - feat: allow posting to localhost:3001\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/c5fc3d0990a496367523ad893cdd68f5e3e53acc|c5fc3d09>` - chore: fix icons\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/f0fd00a7b56d07e494b965bbe121ecf535fbdae7|f0fd00a7>` - feat: add dummy api code\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/ac785eb424622f298007e9586e991dad80ae56d0|ac785eb4>` - chore: add fn\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/e9d1f527bbff9a430dfe622bc79b1b9b2c6598ad|e9d1f527>` - chore: add details about new setup with pm2 and dummy api",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/compare\/b00eb7939798...e9d1f527bbff|8 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/tree\/master|master>` by <https:\/\/github.com\/hcwiley|hcwiley>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga|EqualifyEverything\/equalify-raga>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

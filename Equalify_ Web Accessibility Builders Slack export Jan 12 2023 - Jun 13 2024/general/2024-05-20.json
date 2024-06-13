@@ -1,0 +1,298 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716221326.005059",
+        "client_msg_id": "06b3ed6f-73d7-43c4-9854-71b5fe0a8f0a",
+        "text": "<!here> - Join us for our first of many Equalify Contributor meetings! We're  in this zoom: <https:\/\/us06web.zoom.us\/j\/84549758489?pwd=THoSX0e1aedZkx559TKfn5vpo5aXin.1>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ow7Si",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Join us for our first of many Equalify Contributor meetings! We're  in this zoom: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/84549758489?pwd=THoSX0e1aedZkx559TKfn5vpo5aXin.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716227810.803899",
+        "client_msg_id": "2284bcae-7b7f-475f-9133-a3aff60704bf",
+        "text": "Inspired by Equalify contributors! Here are the key outcomes from our first contributor meeting:\n• <@U06P7AP2R38> is going to get started on the API. <https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4|His task> was approved.\n• <@U06TJNUDNLA> is finishing up the frontend and will post an issue in <https:\/\/github.com\/orgs\/EqualifyEverything\/projects\/2|Project> for Version 1 Frontend Design and Development, modeled off of Chris's ticket.\n• <@U06PB2BPADB> hopes to have a Monitor by the end of this week. Will be available if Chris needs endpoint talk.\n• <@U04J7TVCQGP> is going to get the old version working with the axe endpoint, create a ticket for his own work that other contributors will approve. And followup with <@U06PKP46SMR> and <@U06PDVC4P7C> about the status of <#C06PUUQD4AX|build-raga>. He's also going to get Adonis an export of V1 onboarding wireframes and talk to potential customers + experts about the idea of exposing public data publicly, focusing on Developers instead of Managers.\n• <@U06Q2P392AU> will continue to talk with Adonis and Chris about frontend changes, and will start thinking through outreach initiatives he can jump on.\n",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8NEJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inspired by Equalify contributors! Here are the key outcomes from our first contributor meeting:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is going to get started on the API. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/EqualifyEverything\/equalify-api\/issues\/4",
+                                        "text": "His task"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " was approved."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06TJNUDNLA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is finishing up the frontend and will post an issue in "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/orgs\/EqualifyEverything\/projects\/2",
+                                        "text": "Project"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " for Version 1 Frontend Design and Development, modeled off of Chris's ticket."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PB2BPADB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " hopes to have a Monitor by the end of this week. Will be available if Chris needs endpoint talk."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U04J7TVCQGP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is going to get the old version working with the axe endpoint, create a ticket for his own work that other contributors will approve. And followup with "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PKP46SMR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PDVC4P7C"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " about the status of "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06PUUQD4AX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". He's also going to get Adonis an export of V1 onboarding wireframes and talk to potential customers + experts about the idea of exposing public data publicly, focusing on Developers instead of Managers."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06Q2P392AU"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " will continue to talk with Adonis and Chris about frontend changes, and will start thinking through outreach initiatives he can jump on."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1716227892.193619",
+        "client_msg_id": "da291dc8-2fa3-4b0d-ad6d-10c4bf47062e",
+        "text": "<!here> I took the liberty of creating <#C074YBD1HS4|a11y> to discuss anything a11y-related around the platform. In the open source spirit I kept it public and anyone  should be able to join! Great speaking with some of you today on the contributors call. I'll be following up with some of you asynchronously. :muscle:",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYJer",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I took the liberty of creating "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C074YBD1HS4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to discuss anything a11y-related around the platform. In the open source spirit I kept it public and anyone  should be able to join! Great speaking with some of you today on the contributors call. I'll be following up with some of you asynchronously. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716227905.443129",
+        "client_msg_id": "ef612209-a99f-428c-8c5b-87537c407464",
+        "text": "LOVE THAT!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sqv1I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LOVE THAT!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

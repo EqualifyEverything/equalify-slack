@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1715640432.660369",
+        "client_msg_id": "cedcbf7f-8943-41ab-b539-cf5d0aabd7fc",
+        "text": "very pumped after the convo with <@U06TJNUDNLA>. here's a summary:\n• adonis is going to finish up the frontend once <@U06P7AP2R38> is ready with the results and scan portion of the API\n• he's also going to setup a list of things he wants to do after Version 1 is set (updated UX? new features? .. whtever is good)\n• We'll then discuss a flat rate to pay for the updates + maintenance retainer",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "riEtR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "very pumped after the convo with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". here's a summary:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "adonis is going to finish up the frontend once "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is ready with the results and scan portion of the API"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "he's also going to setup a list of things he wants to do after Version 1 is set (updated UX? new features? .. whtever is good)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We'll then discuss a flat rate to pay for the updates + maintenance retainer"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P7AP2R38"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

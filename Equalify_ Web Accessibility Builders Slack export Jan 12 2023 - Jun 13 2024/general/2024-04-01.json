@@ -1,0 +1,408 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711996476.021109",
+        "client_msg_id": "4C34E633-BC42-4816-AE51-6EA1F81FFA5F",
+        "text": "Folks- <@U06RZ1EJGER> is going to be project managing while I’m away. Currently, that really only means she’ll be posting a Friday Good News summary of any work. Feel free to share anything directly with her that y’all want to share. ",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711996476.021109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1711998174.939029",
+        "reply_users": [
+            "U06PPQQF54P",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06PPQQF54P",
+                "ts": "1711996832.167659"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1711998174.939029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711998174.939029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZUEKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06RZ1EJGER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is going to be project managing while I’m away. Currently, that really only means she’ll be posting a Friday Good News summary of any work. Feel free to share anything directly with her that y’all want to share. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06RZ1EJGER",
+                    "U06P7AP2R38"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711996636.893079",
+        "client_msg_id": "3D856520-5F11-429E-96FC-A4C4B738EA59",
+        "text": "For the benefit of <@U06RZ1EJGER> and everyone here, here is who is leading what:\n• <@U06PB2BPADB> -&gt; <#C06S292NL0H|build-monitor> &amp; <#C06Q9HZRHLK|build-scan> \n• <@U06PKP46SMR> -&gt; <#C06PUUQD4AX|build-raga> \n• <@U06P7AP2R38> -&gt; <#C06R2TJM562|build-api> &amp; <#C06S92KJAR1|build-llm> \n• <@U06Q2P392AU> -&gt; user testing\n• <@U06PSPPSTLZ> -&gt; <#C06RS373V6G|build-frontend> ",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jKMR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the benefit of "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06RZ1EJGER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and everyone here, here is who is leading what:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PB2BPADB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " -> "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06S292NL0H"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " & "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06Q9HZRHLK"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PKP46SMR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " -> "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06PUUQD4AX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06P7AP2R38"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " -> "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06R2TJM562"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " & "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06S92KJAR1"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06Q2P392AU"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " -> user testing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06PSPPSTLZ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " -> "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06RS373V6G"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06PKP46SMR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711996692.383429",
+        "client_msg_id": "B21A9DE7-223E-44BE-860D-C4C97C269A81",
+        "text": "Unless you tell <@U06RZ1EJGER> otherwise, I think she should alert everyone in this channel once a week by adding the “@channel” tag.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6nTaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unless you tell "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06RZ1EJGER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " otherwise, I think she should alert everyone in this channel once a week by adding the “@channel” tag."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06RZ1EJGER",
+                    "U06P7AP2R38"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06PPQQF54P",
+        "type": "message",
+        "ts": "1711996832.167659",
+        "client_msg_id": "3255815c-12a5-4b99-9352-578164f6dd6a",
+        "text": "Congrats and best of luck, Blake! I never need or want to get Slack notifications from mentions other than actual mentions OF ME, but I think I can just disable that for this channel.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "gfce4139bd70",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fce4139bd706edf0c1be59c074bcd5ad.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Mark",
+            "real_name": "Mark H. Anbinder (he\/him)",
+            "display_name": "Mark H. Anbinder (he\/him)",
+            "team": "T04JQU0GB2Q",
+            "name": "mha1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711996476.021109",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hpBOb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats and best of luck, Blake! I never need or want to get Slack notifications from mentions other than actual mentions OF ME, but I think I can just disable that for this channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1711998174.939029",
+        "client_msg_id": "88403470-2232-44C4-BCBA-317111FD5F47",
+        "text": "That’s a good note to remember <@U06PPQQF54P>. I usually use “@channel” to call attention to key content items when channels are full of other content, but maybe we don’t need to within this channel. Full discretion to <@U06RZ1EJGER> , but curious to hear what other people feel. Thanks again Mark!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711996476.021109",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WC4cy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s a good note to remember "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PPQQF54P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I usually use “@channel” to call attention to key content items when channels are full of other content, but maybe we don’t need to within this channel. Full discretion to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06RZ1EJGER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , but curious to hear what other people feel. Thanks again Mark!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

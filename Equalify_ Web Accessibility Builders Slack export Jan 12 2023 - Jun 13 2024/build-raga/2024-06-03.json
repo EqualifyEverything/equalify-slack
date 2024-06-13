@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U06PKP46SMR",
+        "type": "message",
+        "ts": "1717436866.847829",
+        "client_msg_id": "49716e32-d518-480e-9cbe-067ed41b73ad",
+        "text": "things that need to happen before an MVP is pushed:\n• replace URL for api calls with something other than localhost dummy server\n• auth: disable auth thing all together or add actual auth handling\n• the chrome dev account must have TFA enabled: There was a problem uploading your file. Please try again.\n• Enabling <https:\/\/www.google.com\/landing\/2step|2 step verification> on your account is required for security purposes.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g392587f9a0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392587f9a0a4c0f6354a6c28fa8670cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Cole",
+            "real_name": "Cole Wiley",
+            "display_name": "Cole Wiley",
+            "team": "T04JQU0GB2Q",
+            "name": "hcwiley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORTHj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "things that need to happen before an MVP is pushed:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "replace URL for api calls with something other than localhost dummy server"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "auth: disable auth thing all together or add actual auth handling"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the chrome dev account must have TFA enabled: There was a problem uploading your file. Please try again."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Enabling "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.google.com\/landing\/2step",
+                                        "text": "2 step verification"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " on your account is required for security purposes."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1717436894.343949",
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[EqualifyEverything\/equalify-raga] 3 new commits pushed to _master_ by hcwiley",
+                "text": "`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/5593430fafcd6b0026a58f385eeedca888b947d9|5593430f>` - fix: bad import of user type\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/799420265af39a026da00749061c7c193361dba1|79942026>` - chore: add some loud logs to see whats going on\n`<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/commit\/ea5923ce16c71a6fc608f3eefc0014b194ab44a9|ea5923ce>` - Merge branch 'master' of <http:\/\/github.com:EqualifyEverything\/equalify-raga|github.com:EqualifyEverything\/equalify-raga>",
+                "pretext": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/compare\/37a9420ef25b...ea5923ce16c7|3 new commits> pushed to `<https:\/\/github.com\/EqualifyEverything\/equalify-raga\/tree\/master|master>` by <https:\/\/github.com\/hcwiley|hcwiley>",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-raga|EqualifyEverything\/equalify-raga>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

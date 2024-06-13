@@ -1,0 +1,561 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717508226.048439",
+        "client_msg_id": "a40f82e3-fa8b-4cc2-9a8b-7dfca81bb3ba",
+        "text": "I think we should work on your demo and pitch <@U06Q2P392AU> next week. That's going to be key as you line up lots of meetings.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TnwLi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we should work on your demo and pitch "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " next week. That's going to be key as you line up lots of meetings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717523332.326369",
+        "client_msg_id": "415aa56a-a928-421c-b226-12d5a0dc80f8",
+        "text": "<@U04J7TVCQGP> Agreed. Can you and I schedule something to discuss? If you're flexible I'll find something based around mine but want to be respectful of your availability aslo",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "reply_count": 13,
+        "reply_users_count": 2,
+        "latest_reply": "1717604554.617389",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06Q2P392AU"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717523352.664949"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717523376.771039"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717523385.819669"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1717524204.948899"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1717524234.939049"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1717524332.655519"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1717524816.739379"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717530803.420439"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717530967.394579"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1717603602.439249"
+            },
+            {
+                "user": "U06Q2P392AU",
+                "ts": "1717603642.460279"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717604549.115869"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1717604554.617389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1717604554.617389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RfwG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Agreed. Can you and I schedule something to discuss? If you're flexible I'll find something based around mine but want to be respectful of your availability aslo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717523352.664949",
+        "client_msg_id": "e03b09cb-1fe7-42bc-a12c-ade8de3039ed",
+        "text": "yeah. Feel free to grab time from my calendar: <https:\/\/cal.com\/equalify>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "attachments": [
+            {
+                "from_url": "https:\/\/cal.com\/equalify",
+                "image_url": "https:\/\/cal.com\/_next\/image?w=1200&q=100&url=%2Fapi%2Fsocial%2Fog%2Fimage%3Ftype%3Dmeeting%26title%3DEqualify%2520creator.%26meetingProfileName%3DBlake%2520Bertuccelli-Booth%26meetingImage%3Dhttps%253A%252F%252Fcal.com%252Fapi%252Favatar%252F1483de9c-0425-4391-9317-7e28c04d3824.png%26names%3DBlake%2520Bertuccelli-Booth%26usernames%3Dequalify",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 256560,
+                "service_icon": "https:\/\/cal.com\/api\/logo?type=apple-touch-icon",
+                "id": 1,
+                "original_url": "https:\/\/cal.com\/equalify",
+                "fallback": "Cal.com: Blake Bertuccelli-Booth | Cal.com",
+                "text": "Equalify creator.",
+                "title": "Blake Bertuccelli-Booth | Cal.com",
+                "title_link": "https:\/\/cal.com\/equalify",
+                "service_name": "Cal.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CF6BJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah. Feel free to grab time from my calendar: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cal.com\/equalify"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717523376.771039",
+        "client_msg_id": "81147a6d-a6e4-40a9-8a13-f88740dc2f98",
+        "text": "If no times there work, LMK and we can schedule something sooner",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DnuFv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If no times there work, LMK and we can schedule something sooner"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717523385.819669",
+        "client_msg_id": "f7008e28-cd70-4a91-8be0-be4eaae55127",
+        "text": "Happy to just schedule weekly times to meet too",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lmg7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to just schedule weekly times to meet too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717524204.948899",
+        "client_msg_id": "aad5e2d4-bf44-45bc-9b70-929707ed0b02",
+        "text": "probably both",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J8k08",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "probably both"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717524234.939049",
+        "client_msg_id": "eeddce97-406d-43d4-b6b7-c50c5ce35fac",
+        "text": "let me look and schedule some things at least for the rest of June so we kinda have a rough gameplan\/cadence and can adjust as needed",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KdT+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let me look and schedule some things at least for the rest of June so we kinda have a rough gameplan\/cadence and can adjust as needed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717524332.655519",
+        "client_msg_id": "b427e04b-519b-4ad3-8bf9-014748c1f47c",
+        "text": "or at least get us a good start",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfyvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or at least get us a good start"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06Q2P392AU",
+        "type": "message",
+        "ts": "1717524816.739379",
+        "client_msg_id": "2b326671-36a3-47dc-bb57-70dfdc5b5ee3",
+        "text": "Scheduled two meetings next week <@U04J7TVCQGP> then at least according to the calendar you're unavailable till the 24th. Is that the case? If so, I'll work with it but that's two weeks at the very beginning where I will definitely need and value your support as we kick the tires forward on this thing",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g34db6ff5c9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/34db6ff5c9c389a17d8560df9c55c73d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Andrews",
+            "display_name": "Kevin Andrews",
+            "team": "T04JQU0GB2Q",
+            "name": "kevin.andrews94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QB6rZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scheduled two meetings next week "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " then at least according to the calendar you're unavailable till the 24th. Is that the case? If so, I'll work with it but that's two weeks at the very beginning where I will definitely need and value your support as we kick the tires forward on this thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717530803.420439",
+        "client_msg_id": "2F8E7AC5-D166-4C41-AC31-1C3371DD997A",
+        "text": "Moved some things around <@U06Q2P392AU> . I should have much more availability",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tqzWd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moved some things around "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . I should have much more availability"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717530967.394579",
+        "client_msg_id": "EC7DF519-147C-4633-8C1B-3CF2FDA1838E",
+        "text": "Also, let me know if you have a hard time scheduling time. <http:\/\/Cal.com|Cal.com> is pretty terrible with screen readers",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717523332.326369",
+        "parent_user_id": "U06Q2P392AU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhmcH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, let me know if you have a hard time scheduling time. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Cal.com",
+                                "text": "Cal.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is pretty terrible with screen readers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

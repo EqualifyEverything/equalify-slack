@@ -1,0 +1,1602 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716307270.911919",
+        "client_msg_id": "1bb267b6-0957-450c-b650-810846c518ef",
+        "text": "Yes. Totally.\n\n*Blue Pill:*\nWeb Accessibility reporting dashboards for accessibility pros.\n• Large-scale site scanning (10k-150k pages)\n• Customizable reports that show fixes over time\n• Pros initially use us because we're cheaper than alternatives like Siteimprove, but they'll come to see value in Open Source\n• The challenge will be to convince pros in large orgs where money matters less that Open Source is better. (We win because we're the only fully open source solution.) \n*Red Pill:*\nThe `<http:\/\/archive.org|archive.org>`for web accessibility with on-demand scanning.\n• Geared at developers and web agencies.\n• Business focused on API and Pro usage.\n• Frontend inspires API usage - devs love to hack what you can do with data.\n• \"Pro\" product, designed for web agencies sells prioritizes on-demand scanning.\n• All reporting from Blue Pill the same, but free. AI + prioritzed scans and API usage is what we sell.\n• The challenge will be to publicly show accessibily scores without a wall of shame - maybe, put emphasis on issues fixed?\n Does that make sense?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716243994.333779",
+        "parent_user_id": "U06TJNUDNLA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "olJCK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. Totally.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Blue Pill:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWeb Accessibility reporting dashboards for accessibility pros.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Large-scale site scanning (10k-150k pages)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customizable reports that show fixes over time"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pros initially use us because we're cheaper than alternatives like Siteimprove, but they'll come to see value in Open Source"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The challenge will be to convince pros in large orgs where money matters less that Open Source is better. (We win because we're the only fully open source solution.) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Red Pill:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/archive.org",
+                                "text": "archive.org",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "for web accessibility with on-demand scanning.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Geared at developers and web agencies."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Business focused on API and Pro usage."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Frontend inspires API usage - devs love to hack what you can do with data."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"Pro\" product, designed for web agencies sells prioritizes on-demand scanning."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "All reporting from Blue Pill the same, but free. AI + prioritzed scans and API usage is what we sell."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The challenge will be to publicly show accessibily scores without a wall of shame - maybe, put emphasis on issues fixed?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n Does that make sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06TJNUDNLA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716307351.216159",
+        "client_msg_id": "370d7a80-30c5-446f-815d-e3fea25b3d9a",
+        "text": "Here's another response from a user who works at a large org:\n&gt; 100% no on sharing our results. People can look on their own but we do not want a confessional on how bad it is aggregated.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJBsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's another response from a user who works at a large org:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100% no on sharing our results. People can look on their own but we do not want a confessional on how bad it is aggregated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716307701.766979",
+        "client_msg_id": "628da3cb-1a31-4c35-a54c-0d53ad39e675",
+        "text": "&gt; If this happens we are tanking our involvement and purchase of the product.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3LM5n",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If this happens we are tanking our involvement and purchase of the product."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04N3UUQBJL",
+        "type": "message",
+        "ts": "1716309207.995169",
+        "edited": {
+            "user": "B04MGNB1U84",
+            "ts": "1716330960.000000"
+        },
+        "bot_id": "B04MGNB1U84",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T04JQU0GB2Q",
+        "bot_profile": {
+            "id": "B04MGNB1U84",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1675198366,
+            "team_id": "T04JQU0GB2Q"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1716309205,
+                "color": "36a64f",
+                "fallback": "[EqualifyEverything\/equalify-frontend] Issue opened by wilsuriel03",
+                "text": "As we approach the crucial stages of the <http:\/\/Equalify.app|Equalify.app> redevelopment, I propose a structured plan to complete the frontend development, ensuring seamless integration with the backend and establishing a robust foundation for the upcoming V1 release. This proposal builds upon my initial work and the collaborative efforts with our backend development team led by @ heythisischris.\n\n*Objective*\n\nFinalize the frontend development for Equalify, ensuring it is fully functional, seamlessly integrated with the backend, and prepared for comprehensive testing and deployment.\n\n*Development Phase*\n\nThe primary focus will be on implementing the interactive components and integrating API endpoints that Chris is developing. Key tasks include:\n\n*API Integration:*\n\n• Work closely with Chris to integrate new backend endpoints as they become available.\n• Ensure all views and components are dynamically populated with data from the backend, transitioning from mock data to live data feeds.\n\n*Action Implementation:*\n\n• Develop and test frontend actions for property and report management, including adding, updating, and deleting properties and reports, as well as queueing scans.\n• Implement frontend logic to handle these actions, ensuring they interact correctly with the backend.\n\n*Enhanced Testing:*\n\n• Expand our testing framework to include Cypress for end-to-end testing, ensuring all user flows work as expected.\n• Increase coverage of unit tests using Vitest to ensure reliability and stability.\n\n*Accessibility Enhancements:*\n\n• Continuously evaluate and enhance the accessibility of the platform, ensuring conformance with WCAG 2.2 Level AA standards.\n• Collaborate with accessibility testers like Kev to refine and optimize user interfaces.\n\n*Final Preparations for Launch:*\n\n• Conduct thorough testing across all components and user flows.\n• Work with the backend team to fix any integration issues.\n• Prepare documentation and developer guides to facilitate a smooth transition to the new system.\n\n*Maintenance Phase*\n\nPost-launch, I will oversee the frontend to ensure its operational efficiency and adaptability to user feedback and evolving requirements:\n\n*Ongoing Support and Iteration:*\n\n• Provide immediate support for any issues encountered post-launch.\n• Implement incremental improvements based on user feedback and analytics.\n\n*Community Engagement and Documentation:*\n\n• Update documentation regularly to reflect any changes or enhancements.\n• Engage with the developer community to encourage contributions and facilitate the onboarding of new developers.\n\n*Future-proofing and Scalability:*\n\n• Monitor performance metrics and optimize the application to handle increased traffic and data.\n• Plan and implement scalability features in collaboration with the backend team.\n\n*Checklist*\n\n*Remaining Tasks:*\n\n☐ Integrate new API endpoints\n☐ Develop and test frontend actions\n☐ Expand testing framework with Cypress\n☐ Increase unit test coverage with Vitest\n☐ Ensure WCAG 2.2 Level AA conformance\n☐ Conduct thorough testing and final adjustments\n☐ Prepare documentation and developer guides\n\n*Cost &amp; Maintenance*\n\n*Development Budget:* Given the scope of remaining tasks and the necessity for high-quality integration, I propose a budget of $3,000 for the completion of the frontend for the V1 launch.\n\n*Maintenance Budget:* A monthly maintenance fee of $650 to ensure ongoing optimization, support, and updates.\n\n*Timeline*\n\n*Completion of Development:* All major development tasks are targeted to be completed by the first week of June 2024. This includes final integrations and functionality enhancements.\n\n*Testing and Final Adjustments:* June 2024 will be dedicated to extensive testing and final adjustments. This phase is critical to ensuring that all components work harmoniously and that any potential issues are addressed before the public launch.\n\n*V1 Launch Target:* I aim to have the platform ready for production by the end of June 2024 latest. This allows for a brief period of real-world testing and fine-tuning, ensuring the stability and usability of the application upon launch.",
+                "pretext": "Issue created by <https:\/\/github.com\/wilsuriel03|wilsuriel03>",
+                "title": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11|#11 Finalize and Launch Minimum Viable Frontend for Equalify V1>",
+                "callback_id": "issue-opened-interaction",
+                "footer": "<https:\/\/github.com\/EqualifyEverything\/equalify-frontend|EqualifyEverything\/equalify-frontend>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/wilsuriel03|@wilsuriel03>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "enhancement, V1, Frontend",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:11,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Finalize and Launch Minimum Viable Frontend for Equalify V1&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "edit",
+                        "text": "Edit",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:11,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Finalize and Launch Minimum Viable Frontend for Equalify V1&amp;amp;quot;}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "close",
+                        "text": "Close",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;EqualifyEverything&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:128076491,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;equalify-frontend&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:778509050,&amp;amp;quot;issueNumber&amp;amp;quot;:11,&amp;amp;quot;issueHtmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11&amp;amp;quot;,&amp;amp;quot;issueTitle&amp;amp;quot;:&amp;amp;quot;Finalize and Launch Minimum Viable Frontend for Equalify V1&amp;amp;quot;}",
+                        "style": "danger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716311227.837449",
+        "client_msg_id": "5c4bcab8-2b6c-40de-b23f-12a016f70882",
+        "text": "Ok <@U04J7TVCQGP>, so here are my thoughts. After reviewing the feedback you got from LinkedIn and the one-on-one conversations with customers, and looking at both the Blue and Red Pill options, here's what I think we should do next:\n\nThe feedback shows mixed feelings about public reporting and the Red Pill approach. Many customers are worried about the negative impact of public accessibility scores, even if we make the data anonymous.\n\nConsidering where we are with Equalify, I think it's best to focus on improving the UI\/UX for now. Let's revisit the revenue models and other big decisions after we have a solid version 1. This way, we can gather more user feedback and make better choices about monetization and public reporting later.\n\nBasically, let's stick with our current model but make the user experience better. Once we have more data and a stable product, we can explore new directions and revenue models with a clearer understanding of what our users want and need.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716311227.837449",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1716329646.208359",
+        "reply_users": [
+            "U04J7TVCQGP",
+            "U06TJNUDNLA"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716326389.362189"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716326551.739869"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1716329646.208359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716329646.208359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LxYSC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", so here are my thoughts. After reviewing the feedback you got from LinkedIn and the one-on-one conversations with customers, and looking at both the Blue and Red Pill options, here's what I think we should do next:\n\nThe feedback shows mixed feelings about public reporting and the Red Pill approach. Many customers are worried about the negative impact of public accessibility scores, even if we make the data anonymous.\n\nConsidering where we are with Equalify, I think it's best to focus on improving the UI\/UX for now. Let's revisit the revenue models and other big decisions after we have a solid version 1. This way, we can gather more user feedback and make better choices about monetization and public reporting later.\n\nBasically, let's stick with our current model but make the user experience better. Once we have more data and a stable product, we can explore new directions and revenue models with a clearer understanding of what our users want and need."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716311232.171779",
+        "client_msg_id": "7edb2ce3-0df4-4822-afe6-278d20d76af8",
+        "text": "What do you think about this approach?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UokLt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you think about this approach?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716326389.362189",
+        "client_msg_id": "51a64d20-b108-4608-b9ad-03909ae0d155",
+        "text": "That sounds level-headed and right. I'll review the ticket as soon as I get a sec.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716311227.837449",
+        "parent_user_id": "U06TJNUDNLA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G8eXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds level-headed and right. I'll review the ticket as soon as I get a sec."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716326551.739869",
+        "client_msg_id": "ae1c2283-4666-4f22-bd01-07d4d0060c8e",
+        "text": "We still need to generate revenue with this Version 1, but we could do it pretty simply with the blue pill wireframes I set up.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716311227.837449",
+        "parent_user_id": "U06TJNUDNLA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lXtYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We still need to generate revenue with this Version 1, but we could do it pretty simply with the blue pill wireframes I set up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716329646.208359",
+        "client_msg_id": "72937441-1c00-4c20-b0d5-c88559b2d4f7",
+        "text": "<@U04J7TVCQGP> I'm down to do whatever you decide. Just let me know what areas you want me to prioritize. Also, could you provide me with a user flow based on the one I shared with you through DMs?? If that's not possible, just break it down a bit more, and I can come up with a user flow and adjust what I had in mind for the design.\n\nOnce you decide, I can create a new ticket\/proposal for the design. The current ticket that is up is just to finish the MVP for internal use. The design will be for the actual V1 launch, so we'll need a separate ticket for that, as we discussed on the call. After the design, we will also need another ticket to implement it into development.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716311227.837449",
+        "parent_user_id": "U06TJNUDNLA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLfOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm down to do whatever you decide. Just let me know what areas you want me to prioritize. Also, could you provide me with a user flow based on the one I shared with you through DMs?? If that's not possible, just break it down a bit more, and I can come up with a user flow and adjust what I had in mind for the design.\n\nOnce you decide, I can create a new ticket\/proposal for the design. The current ticket that is up is just to finish the MVP for internal use. The design will be for the actual V1 launch, so we'll need a separate ticket for that, as we discussed on the call. After the design, we will also need another ticket to implement it into development."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716330244.553679",
+        "client_msg_id": "416473a4-25b6-4c9c-8915-d9367ecbe804",
+        "text": "<@U06TJNUDNLA> do you have a quick sec to jump on a call? I think I'm a bit confused - probably because I added so much chaos with my red pill.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716330244.553679",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1716335898.857549",
+        "reply_users": [
+            "U06TJNUDNLA",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1716330600.112309"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716335898.857549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716335898.857549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tXtui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have a quick sec to jump on a call? I think I'm a bit confused - probably because I added so much chaos with my red pill."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716330600.112309",
+        "client_msg_id": "fa275b42-67b3-4f22-a85b-f45c444e2fd2",
+        "text": "Hey <@U04J7TVCQGP>, I can't jump on a call right now, but I have some time tomorrow. Sorry about the confusion.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716330244.553679",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gx6Mh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J7TVCQGP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I can't jump on a call right now, but I have some time tomorrow. Sorry about the confusion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716335898.857549",
+        "client_msg_id": "120963f1-a14e-4675-a756-e950e7994442",
+        "text": "All good. I'm traveling tomorrow. I'll type out a question so we can clarify things async",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716330244.553679",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o3Nai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All good. I'm traveling tomorrow. I'll type out a question so we can clarify things async"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716336083.449269",
+        "client_msg_id": "cd534e0e-21fd-42a8-a7d1-42c263a5bb88",
+        "text": "<@U06TJNUDNLA> - Happy to clarify Async. I'm going to type out a few questions as new messages so you can clarify each item in the message's threads.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svxpL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Happy to clarify Async. I'm going to type out a few questions as new messages so you can clarify each item in the message's threads."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716336087.691649",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1716336427.000000"
+        },
+        "client_msg_id": "5e28eb3e-2f24-4404-98ee-e1454fd3585b",
+        "text": "To clarify, you see a \"Minima Viable Frontend\" (MVF) and a Version 1 as two separate things, right?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336087.691649",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1716344150.630919",
+        "reply_users": [
+            "U06TJNUDNLA",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1716338521.071599"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1716338529.899159"
+            },
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1716338566.345449"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716344150.630919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716344150.630919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njaKH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To clarify, you see a \"Minima Viable Frontend\" (MVF) and a Version 1 as two separate things, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716336092.456589",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1716336433.000000"
+        },
+        "client_msg_id": "639e0a4d-60d3-480e-b2dd-bdf2c0935ae4",
+        "text": "The MVF is outlined in <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11|this issue>, right? Version 1 would be something that we have to design later, right?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336092.456589",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1716344227.948109",
+        "reply_users": [
+            "U06TJNUDNLA",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1716338655.599569"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716344227.948109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716344227.948109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "op1xP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The MVF is outlined in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/11",
+                                "text": "this issue"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", right? Version 1 would be something that we have to design later, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716336188.482249",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1716336440.000000"
+        },
+        "client_msg_id": "2ce8f799-62b7-46ba-80d6-f18403b416e2",
+        "text": "If so, for the MVF, I would be expecting everything we have on managed.equalify.app now, right? That includes everything I outlined on our <https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1|old ticket>, correct?",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336188.482249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716338731.994479",
+        "reply_users": [
+            "U06TJNUDNLA"
+        ],
+        "replies": [
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1716338731.994479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716338731.994479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDBhY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If so, for the MVF, I would be expecting everything we have on managed.equalify.app now, right? That includes everything I outlined on our "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/EqualifyEverything\/equalify-frontend\/issues\/1",
+                                "text": "old ticket"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716336497.101959",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1716337052.000000"
+        },
+        "client_msg_id": "c207f73e-46ef-4d92-b16f-df867dacc0c0",
+        "text": "If all that is correct, I think my only confusion was naming things. I think we should call the MVF, Version 1. And the next phase of development \"Redesign\" or something like that.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4CRr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If all that is correct, I think my only confusion was naming things. I think we should call the MVF, Version 1. And the next phase of development \"Redesign\" or something like that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716336987.437579",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1716337062.000000"
+        },
+        "client_msg_id": "41324304-6787-4800-b30e-e2612816f9b2",
+        "text": "Also, for the redesign, we probably won't know specific requirements until we have users actively using the Version 1 a bit.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJ1q8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, for the redesign, we probably won't know specific requirements until we have users actively using the Version 1 a bit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716337107.980109",
+        "client_msg_id": "a809921c-4eb0-4342-ade9-a31cae6498c1",
+        "text": "It might make sense to create a ticket in github as a sort of placeholder for all our crazy ideas and notes with a specific time (say in 3 months) that we finalize that ticket and launch design\/development.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716337107.980109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1716390311.776769",
+        "reply_users": [
+            "U06TJNUDNLA",
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U06TJNUDNLA",
+                "ts": "1716339225.185859"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1716390311.776769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1716390311.776769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kYWOE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It might make sense to create a ticket in github as a sort of placeholder for all our crazy ideas and notes with a specific time (say in 3 months) that we finalize that ticket and launch design\/development."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716338521.071599",
+        "client_msg_id": "b5816d76-941f-4f9e-9ff8-88085c37cdc8",
+        "text": "Yes, I see the \"Minimum Viable Frontend\" (MVF) and Version 1 as two separate things.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336087.691649",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pe2v+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I see the \"Minimum Viable Frontend\" (MVF) and Version 1 as two separate things."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716338529.899159",
+        "client_msg_id": "0d0f79f2-2896-4ce1-9637-dba15c4841c2",
+        "text": "The MVF is outlined in the current issue and is focused on getting the platform ready for internal use. In our 1v1 on May 13, you mentioned you were satisfied with the current progress and asked me to create a ticket with what’s left to do and any new things I wanted to add.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336087.691649",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IpLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The MVF is outlined in the current issue and is focused on getting the platform ready for internal use. In our 1v1 on May 13, you mentioned you were satisfied with the current progress and asked me to create a ticket with what’s left to do and any new things I wanted to add."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716338566.345449",
+        "client_msg_id": "7f88785d-b283-48e6-a926-c52a0674bcf2",
+        "text": "During the contributors' meeting on May 20, you also suggested creating a ticket similar to Chris’s for the termination of V1. That’s why I created the current ticket\/proposal.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336087.691649",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a6M95",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "During the contributors' meeting on May 20, you also suggested creating a ticket similar to Chris’s for the termination of V1. That’s why I created the current ticket\/proposal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716338655.599569",
+        "client_msg_id": "dfa10707-1f2e-429b-9435-2a932081c553",
+        "text": "The MVF includes everything we have on <http:\/\/managed.equalify.app|managed.equalify.app> now and aligns with what you outlined in the old ticket.\n\nApart from the remaining tasks from the old ticket, there are more things left that I noted on the current ticket, as you saw.\n\nThe remaining tasks for the MVF are:\n• Add URL to Scan Queue.\n• Add Multiple Properties via CSV.\nWe discussed the UI\/UX design, and I mentioned it would take two tickets: one for the design and another for the development. You agreed that I should finish the current tasks for internal use and then start the UI\/UX redesign.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336092.456589",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fo\/s6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The MVF includes everything we have on managed.equalify.app now and aligns with what you outlined in the old ticket.\n\nApart from the remaining tasks from the old ticket, there are more things left that I noted on the current ticket, as you saw.\n\nThe remaining tasks for the MVF are:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add URL to Scan Queue."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add Multiple Properties via CSV."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nWe discussed the UI\/UX design, and I mentioned it would take two tickets: one for the design and another for the development. You agreed that I should finish the current tasks for internal use and then start the UI\/UX redesign."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716338731.994479",
+        "client_msg_id": "f950de03-2375-4ec8-8974-4299918575d2",
+        "text": "&gt; <https:\/\/equalifyapp.slack.com\/archives\/C06RS373V6G\/p1716338655599569?thread_ts=1716336092.456589&amp;cid=C06RS373V6G>",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336188.482249",
+        "parent_user_id": "U04J7TVCQGP",
+        "attachments": [
+            {
+                "from_url": "https:\/\/equalifyapp.slack.com\/archives\/C06RS373V6G\/p1716338655599569?thread_ts=1716336092.456589&amp;cid=C06RS373V6G",
+                "ts": "1716338655.599569",
+                "author_id": "U06TJNUDNLA",
+                "channel_id": "C06RS373V6G",
+                "channel_team": "T04JQU0GB2Q",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04JQU0GB2Q",
+                        "channel": "C06RS373V6G",
+                        "ts": "1716338655.599569",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Fo\/s6",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "The MVF includes everything we have on managed.equalify.app now and aligns with what you outlined in the old ticket.\n\nApart from the remaining tasks from the old ticket, there are more things left that I noted on the current ticket, as you saw.\n\nThe remaining tasks for the MVF are:\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Add URL to Scan Queue."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Add Multiple Properties via CSV."
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nWe discussed the UI\/UX design, and I mentioned it would take two tickets: one for the design and another for the development. You agreed that I should finish the current tasks for internal use and then start the UI\/UX redesign."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/equalifyapp.slack.com\/archives\/C06RS373V6G\/p1716338655599569?thread_ts=1716336092.456589&amp;cid=C06RS373V6G",
+                "fallback": "[May 21st, 2024 5:44 PM] lacurly00: The MVF includes everything we have on <http:\/\/managed.equalify.app|managed.equalify.app> now and aligns with what you outlined in the old ticket.\n\nApart from the remaining tasks from the old ticket, there are more things left that I noted on the current ticket, as you saw.\n\nThe remaining tasks for the MVF are:\n• Add URL to Scan Queue.\n• Add Multiple Properties via CSV.\nWe discussed the UI\/UX design, and I mentioned it would take two tickets: one for the design and another for the development. You agreed that I should finish the current tasks for internal use and then start the UI\/UX redesign.",
+                "text": "The MVF includes everything we have on <http:\/\/managed.equalify.app|managed.equalify.app> now and aligns with what you outlined in the old ticket.\n\nApart from the remaining tasks from the old ticket, there are more things left that I noted on the current ticket, as you saw.\n\nThe remaining tasks for the MVF are:\n• Add URL to Scan Queue.\n• Add Multiple Properties via CSV.\nWe discussed the UI\/UX design, and I mentioned it would take two tickets: one for the design and another for the development. You agreed that I should finish the current tasks for internal use and then start the UI\/UX redesign.",
+                "author_name": "Adonis Suriel",
+                "author_link": "https:\/\/equalifyapp.slack.com\/team\/U06TJNUDNLA",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_48.png",
+                "author_subname": "Adonis Suriel",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bR9Ix",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/equalifyapp.slack.com\/archives\/C06RS373V6G\/p1716338655599569?thread_ts=1716336092.456589&cid=C06RS373V6G"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06TJNUDNLA",
+        "type": "message",
+        "ts": "1716339225.185859",
+        "client_msg_id": "3778eb17-d590-4d1b-8021-546c9a73a36c",
+        "text": "Yeah, that's fine, we can do that. I'm down for whatever you say. I'm here to make Equalify great, that's all LOL. Sorry for any confusion, but please let me know the next steps for me to take. I'm currently just waiting on Chris and I have the ticket up for what's left to do. If you want me to remove that ticket and stick with the old one, let me know as well.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "174c4fbed07a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-09\/6937429456547_174c4fbed07a67169e1c_72.png",
+            "first_name": "Adonis",
+            "real_name": "Adonis Suriel",
+            "display_name": "Adonis Suriel",
+            "team": "T04JQU0GB2Q",
+            "name": "lacurly00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716337107.980109",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0N2mH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, that's fine, we can do that. I'm down for whatever you say. I'm here to make Equalify great, that's all LOL. Sorry for any confusion, but please let me know the next steps for me to take. I'm currently just waiting on Chris and I have the ticket up for what's left to do. If you want me to remove that ticket and stick with the old one, let me know as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716344150.630919",
+        "client_msg_id": "76a48bb1-619e-4024-9460-f2c607b30681",
+        "text": "Got it! I'll streamline my reply to one message.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336087.691649",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+d+fv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it! I'll streamline my reply to one message."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1716344227.948109",
+        "client_msg_id": "eb385e8b-d36a-437c-943c-3e82e062a5c8",
+        "text": "Got it.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716336092.456589",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K0Vu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

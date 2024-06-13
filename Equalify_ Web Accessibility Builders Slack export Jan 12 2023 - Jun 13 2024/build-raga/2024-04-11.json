@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06P7A34VPH",
+        "type": "message",
+        "ts": "1712840108.841459",
+        "client_msg_id": "ebbfd2c3-62f5-42e8-a6bc-8b71f8229613",
+        "text": "More than me it is a effort by saurabh and satya... Satya connected me with Saurabh and they own the project, Saurabh is into open source so i mentioned it..",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "g6fea0c4976b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fea0c4976b6a0ff2dfda99f1937465e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Raghavendra",
+            "real_name": "Raghavendra Satish Peri",
+            "display_name": "Raghavendra Satish Peri",
+            "team": "T04JQU0GB2Q",
+            "name": "raghava111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712086478.134149",
+        "parent_user_id": "U04J7TVCQGP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0h+TF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More than me it is a effort by saurabh and satya... Satya connected me with Saurabh and they own the project, Saurabh is into open source so i mentioned it.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

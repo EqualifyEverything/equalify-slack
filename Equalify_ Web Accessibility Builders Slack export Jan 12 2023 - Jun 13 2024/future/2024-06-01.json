@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1717256204.634849",
+        "edited": {
+            "user": "U04J7TVCQGP",
+            "ts": "1717256260.000000"
+        },
+        "client_msg_id": "EA730286-972B-48A7-BEFC-C92BFF5DC6E5",
+        "text": "Three quotes from Peter Thiel’s “Zero to One” book that speaks to why we need to take the Red Pill:\n> The clearest way to make a 10x improvement is to invent something completely new.\n> Amazon made its first 10x improvement in a particularly visible way: they offered at least 10 times as many books as any other bookstore. When it launched in 1995, Amazon could claim to be “Earth’s largest bookstore” because, unlike a retail bookstore that might stock 100,000 books, Amazon didn’t need to physically store any inventory—it simply requested the title from its supplier whenever a customer made an order.\n> “disruption” was a term of art to describe how a firm can use new technology to introduce a low-end product at low prices, improve the product over time, and eventually overtake even the premium products offered by incumbent companies using older technology.\nMy thought: \n\nEqualify can have the earth's largest archive of web accessibility by taking the red pill.",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2H8dA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Three quotes from Peter Thiel’s “Zero to One” book that speaks to why we need to take the Red Pill:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The clearest way to make a 10x improvement is to invent something completely new."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazon made its first 10x improvement in a particularly visible way: they offered at least 10 times as many books as any other bookstore. When it launched in 1995, Amazon could claim to be “Earth’s largest bookstore” because, unlike a retail bookstore that might stock 100,000 books, Amazon didn’t need to physically store any inventory—it simply requested the title from its supplier whenever a customer made an order."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“disruption” was a term of art to describe how a firm can use new technology to introduce a low-end product at low prices, improve the product over time, and eventually overtake even the premium products offered by incumbent companies using older technology."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMy thought: \n\nEqualify can have the earth's largest archive of web accessibility by taking the red pill."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

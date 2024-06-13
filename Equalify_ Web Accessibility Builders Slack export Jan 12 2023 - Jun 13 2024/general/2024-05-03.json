@@ -1,0 +1,336 @@
+[
+    {
+        "user": "U04J7TVCQGP",
+        "type": "message",
+        "ts": "1714772164.077959",
+        "client_msg_id": "d0f6a5e8-2ef7-4dec-93ce-d45ca877844c",
+        "text": "Anyone need any help leading into demo day? <@U06P7AP2R38> <@U06PKP46SMR> <@U06TJNUDNLA> <@U06RZ1EJGER> <@U06Q2P392AU> <@U06PB2BPADB>? I'm slowly pulling myself from poopy diapers back into the Equalify world. Excited to see everyone who shows up for demo day. (I'll be downtown if anyone wants to join me in person.)",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "15c213521ed4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6796695234578_15c213521ed45bbb9628_72.jpg",
+            "first_name": "Blake",
+            "real_name": "Blake Bertuccelli-Booth",
+            "display_name": "Blake",
+            "team": "T04JQU0GB2Q",
+            "name": "blakebertuccelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714772164.077959",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1714915789.669799",
+        "reply_users": [
+            "U06P7AP2R38",
+            "U04J7TVCQGP",
+            "U06PKP46SMR"
+        ],
+        "replies": [
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1714874514.197779"
+            },
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1714878137.190899"
+            },
+            {
+                "user": "U06P7AP2R38",
+                "ts": "1714878676.471409"
+            },
+            {
+                "user": "U06PKP46SMR",
+                "ts": "1714915789.669799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1714915789.669799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFi7n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone need any help leading into demo day? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P7AP2R38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PKP46SMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TJNUDNLA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06RZ1EJGER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06Q2P392AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06PB2BPADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? I'm slowly pulling myself from poopy diapers back into the Equalify world. Excited to see everyone who shows up for demo day. (I'll be downtown if anyone wants to join me in person.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06RZ1EJGER",
+        "type": "message",
+        "ts": "1714794923.598649",
+        "client_msg_id": "c4073092-9a6f-4b30-ab8e-3cbfcc662eb2",
+        "text": "*<!channel>* Updates &amp; good news for this week! <#C06PUUQD4AX|build-raga> <#C06Q9HZRHLK|build-scan> <#C06S292NL0H|build-monitor> <#C06RS373V6G|build-frontend> <#C06R2TJM562|build-api>\n• <#C06R2TJM562|build-api> \n    ◦ Postman API collection created for developers to see exact API request parameters and easily test on their own\n    ◦ GitBook Documentation website created to outline all API endpoints\n    ◦ Continued scaffolding API routes; all basic routes set, most UPDATE\/DELETE\/ADD endpoints are done, and now focusing on the remaining GET requests\n    ◦ Added Cognito routes (authorization service) to handle password resets, customized email messages, etc.\n• <#C06RS373V6G|build-frontend>\n    ◦ front end should be wrapping up; dynamic data still pending since API is still under development\nHappy weekend \/ demo-day weekend, everyone!",
+        "team": "T04JQU0GB2Q",
+        "user_team": "T04JQU0GB2Q",
+        "source_team": "T04JQU0GB2Q",
+        "user_profile": {
+            "avatar_hash": "fdc2551ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-01\/6892914003554_fdc2551ffc75ffa6ba51_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Link",
+            "display_name": "",
+            "team": "T04JQU0GB2Q",
+            "name": "jblinkjblink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714794923.598649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714828117.275759",
+        "reply_users": [
+            "U04J7TVCQGP"
+        ],
+        "replies": [
+            {
+                "user": "U04J7TVCQGP",
+                "ts": "1714828117.275759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1714828117.275759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GT7CA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Updates & good news for this week! "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06PUUQD4AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06Q9HZRHLK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06S292NL0H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06RS373V6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06R2TJM562"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06R2TJM562"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Postman API collection created for developers to see exact API request parameters and easily test on their own"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GitBook Documentation website created to outline all API endpoints"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Continued scaffolding API routes; all basic routes set, most UPDATE\/DELETE\/ADD endpoints are done, and now focusing on the remaining GET requests"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Added Cognito routes (authorization service) to handle password resets, customized email messages, etc."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06RS373V6G"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "front end should be wrapping up; dynamic data still pending since API is still under development"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy weekend \/ demo-day weekend, everyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U04J7TVCQGP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
